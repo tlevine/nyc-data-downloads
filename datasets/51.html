@@ -1,0 +1,1663 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!--[if lte IE 7]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" class="ie ie7 noBorderRadius noLinearGradient noCss3"><![endif]-->
+<!--[if IE 8]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" class="ie ie8 noBorderRadius noLinearGradient noCss3"><![endif]-->
+<!--[if gte IE 9]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" lang="en" class="ie"><![endif]-->
+<!--[if !IE]>-->
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]-->
+
+<!--
+Powered by the Socrata Open Data Platform
+http://www.socrata.com
+-->
+
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="title" content="NYC Open Data" />
+<meta property="og:title" content="NYC Open Data" />
+<meta property="og:site_name" content="NYC Open Data" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://data.cityofnewyork.us/browse?limitTo=datasets&amp;page=51&amp;sortBy=oldest&amp;view_type=table" />
+<meta property="og:image" content="/stylesheets/images/common/socrata_logo_square.png" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="K6mkOh+d8GTedtbyFMfes4Bhp+zgbfCRlAbjRqSkRXs=" name="csrf-token" />
+    <link rel="image_src" href="/stylesheets/images/common/socrata_logo_square.png" />
+
+  <link rel="apple-touch-icon-precomposed" media="screen" href="/stylesheets/images/icons/retina_display_icon.png"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="NYC Open Data" /> 
+  <link href="/catalog.rss" rel="alternate" title="Subscribe to Datasets" type="application/rss+xml" />
+
+  <!--[if IE]>
+  <style type="text/css">
+    v\:vmlframe{behavior:url(#default#VML);display:inline-block;}
+  </style>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" media="all" href="/styles/merged/base.css?e581a44d8e3a58ab673cba1e8ddd533ee5280ad4.171"/>
+  <link type="text/css" rel="stylesheet" media="print" href="/styles/merged/print.css?e581a44d8e3a58ab673cba1e8ddd533ee5280ad4.171"/>
+
+          <script type="text/javascript">
+          document.write([
+            "\<script src='",
+            "//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'",
+            " type='text/javascript'>\<\/script>"
+          ].join(''));
+        </script>
+
+  <script type="text/javascript">blistEnv = "production";</script><script src="/packages/errors.js?1365185895" type="text/javascript"></script>
+
+    <title>Search &amp; Browse | NYC Open Data</title>
+  <link type="text/css" rel="stylesheet" media="all" href="/styles/merged/browse-control.css?e581a44d8e3a58ab673cba1e8ddd533ee5280ad4.171"/>
+
+
+    <link type="text/css" media="all" rel="stylesheet" href="/styles/current_site.css?e581a44d8e3a58ab673cba1e8ddd533ee5280ad4.171.1363731205"/>
+
+  <link rel="shortcut icon" href="/stylesheets/images/common/favicon.ico" />
+
+
+</head>
+
+<body class="controller_browse action_browse_show">
+  <div id="skipLinks">
+    <a href="#content" accesskey="c">Skip to main content</a>
+    <a href="#footerLinks" accesskey="f">Skip to footer links</a>
+    
+  </div>
+
+  
+
+  <div class="siteOuterWrapper">
+    <div class="siteInnerWrapper">
+
+      <div id="siteHeader" class="clearfix">
+          <div id="header_nyc-open-data">
+<h1 id="mainLogo" class="appLogo">
+  <a href="http://www.nyc.gov">NYC Open Data</a>
+</h1>
+<ul class="siteUserNav">
+    <li class="accountLink hide"><a href="/profile"
+    title="Your Home"><span class="text">Hello, <span class="currentUser">Unknown User</span></span></a></li><li class="adminLink hide">
+<a href="/admin" title="Administration"><span class="text">Administration</span></a>
+</li>
+<li><a href="/">Home</a></li><li><a href="http://dev.socrata.com/">Developers</a></li><li class="signUpLink"><a href="https://data.cityofnewyork.us:443/signup" rel="nofollow" title="Sign Up">
+    <span class="text">Sign Up</span></a><li class="signInLink"><a href="https://data.cityofnewyork.us:443/login" rel="nofollow"
+  title="Sign In"><span class="text">Sign In</span></a><li class="signOutLink hide"><a href="https://data.cityofnewyork.us:443/logout" rel="nofollow"
+  title="Sign out"><span class="text">Sign out</span></a>
+</ul>
+<div class="siteBranding"><a href="/" class="siteLogoLink">Data Mine</a></div>
+<div class="nycNav">
+    <a class="home active" href="/">Home</a>
+    <a class="about" href="http://www.nyc.gov/html/data/about.html">About NYC Open Data</a>
+    <a class="faq" href="http://www.nyc.gov/html/data/faq.html">FAQ</a>
+    <a class="contact" href="http://www.nyc.gov/html/data/contact.html">Contact NYC Open Data</a>
+    <div class="divider"></div>
+</div>
+</div>
+<div id="header_nyc-mmr">
+<div class="clearfix">
+    <div id="preAppLogoContainer">
+        <div id="orgLogo">
+            <a href="http://www.nyc.gov/">NYC.gov Always Open</a>
+        </div>
+        <div id="resourceNavContainer" class="clearfix">
+            <ul class="siteUserNav">
+                <li><a href="http://www.nyc.gov/search">Search</a></li>
+                <li><a href="http://www.nyc.gov/portal/register.jsp">Email Updates</a></li>
+                <li><a href="http://www.nyc.gov/contact">Contact Us</a></li>
+            </ul>
+        </div>
+        <div id="topNavContainer" class="clearfix">
+            <ul class="siteUserNav">
+                <li><a href="http://www.nyc.gov/residents">Residents</a></li>
+                <li><a href="http://www.nyc.gov/business">Business</a></li>
+                <li><a href="http://www.nyc.gov/visitors">Visitors</a></li>
+                <li><a href="http://www.nyc.gov/government">Government</a></li>
+                <li><a href="http://www.nyc.gov/mayor">Office of the Mayor</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="appLogoContainer" class="clearfix">
+        <h1 id="mainLogo" class="appLogo">
+            <a href="/report" accesskey="h">New York City Mayor's Office of Operations, Mayor's Management Report</a>
+        </h1>
+        <div id="siteSearchContainer">
+            <form id="siteSearch" action="http://search1.nyc.gov/search?" method="GET">
+                <input value="xml_no_dtd" name="output" type="hidden">
+                <input value="default_collection" name="site" type="hidden">
+                <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                <input value="agency_frontend" name="client" type="hidden">
+                <input value="www.nyc.gov/html/ops" name="sitesearch" type="hidden">
+                <input type="text" name="q" value="" />
+                <input type="submit" value="Go" />
+            </form>
+        </div>
+        <a href="#" class="print-link">Print</a>
+    </div>
+    <div id="headerForPrint">
+        <img src="/assets/70F1D802-AB11-4D3A-B633-83461B29D1C9" alt="New York City Mayor's Office of Operations, Mayor's Management Report" width="670" height="64" />
+    </div>
+</div>
+</div>
+      </div>
+
+      <a name="content"  tabindex="-1"></a>
+      
+        <div class="siteContentWrapper">
+          
+
+
+<div class="browseSection 
+  
+   ">
+    <div class="browseFacets ">
+      
+        <form class="searchSection">
+    <span class="icon"></span>
+    <input type="text" name="browseSearch" title="Search"
+      class="textPrompt searchBox" value="" />
+  </form>
+
+
+        <div class="facetSection clearAllSection">
+          <ul>
+            <li>
+            <a href="/browse?sortBy=oldest&amp;view_type=table">Clear All Options</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="facetSection clearfix limitTo">
+          <h4 class="title">View Types</h4>
+            <ul>
+                <li><a href="/browse?sortBy=oldest&amp;view_type=table" class="clearValues">
+                    <span class="icon"></span>
+                  (All)
+                </a></li>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&view_type=table" class="typeBlist active"><span class="icon"></span>Datasets</a></li>
+                <li><a href="/browse?limitTo=charts&sortBy=oldest&view_type=table" class="typeChart"><span class="icon"></span>Charts</a></li>
+                <li><a href="/browse?limitTo=maps&sortBy=oldest&view_type=table" class="typeMap"><span class="icon"></span>Maps</a></li>
+                <li><a href="/browse?limitTo=calendars&sortBy=oldest&view_type=table" class="typeCalendar"><span class="icon"></span>Calendars</a></li>
+                <li><a href="/browse?limitTo=filters&sortBy=oldest&view_type=table" class="typeFilter"><span class="icon"></span>Filtered Views</a></li>
+                <li><a href="/browse?limitTo=href&sortBy=oldest&view_type=table" class="typeHref"><span class="icon"></span>External Datasets</a></li>
+                <li><a href="/browse?limitTo=blob&sortBy=oldest&view_type=table" class="typeBlob"><span class="icon"></span>Files and Documents</a></li>
+                <li><a href="/browse?limitTo=forms&sortBy=oldest&view_type=table" class="typeForm"><span class="icon"></span>Forms</a></li>
+                <li><a href="/browse?limitTo=apis&sortBy=oldest&view_type=table" class="typeApi"><span class="icon"></span>APIs</a></li>
+            </ul>
+        </div>
+        <div class="facetSection clearfix category">
+          <h4 class="title">Categories</h4>
+            <ul>
+                <li><a href="/browse?category=Business+and+Economic&limitTo=datasets&sortBy=oldest&view_type=table" class="">Business and Economic</a></li>
+                <li><a href="/browse?category=Community+Service&limitTo=datasets&sortBy=oldest&view_type=table" class="">Community Service</a></li>
+                <li><a href="/browse?category=Construction+and+Housing&limitTo=datasets&sortBy=oldest&view_type=table" class="">Construction and Housing</a></li>
+                <li><a href="/browse?category=Cultural+Affairs&limitTo=datasets&sortBy=oldest&view_type=table" class="">Cultural Affairs</a></li>
+                <li><a href="/browse?category=Education&limitTo=datasets&sortBy=oldest&view_type=table" class="">Education</a></li>
+            </ul>
+                <div class="moreOptions list hide">
+                    <a href="/browse?category=Environmental+Sustainability&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Environmental Sustainability
+                    </a>
+                    <a href="/browse?category=Events&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Events
+                    </a>
+                    <a href="/browse?category=Facilities+and+Structures&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Facilities and Structures
+                    </a>
+                    <a href="/browse?category=Finances&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Finances
+                    </a>
+                    <a href="/browse?category=Government&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Government
+                    </a>
+                    <a href="/browse?category=Health&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Health
+                    </a>
+                    <a href="/browse?category=Library&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Library
+                    </a>
+                    <a href="/browse?category=Media&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Media
+                    </a>
+                    <a href="/browse?category=Organizations&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Organizations
+                    </a>
+                    <a href="/browse?category=Other&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Other
+                    </a>
+                    <a href="/browse?category=Parks+and+Recreation&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Parks and Recreation
+                    </a>
+                    <a href="/browse?category=Property&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Property
+                    </a>
+                    <a href="/browse?category=Public+Safety&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Public Safety
+                    </a>
+                    <a href="/browse?category=Service+Requests+%28311%29&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Service Requests (311)
+                    </a>
+                    <a href="/browse?category=Social+Services&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Social Services
+                    </a>
+                    <a href="/browse?category=Statistics&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Statistics
+                    </a>
+                    <a href="/browse?category=Transportation&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Transportation
+                    </a>
+                    <a href="/browse?category=Women%E2%80%99s+Issues&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Women’s Issues
+                    </a>
+                </div>
+                <a class="moreLink" href="#More Categories">View All</a>
+        </div>
+        <div class="facetSection clearfix tags">
+          <h4 class="title">Topics</h4>
+            <ul>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&tags=2010&view_type=table" class="">2010</a></li>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&tags=2011&view_type=table" class="">2011</a></li>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&tags=311&view_type=table" class="">311</a></li>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&tags=311+service+requests&view_type=table" class="">311 service requests</a></li>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&tags=all+service+requests&view_type=table" class="">all service requests</a></li>
+            </ul>
+                <a class="cloudLink" href="#More Topics" rel="tags">
+                  View All
+                </a>
+        </div>
+      </div>
+
+
+
+    <div class="browseList hasSort">
+        <div class="titleContainer">
+          <h2 title="Results matching type of Datasets">Results matching type of Datasets
+            <a href="/catalog.rss" class="subscribe" title="Subscribe">
+              <span class="icon"></span>
+            </a>
+          </h2>
+        </div>
+
+      <div class="topControls">
+          <ul class="viewTypeOptions pillButtons">
+            <li><a href="/browse?limitTo=datasets&amp;page=51&amp;sortBy=oldest&amp;view_type=table"
+              class="list active" title="View as a compact list">
+              <span class="icon"></span>
+            </a></li>
+            <li><a href="/browse?limitTo=datasets&amp;page=51&amp;sortBy=oldest&amp;view_type=rich"
+              class="fatrow" title="View as a rich list">
+              <span class="icon"></span>
+            </a></li>
+          </ul>
+
+          <div class="sortOptions">
+            <label for="browseSortType" class="sortLabel">Sort By</label>
+            <select id="browseSortType" class="sortType" name="sortType">
+                <option value="relevance" class=""
+                  >Most Relevant</option>
+                <option value="most_accessed" class="timePeriod"
+                  >Most Accessed</option>
+                <option value="alpha" class=""
+                  >Alphabetical</option>
+                <option value="newest" class=""
+                  >Newest</option>
+                <option value="oldest" class=""
+                  selected=&#x27;selected&#x27;>Oldest</option>
+                <option value="last_modified" class=""
+                  >Recently Updated</option>
+                <option value="rating" class=""
+                  >Highest Rated</option>
+                <option value="comments" class=""
+                  >Most Comments</option>
+            </select>
+            <label for="browseSortPeriod" class="sortLabel">Sort Period</label>
+            <select class="sortPeriod hide" name="sortPeriod" id="browseSortPeriod">
+                <option value="week">
+                  This week
+                </option>
+                <option value="month">
+                  This month
+                </option>
+                <option value="year">
+                  This year
+                </option>
+            </select>
+          </div>
+      </div>
+
+      <div class="results">
+          <table class="gridList">
+            <colgroup>
+                <col class="index" />
+                <col class="nameDesc" />
+                <col class="popularity" />
+                <col class="type" />
+            </colgroup>
+            <thead>
+              <tr>
+                  <th class="index" scope="col"></th>
+                  <th class="nameDesc" scope="col">Name</th>
+                  <th class="popularity" scope="col">Popularity</th>
+                  <th class="type" scope="col">Type</th>
+              </tr>
+            </thead>
+            <tbody>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="ivbu-e2q7">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">501.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Directory Of Unsheltered Street Homeless To General Population Ratio 2011</span>
+                      <a itemprop="url" href="/Social-Services/Directory-Of-Unsheltered-Street-Homeless-To-Genera/ivbu-e2q7" class="name"
+                        rel="">Directory Of Unsheltered Street Homeless To General Population Ratio 2011</a>
+                      <span class="category infoItem">Social Services</span>
+                      <span class="tags infoItem" itemprop="keywords">dhs, homeless, ratio, population</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">&quot;Ratio of Homeless Population to General Population in major US Cities in 2011.
+*This represents a list of large U.S. cities for which DHS was able to confirm a recent estimate of the unsheltered population.  A 2011 result is available for Seattle, WA, Miami, FL, and Boston, MA.. 2011 results are not yet available for the other cities, and their 2009 data are displayed in this chart. General population figures are 2010 estimates in New York, San Francisco, and Chicago, and 2009 estimates elsewhere.&quot;</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">23 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Social-Services/Directory-Of-Unsheltered-Street-Homeless-To-Genera/ivbu-e2q7" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="483x-fy9e">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">502.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Directory Of Unsheltered Street Homeless To General Population Ratio 2012</span>
+                      <a itemprop="url" href="/Social-Services/Directory-Of-Unsheltered-Street-Homeless-To-Genera/483x-fy9e" class="name"
+                        rel="">Directory Of Unsheltered Street Homeless To General Population Ratio 2012</a>
+                      <span class="category infoItem">Social Services</span>
+                      <span class="tags infoItem" itemprop="keywords">dhs, homeless, ratio, population</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">&quot;Ratio of Homeless Population to General Population in major US Cities in 2012. 
+*This represents a list of large U.S. cities for which DHS was able to confirm a recent estimate of the unsheltered population.   Unsheltered estimates are from 2011 except for Seattle  and New York City (2012) and Chicago (2009).  All General Population figures are from the 2010 U.S. Census enumeration.&quot;</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">50 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Social-Services/Directory-Of-Unsheltered-Street-Homeless-To-Genera/483x-fy9e" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="ia2d-e54m">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">503.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Water Consumption In The New York City</span>
+                      <a itemprop="url" href="/Environmental-Sustainability/Water-Consumption-In-The-New-York-City/ia2d-e54m" class="name"
+                        rel="">Water Consumption In The New York City</a>
+                      <span class="category infoItem">Environmental Sustainability</span>
+                      <span class="tags infoItem" itemprop="keywords">dep, department of environmental protection, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">A brief history of water consumption in the New York City Water Supply System (Based on New York City Census population)</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">94 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Environmental-Sustainability/Water-Consumption-In-The-New-York-City/ia2d-e54m" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="5uug-f49n">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">504.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Harbor Sampling Data</span>
+                      <a itemprop="url" href="/Environmental-Sustainability/Harbor-Sampling-Data/5uug-f49n" class="name"
+                        rel="">Harbor Sampling Data</a>
+                      <span class="category infoItem">Environmental Sustainability</span>
+                      <span class="tags infoItem" itemprop="keywords">dep, department of environmental protection, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">Harbor water sampling information</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">33 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Environmental-Sustainability/Harbor-Sampling-Data/5uug-f49n" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="m64p-r9hk">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">505.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Certified Asbestos Investigator</span>
+                      <a itemprop="url" href="/Environmental-Sustainability/Certified-Asbestos-Investigator/m64p-r9hk" class="name"
+                        rel="">Certified Asbestos Investigator</a>
+                      <span class="category infoItem">Environmental Sustainability</span>
+                      <span class="tags infoItem" itemprop="keywords">dep, department of environmental protection, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">List of Certified Asbestos Investigators (CAI)</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">14 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Environmental-Sustainability/Certified-Asbestos-Investigator/m64p-r9hk" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="45i5-r9tu">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">506.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">School Monitoring Data</span>
+                      <a itemprop="url" href="/Environmental-Sustainability/School-Monitoring-Data/45i5-r9tu" class="name"
+                        rel="">School Monitoring Data</a>
+                      <span class="category infoItem">Environmental Sustainability</span>
+                      <span class="tags infoItem" itemprop="keywords">dep, department of environmental protection, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">Air monitoring  for asbestos in and around the schools near the World Trade Center disaster site. 
+
+Notes:
+6/24/02 - Overloaded sample not analyzed
+Total Volume = 1200 liters
+Sampling Time = 8hrs.
+f/cc = fibers per cubic centimeter
+s/sqmm = structures per square millimeter
+Overload = Indicates that the sampling filter was clogged and the sample could not be read with laboratory analysis.</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">14 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Environmental-Sustainability/School-Monitoring-Data/45i5-r9tu" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="5t4n-d72c">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">507.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Directory Of Homeless Population By Year</span>
+                      <a itemprop="url" href="/Social-Services/Directory-Of-Homeless-Population-By-Year/5t4n-d72c" class="name"
+                        rel="">Directory Of Homeless Population By Year</a>
+                      <span class="category infoItem">Social Services</span>
+                      <span class="tags infoItem" itemprop="keywords">dhs, homeless, comparison, population</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">Table of homeless population by Year (for years 2009 through 2012)</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">38 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Social-Services/Directory-Of-Homeless-Population-By-Year/5t4n-d72c" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="jhn3-4vdj">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">508.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Directory Of Adult Shelter Performance Ranking FY 2011 Q3 2011 Q4</span>
+                      <a itemprop="url" href="/Social-Services/Directory-Of-Adult-Shelter-Performance-Ranking-FY-/jhn3-4vdj" class="name"
+                        rel="">Directory Of Adult Shelter Performance Ranking FY 2011 Q3 2011 Q4</a>
+                      <span class="category infoItem">Social Services</span>
+                      <span class="tags infoItem" itemprop="keywords">dhs, homeless, adult, shelter, performance, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">List of Facilities, Providers and their Rankings for Q3 2012 and Q4 2011</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">18 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Social-Services/Directory-Of-Adult-Shelter-Performance-Ranking-FY-/jhn3-4vdj" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="y7z5-rhh5">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">509.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Directory Of Family Shelter Performance Ranking FY 2012 Q4 and 2013 Q1</span>
+                      <a itemprop="url" href="/Social-Services/Directory-Of-Family-Shelter-Performance-Ranking-FY/y7z5-rhh5" class="name"
+                        rel="">Directory Of Family Shelter Performance Ranking FY 2012 Q4 and 2013 Q1</a>
+                      <span class="category infoItem">Social Services</span>
+                      <span class="tags infoItem" itemprop="keywords">dhs, homeless, family, shelter, performance, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">List of Facilities, Providers and their Rankings for Q4 2012 and Q1 2013</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">26 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Social-Services/Directory-Of-Family-Shelter-Performance-Ranking-FY/y7z5-rhh5" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="xnje-s6zf">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">510.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Significant Noncompliance List</span>
+                      <a itemprop="url" href="/Environmental-Sustainability/Significant-Noncompliance-List/xnje-s6zf" class="name"
+                        rel="">Significant Noncompliance List</a>
+                      <span class="category infoItem">Environmental Sustainability</span>
+                      <span class="tags infoItem" itemprop="keywords">dep, department of environmental protection, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">List of establishments in New York City that were in significant noncompliance with applicable pretreatment standards and other requirements. Significant noncompliance is defined in 40 CFR 403.8(f) (2) (viii)
+
+(* Indicates that these establishments are on the list for late reporting only)</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">42 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Environmental-Sustainability/Significant-Noncompliance-List/xnje-s6zf" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+          </tbody>
+        </table>
+      </div>
+
+        <div class='pagination'><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=1" class="start firstLink button" title="First Page"><span class='icon'>First</span></a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=50" class="previous prevLink button" title="Previous Page"><span class='icon'>Prev</span></a><span class='ellipses'>...</span><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=47" class="pageLink" title="Page 47">47</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=48" class="pageLink" title="Page 48">48</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=49" class="pageLink" title="Page 49">49</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=50" class="pageLink" title="Page 50">50</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=51" class="pageLink active" title="Page 51">51</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=52" class="pageLink" title="Page 52">52</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=53" class="pageLink" title="Page 53">53</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=54" class="pageLink" title="Page 54">54</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=55" class="pageLink" title="Page 55">55</a><span class='ellipses'>...</span><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=52" class="next nextLink button" title="Next Page"><span class='icon'>Next</span></a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=80" class="end lastLink button" title="Last Page"><span class='icon'>Last</span></a></div>
+          <div class="resultCount">
+  Showing 10 of 791
+</div>
+
+    </div>
+
+    <div class="suggestBox infoBox">
+      <h3>Didn&#x27;t find what you&#x27;re looking for? Suggest a dataset.</h3>
+      <div class="buttonContainer">
+        <a class="button next" href="/nominate">Suggest<span class="icon"></span></a>
+      </div>
+    </div>
+
+  <div class="clearBoth"></div>
+</div>
+
+
+
+<script type="text/javascript">        if (typeof blistTranslations == 'undefined') blistTranslations = [];
+        blistTranslations.push(function()
+        {
+            return JSON.parse($.unescapeQuotes("{&quot;controls&quot;:{&quot;browse&quot;:{&quot;back_to_dataset&quot;:&quot;Back to Dataset&quot;,&quot;search&quot;:&quot;Search&quot;,&quot;facets&quot;:{&quot;view_types_title&quot;:&quot;View Types&quot;,&quot;view_types_singular_title&quot;:&quot;type&quot;,&quot;view_types&quot;:{&quot;datasets&quot;:&quot;Datasets&quot;,&quot;href&quot;:&quot;External Datasets&quot;,&quot;blob&quot;:&quot;Files and Documents&quot;,&quot;filters&quot;:&quot;Filtered Views&quot;,&quot;charts&quot;:&quot;Charts&quot;,&quot;maps&quot;:&quot;Maps&quot;,&quot;calendars&quot;:&quot;Calendars&quot;,&quot;forms&quot;:&quot;Forms&quot;,&quot;apis&quot;:&quot;APIs&quot;},&quot;categories_title&quot;:&quot;Categories&quot;,&quot;categories_singular_title&quot;:&quot;category&quot;,&quot;topics_title&quot;:&quot;Topics&quot;,&quot;topics_singular_title&quot;:&quot;topic&quot;,&quot;federated_domains_title&quot;:&quot;Federated Domains&quot;,&quot;federated_domains_singular_title&quot;:&quot;domain&quot;,&quot;moderation_status_title&quot;:&quot;Moderation Status&quot;,&quot;moderation_status_singular_title&quot;:&quot;moderation&quot;,&quot;moderation_status&quot;:{&quot;pending&quot;:&quot;Pending&quot;,&quot;accepted&quot;:&quot;Accepted&quot;,&quot;rejected&quot;:&quot;Rejected&quot;}},&quot;sort_title&quot;:&quot;Sort By&quot;,&quot;sorts&quot;:{&quot;relevance&quot;:&quot;Most Relevant&quot;,&quot;most_accessed&quot;:&quot;Most Accessed&quot;,&quot;alpha&quot;:&quot;Alphabetical&quot;,&quot;newest&quot;:&quot;Newest&quot;,&quot;oldest&quot;:&quot;Oldest&quot;,&quot;last_modified&quot;:&quot;Recently Updated&quot;,&quot;rating&quot;:&quot;Highest Rated&quot;,&quot;comments&quot;:&quot;Most Comments&quot;},&quot;sort_period_title&quot;:&quot;Sort Period&quot;,&quot;sort_periods&quot;:{&quot;week&quot;:&quot;This week&quot;,&quot;month&quot;:&quot;This month&quot;,&quot;year&quot;:&quot;This year&quot;},&quot;title&quot;:{&quot;default&quot;:&quot;Search &amp; Browse Datasets and Views&quot;,&quot;result&quot;:{&quot;main&quot;:&quot;Results %{body}&quot;,&quot;term&quot;:&quot;for \\&quot;%{term}\\&quot;&quot;,&quot;facet_main&quot;:&quot;matching %{body}&quot;,&quot;facet&quot;:&quot;%{facet_type} of %{facet_value}&quot;}},&quot;listing&quot;:{&quot;share_this_dataset&quot;:&quot;Share this Dataset&quot;,&quot;no_results&quot;:&quot;No Results&quot;,&quot;timeout&quot;:&quot;We&#x27;re sorry. Results could not be retrieved at this time. Please try again later.&quot;,&quot;result_count&quot;:&quot;Showing %{this} of %{total}&quot;,&quot;federation_source&quot;:&quot;Federated from %{source}&quot;,&quot;federation_source_html&quot;:&quot;Provided by %{source_link}&quot;,&quot;comment_count&quot;:&quot;Number of comments&quot;,&quot;table_header&quot;:{&quot;name&quot;:&quot;Name&quot;,&quot;popularity&quot;:&quot;Popularity&quot;,&quot;type&quot;:&quot;Type&quot;,&quot;rss&quot;:&quot;RSS&quot;}},&quot;row_results&quot;:{&quot;title_html&quot;:&quot;Showing &lt;span class=\\&quot;rowResultCountText\\&quot;&gt;&lt;/span&gt; of &lt;span class=\\&quot;totalResultCountText\\&quot;&gt;&lt;/span&gt; matching rows &lt;a href=\\&quot;#\\&quot; class=\\&quot;rowSearchLink\\&quot;&gt;(view results)&lt;/a&gt;:&quot;,&quot;more_link&quot;:&quot;More&quot;,&quot;less_link&quot;:&quot;Less&quot;},&quot;actions&quot;:{&quot;clear_all&quot;:&quot;Clear All Options&quot;,&quot;clear_facet&quot;:&quot;(All)&quot;,&quot;all_options&quot;:&quot;View All&quot;,&quot;less_options&quot;:&quot;View Less&quot;,&quot;create_dataset&quot;:&quot;Create or upload your own dataset&quot;,&quot;create_dataset_verb&quot;:&quot;Create&quot;,&quot;create_dataset_short&quot;:&quot;Create a new Dataset&quot;,&quot;suggest_dataset&quot;:&quot;Didn&#x27;t find what you&#x27;re looking for? Suggest a dataset.&quot;,&quot;suggest_dataset_verb&quot;:&quot;Suggest&quot;,&quot;suggest_dataset_short&quot;:&quot;Suggest a Dataset&quot;,&quot;subscribe&quot;:&quot;Subscribe&quot;,&quot;dataset_subscribe&quot;:&quot;Subscribe to changes on this view&quot;,&quot;compact_list&quot;:&quot;View as a compact list&quot;,&quot;rich_list&quot;:&quot;View as a rich list&quot;,&quot;expand_section&quot;:&quot;Click to expand&quot;,&quot;moderation&quot;:{&quot;accept&quot;:&quot;Accept&quot;,&quot;reject&quot;:&quot;Reject&quot;},&quot;permissions&quot;:{&quot;title&quot;:&quot;Change the public visibility&quot;,&quot;button_html&quot;:&quot;Make %{visibility}&quot;},&quot;delete&quot;:{&quot;title&quot;:&quot;Delete this item&quot;,&quot;button&quot;:&quot;Delete&quot;,&quot;confirm&quot;:&quot;Are you sure you want to delete %{dataset}?&quot;},&quot;about&quot;:{&quot;title&quot;:&quot;About this Dataset&quot;,&quot;button&quot;:&quot;About&quot;},&quot;manage_api&quot;:{&quot;title&quot;:&quot;Manage this API&quot;,&quot;button&quot;:&quot;Manage&quot;}}}},&quot;core&quot;:{&quot;and&quot;:&quot;and&quot;,&quot;or&quot;:&quot;or&quot;,&quot;view_types&quot;:{&quot;api&quot;:&quot;API view&quot;,&quot;blob&quot;:&quot;non-tabular file or document&quot;,&quot;calendar&quot;:&quot;calendar&quot;,&quot;chart&quot;:&quot;chart&quot;,&quot;filter&quot;:&quot;filtered view&quot;,&quot;form&quot;:&quot;form&quot;,&quot;group&quot;:&quot;grouped view&quot;,&quot;href&quot;:&quot;external dataset&quot;,&quot;map&quot;:&quot;map&quot;,&quot;table&quot;:&quot;table&quot;},&quot;filters&quot;:{&quot;formal&quot;:{&quot;equals&quot;:&quot;equals&quot;,&quot;not_equals&quot;:&quot;does not equal&quot;,&quot;starts_with&quot;:&quot;starts with&quot;,&quot;contains&quot;:&quot;contains&quot;,&quot;not_contains&quot;:&quot;does not contain&quot;,&quot;less_than&quot;:&quot;less than&quot;,&quot;less_than_or_equals&quot;:&quot;less than or equal to&quot;,&quot;greater_than&quot;:&quot;greater than&quot;,&quot;greater_than_or_equals&quot;:&quot;greater than or equal to&quot;,&quot;between&quot;:&quot;between&quot;,&quot;is_blank&quot;:&quot;is blank&quot;,&quot;is_not_blank&quot;:&quot;is not blank&quot;},&quot;informal&quot;:{&quot;equals&quot;:&quot;is&quot;,&quot;not_equals&quot;:&quot;is not&quot;,&quot;starts_with&quot;:&quot;starts with&quot;,&quot;contains&quot;:&quot;contains&quot;,&quot;not_contains&quot;:&quot;does not contain&quot;,&quot;less_than&quot;:&quot;is less than&quot;,&quot;less_than_or_equals&quot;:&quot;is at most&quot;,&quot;greater_than&quot;:&quot;is greater than&quot;,&quot;greater_than_or_equals&quot;:&quot;is at least&quot;,&quot;between&quot;:&quot;is between&quot;,&quot;is_blank&quot;:&quot;is blank&quot;,&quot;is_not_blank&quot;:&quot;is not blank&quot;}},&quot;analytics&quot;:{&quot;visit&quot;:&quot;view&quot;,&quot;visits&quot;:&quot;views&quot;},&quot;dialogs&quot;:{&quot;close&quot;:&quot;Close&quot;,&quot;cancel&quot;:&quot;Cancel&quot;,&quot;continue&quot;:&quot;Continue&quot;},&quot;interstitial&quot;:{&quot;leaving_notice_html&quot;:&quot;You are leaving &lt;span class=\\&quot;serverName\\&quot;&gt;%{site_name}&lt;/span&gt;&quot;,&quot;leaving_explanation_html&quot;:&quot;This &lt;span class=\\&quot;datasetType\\&quot;&gt;dataset&lt;/span&gt; is hosted by &lt;a href=\\&quot;\\\\#\\&quot; rel=\\&quot;external\\&quot; class=\\&quot;externalDomain\\&quot;&gt;another domain&lt;/a&gt;.&quot;}}}"));
+        });
+</script>
+
+
+
+        </div>
+    </div>
+  </div>
+
+  <div id="siteFooter">
+    <a name="footerLinks" tabindex="-1"></a>
+    <div id="footer_nyc-open-data">
+<span class="copyright">
+    &copy; 2013 The City of New York
+</span>
+<ul class="siteFooterNav"><li><a href="http://www.nyc.gov/html/data/terms.html" rel="nofollow">Terms of Service</a></li><li><a href="http://www.nyc.gov/privacy" rel="nofollow">Privacy</a></li></ul>
+<div class="footerLogos clearfix">
+    <div class="nyLogo doitt"><a href="http://www.nyc.gov/doitt">DOITT</a></div>
+    <div class="nyLogo digital"><a href="http://www.nyc.gov/digital">Digital</a></div>
+</div>
+</div>
+<div id="footer_nyc-mmr">
+<span class="copyright">&copy; 2013 The City of New York</span>
+<ul class="siteFooterNav">
+    <li><a href="http://www.nyc.gov/contact">Contact Us</a></li>
+    <li><a href="http://www.nyc.gov/faqs">FAQs</a></li>
+    <li><a href="http://www.nyc.gov/privacy">Privacy Statement</a></li>
+    <li><a href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</a></li>
+    <li><a href="http://www.nyc.gov/sitemap">Site Map</a></li></ul>
+</ul>
+</div>
+
+  </div>
+
+  <div class="socrataModal"><div class="socrataModalWrapper"></div></div>
+
+
+  <div id="templates" style="display:none">
+    <div class="menu">
+  <a class="menuButton" href="#"><span class="icon"></span></a>
+  <div class="menuDropdown">
+    <ul class="menuColumns">
+      <li class="menuColumn">
+        <ul class="menuEntries">
+          <li class="menuEntry">
+            <a href="#" class="clearfix">
+              <span class="icon"></span>
+              <span class="contents"></span>
+              <div class="subtext"></div>
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="expandedInfo">
+  <div class="actions">
+    <a class="manageApi button" href="#Manage" title="Manage this API">
+      Manage
+    </a>
+    <a class="permissions button" href="#Permissions"
+      title="Change the public visibility">
+      Make <span class="permType"></span>
+    </a>
+    <a class="delete button" href="#Delete" title="Delete this item">
+      Delete
+    </a>
+    <a class="about button" href="#About" title="About this Dataset">
+      About
+    </a>
+    <div class="share menu"></div>
+  </div>
+  <div class="comments" title="Number of comments">
+    <span class="icon"></span><span class="value"></span>
+  </div>
+  <div class="starsControl datasetAverageRating"></div>
+</div>
+<div class="rowSearchRenderType hide">
+  <div class="columnHeaders"></div>
+  <div class="rowResultCountDisplay">
+    <span>Showing <span class="rowResultCountText"></span> of <span class="totalResultCountText"></span> matching rows <a href="#" class="rowSearchLink">(view results)</a>:</span>
+  </div>
+  <div class="rowList"></div>
+  <div class="fader"></div>
+  <div class="expandHint downArrow">
+    <a class="expandRowResults" href="#Expand">
+      <span class="icon"></span>
+      <span class="expandText">More</span>
+      <span class="collapseText">Less</span>
+    </a>
+  </div>
+  <div class="templateRow row clearfix"></div>
+</div>
+
+
+  </div>
+  
+
+  <!--[if IE]>
+  <script src="/packages/excanvas.js?1365104644" type="text/javascript"></script>
+  <![endif]-->
+  <!--[if lt IE 7]>
+  <script src="/packages/bgiframe.js?1365185895" type="text/javascript"></script>
+  <script src="/packages/oldie.js?1365185895" type="text/javascript"></script>
+  <![endif]-->
+
+  <script src="/packages/base.js?1365185895" type="text/javascript"></script>
+
+  
+
+    <script type="text/javascript">
+      $.debug = function() {};
+    </script>
+
+  <script type="text/javascript">
+    blist.namespace.fetch('blist.configuration');
+    blist.configuration.strings = JSON.parse($.unescapeQuotes("{&quot;search_prompt&quot;:&quot;Search&quot;,&quot;company&quot;:&quot;NYC Open Data&quot;,&quot;sign_out&quot;:&quot;Sign out&quot;,&quot;site_title&quot;:&quot;NYC Open Data&quot;,&quot;copyright_string&quot;:&quot;&amp;copy; 2013 The City of New York&quot;,&quot;sign_up&quot;:&quot;Sign Up&quot;,&quot;sign_in&quot;:&quot;Sign In&quot;}"));
+    blist.locale = "en";
+
+
+    blist.configuration.canvasAvailable = true;
+
+    try {
+      if ((self !== top) && (self.location.hostname !== top.location.hostname))
+        top.location = self.document.location;
+    } catch(ex) {
+      top.location = self.document.location;
+    }
+
+  </script>
+
+  <div id="modals">
+                      <div class="modalDialog browseOptionsDialog" id="browseDialog_tags" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+                    <div class="optionsContent">
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2005&amp;view_type=table" rel="112">
+                          2005
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2006&amp;view_type=table" rel="119">
+                          2006
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2007&amp;view_type=table" rel="118">
+                          2007
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2008&amp;view_type=table" rel="118">
+                          2008
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2009&amp;view_type=table" rel="127">
+                          2009
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2010&amp;view_type=table" rel="392">
+                          2010
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2011&amp;view_type=table" rel="391">
+                          2011
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2012&amp;view_type=table" rel="300">
+                          2012
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=311&amp;view_type=table" rel="425">
+                          311
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=311+service+requests&amp;view_type=table" rel="425">
+                          311 service requests
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=access&amp;view_type=table" rel="35">
+                          access
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=activity&amp;view_type=table" rel="108">
+                          activity
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=administrative+services&amp;view_type=table" rel="16">
+                          administrative services
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=after-school&amp;view_type=table" rel="26">
+                          after-school
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=after-school+programs&amp;view_type=table" rel="17">
+                          after-school programs
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=agency&amp;view_type=table" rel="20">
+                          agency
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=all+service+requests&amp;view_type=table" rel="424">
+                          all service requests
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=allegation&amp;view_type=table" rel="67">
+                          allegation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=apartment&amp;view_type=table" rel="43">
+                          apartment
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=arbor&amp;view_type=table" rel="17">
+                          arbor
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=art&amp;view_type=table" rel="24">
+                          art
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=authority&amp;view_type=table" rel="23">
+                          authority
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=automobile&amp;view_type=table" rel="27">
+                          automobile
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=basemap&amp;view_type=table" rel="47">
+                          basemap
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=block&amp;view_type=table" rel="17">
+                          block
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=board&amp;view_type=table" rel="111">
+                          board
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=borough&amp;view_type=table" rel="94">
+                          borough
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=boundary&amp;view_type=table" rel="61">
+                          boundary
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=bronx&amp;view_type=table" rel="18">
+                          bronx
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=brooklyn&amp;view_type=table" rel="22">
+                          brooklyn
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=building&amp;view_type=table" rel="80">
+                          building
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=building+permits&amp;view_type=table" rel="16">
+                          building permits
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=buildings&amp;view_type=table" rel="97">
+                          buildings
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=business&amp;view_type=table" rel="31">
+                          business
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=campaign&amp;view_type=table" rel="19">
+                          campaign
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=campaign+finance&amp;view_type=table" rel="19">
+                          campaign finance
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=campaign+finance+board&amp;view_type=table" rel="19">
+                          campaign finance board
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=capital&amp;view_type=table" rel="17">
+                          capital
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=car&amp;view_type=table" rel="32">
+                          car
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=cartography&amp;view_type=table" rel="270">
+                          cartography
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=ccrb&amp;view_type=table" rel="119">
+                          ccrb
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=census&amp;view_type=table" rel="31">
+                          census
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=cfb&amp;view_type=table" rel="19">
+                          cfb
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=child&amp;view_type=table" rel="26">
+                          child
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=children&amp;view_type=table" rel="29">
+                          children
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=city&amp;view_type=table" rel="28">
+                          city
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=city+planning&amp;view_type=table" rel="16">
+                          city planning
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=citywide&amp;view_type=table" rel="23">
+                          citywide
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=civilian&amp;view_type=table" rel="108">
+                          civilian
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=civilian+complaint+review+board&amp;view_type=table" rel="101">
+                          civilian complaint review board
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=class-1&amp;view_type=table" rel="17">
+                          class-1
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=class-2&amp;view_type=table" rel="17">
+                          class-2
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=class-3&amp;view_type=table" rel="17">
+                          class-3
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=clean+web&amp;view_type=table" rel="98">
+                          clean web
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=code&amp;view_type=table" rel="24">
+                          code
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=community&amp;view_type=table" rel="83">
+                          community
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=community+development&amp;view_type=table" rel="21">
+                          community development
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=complaint&amp;view_type=table" rel="116">
+                          complaint
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=complaint+activity&amp;view_type=table" rel="102">
+                          complaint activity
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=complaints&amp;view_type=table" rel="19">
+                          complaints
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=condominiums&amp;view_type=table" rel="20">
+                          condominiums
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=conservation&amp;view_type=table" rel="20">
+                          conservation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=construction&amp;view_type=table" rel="38">
+                          construction
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=consumer+affairs&amp;view_type=table" rel="35">
+                          consumer affairs
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=contributions&amp;view_type=table" rel="19">
+                          contributions
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=cooperatives&amp;view_type=table" rel="40">
+                          cooperatives
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=culture&amp;view_type=table" rel="41">
+                          culture
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=data&amp;view_type=table" rel="33">
+                          data
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dca&amp;view_type=table" rel="26">
+                          dca
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dcas&amp;view_type=table" rel="22">
+                          dcas
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dcp&amp;view_type=table" rel="89">
+                          dcp
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=demographic&amp;view_type=table" rel="19">
+                          demographic
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=demography&amp;view_type=table" rel="17">
+                          demography
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dep&amp;view_type=table" rel="32">
+                          dep
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=department+of+environmental+protection&amp;view_type=table" rel="31">
+                          department of environmental protection
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=department+of+finance&amp;view_type=table" rel="69">
+                          department of finance
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=development&amp;view_type=table" rel="52">
+                          development
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=directory&amp;view_type=table" rel="22">
+                          directory
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=disciplinary+recommendation&amp;view_type=table" rel="65">
+                          disciplinary recommendation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=district&amp;view_type=table" rel="53">
+                          district
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dob&amp;view_type=table" rel="31">
+                          dob
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=doe&amp;view_type=table" rel="17">
+                          doe
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dof&amp;view_type=table" rel="70">
+                          dof
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dohmh&amp;view_type=table" rel="16">
+                          dohmh
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=doitt+gis&amp;view_type=table" rel="70">
+                          doitt gis
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dpr&amp;view_type=table" rel="34">
+                          dpr
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=drive&amp;view_type=table" rel="18">
+                          drive
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=driver&amp;view_type=table" rel="68">
+                          driver
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=education&amp;view_type=table" rel="75">
+                          education
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=ela+test&amp;view_type=table" rel="21">
+                          ela test
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=elections&amp;view_type=table" rel="21">
+                          elections
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=electricity&amp;view_type=table" rel="25">
+                          electricity
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=emergency&amp;view_type=table" rel="34">
+                          emergency
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=energy&amp;view_type=table" rel="47">
+                          energy
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=english+language+arts&amp;view_type=table" rel="21">
+                          english language arts
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=entertainment&amp;view_type=table" rel="23">
+                          entertainment
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=entrance&amp;view_type=table" rel="21">
+                          entrance
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=environment&amp;view_type=table" rel="77">
+                          environment
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=family&amp;view_type=table" rel="16">
+                          family
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=family+homes&amp;view_type=table" rel="17">
+                          family homes
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=fdny&amp;view_type=table" rel="25">
+                          fdny
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=finance&amp;view_type=table" rel="117">
+                          finance
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=fire+department&amp;view_type=table" rel="24">
+                          fire department
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=fire+safety&amp;view_type=table" rel="19">
+                          fire safety
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=food&amp;view_type=table" rel="34">
+                          food
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=fund&amp;view_type=table" rel="25">
+                          fund
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=funding&amp;view_type=table" rel="38">
+                          funding
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=geographic&amp;view_type=table" rel="250">
+                          geographic
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=grade&amp;view_type=table" rel="42">
+                          grade
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=graduation+outcome&amp;view_type=table" rel="20">
+                          graduation outcome
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=green&amp;view_type=table" rel="17">
+                          green
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=health&amp;view_type=table" rel="69">
+                          health
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=healthy+living&amp;view_type=table" rel="128">
+                          healthy living
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=historic&amp;view_type=table" rel="21">
+                          historic
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=hospital&amp;view_type=table" rel="18">
+                          hospital
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=hot+spot&amp;view_type=table" rel="31">
+                          hot spot
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=housing&amp;view_type=table" rel="19">
+                          housing
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=hra&amp;view_type=table" rel="16">
+                          hra
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=jobs&amp;view_type=table" rel="34">
+                          jobs
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=jobs+and+economic+mobility&amp;view_type=table" rel="90">
+                          jobs and economic mobility
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=law&amp;view_type=table" rel="22">
+                          law
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=license&amp;view_type=table" rel="54">
+                          license
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=lifelong+learning&amp;view_type=table" rel="209">
+                          lifelong learning
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=limousine&amp;view_type=table" rel="60">
+                          limousine
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=location&amp;view_type=table" rel="283">
+                          location
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=lot&amp;view_type=table" rel="23">
+                          lot
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=management&amp;view_type=table" rel="24">
+                          management
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=manhattan&amp;view_type=table" rel="43">
+                          manhattan
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=map&amp;view_type=table" rel="272">
+                          map
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=math+test+result&amp;view_type=table" rel="21">
+                          math test result
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=medallion&amp;view_type=table" rel="63">
+                          medallion
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=misconduct&amp;view_type=table" rel="64">
+                          misconduct
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=museo&amp;view_type=table" rel="16">
+                          museo
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=nature&amp;view_type=table" rel="57">
+                          nature
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=neighborhood&amp;view_type=table" rel="34">
+                          neighborhood
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=new+york&amp;view_type=table" rel="18">
+                          new york
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=nyc&amp;view_type=table" rel="45">
+                          nyc
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=nyccfb&amp;view_type=table" rel="19">
+                          nyccfb
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=nycha&amp;view_type=table" rel="16">
+                          nycha
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=oem&amp;view_type=table" rel="26">
+                          oem
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=park&amp;view_type=table" rel="76">
+                          park
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=parking&amp;view_type=table" rel="29">
+                          parking
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=parks&amp;view_type=table" rel="79">
+                          parks
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=perimeter&amp;view_type=table" rel="20">
+                          perimeter
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=permit&amp;view_type=table" rel="25">
+                          permit
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=permits&amp;view_type=table" rel="21">
+                          permits
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=planning&amp;view_type=table" rel="62">
+                          planning
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=politics&amp;view_type=table" rel="20">
+                          politics
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=population&amp;view_type=table" rel="27">
+                          population
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=power&amp;view_type=table" rel="38">
+                          power
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=program&amp;view_type=table" rel="22">
+                          program
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=programs&amp;view_type=table" rel="22">
+                          programs
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=property&amp;view_type=table" rel="78">
+                          property
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=public&amp;view_type=table" rel="26">
+                          public
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=queens&amp;view_type=table" rel="22">
+                          queens
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=recreation&amp;view_type=table" rel="89">
+                          recreation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=regulation&amp;view_type=table" rel="17">
+                          regulation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=rental+properties&amp;view_type=table" rel="40">
+                          rental properties
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=rental+property&amp;view_type=table" rel="41">
+                          rental property
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=residential&amp;view_type=table" rel="44">
+                          residential
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=review&amp;view_type=table" rel="108">
+                          review
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=safety&amp;view_type=table" rel="41">
+                          safety
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=sanitation&amp;view_type=table" rel="19">
+                          sanitation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=sca&amp;view_type=table" rel="23">
+                          sca
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=school&amp;view_type=table" rel="109">
+                          school
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=service+request+status&amp;view_type=table" rel="377">
+                          service request status
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=services&amp;view_type=table" rel="100">
+                          services
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=sign&amp;view_type=table" rel="17">
+                          sign
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=signage&amp;view_type=table" rel="19">
+                          signage
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=site&amp;view_type=table" rel="19">
+                          site
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=station&amp;view_type=table" rel="31">
+                          station
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=statistic&amp;view_type=table" rel="21">
+                          statistic
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=statistics&amp;view_type=table" rel="124">
+                          statistics
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=status&amp;view_type=table" rel="18">
+                          status
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=street&amp;view_type=table" rel="19">
+                          street
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=subway&amp;view_type=table" rel="22">
+                          subway
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=tax&amp;view_type=table" rel="18">
+                          tax
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=taxi&amp;view_type=table" rel="93">
+                          taxi
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=taxi+driver&amp;view_type=table" rel="33">
+                          taxi driver
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=taxi+license&amp;view_type=table" rel="33">
+                          taxi license
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=taxicab&amp;view_type=table" rel="33">
+                          taxicab
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=telecommunication&amp;view_type=table" rel="31">
+                          telecommunication
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=theater&amp;view_type=table" rel="17">
+                          theater
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=tlc&amp;view_type=table" rel="60">
+                          tlc
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=traffic&amp;view_type=table" rel="27">
+                          traffic
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=train&amp;view_type=table" rel="25">
+                          train
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=transit&amp;view_type=table" rel="33">
+                          transit
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=transportation&amp;view_type=table" rel="96">
+                          transportation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=travel&amp;view_type=table" rel="40">
+                          travel
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=tree&amp;view_type=table" rel="21">
+                          tree
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=utilities&amp;view_type=table" rel="27">
+                          utilities
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=vehicle&amp;view_type=table" rel="20">
+                          vehicle
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=water&amp;view_type=table" rel="37">
+                          water
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=wifi&amp;view_type=table" rel="35">
+                          wifi
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=wireless&amp;view_type=table" rel="31">
+                          wireless
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=year&amp;view_type=table" rel="19">
+                          year
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=youth&amp;view_type=table" rel="45">
+                          youth
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=zip&amp;view_type=table" rel="18">
+                          zip
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=zip+code&amp;view_type=table" rel="18">
+                          zip code
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=zone&amp;view_type=table" rel="18">
+                          zone
+                        </a>
+                    </div>
+                    <ul class="actions clearfix">
+                      <li>
+                        <a class="jqmClose button cancel" href="#cancel">Close</a>
+                      </li>
+                    </ul>
+</div>  <div class="modalDialog browseOptionsDialog" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+    <div class="optionsContent"></div>
+</div>
+  <div class="modalDialog externalDomainNotice" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+    <h2>
+      You are leaving <span class="serverName">data.cityofnewyork.us</span>
+    </h2>
+    <p>
+      This <span class="datasetType">dataset</span> is hosted by <a href="\#" rel="external" class="externalDomain">another domain</a>.
+    </p>
+    <div class="nameDescription">
+      <p class="dsName"></p>
+      <p class="dsDesc"></p>
+    </div>
+    <div class="leavingLinkWrapper">
+      <a class="leavingLink noInterstitial" href="#" rel="external"></a>
+    </div>
+    <ul class="actions clearfix">
+      <li>
+        <a class="noInterstitial default button accept" href="#" rel="external">
+          <span class="icon"></span>
+          Continue
+        </a>
+      </li>
+      <li>
+        <a class="jqmClose button cancel" href="#cancel">
+          <span class="icon"></span>
+          Cancel
+        </a>
+      </li>
+    </ul>
+</div>
+
+    <div class="modalDialog" id="jqmAlert" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+      <h2>Alert</h2>
+      <p class="alertMessage"></p>
+      <ul class="actions clearfix">
+        <li><a href="#close" class="button jqmClose">Close</a></li>
+      </ul>
+</div>    <div class="modalDialog" id="jqmConfirm" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+      <h2>Alert</h2>
+      <p class="confirmMessage"></p>
+      <ul class="actions clearfix">
+        <li><a href="#close" class="button jqmClose default yes">Yes</a></li>
+        <li><a href="#close" class="button jqmClose no">No</a></li>
+      </ul>
+</div>  </div>
+  <div id="newModals">
+  	
+  </div>
+
+    <script type='text/javascript'>
+    $(function()
+    {
+       blist.namespace.fetch('blist.browse');
+       blist.browse.datasets = {};
+       blist.browse.datasets['ivbu-e2q7'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;ivbu-e2q7&quot;,&quot;name&quot;:&quot;Directory Of Unsheltered Street Homeless To General Population Ratio 2011&quot;,&quot;attribution&quot;:&quot;Department of Homeless Services (DHS)&quot;,&quot;attributionLink&quot;:&quot;http://www.nyc.gov/html/dhs/downloads/pdf/hope11_results.pdf&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Social Services&quot;,&quot;createdAt&quot;:1359588245,&quot;description&quot;:&quot;\\&quot;Ratio of Homeless Population to General Population in major US Cities in 2011.\\n*This represents a list of large U.S. cities for which DHS was able to confirm a recent estimate of the unsheltered population.  A 2011 result is available for Seattle, WA, Miami, FL, and Boston, MA.. 2011 results are not yet available for the other cities, and their 2009 data are displayed in this chart. General population figures are 2010 estimates in New York, San Francisco, and Chicago, and 2009 estimates elsewhere.\\&quot;&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:6,&quot;numberOfComments&quot;:0,&quot;oid&quot;:2387332,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1359589162,&quot;publicationGroup&quot;:646925,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowsUpdatedAt&quot;:1359588248,&quot;rowsUpdatedBy&quot;:&quot;8b43-zkvh&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:646925,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:23,&quot;viewLastModified&quot;:1359589238,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:42124095,&quot;name&quot;:&quot;City&quot;,&quot;fieldName&quot;:&quot;city&quot;,&quot;position&quot;:1,&quot;width&quot;:148,&quot;dataTypeName&quot;:&quot;location&quot;,&quot;renderTypeName&quot;:&quot;location&quot;,&quot;tableColumnId&quot;:7411849,&quot;cachedContents&quot;:{&quot;non_null&quot;:8,&quot;smallest&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Boston, MA\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;},&quot;null&quot;:0,&quot;largest&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Washington, DC\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;},&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Boston, MA\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:19,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Chicago, IL\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:18,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;New York City\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:17,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Washington, DC\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:16,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Miami, FL\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:15,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Seattle, WA\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:14,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;San Francisco, CA\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:13,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Los Angeles, CA\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42124092,&quot;name&quot;:&quot;Street Homeless Population&quot;,&quot;fieldName&quot;:&quot;street_homeless_population&quot;,&quot;position&quot;:2,&quot;width&quot;:206,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:7411846,&quot;cachedContents&quot;:{&quot;non_null&quot;:8,&quot;smallest&quot;:&quot;182&quot;,&quot;sum&quot;:&quot;24754&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;3094.25&quot;,&quot;largest&quot;:&quot;15770&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;182&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;884&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;2648&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;321&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;487&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;1753&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;2709&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;15770&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42124093,&quot;name&quot;:&quot;General Population&quot;,&quot;fieldName&quot;:&quot;general_population&quot;,&quot;position&quot;:3,&quot;width&quot;:172,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:7411847,&quot;cachedContents&quot;:{&quot;non_null&quot;:8,&quot;smallest&quot;:&quot;433136&quot;,&quot;sum&quot;:&quot;17960159&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;2245019.875&quot;,&quot;largest&quot;:&quot;8175133&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;645169&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;2851268&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;8175133&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;601723&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;433136&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;616627&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;805235&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;3831868&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42124094,&quot;name&quot;:&quot;Ratio of Unsheltered Homeless to General Population&quot;,&quot;fieldName&quot;:&quot;ratio_of_unsheltered_homeless_to_general_population&quot;,&quot;position&quot;:4,&quot;width&quot;:352,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7411848,&quot;cachedContents&quot;:{&quot;non_null&quot;:8,&quot;smallest&quot;:&quot;1 in 1,875 &quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;1 in 889 &quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;1 in 3,545 &quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;1 in 3,225 &quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;1 in 3,087 &quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;1 in 1,875 &quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;1 in 889 &quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;1 in 352 &quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;1 in 297 &quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;1 in 243 &quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;right&quot;},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Annually&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;]},&quot;owner&quot;:{&quot;id&quot;:&quot;8b43-zkvh&quot;,&quot;displayName&quot;:&quot;Ram S.&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1358269795,&quot;screenName&quot;:&quot;Ram S.&quot;},&quot;query&quot;:{&quot;orderBys&quot;:[{&quot;ascending&quot;:true,&quot;expression&quot;:{&quot;columnId&quot;:42124094,&quot;type&quot;:&quot;column&quot;}}]},&quot;rights&quot;:[&quot;read&quot;],&quot;sortBys&quot;:[{&quot;id&quot;:0,&quot;viewColumnId&quot;:42124094,&quot;flags&quot;:[&quot;asc&quot;]}],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;8b43-zkvh&quot;,&quot;displayName&quot;:&quot;Ram S.&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1358269795,&quot;screenName&quot;:&quot;Ram S.&quot;},&quot;tags&quot;:[&quot;dhs&quot;,&quot;homeless&quot;,&quot;ratio&quot;,&quot;population&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['483x-fy9e'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;483x-fy9e&quot;,&quot;name&quot;:&quot;Directory Of Unsheltered Street Homeless To General Population Ratio 2012&quot;,&quot;attribution&quot;:&quot;Department of Homeless Services (DHS)&quot;,&quot;attributionLink&quot;:&quot;http://www.nyc.gov/html/dhs/downloads/pdf/hope_2012_presentation_web.pdf&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Social Services&quot;,&quot;createdAt&quot;:1359589313,&quot;description&quot;:&quot;\\&quot;Ratio of Homeless Population to General Population in major US Cities in 2012. \\n*This represents a list of large U.S. cities for which DHS was able to confirm a recent estimate of the unsheltered population.   Unsheltered estimates are from 2011 except for Seattle  and New York City (2012) and Chicago (2009).  All General Population figures are from the 2010 U.S. Census enumeration.\\&quot;&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:6,&quot;numberOfComments&quot;:0,&quot;oid&quot;:2387573,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1359590787,&quot;publicationGroup&quot;:646957,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowsUpdatedAt&quot;:1359590736,&quot;rowsUpdatedBy&quot;:&quot;8b43-zkvh&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:646991,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:50,&quot;viewLastModified&quot;:1359590787,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:42127795,&quot;name&quot;:&quot;City&quot;,&quot;fieldName&quot;:&quot;city&quot;,&quot;position&quot;:1,&quot;width&quot;:148,&quot;dataTypeName&quot;:&quot;location&quot;,&quot;renderTypeName&quot;:&quot;location&quot;,&quot;tableColumnId&quot;:7412362,&quot;cachedContents&quot;:{&quot;non_null&quot;:8,&quot;smallest&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Boston, MA\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;},&quot;null&quot;:0,&quot;largest&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Washington, DC\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;},&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;New York City\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:19,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;San Francisco, CA\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:18,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Los Angeles, CA\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:17,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Seattle, WA\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:16,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Miami, FL\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:15,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Washington, DC\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:14,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Chicago, IL\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}},{&quot;count&quot;:13,&quot;item&quot;:{&quot;human_address&quot;:&quot;{\\&quot;address\\&quot;:\\&quot;\\&quot;,\\&quot;city\\&quot;:\\&quot;Boston, MA\\&quot;,\\&quot;state\\&quot;:\\&quot;\\&quot;,\\&quot;zip\\&quot;:\\&quot;\\&quot;}&quot;}}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42127796,&quot;name&quot;:&quot;Street Homeless Estimate&quot;,&quot;fieldName&quot;:&quot;street_homeless_estimate&quot;,&quot;position&quot;:2,&quot;width&quot;:195,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:7412359,&quot;cachedContents&quot;:{&quot;non_null&quot;:8,&quot;smallest&quot;:&quot;182&quot;,&quot;sum&quot;:&quot;23939&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;2992.375&quot;,&quot;largest&quot;:&quot;12977&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;3262&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;3106&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;12977&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;1898&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;487&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;305&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;1722&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;182&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42127797,&quot;name&quot;:&quot;General Population&quot;,&quot;fieldName&quot;:&quot;general_population&quot;,&quot;position&quot;:3,&quot;width&quot;:177,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:7412360,&quot;cachedContents&quot;:{&quot;non_null&quot;:8,&quot;smallest&quot;:&quot;399457&quot;,&quot;sum&quot;:&quot;17696021&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;2212002.625&quot;,&quot;largest&quot;:&quot;8175133&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;8175133&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;805235&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;3792621&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;608660&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;399457&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;601723&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;2695598&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;617594&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42127798,&quot;name&quot;:&quot;Ratio&quot;,&quot;fieldName&quot;:&quot;ratio&quot;,&quot;position&quot;:4,&quot;width&quot;:160,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7412361,&quot;cachedContents&quot;:{&quot;non_null&quot;:8,&quot;smallest&quot;:&quot;1 in 1,565 &quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;1 in 820 &quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;1 in 2,506 &quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;1 in 259 &quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;1 in 292 &quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;1 in 320 &quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;1 in 820 &quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;1 in 1,973 &quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;1 in 1,565 &quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;1 in 3,393 &quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;right&quot;},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Annually&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;]},&quot;owner&quot;:{&quot;id&quot;:&quot;8b43-zkvh&quot;,&quot;displayName&quot;:&quot;Ram S.&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1358269795,&quot;screenName&quot;:&quot;Ram S.&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;8b43-zkvh&quot;,&quot;displayName&quot;:&quot;Ram S.&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1358269795,&quot;screenName&quot;:&quot;Ram S.&quot;},&quot;tags&quot;:[&quot;dhs&quot;,&quot;homeless&quot;,&quot;ratio&quot;,&quot;population&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['ia2d-e54m'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;ia2d-e54m&quot;,&quot;name&quot;:&quot;Water Consumption In The New York City&quot;,&quot;attribution&quot;:&quot;Department of Environmental Protection (DEP)&quot;,&quot;attributionLink&quot;:&quot;http://www.nyc.gov/html/dep/html/drinking_water/droughthist.shtml&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Environmental Sustainability&quot;,&quot;createdAt&quot;:1359591698,&quot;description&quot;:&quot;A brief history of water consumption in the New York City Water Supply System (Based on New York City Census population)&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:2,&quot;numberOfComments&quot;:0,&quot;oid&quot;:2395774,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1359656516,&quot;publicationGroup&quot;:647012,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1359656452,&quot;rowsUpdatedBy&quot;:&quot;ya7g-926w&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:648708,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:94,&quot;viewLastModified&quot;:1363712724,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:42281598,&quot;name&quot;:&quot;Year&quot;,&quot;fieldName&quot;:&quot;year&quot;,&quot;position&quot;:1,&quot;width&quot;:68,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:7413123,&quot;cachedContents&quot;:{&quot;non_null&quot;:31,&quot;smallest&quot;:&quot;1979&quot;,&quot;sum&quot;:&quot;61814&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;1994&quot;,&quot;largest&quot;:&quot;2009&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;2009&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;2008&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;2007&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;2006&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;2005&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;2004&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;2003&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;2002&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;2001&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;2000&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;1999&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;1998&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;1997&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;1996&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;1995&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;1994&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;1993&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;1992&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;1991&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;1990&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;align&quot;:&quot;center&quot;,&quot;noCommas&quot;:&quot;true&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281599,&quot;name&quot;:&quot;NYC Consumption(Million gallons per day)&quot;,&quot;fieldName&quot;:&quot;nyc_consumption_million_gallons_per_day&quot;,&quot;position&quot;:2,&quot;width&quot;:285,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:7413124,&quot;cachedContents&quot;:{&quot;non_null&quot;:31,&quot;smallest&quot;:&quot;1007.2&quot;,&quot;sum&quot;:&quot;40041.4&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;1291.658064516129&quot;,&quot;largest&quot;:&quot;1512.4&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;1007.2&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;1082.9&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;1113.9&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;1068.7&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;1107.4&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;1099.5&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;1093.7&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;1135.6&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;1184.0&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;1240.4&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;1237.2&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;1219.5&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;1205.5&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;1297.9&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;1325.7&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;1357.7&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;1368.5&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;1368.6&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;1496.3&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;1423.8&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;align&quot;:&quot;center&quot;,&quot;noCommas&quot;:&quot;false&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281600,&quot;name&quot;:&quot;Per Capita(Gallons per person per day)&quot;,&quot;fieldName&quot;:&quot;per_capita_gallons_per_person_per_day&quot;,&quot;position&quot;:3,&quot;width&quot;:263,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:7413125,&quot;cachedContents&quot;:{&quot;non_null&quot;:31,&quot;smallest&quot;:&quot;125.8&quot;,&quot;sum&quot;:&quot;5383.1&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;173.6483870967742&quot;,&quot;largest&quot;:&quot;208.3&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;125.8&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;135.2&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;139.1&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;133.5&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;138.3&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;137.3&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;136.6&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;141.8&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;154.6&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;169.4&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;168.9&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;166.5&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;164.6&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;177.2&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;181.0&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;185.4&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;186.9&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;204.1&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;201.3&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;198.2&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;align&quot;:&quot;center&quot;,&quot;noCommas&quot;:&quot;false&quot;},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Annually&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;ya7g-926w&quot;,&quot;displayName&quot;:&quot;Aakash Dalwani&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1363663581,&quot;screenName&quot;:&quot;Aakash Dalwani&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;ya7g-926w&quot;,&quot;displayName&quot;:&quot;Aakash Dalwani&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1363663581,&quot;screenName&quot;:&quot;Aakash Dalwani&quot;},&quot;tags&quot;:[&quot;dep&quot;,&quot;department of environmental protection&quot;,&quot;environment&quot;,&quot;water&quot;,&quot;consumption&quot;,&quot;water consumption&quot;,&quot;water consumption in the new york city&quot;,&quot;healthy living&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['5uug-f49n'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;5uug-f49n&quot;,&quot;name&quot;:&quot;Harbor Sampling Data&quot;,&quot;attribution&quot;:&quot;Department of Environmental Protection (DEP)&quot;,&quot;attributionLink&quot;:&quot;http://www.nyc.gov/html/dep/html/harborwater/harbor_water_sampling_results.shtml&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Environmental Sustainability&quot;,&quot;createdAt&quot;:1359606492,&quot;description&quot;:&quot;Harbor water sampling information&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:0,&quot;numberOfComments&quot;:0,&quot;oid&quot;:2395787,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1359656913,&quot;publicationGroup&quot;:647334,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1359656750,&quot;rowsUpdatedBy&quot;:&quot;ya7g-926w&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:648718,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:33,&quot;viewLastModified&quot;:1363712924,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:42281761,&quot;name&quot;:&quot;Site&quot;,&quot;fieldName&quot;:&quot;site&quot;,&quot;position&quot;:1,&quot;width&quot;:61,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7417745,&quot;cachedContents&quot;:{&quot;non_null&quot;:1938,&quot;smallest&quot;:&quot;AC1&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;SP2&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;GB1&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;F5&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;J14&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;J16&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;HC1&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;HC2&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;SP1&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;K4&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;K5&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;K5A&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;K6&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;N6&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;N7&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;N8&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;NC0&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;NC1&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;NC2&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;NC3&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;BR5&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;E10&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281802,&quot;name&quot;:&quot;Date&quot;,&quot;fieldName&quot;:&quot;date&quot;,&quot;position&quot;:2,&quot;width&quot;:79,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7417746,&quot;cachedContents&quot;:{&quot;non_null&quot;:1938,&quot;smallest&quot;:&quot;01/02/2013&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;12/20/2012&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;07/24/2012&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;07/16/2012&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;07/09/2012&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;07/05/2012&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;06/27/2012&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;06/25/2012&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;06/20/2012&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;06/18/2012&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;06/13/2012&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;06/12/2012&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;06/11/2012&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;06/06/2012&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;06/05/2012&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;06/04/2012&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;05/31/2012&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;05/30/2012&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;05/29/2012&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;04/04/2012&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;04/03/2012&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;04/02/2012&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281763,&quot;name&quot;:&quot;DO (mg/L) Top&quot;,&quot;fieldName&quot;:&quot;do_mg_l_top&quot;,&quot;position&quot;:3,&quot;width&quot;:129,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7417747,&quot;cachedContents&quot;:{&quot;non_null&quot;:1938,&quot;smallest&quot;:&quot;0.00&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;NS&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;NS&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;7.69&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;9.84&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;9.95&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;8.96&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;9.53&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;8.59&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;7.59&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;8.78&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;8.76&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;8.88&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;9.55&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;8.28&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;8.58&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;8.82&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;10.60&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;11.77&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;9.97&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;10.72&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;7.66&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281764,&quot;name&quot;:&quot;DO (mg/L) Bot&quot;,&quot;fieldName&quot;:&quot;do_mg_l_bot&quot;,&quot;position&quot;:4,&quot;width&quot;:130,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7417748,&quot;cachedContents&quot;:{&quot;non_null&quot;:1938,&quot;smallest&quot;:&quot;0.00&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;NS&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;NS&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;10.32&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;10.19&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;9.55&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;9.25&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;11.02&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;10.31&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;10.02&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;8.74&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281765,&quot;name&quot;:&quot;Fecal Coliform (#/100 mL) Top&quot;,&quot;fieldName&quot;:&quot;fecal_coliform_100_ml_top&quot;,&quot;position&quot;:5,&quot;width&quot;:223,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7417749,&quot;cachedContents&quot;:{&quot;non_null&quot;:1937,&quot;smallest&quot;:&quot;1&quot;,&quot;null&quot;:1,&quot;largest&quot;:&quot;NS&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;NS&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;20000&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;1&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;11&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;36&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;3&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;4&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;5&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;6&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;10&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;13&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;9&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;15&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;25&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;28&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;7&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;12&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;14&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;102&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;212&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281766,&quot;name&quot;:&quot;Fecal Coliform (#/100 mL) Bot&quot;,&quot;fieldName&quot;:&quot;fecal_coliform_100_ml_bot&quot;,&quot;position&quot;:6,&quot;width&quot;:218,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7417750,&quot;cachedContents&quot;:{&quot;non_null&quot;:1938,&quot;smallest&quot;:&quot;100&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;NS&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;NS&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;200000&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;620&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;108&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;3&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;88&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;8&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;40&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;28&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;13&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281767,&quot;name&quot;:&quot;Enterococcus (#/100 mL) Top&quot;,&quot;fieldName&quot;:&quot;enterococcus_100_ml_top&quot;,&quot;position&quot;:7,&quot;width&quot;:216,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7417751,&quot;cachedContents&quot;:{&quot;non_null&quot;:1938,&quot;smallest&quot;:&quot;1&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;NS&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;12&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;2&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;10&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;5&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;8&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;4&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;1&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;3&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;28&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;6&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;16&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;NS&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;20&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;14&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;2000&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;40&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;30&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;15&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;7&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;9&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281768,&quot;name&quot;:&quot;Enterococcus (#/100 mL) Bot&quot;,&quot;fieldName&quot;:&quot;enterococcus_100_ml_bot&quot;,&quot;position&quot;:8,&quot;width&quot;:213,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7417752,&quot;cachedContents&quot;:{&quot;non_null&quot;:1938,&quot;smallest&quot;:&quot;10&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;NS&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;NS&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;24&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;44&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;20&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;50&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;80&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;36&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;16&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;28&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;12&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;4&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;64&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;112&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;720&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;100&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;40&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;8&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281769,&quot;name&quot;:&quot;Transparency (Secchi) ft.&quot;,&quot;fieldName&quot;:&quot;transparency_secchi_ft&quot;,&quot;position&quot;:9,&quot;width&quot;:188,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7417753,&quot;cachedContents&quot;:{&quot;non_null&quot;:1938,&quot;smallest&quot;:&quot;0.5&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;NS&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;NS&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;2.5&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;3.0&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;5.5&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;5.0&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;3.5&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;4.0&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;7.5&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;4.5&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;6.0&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;2.0&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;1.5&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;1.0&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;7.0&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;6.5&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;8.0&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;9.0&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;10.0&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;8.5&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;9.5&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;As needed&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;ya7g-926w&quot;,&quot;displayName&quot;:&quot;Aakash Dalwani&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1363663581,&quot;screenName&quot;:&quot;Aakash Dalwani&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;ya7g-926w&quot;,&quot;displayName&quot;:&quot;Aakash Dalwani&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1363663581,&quot;screenName&quot;:&quot;Aakash Dalwani&quot;},&quot;tags&quot;:[&quot;dep&quot;,&quot;department of environmental protection&quot;,&quot;environment&quot;,&quot;water&quot;,&quot;harbor&quot;,&quot;sample&quot;,&quot;sampling&quot;,&quot;harbor sampling data&quot;,&quot;healthy living&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['m64p-r9hk'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;m64p-r9hk&quot;,&quot;name&quot;:&quot;Certified Asbestos Investigator&quot;,&quot;attribution&quot;:&quot;Department of Environmental Protection (DEP)&quot;,&quot;attributionLink&quot;:&quot;https://a826-web01.nyc.gov/cai/&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Environmental Sustainability&quot;,&quot;createdAt&quot;:1359607276,&quot;description&quot;:&quot;List of Certified Asbestos Investigators (CAI)&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:0,&quot;numberOfComments&quot;:0,&quot;oid&quot;:2395793,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1359657019,&quot;publicationGroup&quot;:647353,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1359656936,&quot;rowsUpdatedBy&quot;:&quot;ya7g-926w&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:648722,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:14,&quot;viewLastModified&quot;:1363712980,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:42281837,&quot;name&quot;:&quot;Last Name&quot;,&quot;fieldName&quot;:&quot;last_name&quot;,&quot;position&quot;:1,&quot;width&quot;:100,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7418014,&quot;cachedContents&quot;:{&quot;non_null&quot;:240,&quot;smallest&quot;:&quot;ABDI&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;ZURITA&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;RUBINO&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;SANTORO&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;SKIBENKO&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;SMITH&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;SMOYER&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;SO&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;SOTER&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;SPANTIDAKIS&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;STADNITZKA&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;STRACAR&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;SULLIVAN&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;TAMARGO&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;TANELLA&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;TAYLOR&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;TEJEDA&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;THOMPSON&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;TRAKTMAN&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;TUCKRUSKYE&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;ULTEE&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;VALENTINE&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;left&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281838,&quot;name&quot;:&quot;First Name&quot;,&quot;fieldName&quot;:&quot;first_name&quot;,&quot;position&quot;:2,&quot;width&quot;:109,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7418015,&quot;cachedContents&quot;:{&quot;non_null&quot;:240,&quot;smallest&quot;:&quot;ABBAS&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;WUCHAN&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;DAVID&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;ROBERT&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;JOSEPH&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;MICHAEL&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;JOHN&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;PAUL&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;WILLIAM&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;THOMAS&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;DANIELLE&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;ANTHONY&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;PHILIP&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;LINDA&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;STEVE&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;PETER&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;MAKIS&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;FERNANDO&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;STEVEN&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;ROMMEL&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;ERIC&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;OCTAVIUS&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42281839,&quot;name&quot;:&quot;Certification Number&quot;,&quot;fieldName&quot;:&quot;certification_number&quot;,&quot;position&quot;:3,&quot;width&quot;:161,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:7418016,&quot;cachedContents&quot;:{&quot;non_null&quot;:240,&quot;smallest&quot;:&quot;106404&quot;,&quot;sum&quot;:&quot;28488896&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;118703.7333333333&quot;,&quot;largest&quot;:&quot;129697&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;117906&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;113329&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;119876&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;114070&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;126851&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;119577&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;122303&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;119667&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;117708&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;123176&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;114119&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;116767&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;120486&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;113080&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;117707&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;119463&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;126410&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;128637&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;115876&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;116655&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;align&quot;:&quot;center&quot;,&quot;noCommas&quot;:&quot;true&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281840,&quot;name&quot;:&quot;Expiration Date&quot;,&quot;fieldName&quot;:&quot;expiration_date&quot;,&quot;position&quot;:4,&quot;width&quot;:133,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7418017,&quot;cachedContents&quot;:{&quot;non_null&quot;:240,&quot;smallest&quot;:&quot;1/1/14&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;9/8/14&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;11/10/13&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;3/16/14&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;10/3/14&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;3/9/13&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;12/19/14&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;10/21/13&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;10/2/13&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;9/8/14&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;3/29/14&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;12/10/13&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;5/7/13&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;10/5/13&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;12/15/14&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;2/11/13&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;8/27/14&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;8/26/14&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;8/5/14&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;1/4/15&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;11/14/13&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;10/10/13&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281841,&quot;name&quot;:&quot;Telephone&quot;,&quot;fieldName&quot;:&quot;telephone&quot;,&quot;position&quot;:5,&quot;width&quot;:108,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7418018,&quot;cachedContents&quot;:{&quot;non_null&quot;:232,&quot;smallest&quot;:&quot;(201) 356-5169&quot;,&quot;null&quot;:8,&quot;largest&quot;:&quot;(973) 985-4732&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;(212) 353-8280&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;(908) 688-7800&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;(609) 571-8258&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;(845) 278-7710&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;(631) 742-9636&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;(732) 617-9279&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;(718) 227-7244&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;(516) 358-2955&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;(917) 578-2203&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;(718) 941-7600&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;(516) 546-2640&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;(917) 376-4192&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;(201) 569-6708&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;(914) 654-0080&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;(212) 675-8844&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;(718) 728-2217&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;(201) 794-6900&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;(215) 244-1300&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;(914) 762-6333&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;(516) 328-1194&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;As needed&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;ya7g-926w&quot;,&quot;displayName&quot;:&quot;Aakash Dalwani&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1363663581,&quot;screenName&quot;:&quot;Aakash Dalwani&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;ya7g-926w&quot;,&quot;displayName&quot;:&quot;Aakash Dalwani&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1363663581,&quot;screenName&quot;:&quot;Aakash Dalwani&quot;},&quot;tags&quot;:[&quot;dep&quot;,&quot;department of environmental protection&quot;,&quot;environment&quot;,&quot;certified&quot;,&quot;asbestos&quot;,&quot;investigators&quot;,&quot;cai&quot;,&quot;certified asbestos investigators (cai)&quot;,&quot;healthy living&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['45i5-r9tu'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;45i5-r9tu&quot;,&quot;name&quot;:&quot;School Monitoring Data&quot;,&quot;attribution&quot;:&quot;Department of Environmental Protection (DEP)&quot;,&quot;attributionLink&quot;:&quot;http://www.nyc.gov/html/dep/html/asbestos/airschools.shtml&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Environmental Sustainability&quot;,&quot;createdAt&quot;:1359608167,&quot;description&quot;:&quot;Air monitoring  for asbestos in and around the schools near the World Trade Center disaster site. \\r\\n\\r\\nNotes:\\r\\n6/24/02 - Overloaded sample not analyzed\\r\\nTotal Volume = 1200 liters\\r\\nSampling Time = 8hrs.\\r\\nf/cc = fibers per cubic centimeter\\r\\ns/sqmm = structures per square millimeter\\r\\nOverload = Indicates that the sampling filter was clogged and the sample could not be read with laboratory analysis.&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:0,&quot;numberOfComments&quot;:0,&quot;oid&quot;:2395801,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1359657107,&quot;publicationGroup&quot;:647373,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1359657034,&quot;rowsUpdatedBy&quot;:&quot;ya7g-926w&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:648726,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:14,&quot;viewLastModified&quot;:1363712999,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:42281935,&quot;name&quot;:&quot;Date&quot;,&quot;fieldName&quot;:&quot;date&quot;,&quot;position&quot;:1,&quot;width&quot;:64,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7418273,&quot;cachedContents&quot;:{&quot;non_null&quot;:270,&quot;smallest&quot;:&quot;1/1/02&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;6/9/02&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;10/27/01&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;10/26/01&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;10/25/01&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;10/24/01&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;10/23/01&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;10/22/01&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;10/21/01&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;10/20/01&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;10/19/01&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;10/18/01&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;10/17/01&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;10/16/01&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;10/15/01&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;10/14/01&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;10/13/01&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;10/12/01&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;10/11/01&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;10/10/01&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;10/9/01&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;10/8/01&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281936,&quot;name&quot;:&quot;H.S. of E.F (100 Trinity Place)&quot;,&quot;fieldName&quot;:&quot;h_s_of_e_f_100_trinity_place&quot;,&quot;position&quot;:2,&quot;width&quot;:219,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7418274,&quot;cachedContents&quot;:{&quot;non_null&quot;:270,&quot;smallest&quot;:&quot;&lt; 0.002 f/cc&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;40 s/sqmm&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;&lt; 13.3 s/sqmm&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;&lt; 14.3 s/sqmm&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;&lt; 12.5 s/sqmm&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;14.3 s/sqmm&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;&lt; 13.33 s/sqmm&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;\\u00a0 26.67 s/sqmm&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;\\u00a0 13.33 s/sqmm&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;&lt; 16.00 s/sqmm&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;\\u00a013.33 s/sqmm&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;13.33 s/sqmm&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;40 s/sqmm&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;0.004 f/cc&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;0.003 f/cc&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;0.005 f/cc&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;&lt; 0.002 f/cc&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281937,&quot;name&quot;:&quot;P.S. 234 (282 Grennwich St.)&quot;,&quot;fieldName&quot;:&quot;p_s_234_282_grennwich_st&quot;,&quot;position&quot;:3,&quot;width&quot;:217,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7418275,&quot;cachedContents&quot;:{&quot;non_null&quot;:270,&quot;smallest&quot;:&quot;--&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;28.6 s/sqmm&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;&lt; 13.3 s/sqmm&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;--&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;&lt; 14.3 s/sqmm&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;&lt; 25 s/sqmm&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;&lt; 12.5 s/sqmm&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;28.6 s/sqmm&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;\\u00a0 14.3 s/sqmm&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;&lt; 13.33 s/sqmm&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;&lt; 16.00 s/sqmm&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;&lt; 15.15 s/sqmm&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;\\u00a0 13.33 s/sqmm&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;&lt; 26.67 s/sqmm&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;13.33 s/sqmm&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;*&lt; 13.33 s/sqmm&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;&lt; 0.002 f/cc&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;0.003 f/cc&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;0.002 f/cc&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;0.004 f/cc&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281938,&quot;name&quot;:&quot;Stuyvesant H.S. (345 Chambers St.)&quot;,&quot;fieldName&quot;:&quot;stuyvesant_h_s_345_chambers_st&quot;,&quot;position&quot;:4,&quot;width&quot;:259,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7418276,&quot;cachedContents&quot;:{&quot;non_null&quot;:270,&quot;smallest&quot;:&quot;&lt; 0.002 f/cc&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;40 s/sqmm&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;&lt; 13.3 s/sqmm&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;&lt; 14.3 s/sqmm&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;14.3 s/sqmm&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;\\u00a0 14.3 s/sqmm&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;&lt; 13.33 s/sqmm&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;&lt; 16.00 s/sqmm&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;\\u00a0 13.33 s/sqmm&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;40 s/sqmm&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;\\u00a026.67 s/sqmm&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;13.33 s/sqmm&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;13.33 sq/mm&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;&lt; 0.002 f/cc&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;0.002 f/cc&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;0.003 f/cc&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;0.004 f/cc&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;0.007 f/cc&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42281939,&quot;name&quot;:&quot;I.S./P.S. 89 (201 Warren St.)&quot;,&quot;fieldName&quot;:&quot;i_s_p_s_89_201_warren_st&quot;,&quot;position&quot;:5,&quot;width&quot;:215,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7418277,&quot;cachedContents&quot;:{&quot;non_null&quot;:270,&quot;smallest&quot;:&quot;.018 f/cc (40 s/sqmm)&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;\\u00a0 28.6 s/sqmm&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;&lt; 13.3 s/sqmm&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;&lt; 14.3 s/sqmm&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;14.3 s/sqmm&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;\\u00a0 28.6 s/sqmm&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;&lt; 13.33 s/sqmm&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;\\u00a0 26.67 s/sqmm&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;&lt; 16.00 s/sqmm&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;\\u00a0 13.33 s/sqmm&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;&lt; 8.89 s/sqmm&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;\\u00a0 28.67 s/sqmm&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;13.33 s/sqmm&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;\\u00a013.33 s/sqmm&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;&lt; 0.002 f/cc&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;0.004 f/cc&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;0.005 f/cc&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;0.003 f/cc&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;0.007 f/cc&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;.018 f/cc (40 s/sqmm)&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;center&quot;},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Historical Data&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;ya7g-926w&quot;,&quot;displayName&quot;:&quot;Aakash Dalwani&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1363663581,&quot;screenName&quot;:&quot;Aakash Dalwani&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;ya7g-926w&quot;,&quot;displayName&quot;:&quot;Aakash Dalwani&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1363663581,&quot;screenName&quot;:&quot;Aakash Dalwani&quot;},&quot;tags&quot;:[&quot;dep&quot;,&quot;department of environmental protection&quot;,&quot;environment&quot;,&quot;school&quot;,&quot;air monitoring&quot;,&quot;world trade center&quot;,&quot;asbestos&quot;,&quot;school monitoring data&quot;,&quot;healthy living&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['5t4n-d72c'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;5t4n-d72c&quot;,&quot;name&quot;:&quot;Directory Of Homeless Population By Year&quot;,&quot;attribution&quot;:&quot;Department of Homeless Services (DHS)&quot;,&quot;attributionLink&quot;:&quot;http://www.nyc.gov/html/dhs/downloads/pdf/hope_2012_presentation_web.pdf&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Social Services&quot;,&quot;createdAt&quot;:1359642175,&quot;description&quot;:&quot;Table of homeless population by Year (for years 2009 through 2012)&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:5,&quot;numberOfComments&quot;:0,&quot;oid&quot;:2394038,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1359642401,&quot;publicationGroup&quot;:648281,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowsUpdatedAt&quot;:1359642177,&quot;rowsUpdatedBy&quot;:&quot;8b43-zkvh&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:648281,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:38,&quot;viewLastModified&quot;:1359643179,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:42245737,&quot;name&quot;:&quot;Year&quot;,&quot;fieldName&quot;:&quot;year&quot;,&quot;position&quot;:1,&quot;width&quot;:121,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:7432825,&quot;cachedContents&quot;:{&quot;non_null&quot;:32,&quot;smallest&quot;:&quot;2009&quot;,&quot;sum&quot;:&quot;64336&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;2010.5&quot;,&quot;largest&quot;:&quot;2012&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;2009&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;2010&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;2011&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;2012&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;align&quot;:&quot;right&quot;,&quot;noCommas&quot;:&quot;true&quot;},&quot;flags&quot;:null},{&quot;id&quot;:42245738,&quot;name&quot;:&quot;Area&quot;,&quot;fieldName&quot;:&quot;area&quot;,&quot;position&quot;:2,&quot;width&quot;:182,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7432826,&quot;cachedContents&quot;:{&quot;non_null&quot;:32,&quot;smallest&quot;:&quot;Subways &quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;Total Unsheltered Individuals &quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;Surface Area - Manhattan &quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;Surface Area - Bronx &quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;Surface Area - Brooklyn &quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;Surface Area - Queens &quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;Surface Area - Staten Island &quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;Surface Total &quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;Subways &quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;Total Unsheltered Individuals &quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42245739,&quot;name&quot;:&quot;Homeless Estimates&quot;,&quot;fieldName&quot;:&quot;homeless_estimates&quot;,&quot;position&quot;:3,&quot;width&quot;:198,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:7432827,&quot;cachedContents&quot;:{&quot;non_null&quot;:32,&quot;smallest&quot;:&quot;86&quot;,&quot;sum&quot;:&quot;29093&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;909.15625&quot;,&quot;largest&quot;:&quot;3262&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;777&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;164&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;200&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;98&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;121&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;1360&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;968&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;2328&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;1145&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;174&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;428&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;112&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;175&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;2034&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;1077&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;3111&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;786&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;115&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;242&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;102&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Annually&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;]},&quot;owner&quot;:{&quot;id&quot;:&quot;8b43-zkvh&quot;,&quot;displayName&quot;:&quot;Ram S.&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1358269795,&quot;screenName&quot;:&quot;Ram S.&quot;},&quot;query&quot;:{&quot;orderBys&quot;:[{&quot;ascending&quot;:false,&quot;expression&quot;:{&quot;columnId&quot;:42245737,&quot;type&quot;:&quot;column&quot;}}]},&quot;rights&quot;:[&quot;read&quot;],&quot;sortBys&quot;:[{&quot;id&quot;:0,&quot;viewColumnId&quot;:42245737}],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;8b43-zkvh&quot;,&quot;displayName&quot;:&quot;Ram S.&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1358269795,&quot;screenName&quot;:&quot;Ram S.&quot;},&quot;tags&quot;:[&quot;dhs&quot;,&quot;homeless&quot;,&quot;comparison&quot;,&quot;population&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['jhn3-4vdj'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;jhn3-4vdj&quot;,&quot;name&quot;:&quot;Directory Of Adult Shelter Performance Ranking FY 2011 Q3 2011 Q4&quot;,&quot;attribution&quot;:&quot;Department of Homeless Services (DHS)&quot;,&quot;attributionLink&quot;:&quot;http://www.nyc.gov/html/dhs/downloads/pdf/adult_shelter_performance_ranking_fy_2011_q3.pdf&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Social Services&quot;,&quot;createdAt&quot;:1359643237,&quot;description&quot;:&quot;List of Facilities, Providers and their Rankings for Q3 2012 and Q4 2011&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:4,&quot;numberOfComments&quot;:0,&quot;oid&quot;:2394298,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1359643392,&quot;publicationGroup&quot;:648314,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowsUpdatedAt&quot;:1359643240,&quot;rowsUpdatedBy&quot;:&quot;8b43-zkvh&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:648314,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:18,&quot;viewLastModified&quot;:1359643402,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:42250426,&quot;name&quot;:&quot;Year &amp; Quarter&quot;,&quot;fieldName&quot;:&quot;year_quarter&quot;,&quot;position&quot;:1,&quot;width&quot;:144,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7433301,&quot;cachedContents&quot;:{&quot;non_null&quot;:131,&quot;smallest&quot;:&quot;2011 Q3&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;2011Q4&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;2011 Q3&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;2011Q4&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42250427,&quot;name&quot;:&quot;Facility Name&quot;,&quot;fieldName&quot;:&quot;facility_name&quot;,&quot;position&quot;:2,&quot;width&quot;:211,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7433302,&quot;cachedContents&quot;:{&quot;non_null&quot;:131,&quot;smallest&quot;:&quot;126 Street Shelter&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;Willow Next Step&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;Bob&#x27;s Place&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;Clarke Thomas Next Step&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;Delta Manor&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;Father Smith&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;Pamoja Next Step&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;Parkview&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;Schwartz Next Step&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;Starbright&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42250428,&quot;name&quot;:&quot;Provider Agency&quot;,&quot;fieldName&quot;:&quot;provider_agency&quot;,&quot;position&quot;:3,&quot;width&quot;:268,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7433303,&quot;cachedContents&quot;:{&quot;non_null&quot;:131,&quot;smallest&quot;:&quot;Aguila&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;WSFSSH&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;Palladia&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;BRC&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;Create, Inc.&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;HELP USA&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;Project Renewal&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;Project Hospitality&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;Center for Urban Community Services&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;Turning Point&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;DHS&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;Institute for Community Living&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;Samaritan Village&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;Salvation Army&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;New York Foundation for Senior Citizens&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;HELP USA/Brooklyn Community Services&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;CAMBA&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;Weston United&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;Henry Street Settlement&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;Christian Herald&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;VIP Community Services&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;Volunteers of America&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42250429,&quot;name&quot;:&quot;Performance Tier&quot;,&quot;fieldName&quot;:&quot;performance_tier&quot;,&quot;position&quot;:4,&quot;width&quot;:292,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7433304,&quot;cachedContents&quot;:{&quot;non_null&quot;:131,&quot;smallest&quot;:&quot;1st Performance Tier&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;6th Performance Tier&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;1st Performance Tier&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;2nd Performance Tier&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;3rd Performance Tier&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;4th Performance Tier&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;5th Performance Tier&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;6th Performance Tier&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Quarterly&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;]},&quot;owner&quot;:{&quot;id&quot;:&quot;8b43-zkvh&quot;,&quot;displayName&quot;:&quot;Ram S.&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1358269795,&quot;screenName&quot;:&quot;Ram S.&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;8b43-zkvh&quot;,&quot;displayName&quot;:&quot;Ram S.&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1358269795,&quot;screenName&quot;:&quot;Ram S.&quot;},&quot;tags&quot;:[&quot;dhs&quot;,&quot;homeless&quot;,&quot;adult&quot;,&quot;shelter&quot;,&quot;performance&quot;,&quot;ranking&quot;,&quot;q3&quot;,&quot;q4&quot;,&quot;2011&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['y7z5-rhh5'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;y7z5-rhh5&quot;,&quot;name&quot;:&quot;Directory Of Family Shelter Performance Ranking FY 2012 Q4 and 2013 Q1&quot;,&quot;attribution&quot;:&quot;Department of Homeless Services (DHS)&quot;,&quot;attributionLink&quot;:&quot;http://www.nyc.gov/html/dhs/downloads/pdf/family_shelter_performance_ranking_fy_2012_q4.pdf&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Social Services&quot;,&quot;createdAt&quot;:1359643722,&quot;description&quot;:&quot;List of Facilities, Providers and their Rankings for Q4 2012 and Q1 2013&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:2,&quot;numberOfComments&quot;:0,&quot;oid&quot;:2394342,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1359643878,&quot;publicationGroup&quot;:648333,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowsUpdatedAt&quot;:1359643725,&quot;rowsUpdatedBy&quot;:&quot;8b43-zkvh&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:648333,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:26,&quot;viewLastModified&quot;:1359643878,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:42251058,&quot;name&quot;:&quot;Year &amp; Quarter&quot;,&quot;fieldName&quot;:&quot;year_quarter&quot;,&quot;position&quot;:1,&quot;width&quot;:170,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7433504,&quot;cachedContents&quot;:{&quot;non_null&quot;:139,&quot;smallest&quot;:&quot;2012 Q4&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;2013 Q1&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;2012 Q4&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;2013 Q1&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42251059,&quot;name&quot;:&quot;Facility Name&quot;,&quot;fieldName&quot;:&quot;facility_name&quot;,&quot;position&quot;:2,&quot;width&quot;:256,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7433505,&quot;cachedContents&quot;:{&quot;non_null&quot;:139,&quot;smallest&quot;:&quot;93rd Avenue Family Residence&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;Willow Avenue Family Residence&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;Monica House II&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;Sammon B.U.I.L.D. Center&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;Saratoga Interfaith&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;Sinergia&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;Thorpe Family Residence&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;Briarwood Family Residence&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;Concourse House&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;Flushing Family Residence&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;Hamilton Family Residence&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;Helen House&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;Jamaica&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;Providence House 7&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;St. John&#x27;s Place Family Residence&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;Stockholm Family Residence&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;Theresa Haven&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;Williamsbridge Family Inn&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42251060,&quot;name&quot;:&quot;Provider Agency&quot;,&quot;fieldName&quot;:&quot;provider_agency&quot;,&quot;position&quot;:3,&quot;width&quot;:280,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7433506,&quot;cachedContents&quot;:{&quot;non_null&quot;:139,&quot;smallest&quot;:&quot;Aguila&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;Women In Need, Inc.&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;Homes for the Homeless&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;Children&#x27;s Rescue Fund&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;Housing Bridge, Inc.&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;HELP U.S.A&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;Brooklyn Neighborhood Improvement Associates&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;Women In Need, Inc.&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;Volunteers of America&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;Bushwick Economic Development Corp.&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;Providence House, Inc.&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;Wayside Baptist Church&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;Urban Strategies. Inc.&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;Henry Street Settlement&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;Metropolitan NY Council on Jewish Poverty&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;Women&#x27;s Prison Association&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;Hope Community, Inc.&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;Bronx Works, Inc.&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;Samuel D. Proctor&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;Catholic Guardian Society &amp; Home Bureau, Inc.&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;Tolentine Zeiser Comm. Life Center&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;Samaritan Village&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42251061,&quot;name&quot;:&quot;Performance Tier&quot;,&quot;fieldName&quot;:&quot;performance_tier&quot;,&quot;position&quot;:4,&quot;width&quot;:209,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7433507,&quot;cachedContents&quot;:{&quot;non_null&quot;:139,&quot;smallest&quot;:&quot;1st Performance Tier&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;6th Performance Tier&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;1st Performance Tier&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;2nd Performance Tier&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;3rd Performance Tier&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;4th Performance Tier&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;5th Performance Tier&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;6th Performance Tier&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Quarterly&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;]},&quot;owner&quot;:{&quot;id&quot;:&quot;8b43-zkvh&quot;,&quot;displayName&quot;:&quot;Ram S.&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1358269795,&quot;screenName&quot;:&quot;Ram S.&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;8b43-zkvh&quot;,&quot;displayName&quot;:&quot;Ram S.&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1358269795,&quot;screenName&quot;:&quot;Ram S.&quot;},&quot;tags&quot;:[&quot;dhs&quot;,&quot;homeless&quot;,&quot;family&quot;,&quot;shelter&quot;,&quot;performance&quot;,&quot;ranking&quot;,&quot;q4&quot;,&quot;2012&quot;,&quot;q1&quot;,&quot;2013&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['xnje-s6zf'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;xnje-s6zf&quot;,&quot;name&quot;:&quot;Significant Noncompliance List&quot;,&quot;attribution&quot;:&quot;Department of Environmental Protection (DEP)&quot;,&quot;attributionLink&quot;:&quot;http://www.nyc.gov/html/dep/html/wastewater/snclist.shtml&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Environmental Sustainability&quot;,&quot;createdAt&quot;:1359644702,&quot;description&quot;:&quot;List of establishments in New York City that were in significant noncompliance with applicable pretreatment standards and other requirements. Significant noncompliance is defined in 40 CFR 403.8(f) (2) (viii)\\r\\n\\r\\n(* Indicates that these establishments are on the list for late reporting only)&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:0,&quot;numberOfComments&quot;:0,&quot;oid&quot;:2394468,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1359644986,&quot;publicationGroup&quot;:648368,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1359644704,&quot;rowsUpdatedBy&quot;:&quot;ya7g-926w&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:648368,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:42,&quot;viewLastModified&quot;:1363712942,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:42253204,&quot;name&quot;:&quot;Period&quot;,&quot;fieldName&quot;:&quot;period&quot;,&quot;position&quot;:2,&quot;width&quot;:172,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7433983,&quot;cachedContents&quot;:{&quot;non_null&quot;:39,&quot;smallest&quot;:&quot;July 1, 2011 - June 30, 2012&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;July 1, 2011 - June 30, 2012&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;July 1, 2011 - June 30, 2012&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:42253205,&quot;name&quot;:&quot;Establishment Name&quot;,&quot;fieldName&quot;:&quot;establishment_name&quot;,&quot;position&quot;:3,&quot;width&quot;:316,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:7433984,&quot;cachedContents&quot;:{&quot;non_null&quot;:39,&quot;smallest&quot;:&quot;*A1 RADIATOR EXPRESS &amp; AUTO REPAIR, INC.&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;WASTE MANAGEMENT OF NEW YORK, L.L.C.&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;*A1 RADIATOR EXPRESS &amp; AUTO REPAIR, INC.&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;*ADELPHIA CONTAINER CORP.&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;ALSCO JEWELRY OF NEW YORK, INC.&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;*AMERICO IZZO&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;APEXX OMNI-GRAPHICS, INC.&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;*ARCHITECTURAL COATINGS, INC.&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;ATLANTIS JEWELRY CONTRACTORS, INC.&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;*B &amp; M LINEN CORP.&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;BNNS CO., INC.&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;BRILLIANT JEWELERS/MJJ INC.&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;CARVIN FRENCH JEWELERS INC.&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;CONTROL ELECTROPOLISHING CORP.&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;*DIVERSIFIED HEAT TRANSFER, INC.&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;*ELDORADO FINISHING INC.&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;FAM CREATIONS, INC.&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;G &amp; J SETTING CORP.&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;HALMARK ARCHITECTURAL FINISHING CORP.&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;HAROLD HOWARD SCOTT&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;JAMES PITTA JEWELRY POLISHING, INC.&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;*JERRY&#x27;S AUTO RADIATOR, INC.&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Annually&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;ya7g-926w&quot;,&quot;displayName&quot;:&quot;Aakash Dalwani&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1363663581,&quot;screenName&quot;:&quot;Aakash Dalwani&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;ya7g-926w&quot;,&quot;displayName&quot;:&quot;Aakash Dalwani&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1363663581,&quot;screenName&quot;:&quot;Aakash Dalwani&quot;},&quot;tags&quot;:[&quot;dep&quot;,&quot;department of environmental protection&quot;,&quot;environment&quot;,&quot;noncompliance&quot;,&quot;compliance&quot;,&quot;significant noncompliance list&quot;,&quot;healthy living&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.baseURL = "/browse";
+    });
+  </script>
+  <script src="/packages/browse-control.js?1365185895" type="text/javascript"></script>
+
+
+
+    <script type="text/javascript">
+$(function() {
+    $('body.mmr').ready(function() {
+        $.getScript('/assets/489C82E9-3E7D-4332-BAE7-ABA6656A1E67')
+            .done(function() {
+                $('.cpr-link').each(function() {
+                    $(this).data('url', $(this).attr('href'));
+                    $(this).attr('href', '#cpr-colorbox');
+                    $(this).click(function() {
+                        $('#cpr-colorbox-link').attr('href', $(this).data('url')).text($(this).data('url'));
+                        $(this).colorbox({inline:true, width:'50%', speed:200, opacity:0.5});
+                    });
+                });
+            });
+    });
+    $('a.print-link').each(function() {
+          $(this).click(function() { window.print(); return false; });
+    });
+});
+</script>
+<!--[if lte IE 8]>
+<script type="text/javascript">
+/*
+  $(function() {
+    $('a.print-link').each(function() {
+      var url = document.URL;
+      var path = url.substring(0, url.indexOf('?'));
+      var args = url.substring(url.indexOf('?') + 1);
+      if (path.indexOf('mmr/goals', path.length - 9) !== -1) {
+        $(this).off('click');
+        $(this).click(function(){ window.open(path + '/print?' + args); return false; });
+      }
+    });
+  });
+*/
+</script>
+<![endif]-->
+
+
+
+<script type="text/javascript">
+/* (c) 2008-2012 Add This, LLC */
+var addthis_conf={ver:300};if(!((window._atc||{}).ver)){var _atd="www.addthis.com/",_atr="//s7.addthis.com/",_euc=encodeURIComponent,_duc=decodeURIComponent,_atc={rrev:115467,dr:0,ver:250,loc:0,enote:"",cwait:500,bamp:0.25,camp:1,csmp:0.0001,damp:0,famp:0.02,pamp:0.2,tamp:1,lamp:1,plmp:0.00001,vamp:1,vrmp:0.0001,ohmp:0,ltj:1,xamp:1,abf:!!window.addthis_do_ab,qs:0,cdn:0,rsrcs:{bookmark:_atr+"static/r07/bookmark018.html",atimg:_atr+"static/r07/atimg018.html",countercss:_atr+"static/r07/counter002.css",counterIE67css:_atr+"static/r07/counterIE67002.css",counter:_atr+"static/r07/counter002.js",core:_atr+"static/r07/core025.js",wombat:_atr+"static/r07/bar008.js",qbarcss:_atr+"bannerQuirks.css",fltcss:_atr+"static/r07/floating002.css",barcss:_atr+"static/r07/banner004.css",barjs:_atr+"static/r07/banner001.js",contentcss:_atr+"static/r07/content005.css",contentjs:_atr+"static/r07/content006.js",copythis:_atr+"static/r07/copythis00A.js",copythiscss:_atr+"static/r07/copythis00A.css",ssojs:_atr+"static/r07/sso003.js",ssocss:_atr+"static/r07/sso000.css",peekaboocss:_atr+"static/r07/peekaboo002.css",overlayjs:_atr+"static/r07/overlay004.js",widget32css:_atr+"static/r07/widgetbig045.css",widgetcss:_atr+"static/r07/widget087.css",widgetIE67css:_atr+"static/r07/widgetIE67002.css",widgetpng:"//s7.addthis.com/static/r07/widget045.png",link:_atr+"static/r07/link.html",pinit:_atr+"static/r07/pinit005.html",linkedin:_atr+"static/r07/linkedin018.html",fbshare:_atr+"static/r07/fbshare001.html",tweet:_atr+"static/r07/tweet018.html",menujs:_atr+"static/r07/menu117.js",sh:_atr+"static/r07/sh093.html"}};}(function(){var f;var j=(window.location.protocol=="https:"),x,o,c={0:_atr,1:"//ct1.addthis.com/",2:"//ct2.addthis.com/",3:"//ct3.addthis.com/",4:"//ct4.addthis.com/",100:"//ct0.addthis.com/"},u=Math.random();_atc.cdn=0;if(!window.addthis||window.addthis.nodeType!==f){try{x=window.navigator?(navigator.userLanguage||navigator.language):"";o=x.split("-").pop().toLowerCase()=="us";_atc.cdn=true||j?0:(window.addthis_cdn||(u>=0.99?100:(u>=0.98?2:(u>=0.97?3:(u>=0.96&&o?4:(u>=0.95&&o?1:0))))));if(_atc.cdn){for(var q in _atc.rsrcs){if(_atc.rsrcs.hasOwnProperty(q)){_atc.rsrcs[q]=_atc.rsrcs[q].replace(_atr,c[_atc.cdn]).replace(/live\/[a-z]07/,"live/d07");}}_atr=c[_atc.cdn];}}catch(v){}function b(r,k,e,a){return function(){if(!this.qs){this.qs=0;}_atc.qs++;if(!((this.qs++>0&&a)||_atc.qs>1000)&&window.addthis){window.addthis.plo.push({call:r,args:arguments,ns:k,ctx:e});}};}function p(k){var e=this,a=this.queue=[];this.name=k;this.call=function(){a.push(arguments);};this.call.queuer=this;this.flush=function(y,s){this.flushed=1;for(var r=0;r<a.length;r++){y.apply(s||e,a[r]);}return y;};}window.addthis={ost:0,cache:{},plo:[],links:[],ems:[],timer:{load:((new Date()).getTime())},_Queuer:p,_queueFor:b,data:{getShareCount:b("getShareCount","data")},bar:{show:b("show","bar"),initialize:b("initialize","bar")},login:{initialize:b("initialize","login"),connect:b("connect","login")},box:b("box"),button:b("button"),counter:b("counter"),count:b("count"),toolbox:b("toolbox"),update:b("update"),init:b("init"),ad:{event:b("event","ad"),getPixels:b("getPixels","ad")},util:{getServiceName:b("getServiceName")},ready:b("ready"),addEventListener:b("addEventListener","ed","ed"),removeEventListener:b("removeEventListener","ed","ed"),user:{getID:b("getID","user"),getGeolocation:b("getGeolocation","user",null,true),getPreferredServices:b("getPreferredServices","user",null,true),getServiceShareHistory:b("getServiceShareHistory","user",null,true),ready:b("ready","user"),isReturning:b("isReturning","user"),isOptedOut:b("isOptedOut","user"),isUserOf:b("isUserOf","user"),hasInterest:b("hasInterest","user"),isLocatedIn:b("isLocatedIn","user"),interests:b("getInterests","user"),services:b("getServices","user"),location:b("getLocation","user")},session:{source:b("getSource","session"),isSocial:b("isSocial","session"),isSearch:b("isSearch","session")},_pmh:new p("pmh")};var l=document.getElementsByTagName("script")[0];function d(a){a.style.width=a.style.height="1px";a.style.position="absolute";a.style.zIndex=100000;}if(document.location.href.indexOf(_atr)==-1){var m=document.getElementById("_atssh");if(!m){m=document.createElement("div");m.style.visibility="hidden";m.id="_atssh";d(m);l.parentNode.appendChild(m);}function g(a){if(addthis._pmh.flushed){_ate.pmh(a);}else{addthis._pmh.call(a);}}if(window.postMessage){if(window.attachEvent){window.attachEvent("onmessage",g);}else{if(window.addEventListener){window.addEventListener("message",g,false);}}}if(!m.firstChild){var h,t=navigator.userAgent.toLowerCase(),n=Math.floor(Math.random()*1000);if(/msie/.test(t)&&!(/opera/.test(t))){m.innerHTML="<iframe id=\"_atssh"+n+"\" width=\"1\" height=\"1\" title=\"AddThis utility frame\" name=\"_atssh"+n+"\" src=\"\">";h=document.getElementById("_atssh"+n);}else{h=document.createElement("iframe");h.id="_atssh"+n;h.title="AddThis utility frame";m.appendChild(h);}d(h);h.frameborder=h.style.border=0;h.style.top=h.style.left=0;_atc._atf=h;}}var w=document.createElement("script");w.type="text/javascript";w.src=(j?"https:":"http:")+_atc.rsrcs.core;l.parentNode.appendChild(w);var i=10000;if(Math.random()<_atc.ohmp){setTimeout(function(){if(!window.addthis.timer.core){(new Image()).src="//m.addthisedge.com/live/t00/oh.gif?"+Math.floor(Math.random()*4294967295).toString(36)+"&cdn="+_atc.cdn+"&sr="+_atc.ohmp+"&rev="+_atc.rrev+"&to="+i;if(_atc.cdn!==0){var e=document.createElement("script");e.type="text/javascript";e.src=(j?"https:":"http:")+_atr+"static/r07/core025.js";l.parentNode.appendChild(e);}}},i);}}})();
+
+// LiveDocs
+$("a.exec").click(function(event) {
+  event.preventDefault();
+
+  var iframe = '<iframe class="live-docs" src="' + $.htmlEscape($(this).attr('href')) + '" width="800" height="650" scrolling="yes"></iframe>';
+  $(this).parent().after(iframe);
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1644 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!--[if lte IE 7]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" class="ie ie7 noBorderRadius noLinearGradient noCss3"><![endif]-->
+<!--[if IE 8]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" class="ie ie8 noBorderRadius noLinearGradient noCss3"><![endif]-->
+<!--[if gte IE 9]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" lang="en" class="ie"><![endif]-->
+<!--[if !IE]>-->
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]-->
+
+<!--
+Powered by the Socrata Open Data Platform
+http://www.socrata.com
+-->
+
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="title" content="NYC Open Data" />
+<meta property="og:title" content="NYC Open Data" />
+<meta property="og:site_name" content="NYC Open Data" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://data.cityofnewyork.us/browse?limitTo=datasets&amp;page=6&amp;sortBy=oldest&amp;view_type=table" />
+<meta property="og:image" content="/stylesheets/images/common/socrata_logo_square.png" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="UJN9bNwSMyDRqPAgEywz6FUaElCX/OPFmmi9n465vPI=" name="csrf-token" />
+    <link rel="image_src" href="/stylesheets/images/common/socrata_logo_square.png" />
+
+  <link rel="apple-touch-icon-precomposed" media="screen" href="/stylesheets/images/icons/retina_display_icon.png"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="NYC Open Data" /> 
+  <link href="/catalog.rss" rel="alternate" title="Subscribe to Datasets" type="application/rss+xml" />
+
+  <!--[if IE]>
+  <style type="text/css">
+    v\:vmlframe{behavior:url(#default#VML);display:inline-block;}
+  </style>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" media="all" href="/styles/merged/base.css?e581a44d8e3a58ab673cba1e8ddd533ee5280ad4.171"/>
+  <link type="text/css" rel="stylesheet" media="print" href="/styles/merged/print.css?e581a44d8e3a58ab673cba1e8ddd533ee5280ad4.171"/>
+
+          <script type="text/javascript">
+          document.write([
+            "\<script src='",
+            "//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'",
+            " type='text/javascript'>\<\/script>"
+          ].join(''));
+        </script>
+
+  <script type="text/javascript">blistEnv = "production";</script><script src="/packages/errors.js?1365185895" type="text/javascript"></script>
+
+    <title>Search &amp; Browse | NYC Open Data</title>
+  <link type="text/css" rel="stylesheet" media="all" href="/styles/merged/browse-control.css?e581a44d8e3a58ab673cba1e8ddd533ee5280ad4.171"/>
+
+
+    <link type="text/css" media="all" rel="stylesheet" href="/styles/current_site.css?e581a44d8e3a58ab673cba1e8ddd533ee5280ad4.171.1363731205"/>
+
+  <link rel="shortcut icon" href="/stylesheets/images/common/favicon.ico" />
+
+
+</head>
+
+<body class="controller_browse action_browse_show">
+  <div id="skipLinks">
+    <a href="#content" accesskey="c">Skip to main content</a>
+    <a href="#footerLinks" accesskey="f">Skip to footer links</a>
+    
+  </div>
+
+  
+
+  <div class="siteOuterWrapper">
+    <div class="siteInnerWrapper">
+
+      <div id="siteHeader" class="clearfix">
+          <div id="header_nyc-open-data">
+<h1 id="mainLogo" class="appLogo">
+  <a href="http://www.nyc.gov">NYC Open Data</a>
+</h1>
+<ul class="siteUserNav">
+    <li class="accountLink hide"><a href="/profile"
+    title="Your Home"><span class="text">Hello, <span class="currentUser">Unknown User</span></span></a></li><li class="adminLink hide">
+<a href="/admin" title="Administration"><span class="text">Administration</span></a>
+</li>
+<li><a href="/">Home</a></li><li><a href="http://dev.socrata.com/">Developers</a></li><li class="signUpLink"><a href="https://data.cityofnewyork.us:443/signup" rel="nofollow" title="Sign Up">
+    <span class="text">Sign Up</span></a><li class="signInLink"><a href="https://data.cityofnewyork.us:443/login" rel="nofollow"
+  title="Sign In"><span class="text">Sign In</span></a><li class="signOutLink hide"><a href="https://data.cityofnewyork.us:443/logout" rel="nofollow"
+  title="Sign out"><span class="text">Sign out</span></a>
+</ul>
+<div class="siteBranding"><a href="/" class="siteLogoLink">Data Mine</a></div>
+<div class="nycNav">
+    <a class="home active" href="/">Home</a>
+    <a class="about" href="http://www.nyc.gov/html/data/about.html">About NYC Open Data</a>
+    <a class="faq" href="http://www.nyc.gov/html/data/faq.html">FAQ</a>
+    <a class="contact" href="http://www.nyc.gov/html/data/contact.html">Contact NYC Open Data</a>
+    <div class="divider"></div>
+</div>
+</div>
+<div id="header_nyc-mmr">
+<div class="clearfix">
+    <div id="preAppLogoContainer">
+        <div id="orgLogo">
+            <a href="http://www.nyc.gov/">NYC.gov Always Open</a>
+        </div>
+        <div id="resourceNavContainer" class="clearfix">
+            <ul class="siteUserNav">
+                <li><a href="http://www.nyc.gov/search">Search</a></li>
+                <li><a href="http://www.nyc.gov/portal/register.jsp">Email Updates</a></li>
+                <li><a href="http://www.nyc.gov/contact">Contact Us</a></li>
+            </ul>
+        </div>
+        <div id="topNavContainer" class="clearfix">
+            <ul class="siteUserNav">
+                <li><a href="http://www.nyc.gov/residents">Residents</a></li>
+                <li><a href="http://www.nyc.gov/business">Business</a></li>
+                <li><a href="http://www.nyc.gov/visitors">Visitors</a></li>
+                <li><a href="http://www.nyc.gov/government">Government</a></li>
+                <li><a href="http://www.nyc.gov/mayor">Office of the Mayor</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="appLogoContainer" class="clearfix">
+        <h1 id="mainLogo" class="appLogo">
+            <a href="/report" accesskey="h">New York City Mayor's Office of Operations, Mayor's Management Report</a>
+        </h1>
+        <div id="siteSearchContainer">
+            <form id="siteSearch" action="http://search1.nyc.gov/search?" method="GET">
+                <input value="xml_no_dtd" name="output" type="hidden">
+                <input value="default_collection" name="site" type="hidden">
+                <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                <input value="agency_frontend" name="client" type="hidden">
+                <input value="www.nyc.gov/html/ops" name="sitesearch" type="hidden">
+                <input type="text" name="q" value="" />
+                <input type="submit" value="Go" />
+            </form>
+        </div>
+        <a href="#" class="print-link">Print</a>
+    </div>
+    <div id="headerForPrint">
+        <img src="/assets/70F1D802-AB11-4D3A-B633-83461B29D1C9" alt="New York City Mayor's Office of Operations, Mayor's Management Report" width="670" height="64" />
+    </div>
+</div>
+</div>
+      </div>
+
+      <a name="content"  tabindex="-1"></a>
+      
+        <div class="siteContentWrapper">
+          
+
+
+<div class="browseSection 
+  
+   ">
+    <div class="browseFacets ">
+      
+        <form class="searchSection">
+    <span class="icon"></span>
+    <input type="text" name="browseSearch" title="Search"
+      class="textPrompt searchBox" value="" />
+  </form>
+
+
+        <div class="facetSection clearAllSection">
+          <ul>
+            <li>
+            <a href="/browse?sortBy=oldest&amp;view_type=table">Clear All Options</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="facetSection clearfix limitTo">
+          <h4 class="title">View Types</h4>
+            <ul>
+                <li><a href="/browse?sortBy=oldest&amp;view_type=table" class="clearValues">
+                    <span class="icon"></span>
+                  (All)
+                </a></li>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&view_type=table" class="typeBlist active"><span class="icon"></span>Datasets</a></li>
+                <li><a href="/browse?limitTo=charts&sortBy=oldest&view_type=table" class="typeChart"><span class="icon"></span>Charts</a></li>
+                <li><a href="/browse?limitTo=maps&sortBy=oldest&view_type=table" class="typeMap"><span class="icon"></span>Maps</a></li>
+                <li><a href="/browse?limitTo=calendars&sortBy=oldest&view_type=table" class="typeCalendar"><span class="icon"></span>Calendars</a></li>
+                <li><a href="/browse?limitTo=filters&sortBy=oldest&view_type=table" class="typeFilter"><span class="icon"></span>Filtered Views</a></li>
+                <li><a href="/browse?limitTo=href&sortBy=oldest&view_type=table" class="typeHref"><span class="icon"></span>External Datasets</a></li>
+                <li><a href="/browse?limitTo=blob&sortBy=oldest&view_type=table" class="typeBlob"><span class="icon"></span>Files and Documents</a></li>
+                <li><a href="/browse?limitTo=forms&sortBy=oldest&view_type=table" class="typeForm"><span class="icon"></span>Forms</a></li>
+                <li><a href="/browse?limitTo=apis&sortBy=oldest&view_type=table" class="typeApi"><span class="icon"></span>APIs</a></li>
+            </ul>
+        </div>
+        <div class="facetSection clearfix category">
+          <h4 class="title">Categories</h4>
+            <ul>
+                <li><a href="/browse?category=Business+and+Economic&limitTo=datasets&sortBy=oldest&view_type=table" class="">Business and Economic</a></li>
+                <li><a href="/browse?category=Community+Service&limitTo=datasets&sortBy=oldest&view_type=table" class="">Community Service</a></li>
+                <li><a href="/browse?category=Construction+and+Housing&limitTo=datasets&sortBy=oldest&view_type=table" class="">Construction and Housing</a></li>
+                <li><a href="/browse?category=Cultural+Affairs&limitTo=datasets&sortBy=oldest&view_type=table" class="">Cultural Affairs</a></li>
+                <li><a href="/browse?category=Education&limitTo=datasets&sortBy=oldest&view_type=table" class="">Education</a></li>
+            </ul>
+                <div class="moreOptions list hide">
+                    <a href="/browse?category=Environmental+Sustainability&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Environmental Sustainability
+                    </a>
+                    <a href="/browse?category=Events&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Events
+                    </a>
+                    <a href="/browse?category=Facilities+and+Structures&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Facilities and Structures
+                    </a>
+                    <a href="/browse?category=Finances&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Finances
+                    </a>
+                    <a href="/browse?category=Government&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Government
+                    </a>
+                    <a href="/browse?category=Health&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Health
+                    </a>
+                    <a href="/browse?category=Library&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Library
+                    </a>
+                    <a href="/browse?category=Media&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Media
+                    </a>
+                    <a href="/browse?category=Organizations&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Organizations
+                    </a>
+                    <a href="/browse?category=Other&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Other
+                    </a>
+                    <a href="/browse?category=Parks+and+Recreation&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Parks and Recreation
+                    </a>
+                    <a href="/browse?category=Property&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Property
+                    </a>
+                    <a href="/browse?category=Public+Safety&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Public Safety
+                    </a>
+                    <a href="/browse?category=Service+Requests+%28311%29&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Service Requests (311)
+                    </a>
+                    <a href="/browse?category=Social+Services&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Social Services
+                    </a>
+                    <a href="/browse?category=Statistics&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Statistics
+                    </a>
+                    <a href="/browse?category=Transportation&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Transportation
+                    </a>
+                    <a href="/browse?category=Women%E2%80%99s+Issues&amp;limitTo=datasets&amp;sortBy=oldest&amp;view_type=table">
+                      Women’s Issues
+                    </a>
+                </div>
+                <a class="moreLink" href="#More Categories">View All</a>
+        </div>
+        <div class="facetSection clearfix tags">
+          <h4 class="title">Topics</h4>
+            <ul>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&tags=2010&view_type=table" class="">2010</a></li>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&tags=2011&view_type=table" class="">2011</a></li>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&tags=311&view_type=table" class="">311</a></li>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&tags=311+service+requests&view_type=table" class="">311 service requests</a></li>
+                <li><a href="/browse?limitTo=datasets&sortBy=oldest&tags=all+service+requests&view_type=table" class="">all service requests</a></li>
+            </ul>
+                <a class="cloudLink" href="#More Topics" rel="tags">
+                  View All
+                </a>
+        </div>
+      </div>
+
+
+
+    <div class="browseList hasSort">
+        <div class="titleContainer">
+          <h2 title="Results matching type of Datasets">Results matching type of Datasets
+            <a href="/catalog.rss" class="subscribe" title="Subscribe">
+              <span class="icon"></span>
+            </a>
+          </h2>
+        </div>
+
+      <div class="topControls">
+          <ul class="viewTypeOptions pillButtons">
+            <li><a href="/browse?limitTo=datasets&amp;page=6&amp;sortBy=oldest&amp;view_type=table"
+              class="list active" title="View as a compact list">
+              <span class="icon"></span>
+            </a></li>
+            <li><a href="/browse?limitTo=datasets&amp;page=6&amp;sortBy=oldest&amp;view_type=rich"
+              class="fatrow" title="View as a rich list">
+              <span class="icon"></span>
+            </a></li>
+          </ul>
+
+          <div class="sortOptions">
+            <label for="browseSortType" class="sortLabel">Sort By</label>
+            <select id="browseSortType" class="sortType" name="sortType">
+                <option value="relevance" class=""
+                  >Most Relevant</option>
+                <option value="most_accessed" class="timePeriod"
+                  >Most Accessed</option>
+                <option value="alpha" class=""
+                  >Alphabetical</option>
+                <option value="newest" class=""
+                  >Newest</option>
+                <option value="oldest" class=""
+                  selected=&#x27;selected&#x27;>Oldest</option>
+                <option value="last_modified" class=""
+                  >Recently Updated</option>
+                <option value="rating" class=""
+                  >Highest Rated</option>
+                <option value="comments" class=""
+                  >Most Comments</option>
+            </select>
+            <label for="browseSortPeriod" class="sortLabel">Sort Period</label>
+            <select class="sortPeriod hide" name="sortPeriod" id="browseSortPeriod">
+                <option value="week">
+                  This week
+                </option>
+                <option value="month">
+                  This month
+                </option>
+                <option value="year">
+                  This year
+                </option>
+            </select>
+          </div>
+      </div>
+
+      <div class="results">
+          <table class="gridList">
+            <colgroup>
+                <col class="index" />
+                <col class="nameDesc" />
+                <col class="popularity" />
+                <col class="type" />
+            </colgroup>
+            <thead>
+              <tr>
+                  <th class="index" scope="col"></th>
+                  <th class="nameDesc" scope="col">Name</th>
+                  <th class="popularity" scope="col">Popularity</th>
+                  <th class="type" scope="col">Type</th>
+              </tr>
+            </thead>
+            <tbody>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="5bei-2py8">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">51.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Queens2009 TC Reductions</span>
+                      <a itemprop="url" href="/Property/Queens2009-TC-Reductions/5bei-2py8" class="name"
+                        rel="">Queens2009 TC Reductions</a>
+                      <span class="category infoItem">Property</span>
+                      <span class="tags infoItem" itemprop="keywords">tax, commission, apply, application, assess, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">Tax Commission Actions on Applications in year 2009 Reducing Assessments or Reclassifying Property.</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">54 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Property/Queens2009-TC-Reductions/5bei-2py8" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="ux7p-7t8t">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">52.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Staten Island 2009 TC Reductions</span>
+                      <a itemprop="url" href="/dataset/Staten-Island-2009-TC-Reductions/ux7p-7t8t" class="name"
+                        rel="">Staten Island 2009 TC Reductions</a>
+                      <span class="tags infoItem" itemprop="keywords">2009, tax, commission, apply, application, assess, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">Tax Commission Actions on Applications in year 2009 Reducing Assessments or Reclassifying Property.</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">24 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/dataset/Staten-Island-2009-TC-Reductions/ux7p-7t8t" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="fhpb-kcn4">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">53.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Bronx Open Article 7 Petitions</span>
+                      <a itemprop="url" href="/dataset/Bronx-Open-Article-7-Petitions/fhpb-kcn4" class="name"
+                        rel="">Bronx Open Article 7 Petitions</a>
+                      <span class="tags infoItem" itemprop="keywords">tax, commission, action petition, record, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">The information in the City&#x27;s computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">49 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/dataset/Bronx-Open-Article-7-Petitions/fhpb-kcn4" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="br3m-auk3">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">54.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Brooklyn Open Article 7 Petitions</span>
+                      <a itemprop="url" href="/dataset/Brooklyn-Open-Article-7-Petitions/br3m-auk3" class="name"
+                        rel="">Brooklyn Open Article 7 Petitions</a>
+                      <span class="tags infoItem" itemprop="keywords">tax, commission, action petition, record, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">The information in the City&#x27;s computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">37 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/dataset/Brooklyn-Open-Article-7-Petitions/br3m-auk3" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="gvxz-w3sb">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">55.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Manhattan Open Article 7 Petitions</span>
+                      <a itemprop="url" href="/dataset/Manhattan-Open-Article-7-Petitions/gvxz-w3sb" class="name"
+                        rel="">Manhattan Open Article 7 Petitions</a>
+                      <span class="tags infoItem" itemprop="keywords">tax, commission, action petition, record, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">The information in the City&#x27;s computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">35 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/dataset/Manhattan-Open-Article-7-Petitions/gvxz-w3sb" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="63q5-id7i">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">56.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Queens Open Article 7 Petitions</span>
+                      <a itemprop="url" href="/dataset/Queens-Open-Article-7-Petitions/63q5-id7i" class="name"
+                        rel="">Queens Open Article 7 Petitions</a>
+                      <span class="tags infoItem" itemprop="keywords">tax, commission, action petition, record, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">The information in the City&#x27;s computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">76 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/dataset/Queens-Open-Article-7-Petitions/63q5-id7i" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="ues8-3g5e">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">57.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Staten Island Open Article 7 Petitions</span>
+                      <a itemprop="url" href="/dataset/Staten-Island-Open-Article-7-Petitions/ues8-3g5e" class="name"
+                        rel="">Staten Island Open Article 7 Petitions</a>
+                      <span class="tags infoItem" itemprop="keywords">tax, commission, action petition, record, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">The information in the City&#x27;s computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">58 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/dataset/Staten-Island-Open-Article-7-Petitions/ues8-3g5e" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="yggg-xf4b">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">58.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">2010 Local Film Festivals</span>
+                      <a itemprop="url" href="/dataset/2010-Local-Film-Festivals/yggg-xf4b" class="name"
+                        rel="">2010 Local Film Festivals</a>
+                      <span class="tags infoItem" itemprop="keywords">film, movie, festival, event, theater, theatre, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">List of local film festivals</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">157 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/dataset/2010-Local-Film-Festivals/yggg-xf4b" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="rtc6-e7ff">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">59.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">FDNY Community Board Incident Count</span>
+                      <a itemprop="url" href="/Public-Safety/FDNY-Community-Board-Incident-Count/rtc6-e7ff" class="name"
+                        rel="">FDNY Community Board Incident Count</a>
+                      <span class="category infoItem">Public Safety</span>
+                      <span class="tags infoItem" itemprop="keywords">fire department, fdny, fd, fires, community board, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">Provides incident counts by Year, Month, Incident classification, borough and community board.</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">285 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Public-Safety/FDNY-Community-Board-Incident-Count/rtc6-e7ff" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="zkky-n5j3">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">60.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <span class="hide" itemprop="name">Water Resevoir Levels</span>
+                      <a itemprop="url" href="/Environmental-Sustainability/Water-Resevoir-Levels/zkky-n5j3" class="name"
+                        rel="">Water Resevoir Levels</a>
+                      <span class="category infoItem">Environmental Sustainability</span>
+                      <span class="tags infoItem" itemprop="keywords">department of environmental protection, dep, ...</span>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">New York City water supply system reservoir levels</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">213 views</span>
+                    </td>
+
+                    <td class="type typeBlist"
+                      title="Table">
+                      <a href="/Environmental-Sustainability/Water-Resevoir-Levels/zkky-n5j3" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+          </tbody>
+        </table>
+      </div>
+
+        <div class='pagination'><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=1" class="start firstLink button" title="First Page"><span class='icon'>First</span></a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=5" class="previous prevLink button" title="Previous Page"><span class='icon'>Prev</span></a><span class='ellipses'>...</span><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=2" class="pageLink" title="Page 2">2</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=3" class="pageLink" title="Page 3">3</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=4" class="pageLink" title="Page 4">4</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=5" class="pageLink" title="Page 5">5</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=6" class="pageLink active" title="Page 6">6</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=7" class="pageLink" title="Page 7">7</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=8" class="pageLink" title="Page 8">8</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=9" class="pageLink" title="Page 9">9</a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=10" class="pageLink" title="Page 10">10</a><span class='ellipses'>...</span><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=7" class="next nextLink button" title="Next Page"><span class='icon'>Next</span></a><a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;view_type=table&amp;page=80" class="end lastLink button" title="Last Page"><span class='icon'>Last</span></a></div>
+          <div class="resultCount">
+  Showing 10 of 791
+</div>
+
+    </div>
+
+    <div class="suggestBox infoBox">
+      <h3>Didn&#x27;t find what you&#x27;re looking for? Suggest a dataset.</h3>
+      <div class="buttonContainer">
+        <a class="button next" href="/nominate">Suggest<span class="icon"></span></a>
+      </div>
+    </div>
+
+  <div class="clearBoth"></div>
+</div>
+
+
+
+<script type="text/javascript">        if (typeof blistTranslations == 'undefined') blistTranslations = [];
+        blistTranslations.push(function()
+        {
+            return JSON.parse($.unescapeQuotes("{&quot;controls&quot;:{&quot;browse&quot;:{&quot;back_to_dataset&quot;:&quot;Back to Dataset&quot;,&quot;search&quot;:&quot;Search&quot;,&quot;facets&quot;:{&quot;view_types_title&quot;:&quot;View Types&quot;,&quot;view_types_singular_title&quot;:&quot;type&quot;,&quot;view_types&quot;:{&quot;datasets&quot;:&quot;Datasets&quot;,&quot;href&quot;:&quot;External Datasets&quot;,&quot;blob&quot;:&quot;Files and Documents&quot;,&quot;filters&quot;:&quot;Filtered Views&quot;,&quot;charts&quot;:&quot;Charts&quot;,&quot;maps&quot;:&quot;Maps&quot;,&quot;calendars&quot;:&quot;Calendars&quot;,&quot;forms&quot;:&quot;Forms&quot;,&quot;apis&quot;:&quot;APIs&quot;},&quot;categories_title&quot;:&quot;Categories&quot;,&quot;categories_singular_title&quot;:&quot;category&quot;,&quot;topics_title&quot;:&quot;Topics&quot;,&quot;topics_singular_title&quot;:&quot;topic&quot;,&quot;federated_domains_title&quot;:&quot;Federated Domains&quot;,&quot;federated_domains_singular_title&quot;:&quot;domain&quot;,&quot;moderation_status_title&quot;:&quot;Moderation Status&quot;,&quot;moderation_status_singular_title&quot;:&quot;moderation&quot;,&quot;moderation_status&quot;:{&quot;pending&quot;:&quot;Pending&quot;,&quot;accepted&quot;:&quot;Accepted&quot;,&quot;rejected&quot;:&quot;Rejected&quot;}},&quot;sort_title&quot;:&quot;Sort By&quot;,&quot;sorts&quot;:{&quot;relevance&quot;:&quot;Most Relevant&quot;,&quot;most_accessed&quot;:&quot;Most Accessed&quot;,&quot;alpha&quot;:&quot;Alphabetical&quot;,&quot;newest&quot;:&quot;Newest&quot;,&quot;oldest&quot;:&quot;Oldest&quot;,&quot;last_modified&quot;:&quot;Recently Updated&quot;,&quot;rating&quot;:&quot;Highest Rated&quot;,&quot;comments&quot;:&quot;Most Comments&quot;},&quot;sort_period_title&quot;:&quot;Sort Period&quot;,&quot;sort_periods&quot;:{&quot;week&quot;:&quot;This week&quot;,&quot;month&quot;:&quot;This month&quot;,&quot;year&quot;:&quot;This year&quot;},&quot;title&quot;:{&quot;default&quot;:&quot;Search &amp; Browse Datasets and Views&quot;,&quot;result&quot;:{&quot;main&quot;:&quot;Results %{body}&quot;,&quot;term&quot;:&quot;for \\&quot;%{term}\\&quot;&quot;,&quot;facet_main&quot;:&quot;matching %{body}&quot;,&quot;facet&quot;:&quot;%{facet_type} of %{facet_value}&quot;}},&quot;listing&quot;:{&quot;share_this_dataset&quot;:&quot;Share this Dataset&quot;,&quot;no_results&quot;:&quot;No Results&quot;,&quot;timeout&quot;:&quot;We&#x27;re sorry. Results could not be retrieved at this time. Please try again later.&quot;,&quot;result_count&quot;:&quot;Showing %{this} of %{total}&quot;,&quot;federation_source&quot;:&quot;Federated from %{source}&quot;,&quot;federation_source_html&quot;:&quot;Provided by %{source_link}&quot;,&quot;comment_count&quot;:&quot;Number of comments&quot;,&quot;table_header&quot;:{&quot;name&quot;:&quot;Name&quot;,&quot;popularity&quot;:&quot;Popularity&quot;,&quot;type&quot;:&quot;Type&quot;,&quot;rss&quot;:&quot;RSS&quot;}},&quot;row_results&quot;:{&quot;title_html&quot;:&quot;Showing &lt;span class=\\&quot;rowResultCountText\\&quot;&gt;&lt;/span&gt; of &lt;span class=\\&quot;totalResultCountText\\&quot;&gt;&lt;/span&gt; matching rows &lt;a href=\\&quot;#\\&quot; class=\\&quot;rowSearchLink\\&quot;&gt;(view results)&lt;/a&gt;:&quot;,&quot;more_link&quot;:&quot;More&quot;,&quot;less_link&quot;:&quot;Less&quot;},&quot;actions&quot;:{&quot;clear_all&quot;:&quot;Clear All Options&quot;,&quot;clear_facet&quot;:&quot;(All)&quot;,&quot;all_options&quot;:&quot;View All&quot;,&quot;less_options&quot;:&quot;View Less&quot;,&quot;create_dataset&quot;:&quot;Create or upload your own dataset&quot;,&quot;create_dataset_verb&quot;:&quot;Create&quot;,&quot;create_dataset_short&quot;:&quot;Create a new Dataset&quot;,&quot;suggest_dataset&quot;:&quot;Didn&#x27;t find what you&#x27;re looking for? Suggest a dataset.&quot;,&quot;suggest_dataset_verb&quot;:&quot;Suggest&quot;,&quot;suggest_dataset_short&quot;:&quot;Suggest a Dataset&quot;,&quot;subscribe&quot;:&quot;Subscribe&quot;,&quot;dataset_subscribe&quot;:&quot;Subscribe to changes on this view&quot;,&quot;compact_list&quot;:&quot;View as a compact list&quot;,&quot;rich_list&quot;:&quot;View as a rich list&quot;,&quot;expand_section&quot;:&quot;Click to expand&quot;,&quot;moderation&quot;:{&quot;accept&quot;:&quot;Accept&quot;,&quot;reject&quot;:&quot;Reject&quot;},&quot;permissions&quot;:{&quot;title&quot;:&quot;Change the public visibility&quot;,&quot;button_html&quot;:&quot;Make %{visibility}&quot;},&quot;delete&quot;:{&quot;title&quot;:&quot;Delete this item&quot;,&quot;button&quot;:&quot;Delete&quot;,&quot;confirm&quot;:&quot;Are you sure you want to delete %{dataset}?&quot;},&quot;about&quot;:{&quot;title&quot;:&quot;About this Dataset&quot;,&quot;button&quot;:&quot;About&quot;},&quot;manage_api&quot;:{&quot;title&quot;:&quot;Manage this API&quot;,&quot;button&quot;:&quot;Manage&quot;}}}},&quot;core&quot;:{&quot;and&quot;:&quot;and&quot;,&quot;or&quot;:&quot;or&quot;,&quot;view_types&quot;:{&quot;api&quot;:&quot;API view&quot;,&quot;blob&quot;:&quot;non-tabular file or document&quot;,&quot;calendar&quot;:&quot;calendar&quot;,&quot;chart&quot;:&quot;chart&quot;,&quot;filter&quot;:&quot;filtered view&quot;,&quot;form&quot;:&quot;form&quot;,&quot;group&quot;:&quot;grouped view&quot;,&quot;href&quot;:&quot;external dataset&quot;,&quot;map&quot;:&quot;map&quot;,&quot;table&quot;:&quot;table&quot;},&quot;filters&quot;:{&quot;formal&quot;:{&quot;equals&quot;:&quot;equals&quot;,&quot;not_equals&quot;:&quot;does not equal&quot;,&quot;starts_with&quot;:&quot;starts with&quot;,&quot;contains&quot;:&quot;contains&quot;,&quot;not_contains&quot;:&quot;does not contain&quot;,&quot;less_than&quot;:&quot;less than&quot;,&quot;less_than_or_equals&quot;:&quot;less than or equal to&quot;,&quot;greater_than&quot;:&quot;greater than&quot;,&quot;greater_than_or_equals&quot;:&quot;greater than or equal to&quot;,&quot;between&quot;:&quot;between&quot;,&quot;is_blank&quot;:&quot;is blank&quot;,&quot;is_not_blank&quot;:&quot;is not blank&quot;},&quot;informal&quot;:{&quot;equals&quot;:&quot;is&quot;,&quot;not_equals&quot;:&quot;is not&quot;,&quot;starts_with&quot;:&quot;starts with&quot;,&quot;contains&quot;:&quot;contains&quot;,&quot;not_contains&quot;:&quot;does not contain&quot;,&quot;less_than&quot;:&quot;is less than&quot;,&quot;less_than_or_equals&quot;:&quot;is at most&quot;,&quot;greater_than&quot;:&quot;is greater than&quot;,&quot;greater_than_or_equals&quot;:&quot;is at least&quot;,&quot;between&quot;:&quot;is between&quot;,&quot;is_blank&quot;:&quot;is blank&quot;,&quot;is_not_blank&quot;:&quot;is not blank&quot;}},&quot;analytics&quot;:{&quot;visit&quot;:&quot;view&quot;,&quot;visits&quot;:&quot;views&quot;},&quot;dialogs&quot;:{&quot;close&quot;:&quot;Close&quot;,&quot;cancel&quot;:&quot;Cancel&quot;,&quot;continue&quot;:&quot;Continue&quot;},&quot;interstitial&quot;:{&quot;leaving_notice_html&quot;:&quot;You are leaving &lt;span class=\\&quot;serverName\\&quot;&gt;%{site_name}&lt;/span&gt;&quot;,&quot;leaving_explanation_html&quot;:&quot;This &lt;span class=\\&quot;datasetType\\&quot;&gt;dataset&lt;/span&gt; is hosted by &lt;a href=\\&quot;\\\\#\\&quot; rel=\\&quot;external\\&quot; class=\\&quot;externalDomain\\&quot;&gt;another domain&lt;/a&gt;.&quot;}}}"));
+        });
+</script>
+
+
+
+        </div>
+    </div>
+  </div>
+
+  <div id="siteFooter">
+    <a name="footerLinks" tabindex="-1"></a>
+    <div id="footer_nyc-open-data">
+<span class="copyright">
+    &copy; 2013 The City of New York
+</span>
+<ul class="siteFooterNav"><li><a href="http://www.nyc.gov/html/data/terms.html" rel="nofollow">Terms of Service</a></li><li><a href="http://www.nyc.gov/privacy" rel="nofollow">Privacy</a></li></ul>
+<div class="footerLogos clearfix">
+    <div class="nyLogo doitt"><a href="http://www.nyc.gov/doitt">DOITT</a></div>
+    <div class="nyLogo digital"><a href="http://www.nyc.gov/digital">Digital</a></div>
+</div>
+</div>
+<div id="footer_nyc-mmr">
+<span class="copyright">&copy; 2013 The City of New York</span>
+<ul class="siteFooterNav">
+    <li><a href="http://www.nyc.gov/contact">Contact Us</a></li>
+    <li><a href="http://www.nyc.gov/faqs">FAQs</a></li>
+    <li><a href="http://www.nyc.gov/privacy">Privacy Statement</a></li>
+    <li><a href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</a></li>
+    <li><a href="http://www.nyc.gov/sitemap">Site Map</a></li></ul>
+</ul>
+</div>
+
+  </div>
+
+  <div class="socrataModal"><div class="socrataModalWrapper"></div></div>
+
+
+  <div id="templates" style="display:none">
+    <div class="menu">
+  <a class="menuButton" href="#"><span class="icon"></span></a>
+  <div class="menuDropdown">
+    <ul class="menuColumns">
+      <li class="menuColumn">
+        <ul class="menuEntries">
+          <li class="menuEntry">
+            <a href="#" class="clearfix">
+              <span class="icon"></span>
+              <span class="contents"></span>
+              <div class="subtext"></div>
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="expandedInfo">
+  <div class="actions">
+    <a class="manageApi button" href="#Manage" title="Manage this API">
+      Manage
+    </a>
+    <a class="permissions button" href="#Permissions"
+      title="Change the public visibility">
+      Make <span class="permType"></span>
+    </a>
+    <a class="delete button" href="#Delete" title="Delete this item">
+      Delete
+    </a>
+    <a class="about button" href="#About" title="About this Dataset">
+      About
+    </a>
+    <div class="share menu"></div>
+  </div>
+  <div class="comments" title="Number of comments">
+    <span class="icon"></span><span class="value"></span>
+  </div>
+  <div class="starsControl datasetAverageRating"></div>
+</div>
+<div class="rowSearchRenderType hide">
+  <div class="columnHeaders"></div>
+  <div class="rowResultCountDisplay">
+    <span>Showing <span class="rowResultCountText"></span> of <span class="totalResultCountText"></span> matching rows <a href="#" class="rowSearchLink">(view results)</a>:</span>
+  </div>
+  <div class="rowList"></div>
+  <div class="fader"></div>
+  <div class="expandHint downArrow">
+    <a class="expandRowResults" href="#Expand">
+      <span class="icon"></span>
+      <span class="expandText">More</span>
+      <span class="collapseText">Less</span>
+    </a>
+  </div>
+  <div class="templateRow row clearfix"></div>
+</div>
+
+
+  </div>
+  
+
+  <!--[if IE]>
+  <script src="/packages/excanvas.js?1365104644" type="text/javascript"></script>
+  <![endif]-->
+  <!--[if lt IE 7]>
+  <script src="/packages/bgiframe.js?1365185895" type="text/javascript"></script>
+  <script src="/packages/oldie.js?1365185895" type="text/javascript"></script>
+  <![endif]-->
+
+  <script src="/packages/base.js?1365185895" type="text/javascript"></script>
+
+  
+
+    <script type="text/javascript">
+      $.debug = function() {};
+    </script>
+
+  <script type="text/javascript">
+    blist.namespace.fetch('blist.configuration');
+    blist.configuration.strings = JSON.parse($.unescapeQuotes("{&quot;search_prompt&quot;:&quot;Search&quot;,&quot;company&quot;:&quot;NYC Open Data&quot;,&quot;sign_out&quot;:&quot;Sign out&quot;,&quot;site_title&quot;:&quot;NYC Open Data&quot;,&quot;copyright_string&quot;:&quot;&amp;copy; 2013 The City of New York&quot;,&quot;sign_up&quot;:&quot;Sign Up&quot;,&quot;sign_in&quot;:&quot;Sign In&quot;}"));
+    blist.locale = "en";
+
+
+    blist.configuration.canvasAvailable = true;
+
+    try {
+      if ((self !== top) && (self.location.hostname !== top.location.hostname))
+        top.location = self.document.location;
+    } catch(ex) {
+      top.location = self.document.location;
+    }
+
+  </script>
+
+  <div id="modals">
+                      <div class="modalDialog browseOptionsDialog" id="browseDialog_tags" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+                    <div class="optionsContent">
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2005&amp;view_type=table" rel="112">
+                          2005
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2006&amp;view_type=table" rel="119">
+                          2006
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2007&amp;view_type=table" rel="118">
+                          2007
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2008&amp;view_type=table" rel="118">
+                          2008
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2009&amp;view_type=table" rel="127">
+                          2009
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2010&amp;view_type=table" rel="392">
+                          2010
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2011&amp;view_type=table" rel="391">
+                          2011
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=2012&amp;view_type=table" rel="300">
+                          2012
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=311&amp;view_type=table" rel="425">
+                          311
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=311+service+requests&amp;view_type=table" rel="425">
+                          311 service requests
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=access&amp;view_type=table" rel="35">
+                          access
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=activity&amp;view_type=table" rel="108">
+                          activity
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=administrative+services&amp;view_type=table" rel="16">
+                          administrative services
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=after-school&amp;view_type=table" rel="26">
+                          after-school
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=after-school+programs&amp;view_type=table" rel="17">
+                          after-school programs
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=agency&amp;view_type=table" rel="20">
+                          agency
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=all+service+requests&amp;view_type=table" rel="424">
+                          all service requests
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=allegation&amp;view_type=table" rel="67">
+                          allegation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=apartment&amp;view_type=table" rel="43">
+                          apartment
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=arbor&amp;view_type=table" rel="17">
+                          arbor
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=art&amp;view_type=table" rel="24">
+                          art
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=authority&amp;view_type=table" rel="23">
+                          authority
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=automobile&amp;view_type=table" rel="27">
+                          automobile
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=basemap&amp;view_type=table" rel="47">
+                          basemap
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=block&amp;view_type=table" rel="17">
+                          block
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=board&amp;view_type=table" rel="111">
+                          board
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=borough&amp;view_type=table" rel="94">
+                          borough
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=boundary&amp;view_type=table" rel="61">
+                          boundary
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=bronx&amp;view_type=table" rel="18">
+                          bronx
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=brooklyn&amp;view_type=table" rel="22">
+                          brooklyn
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=building&amp;view_type=table" rel="80">
+                          building
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=building+permits&amp;view_type=table" rel="16">
+                          building permits
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=buildings&amp;view_type=table" rel="97">
+                          buildings
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=business&amp;view_type=table" rel="31">
+                          business
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=campaign&amp;view_type=table" rel="19">
+                          campaign
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=campaign+finance&amp;view_type=table" rel="19">
+                          campaign finance
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=campaign+finance+board&amp;view_type=table" rel="19">
+                          campaign finance board
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=capital&amp;view_type=table" rel="17">
+                          capital
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=car&amp;view_type=table" rel="32">
+                          car
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=cartography&amp;view_type=table" rel="270">
+                          cartography
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=ccrb&amp;view_type=table" rel="119">
+                          ccrb
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=census&amp;view_type=table" rel="31">
+                          census
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=cfb&amp;view_type=table" rel="19">
+                          cfb
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=child&amp;view_type=table" rel="26">
+                          child
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=children&amp;view_type=table" rel="29">
+                          children
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=city&amp;view_type=table" rel="28">
+                          city
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=city+planning&amp;view_type=table" rel="16">
+                          city planning
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=citywide&amp;view_type=table" rel="23">
+                          citywide
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=civilian&amp;view_type=table" rel="108">
+                          civilian
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=civilian+complaint+review+board&amp;view_type=table" rel="101">
+                          civilian complaint review board
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=class-1&amp;view_type=table" rel="17">
+                          class-1
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=class-2&amp;view_type=table" rel="17">
+                          class-2
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=class-3&amp;view_type=table" rel="17">
+                          class-3
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=clean+web&amp;view_type=table" rel="98">
+                          clean web
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=code&amp;view_type=table" rel="24">
+                          code
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=community&amp;view_type=table" rel="83">
+                          community
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=community+development&amp;view_type=table" rel="21">
+                          community development
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=complaint&amp;view_type=table" rel="116">
+                          complaint
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=complaint+activity&amp;view_type=table" rel="102">
+                          complaint activity
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=complaints&amp;view_type=table" rel="19">
+                          complaints
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=condominiums&amp;view_type=table" rel="20">
+                          condominiums
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=conservation&amp;view_type=table" rel="20">
+                          conservation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=construction&amp;view_type=table" rel="38">
+                          construction
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=consumer+affairs&amp;view_type=table" rel="35">
+                          consumer affairs
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=contributions&amp;view_type=table" rel="19">
+                          contributions
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=cooperatives&amp;view_type=table" rel="40">
+                          cooperatives
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=culture&amp;view_type=table" rel="41">
+                          culture
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=data&amp;view_type=table" rel="33">
+                          data
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dca&amp;view_type=table" rel="26">
+                          dca
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dcas&amp;view_type=table" rel="22">
+                          dcas
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dcp&amp;view_type=table" rel="89">
+                          dcp
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=demographic&amp;view_type=table" rel="19">
+                          demographic
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=demography&amp;view_type=table" rel="17">
+                          demography
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dep&amp;view_type=table" rel="32">
+                          dep
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=department+of+environmental+protection&amp;view_type=table" rel="31">
+                          department of environmental protection
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=department+of+finance&amp;view_type=table" rel="69">
+                          department of finance
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=development&amp;view_type=table" rel="52">
+                          development
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=directory&amp;view_type=table" rel="22">
+                          directory
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=disciplinary+recommendation&amp;view_type=table" rel="65">
+                          disciplinary recommendation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=district&amp;view_type=table" rel="53">
+                          district
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dob&amp;view_type=table" rel="31">
+                          dob
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=doe&amp;view_type=table" rel="17">
+                          doe
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dof&amp;view_type=table" rel="70">
+                          dof
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dohmh&amp;view_type=table" rel="16">
+                          dohmh
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=doitt+gis&amp;view_type=table" rel="70">
+                          doitt gis
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=dpr&amp;view_type=table" rel="34">
+                          dpr
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=drive&amp;view_type=table" rel="18">
+                          drive
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=driver&amp;view_type=table" rel="68">
+                          driver
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=education&amp;view_type=table" rel="75">
+                          education
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=ela+test&amp;view_type=table" rel="21">
+                          ela test
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=elections&amp;view_type=table" rel="21">
+                          elections
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=electricity&amp;view_type=table" rel="25">
+                          electricity
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=emergency&amp;view_type=table" rel="34">
+                          emergency
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=energy&amp;view_type=table" rel="47">
+                          energy
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=english+language+arts&amp;view_type=table" rel="21">
+                          english language arts
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=entertainment&amp;view_type=table" rel="23">
+                          entertainment
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=entrance&amp;view_type=table" rel="21">
+                          entrance
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=environment&amp;view_type=table" rel="77">
+                          environment
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=family&amp;view_type=table" rel="16">
+                          family
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=family+homes&amp;view_type=table" rel="17">
+                          family homes
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=fdny&amp;view_type=table" rel="25">
+                          fdny
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=finance&amp;view_type=table" rel="117">
+                          finance
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=fire+department&amp;view_type=table" rel="24">
+                          fire department
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=fire+safety&amp;view_type=table" rel="19">
+                          fire safety
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=food&amp;view_type=table" rel="34">
+                          food
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=fund&amp;view_type=table" rel="25">
+                          fund
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=funding&amp;view_type=table" rel="38">
+                          funding
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=geographic&amp;view_type=table" rel="250">
+                          geographic
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=grade&amp;view_type=table" rel="42">
+                          grade
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=graduation+outcome&amp;view_type=table" rel="20">
+                          graduation outcome
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=green&amp;view_type=table" rel="17">
+                          green
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=health&amp;view_type=table" rel="69">
+                          health
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=healthy+living&amp;view_type=table" rel="128">
+                          healthy living
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=historic&amp;view_type=table" rel="21">
+                          historic
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=hospital&amp;view_type=table" rel="18">
+                          hospital
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=hot+spot&amp;view_type=table" rel="31">
+                          hot spot
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=housing&amp;view_type=table" rel="19">
+                          housing
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=hra&amp;view_type=table" rel="16">
+                          hra
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=jobs&amp;view_type=table" rel="34">
+                          jobs
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=jobs+and+economic+mobility&amp;view_type=table" rel="90">
+                          jobs and economic mobility
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=law&amp;view_type=table" rel="22">
+                          law
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=license&amp;view_type=table" rel="54">
+                          license
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=lifelong+learning&amp;view_type=table" rel="209">
+                          lifelong learning
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=limousine&amp;view_type=table" rel="60">
+                          limousine
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=location&amp;view_type=table" rel="283">
+                          location
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=lot&amp;view_type=table" rel="23">
+                          lot
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=management&amp;view_type=table" rel="24">
+                          management
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=manhattan&amp;view_type=table" rel="43">
+                          manhattan
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=map&amp;view_type=table" rel="272">
+                          map
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=math+test+result&amp;view_type=table" rel="21">
+                          math test result
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=medallion&amp;view_type=table" rel="63">
+                          medallion
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=misconduct&amp;view_type=table" rel="64">
+                          misconduct
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=museo&amp;view_type=table" rel="16">
+                          museo
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=nature&amp;view_type=table" rel="57">
+                          nature
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=neighborhood&amp;view_type=table" rel="34">
+                          neighborhood
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=new+york&amp;view_type=table" rel="18">
+                          new york
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=nyc&amp;view_type=table" rel="45">
+                          nyc
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=nyccfb&amp;view_type=table" rel="19">
+                          nyccfb
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=nycha&amp;view_type=table" rel="16">
+                          nycha
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=oem&amp;view_type=table" rel="26">
+                          oem
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=park&amp;view_type=table" rel="76">
+                          park
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=parking&amp;view_type=table" rel="29">
+                          parking
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=parks&amp;view_type=table" rel="79">
+                          parks
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=perimeter&amp;view_type=table" rel="20">
+                          perimeter
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=permit&amp;view_type=table" rel="25">
+                          permit
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=permits&amp;view_type=table" rel="21">
+                          permits
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=planning&amp;view_type=table" rel="62">
+                          planning
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=politics&amp;view_type=table" rel="20">
+                          politics
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=population&amp;view_type=table" rel="27">
+                          population
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=power&amp;view_type=table" rel="38">
+                          power
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=program&amp;view_type=table" rel="22">
+                          program
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=programs&amp;view_type=table" rel="22">
+                          programs
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=property&amp;view_type=table" rel="78">
+                          property
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=public&amp;view_type=table" rel="26">
+                          public
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=queens&amp;view_type=table" rel="22">
+                          queens
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=recreation&amp;view_type=table" rel="89">
+                          recreation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=regulation&amp;view_type=table" rel="17">
+                          regulation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=rental+properties&amp;view_type=table" rel="40">
+                          rental properties
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=rental+property&amp;view_type=table" rel="41">
+                          rental property
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=residential&amp;view_type=table" rel="44">
+                          residential
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=review&amp;view_type=table" rel="108">
+                          review
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=safety&amp;view_type=table" rel="41">
+                          safety
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=sanitation&amp;view_type=table" rel="19">
+                          sanitation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=sca&amp;view_type=table" rel="23">
+                          sca
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=school&amp;view_type=table" rel="109">
+                          school
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=service+request+status&amp;view_type=table" rel="377">
+                          service request status
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=services&amp;view_type=table" rel="100">
+                          services
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=sign&amp;view_type=table" rel="17">
+                          sign
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=signage&amp;view_type=table" rel="19">
+                          signage
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=site&amp;view_type=table" rel="19">
+                          site
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=station&amp;view_type=table" rel="31">
+                          station
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=statistic&amp;view_type=table" rel="21">
+                          statistic
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=statistics&amp;view_type=table" rel="124">
+                          statistics
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=status&amp;view_type=table" rel="18">
+                          status
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=street&amp;view_type=table" rel="19">
+                          street
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=subway&amp;view_type=table" rel="22">
+                          subway
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=tax&amp;view_type=table" rel="18">
+                          tax
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=taxi&amp;view_type=table" rel="93">
+                          taxi
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=taxi+driver&amp;view_type=table" rel="33">
+                          taxi driver
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=taxi+license&amp;view_type=table" rel="33">
+                          taxi license
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=taxicab&amp;view_type=table" rel="33">
+                          taxicab
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=telecommunication&amp;view_type=table" rel="31">
+                          telecommunication
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=theater&amp;view_type=table" rel="17">
+                          theater
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=tlc&amp;view_type=table" rel="60">
+                          tlc
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=traffic&amp;view_type=table" rel="27">
+                          traffic
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=train&amp;view_type=table" rel="25">
+                          train
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=transit&amp;view_type=table" rel="33">
+                          transit
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=transportation&amp;view_type=table" rel="96">
+                          transportation
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=travel&amp;view_type=table" rel="40">
+                          travel
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=tree&amp;view_type=table" rel="21">
+                          tree
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=utilities&amp;view_type=table" rel="27">
+                          utilities
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=vehicle&amp;view_type=table" rel="20">
+                          vehicle
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=water&amp;view_type=table" rel="37">
+                          water
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=wifi&amp;view_type=table" rel="35">
+                          wifi
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=wireless&amp;view_type=table" rel="31">
+                          wireless
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=year&amp;view_type=table" rel="19">
+                          year
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=youth&amp;view_type=table" rel="45">
+                          youth
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=zip&amp;view_type=table" rel="18">
+                          zip
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=zip+code&amp;view_type=table" rel="18">
+                          zip code
+                        </a>
+                        <a href="/browse?limitTo=datasets&amp;sortBy=oldest&amp;tags=zone&amp;view_type=table" rel="18">
+                          zone
+                        </a>
+                    </div>
+                    <ul class="actions clearfix">
+                      <li>
+                        <a class="jqmClose button cancel" href="#cancel">Close</a>
+                      </li>
+                    </ul>
+</div>  <div class="modalDialog browseOptionsDialog" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+    <div class="optionsContent"></div>
+</div>
+  <div class="modalDialog externalDomainNotice" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+    <h2>
+      You are leaving <span class="serverName">data.cityofnewyork.us</span>
+    </h2>
+    <p>
+      This <span class="datasetType">dataset</span> is hosted by <a href="\#" rel="external" class="externalDomain">another domain</a>.
+    </p>
+    <div class="nameDescription">
+      <p class="dsName"></p>
+      <p class="dsDesc"></p>
+    </div>
+    <div class="leavingLinkWrapper">
+      <a class="leavingLink noInterstitial" href="#" rel="external"></a>
+    </div>
+    <ul class="actions clearfix">
+      <li>
+        <a class="noInterstitial default button accept" href="#" rel="external">
+          <span class="icon"></span>
+          Continue
+        </a>
+      </li>
+      <li>
+        <a class="jqmClose button cancel" href="#cancel">
+          <span class="icon"></span>
+          Cancel
+        </a>
+      </li>
+    </ul>
+</div>
+
+    <div class="modalDialog" id="jqmAlert" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+      <h2>Alert</h2>
+      <p class="alertMessage"></p>
+      <ul class="actions clearfix">
+        <li><a href="#close" class="button jqmClose">Close</a></li>
+      </ul>
+</div>    <div class="modalDialog" id="jqmConfirm" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+      <h2>Alert</h2>
+      <p class="confirmMessage"></p>
+      <ul class="actions clearfix">
+        <li><a href="#close" class="button jqmClose default yes">Yes</a></li>
+        <li><a href="#close" class="button jqmClose no">No</a></li>
+      </ul>
+</div>  </div>
+  <div id="newModals">
+  	
+  </div>
+
+    <script type='text/javascript'>
+    $(function()
+    {
+       blist.namespace.fetch('blist.browse');
+       blist.browse.datasets = {};
+       blist.browse.datasets['5bei-2py8'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;5bei-2py8&quot;,&quot;name&quot;:&quot;Queens2009 TC Reductions&quot;,&quot;attribution&quot;:&quot;New York City Tax Commission (TAXCOMM)&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Property&quot;,&quot;createdAt&quot;:1314657466,&quot;description&quot;:&quot;Tax Commission Actions on Applications in year 2009 Reducing Assessments or Reclassifying Property.&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:34,&quot;numberOfComments&quot;:0,&quot;oid&quot;:332196,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1314657466,&quot;publicationGroup&quot;:239907,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1314657467,&quot;rowsUpdatedBy&quot;:&quot;txun-eb7e&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:239907,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:54,&quot;viewLastModified&quot;:1360946904,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:2826204,&quot;name&quot;:&quot;TC Reductions&quot;,&quot;fieldName&quot;:&quot;tc_reductions&quot;,&quot;position&quot;:2,&quot;width&quot;:256,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513574,&quot;cachedContents&quot;:{&quot;non_null&quot;:1458,&quot;smallest&quot;:&quot;40001500042009RI. WEISS &amp; SONS INC. 2-07 BORDEN AVENUE   000002640004&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;47234100012009RAT&amp;T COMMUNICATIONS  AT&amp;T COMMUNICATIONS  000000636004&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;41606900122008RQUADROZZI CONCRETE COHESSLER AVENUE       000000135004&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;41606900122009RQUADROZZI CONCRETE COHESSLER AVENUE       000000288004&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;41610400252009RGENERATION NEXT OF FAFINNARD AVENUE       000001891224&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;41612000792009RAHMAD, AHAD          86-02 ROCKAWAY BEACH 000000380004&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;41612401072009RBRADLEY COHEN        2-13 BEACH 90 STREET 000000481924&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;41616604342009RWELLS FARGO BANK     113-01 BEACH CHANNEL 000015450004&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;41617700012009R107-10 SHOREFRONT REA107-10 SHORE FRONT PA000015565252&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;41618800042009RELMS REALTY LLC      1-92 BEACH 116 STREET000004445004&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;41622800352009RGITTEL REALTY LLC    143 BEACH 118 STREET 000001555004&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;41623000392008R133 BEACH APT CORP   133 BEACH 120 STREET 000002485002&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;41623000392009R133 BEACH APT CORP   133 BEACH 120 STREET 000001720002&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;47002200212008RVERIZON NEW YORK INC VERIZON NEW YORK INC 000014084504&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;47002200212009RVERIZON NEW YORK INC VERIZON NEW YORK INC 000014084504&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;47002202512008RAT&amp;T COMMUNICATIONS  AT&amp;T COMMUNICATIONS  000004615004&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;47002202512009RAT&amp;T COMMUNICATIONS  AT&amp;T COMMUNICATIONS  000004615004&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;47002220042009RVERIZON NEW YORK INC VERIZON NEW YORK INC 000060723003&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;47012300512008RBROOKLYN UNION GAS   BROOKLYN UNION GAS   000000470504&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;47012300512009RBROOKLYN UNION GAS   BROOKLYN UNION GAS   000000511004&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;47012300612008RBROOKLYN UNION GAS   BROOKLYN UNION GAS   000000236003&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;47012300612009RBROOKLYN UNION GAS   BROOKLYN UNION GAS   000000168503&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Historical Data&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;5fuc-pqz2&quot;,&quot;displayName&quot;:&quot;NYC OpenData&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1331656907,&quot;screenName&quot;:&quot;NYC OpenData&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;5fuc-pqz2&quot;,&quot;displayName&quot;:&quot;NYC OpenData&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1331656907,&quot;screenName&quot;:&quot;NYC OpenData&quot;},&quot;tags&quot;:[&quot;tax&quot;,&quot;commission&quot;,&quot;apply&quot;,&quot;application&quot;,&quot;assess&quot;,&quot;reclassify&quot;,&quot;reduce&quot;,&quot;reduction&quot;,&quot;reclassified&quot;,&quot;property&quot;,&quot;action&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['ux7p-7t8t'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;ux7p-7t8t&quot;,&quot;name&quot;:&quot;Staten Island 2009 TC Reductions&quot;,&quot;attribution&quot;:&quot;New York City Tax Commission (TAXCOMM)&quot;,&quot;averageRating&quot;:0.0,&quot;createdAt&quot;:1314657523,&quot;description&quot;:&quot;Tax Commission Actions on Applications in year 2009 Reducing Assessments or Reclassifying Property.&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:31,&quot;numberOfComments&quot;:0,&quot;oid&quot;:332197,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1314657523,&quot;publicationGroup&quot;:239908,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1314657524,&quot;rowsUpdatedBy&quot;:&quot;txun-eb7e&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:239908,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:24,&quot;viewLastModified&quot;:1360948190,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:2826205,&quot;name&quot;:&quot;TC Reductions&quot;,&quot;fieldName&quot;:&quot;tc_reductions&quot;,&quot;position&quot;:1,&quot;width&quot;:697,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513575,&quot;cachedContents&quot;:{&quot;non_null&quot;:251,&quot;smallest&quot;:&quot;50000800462009RHARBOR GARDENS ASSOC 100 STUYVESANT PLACE 000000310002&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;57229300122009RTELEPORT COMMUNICATIOTELEPORT COMMUNICATIO000000000004&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;50800800142008RTOTTENVILLE SQUARE LL7001 AMBOY ROAD      000002420004&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;57002220042009RVERIZON NEW YORK INC VERIZON NEW YORK INC 000009343753&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;57020000042008RBROOKLYN UNION GAS   BROOKLYN UNION GAS   000000591004&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;57020000042009RBROOKLYN UNION GAS   BROOKLYN UNION GAS   000000591004&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;57229300122009RTELEPORT COMMUNICATIOTELEPORT COMMUNICATIO000000000004&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;As needed&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;tags&quot;:[&quot;2009&quot;,&quot;tax&quot;,&quot;commission&quot;,&quot;apply&quot;,&quot;application&quot;,&quot;assess&quot;,&quot;reclassify&quot;,&quot;reduce&quot;,&quot;reduction&quot;,&quot;reclassified&quot;,&quot;property&quot;,&quot;action&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['fhpb-kcn4'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;fhpb-kcn4&quot;,&quot;name&quot;:&quot;Bronx Open Article 7 Petitions&quot;,&quot;attribution&quot;:&quot;New York City Tax Commission (TAXCOMM)&quot;,&quot;averageRating&quot;:0.0,&quot;createdAt&quot;:1314719193,&quot;description&quot;:&quot;The information in the City&#x27;s computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:24,&quot;numberOfComments&quot;:0,&quot;oid&quot;:332211,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1314719193,&quot;publicationGroup&quot;:239917,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1314719198,&quot;rowsUpdatedBy&quot;:&quot;txun-eb7e&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:239917,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:49,&quot;viewLastModified&quot;:1360948067,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:2826446,&quot;name&quot;:&quot;Bronx Open Article 7 Petitions &quot;,&quot;fieldName&quot;:&quot;bronx_open_article_7_petitions&quot;,&quot;position&quot;:2,&quot;width&quot;:472,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513625,&quot;cachedContents&quot;:{&quot;non_null&quot;:22391,&quot;smallest&quot;:&quot;202260000100002006009040220 EAST REALTY INC.     370RICHARD A. KRAUSS, ESQ.  000&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;282205011200002009103219OAK POINT PROPERTY LLC   386PROSKAUER ROSE, LLP.     000&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;282204011200002006009029BRITESTARR HOMES INC     015STROOCK &amp; STROOCK &amp; LAVAN000&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;282204011200002009103219OAK POINT PROPERTY LLC   386PROSKAUER ROSE, LLP.     000&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;282204111200002009103219OAK POINT PROPERTY LLC   386PROSKAUER ROSE, LLP.     000&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;282205011200002006009029BRITESTARR HOMES INC     015STROOCK &amp; STROOCK &amp; LAVAN000&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;282205011200002009103219OAK POINT PROPERTY LLC   386PROSKAUER ROSE, LLP.     000&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;As needed&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;tags&quot;:[&quot;tax&quot;,&quot;commission&quot;,&quot;action petition&quot;,&quot;record&quot;,&quot;challenge&quot;,&quot;challenging&quot;,&quot;real&quot;,&quot;property assess&quot;,&quot;law&quot;,&quot;attorney&quot;,&quot;code&quot;,&quot;open&quot;,&quot;bronx&quot;,&quot;article&quot;,&quot;index&quot;,&quot;issue&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['br3m-auk3'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;br3m-auk3&quot;,&quot;name&quot;:&quot;Brooklyn Open Article 7 Petitions&quot;,&quot;attribution&quot;:&quot;New York City Tax Commission (TAXCOMM)&quot;,&quot;averageRating&quot;:0.0,&quot;createdAt&quot;:1314719283,&quot;description&quot;:&quot;The information in the City&#x27;s computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:17,&quot;numberOfComments&quot;:0,&quot;oid&quot;:332212,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1314719283,&quot;publicationGroup&quot;:239918,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1314719288,&quot;rowsUpdatedBy&quot;:&quot;txun-eb7e&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:239918,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:37,&quot;viewLastModified&quot;:1360948130,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:2826448,&quot;name&quot;:&quot;Brooklyn Open Article 7 Petitions &quot;,&quot;fieldName&quot;:&quot;brooklyn_open_article_7_petitions&quot;,&quot;position&quot;:2,&quot;width&quot;:508,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513627,&quot;cachedContents&quot;:{&quot;non_null&quot;:22391,&quot;smallest&quot;:&quot;300001005000001986020129TEN JAY CORP             018PODELL ROTHMAN           513&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;305369007700002009404443DAHILL REALTY LLC        005BRANDT,STEINBERG &amp; LEWIS 000&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;305369007700002005401794DAHILL REALTY LLC        375SILBERBERG &amp; KLEIN LLP   510&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;305369007700002006403458DAHILL REALTY LLC        375SILBERBERG &amp; KLEIN LLP   010&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;305369007700002007404262DAHILL REALTY LLC        375SILBERBERG &amp; KLEIN LLP   010&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;305369007700002008401217DAHILL REALTY LLC        375SILBERBERG &amp; KLEIN LLP   010&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;305369007700002009404443DAHILL REALTY LLC        005BRANDT,STEINBERG &amp; LEWIS 000&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;As needed&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;tags&quot;:[&quot;tax&quot;,&quot;commission&quot;,&quot;action petition&quot;,&quot;record&quot;,&quot;challenge&quot;,&quot;challenging&quot;,&quot;real&quot;,&quot;property assess&quot;,&quot;law&quot;,&quot;attorney&quot;,&quot;code&quot;,&quot;open&quot;,&quot;bronx&quot;,&quot;article&quot;,&quot;index&quot;,&quot;issue&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['gvxz-w3sb'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;gvxz-w3sb&quot;,&quot;name&quot;:&quot;Manhattan Open Article 7 Petitions&quot;,&quot;attribution&quot;:&quot;New York City Tax Commission (TAXCOMM)&quot;,&quot;averageRating&quot;:0.0,&quot;createdAt&quot;:1314719403,&quot;description&quot;:&quot;The information in the City&#x27;s computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:13,&quot;numberOfComments&quot;:0,&quot;oid&quot;:332213,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1314719403,&quot;publicationGroup&quot;:239919,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1314719410,&quot;rowsUpdatedBy&quot;:&quot;txun-eb7e&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:239919,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:35,&quot;viewLastModified&quot;:1360948104,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:2826449,&quot;name&quot;:&quot;Manhattan Open Article 7 Petitions &quot;,&quot;fieldName&quot;:&quot;manhattan_open_article_7_petitions&quot;,&quot;position&quot;:2,&quot;width&quot;:520,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513628,&quot;cachedContents&quot;:{&quot;non_null&quot;:22391,&quot;smallest&quot;:&quot;100005100100002007260574MACK CALI 125 BROAD A L.L135MARCUS &amp; POLLACK LLP     000&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;100754006800002006258027A.P.W.U. LOCAL 10 BUILDIN014GOLDBERG WEPRIN &amp; USTIN  012&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;100754006800002001205213A.P.W.U. LOCAL 10 BUILDIN018PODELL ROTHMAN           510&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;100754006800002002209956A.P.W.U. LOCAL 10 BUILDIN018PODELL ROTHMAN           510&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;100754006800002004252198A.P.W.U. LOCAL 10 BUILDIN014GOLDBERG WEPRIN &amp; USTIN  512&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;100754006800002005250008A.P.W.U. LOCAL 10 BUILDIN014GOLDBERG WEPRIN &amp; USTIN  512&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;100754006800002006258027A.P.W.U. LOCAL 10 BUILDIN014GOLDBERG WEPRIN &amp; USTIN  012&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;As needed&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;tags&quot;:[&quot;tax&quot;,&quot;commission&quot;,&quot;action petition&quot;,&quot;record&quot;,&quot;challenge&quot;,&quot;challenging&quot;,&quot;real&quot;,&quot;property assess&quot;,&quot;law&quot;,&quot;attorney&quot;,&quot;code&quot;,&quot;open&quot;,&quot;article&quot;,&quot;manhattan&quot;,&quot;index&quot;,&quot;issue&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['63q5-id7i'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;63q5-id7i&quot;,&quot;name&quot;:&quot;Queens Open Article 7 Petitions&quot;,&quot;attribution&quot;:&quot;New York City Tax Commission (TAXCOMM)&quot;,&quot;averageRating&quot;:0.0,&quot;createdAt&quot;:1314720660,&quot;description&quot;:&quot;The information in the City&#x27;s computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:23,&quot;numberOfComments&quot;:0,&quot;oid&quot;:332214,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1314720660,&quot;publicationGroup&quot;:239920,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1314720667,&quot;rowsUpdatedBy&quot;:&quot;txun-eb7e&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:239920,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:76,&quot;viewLastModified&quot;:1360946854,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:2826455,&quot;name&quot;:&quot;Queens Open Article 7 Petitions &quot;,&quot;fieldName&quot;:&quot;queens_open_article_7_petitions&quot;,&quot;position&quot;:2,&quot;width&quot;:700,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513634,&quot;cachedContents&quot;:{&quot;non_null&quot;:35146,&quot;smallest&quot;:&quot;400013010500002007802962ANOROC REALTY INC.       115LAWRENCE J BERGER, P.C.  010&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;480141145100002009803510ARVERNE BY THE SEA, LLC  386PROSKAUER ROSE, LLP.     000&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;471975001600002007100106BUCKEYE PIPE LINE CO LP  096CULLEN &amp; DYKMAN          000&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;471975001600002008100142BUCKEYE PIPE LINE COMPANY096CULLEN &amp; DYKMAN          000&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;471975001600002009804462BUCKEYE PIPE LINE COMPANY096CULLEN &amp; DYKMAN          000&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;472453001100002009804451METROPOLITAN FIBER SYSTEM096CULLEN &amp; DYKMAN          000&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;472614001100002008100140CELLCO PARTNERSHIP D/B/A 096CULLEN &amp; DYKMAN          000&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;472614001100002009804449CELLCO PARTNERSHIP D/B/A 096CULLEN &amp; DYKMAN          000&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;472757000100002009804448TC RAVENSWOOD, LLC       096CULLEN &amp; DYKMAN          000&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;480141125200002009803510ARVERNE BY THE SEA, LLC  386PROSKAUER ROSE, LLP.     000&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;480141145100002009803510ARVERNE BY THE SEA, LLC  386PROSKAUER ROSE, LLP.     000&quot;}]},&quot;format&quot;:{&quot;align&quot;:&quot;left&quot;},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;As needed&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;tags&quot;:[&quot;tax&quot;,&quot;commission&quot;,&quot;action petition&quot;,&quot;record&quot;,&quot;challenge&quot;,&quot;challenging&quot;,&quot;real&quot;,&quot;property assess&quot;,&quot;law&quot;,&quot;attorney&quot;,&quot;code&quot;,&quot;open&quot;,&quot;article&quot;,&quot;queens&quot;,&quot;index&quot;,&quot;issue&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['ues8-3g5e'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;ues8-3g5e&quot;,&quot;name&quot;:&quot;Staten Island Open Article 7 Petitions&quot;,&quot;attribution&quot;:&quot;New York City Tax Commission (TAXCOMM)&quot;,&quot;averageRating&quot;:0.0,&quot;createdAt&quot;:1314724110,&quot;description&quot;:&quot;The information in the City&#x27;s computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:28,&quot;numberOfComments&quot;:0,&quot;oid&quot;:332216,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1314724110,&quot;publicationGroup&quot;:239921,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1314724113,&quot;rowsUpdatedBy&quot;:&quot;txun-eb7e&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:239921,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:58,&quot;viewLastModified&quot;:1360948025,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:2826476,&quot;name&quot;:&quot;Staten Island Open Article 7 Petitions &quot;,&quot;fieldName&quot;:&quot;staten_island_open_article_7_petitions&quot;,&quot;position&quot;:2,&quot;width&quot;:568,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513650,&quot;cachedContents&quot;:{&quot;non_null&quot;:3591,&quot;smallest&quot;:&quot;500001021600001999008718B.S.L. ONE OWNERS CORP.  002TUCHMAN,KATZ             510&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;572614001100002009095343CELLCO PARTNERSHIP D/B/A 096CULLEN &amp; DYKMAN          000&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;571437350200002007090010CON EDISON CO OF NY INC  018PODELL ROTHMAN           000&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;571437350200002008900004CON EDISON CO OF NY, INC 018PODELL ROTHMAN           000&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;571437350200002009080306CON EDISON CO OF NY, INC 018PODELL ROTHMAN           000&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;571437350300002006080362CON EDISON CO OF NY INC  018PODELL ROTHMAN           000&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;571437350300002007090010CON EDISON CO OF NY INC  018PODELL ROTHMAN           000&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;571437350300002008900004CON EDISON CO OF NY, INC 018PODELL ROTHMAN           000&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;571437350300002009080306CON EDISON CO OF NY, INC 018PODELL ROTHMAN           000&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;571437550200002007095146ARTHUR KILL POWER LLC    384DAVID M. WISE, ESQ.      000&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;571437550200002008095265ARTHUR KILL POWER, LLC   384DAVID M. WISE, ESQ.      000&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;571437550300002007095146ARTHUR KILL POWER LLC    384DAVID M. WISE, ESQ.      000&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;571437550300002008095265ARTHUR KILL POWER, LLC   384DAVID M. WISE, ESQ.      000&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;571975000100002004009134BUCKEYE PIPE LINE COMPANY096CULLEN &amp; DYKMAN          012&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;571975000100002005090043BUCKEYE PIPE LINE COMPAN 096CULLEN &amp; DYKMAN          510&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;571975000100002006090052BUCKEYE PIPE LINE CO LP  096CULLEN &amp; DYKMAN          010&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;571975000100002007090017BUCKEYE PIPE LINE CO LP  096CULLEN &amp; DYKMAN          000&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;571975000100002008090021BUCKEYE PIPE LINE COMPANY096CULLEN &amp; DYKMAN          000&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;571975000100002009095339BUCKEYE PIPE LINE COMPANY096CULLEN &amp; DYKMAN          000&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;571975001200002004009134BUCKEYE PIPE LINE COMPANY096CULLEN &amp; DYKMAN          010&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;571975001200002005090043BUCKEYE PIPE LINE COMPAN 096CULLEN &amp; DYKMAN          500&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;571975001200002006090052BUCKEYE PIPE LINE CO LP  096CULLEN &amp; DYKMAN          000&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;As needed&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;tags&quot;:[&quot;tax&quot;,&quot;commission&quot;,&quot;action petition&quot;,&quot;record&quot;,&quot;challenge&quot;,&quot;challenging&quot;,&quot;real&quot;,&quot;property assess&quot;,&quot;law&quot;,&quot;attorney&quot;,&quot;code&quot;,&quot;open&quot;,&quot;article&quot;,&quot;staten island&quot;,&quot;index&quot;,&quot;issue&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['yggg-xf4b'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;yggg-xf4b&quot;,&quot;name&quot;:&quot;2010 Local Film Festivals&quot;,&quot;attribution&quot;:&quot;Office of Film, Theatre, and Broadcasting (FILM)&quot;,&quot;averageRating&quot;:0.0,&quot;createdAt&quot;:1314731962,&quot;description&quot;:&quot;List of local film festivals&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:30,&quot;numberOfComments&quot;:0,&quot;oid&quot;:332227,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1314731962,&quot;publicationGroup&quot;:239932,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1314731984,&quot;rowsUpdatedBy&quot;:&quot;txun-eb7e&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:239932,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:157,&quot;viewLastModified&quot;:1361280334,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:2826603,&quot;name&quot;:&quot;Local Festivals&quot;,&quot;fieldName&quot;:&quot;local_festivals&quot;,&quot;position&quot;:2,&quot;width&quot;:280,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513777,&quot;cachedContents&quot;:{&quot;non_null&quot;:47,&quot;smallest&quot;:&quot;African American Women in Cinema Film Festival&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;Tribeca Film Festival&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;African Diaspora Film Festival&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;African American Women in Cinema Film Festival&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;Explorers Club Documentary Film Festival&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;H20 International Film Festival&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;New York AIDS Film Festival&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;New York Turkish Film Festival&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826604,&quot;name&quot;:&quot;Date&quot;,&quot;fieldName&quot;:&quot;date&quot;,&quot;position&quot;:3,&quot;width&quot;:148,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513778,&quot;cachedContents&quot;:{&quot;non_null&quot;:46,&quot;smallest&quot;:&quot;1.13.10 \\u2013 1.28.10&quot;,&quot;null&quot;:1,&quot;largest&quot;:&quot;TBD&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;1.25.10 \\u2013 2.2.10&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;1.13.10 \\u2013 1.28.10&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;2.4.10 \\u2013 2.11.10&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;2.26.10 \\u2013 3.1.10&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;7.22.10 \\u2013 7.29.10&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;3.24.10 \\u2013 4.4.10&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;4.7.10 \\u2013 4.13.10&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;4.7.19 \\u2013 4.13.10&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;4.21.10 \\u2013 5.2.10&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;10.13.10 \\u2013 10.17.10&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;4.25.10&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;4.26.10 \\u2013 5.7.10&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;5.14.10 \\u2013 5.15.10&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;6.2.10&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;6.3.10 \\u2013 6.13.10&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;6.2.10 \\u2013 6.6.10&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;6.4.10 \\u2013 6.13.10&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;6.17.10 \\u2013 6.19.10&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;6/27/10-7/8/10&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;7.9.10 \\u2013 7.18.10&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826605,&quot;name&quot;:&quot;Website&quot;,&quot;fieldName&quot;:&quot;website&quot;,&quot;position&quot;:4,&quot;width&quot;:184,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513779,&quot;cachedContents&quot;:{&quot;non_null&quot;:39,&quot;smallest&quot;:&quot;http://cmj.com/marathon/film.php&quot;,&quot;null&quot;:8,&quot;largest&quot;:&quot;www.nymf.org&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;http://www.dancefilmsassn.org/&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;http://www.thejewishmuseum.org/nyjff2010schedule&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;http://www.americansephardifederation.org/sub/events/film.asp&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;http://www.gkids.com/&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;http://www.nyfilmvideo.com/&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;http://www.filmlinc.com/ndnf/ndnf.html&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;http://www.genart.org/&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;http://www.africanfilmny.org/&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;http://www.tribecafilm.com/festival/&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;http://syrfilmfest.com/&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;http://www.nycmentalhealthfilmfestival.com/&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;http://www.cufilmfest.com/indexstatic.html&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;http://www.bhffnyc.org/&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;http://mediathatmattersfest.org/&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;http://newfest.org/wordpress/&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;http://www.sifilmfestival.org/&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;http://www.brooklynfilmfestival.org/&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;http://www.bronxstage.com/&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;http://www.subwaycinema.com/&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;http://liifilmexpo.org/&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Annually&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;tags&quot;:[&quot;film&quot;,&quot;movie&quot;,&quot;festival&quot;,&quot;event&quot;,&quot;theater&quot;,&quot;theatre&quot;,&quot;media&quot;,&quot;moftb&quot;,&quot;2010 local film festivals&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['rtc6-e7ff'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;rtc6-e7ff&quot;,&quot;name&quot;:&quot;FDNY Community Board Incident Count&quot;,&quot;attribution&quot;:&quot;Fire Department of New York City (FDNY)&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Public Safety&quot;,&quot;createdAt&quot;:1314735394,&quot;description&quot;:&quot;Provides incident counts by Year, Month, Incident classification, borough and community board.&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:64,&quot;numberOfComments&quot;:0,&quot;oid&quot;:332242,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1314735394,&quot;publicationGroup&quot;:239947,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1314735408,&quot;rowsUpdatedBy&quot;:&quot;txun-eb7e&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:239947,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:285,&quot;viewLastModified&quot;:1318009902,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:2826703,&quot;name&quot;:&quot;YEARMONTH&quot;,&quot;fieldName&quot;:&quot;yearmonth&quot;,&quot;position&quot;:2,&quot;width&quot;:208,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513877,&quot;cachedContents&quot;:{&quot;non_null&quot;:5207,&quot;smallest&quot;:&quot;200907&quot;,&quot;sum&quot;:&quot;1046381490&quot;,&quot;null&quot;:449,&quot;average&quot;:&quot;200956.6909928942&quot;,&quot;largest&quot;:&quot;201006&quot;,&quot;top&quot;:[{&quot;count&quot;:440,&quot;item&quot;:&quot;201003&quot;},{&quot;count&quot;:437,&quot;item&quot;:&quot;201006&quot;},{&quot;count&quot;:436,&quot;item&quot;:&quot;201001&quot;},{&quot;count&quot;:436,&quot;item&quot;:&quot;200908&quot;},{&quot;count&quot;:436,&quot;item&quot;:&quot;201004&quot;},{&quot;count&quot;:435,&quot;item&quot;:&quot;200912&quot;},{&quot;count&quot;:433,&quot;item&quot;:&quot;201005&quot;},{&quot;count&quot;:433,&quot;item&quot;:&quot;200910&quot;},{&quot;count&quot;:432,&quot;item&quot;:&quot;201002&quot;},{&quot;count&quot;:430,&quot;item&quot;:&quot;200911&quot;},{&quot;count&quot;:430,&quot;item&quot;:&quot;200907&quot;},{&quot;count&quot;:429,&quot;item&quot;:&quot;200909&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;noCommas&quot;:&quot;false&quot;,&quot;align&quot;:&quot;right&quot;,&quot;mask&quot;:&quot;####/##&quot;},&quot;flags&quot;:null},{&quot;id&quot;:2826704,&quot;name&quot;:&quot;INCIDENTCLASSIFICATION&quot;,&quot;fieldName&quot;:&quot;incidentclassification&quot;,&quot;position&quot;:3,&quot;width&quot;:364,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513878,&quot;cachedContents&quot;:{&quot;non_null&quot;:5656,&quot;smallest&quot;:&quot;All Fire/Emergency Incidents&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;Structural Fires&quot;,&quot;top&quot;:[{&quot;count&quot;:831,&quot;item&quot;:&quot;All Fire/Emergency Incidents&quot;},{&quot;count&quot;:827,&quot;item&quot;:&quot;Medical Emergencies&quot;},{&quot;count&quot;:823,&quot;item&quot;:&quot;Non Medical Emergencies&quot;},{&quot;count&quot;:808,&quot;item&quot;:&quot;False Alarm&quot;},{&quot;count&quot;:801,&quot;item&quot;:&quot;Non Structural Fires&quot;},{&quot;count&quot;:796,&quot;item&quot;:&quot;Structural Fires&quot;},{&quot;count&quot;:769,&quot;item&quot;:&quot;Medical False Alarm&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;INCIDENTCLASSIFICATION&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826705,&quot;name&quot;:&quot;INCIDENTBOROUGH&quot;,&quot;fieldName&quot;:&quot;incidentborough&quot;,&quot;position&quot;:4,&quot;width&quot;:280,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:1513879,&quot;cachedContents&quot;:{&quot;non_null&quot;:5656,&quot;smallest&quot;:&quot;Bronx&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;Staten Island&quot;,&quot;top&quot;:[{&quot;count&quot;:1682,&quot;item&quot;:&quot;Brooklyn&quot;},{&quot;count&quot;:1343,&quot;item&quot;:&quot;Queens&quot;},{&quot;count&quot;:1152,&quot;item&quot;:&quot;Manhattan&quot;},{&quot;count&quot;:1137,&quot;item&quot;:&quot;Bronx&quot;},{&quot;count&quot;:341,&quot;item&quot;:&quot;Staten Island&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;INCIDENTBOROUGH&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826706,&quot;name&quot;:&quot;COMMUNITYBOARDCODE&quot;,&quot;fieldName&quot;:&quot;communityboardcode&quot;,&quot;position&quot;:5,&quot;width&quot;:316,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513880,&quot;cachedContents&quot;:{&quot;non_null&quot;:5358,&quot;smallest&quot;:&quot;1&quot;,&quot;sum&quot;:&quot;39760&quot;,&quot;null&quot;:298,&quot;average&quot;:&quot;7.420679357969392&quot;,&quot;largest&quot;:&quot;18&quot;,&quot;top&quot;:[{&quot;count&quot;:455,&quot;item&quot;:&quot;2&quot;},{&quot;count&quot;:455,&quot;item&quot;:&quot;3&quot;},{&quot;count&quot;:454,&quot;item&quot;:&quot;1&quot;},{&quot;count&quot;:364,&quot;item&quot;:&quot;11&quot;},{&quot;count&quot;:364,&quot;item&quot;:&quot;10&quot;},{&quot;count&quot;:364,&quot;item&quot;:&quot;4&quot;},{&quot;count&quot;:364,&quot;item&quot;:&quot;12&quot;},{&quot;count&quot;:364,&quot;item&quot;:&quot;7&quot;},{&quot;count&quot;:363,&quot;item&quot;:&quot;5&quot;},{&quot;count&quot;:363,&quot;item&quot;:&quot;8&quot;},{&quot;count&quot;:362,&quot;item&quot;:&quot;9&quot;},{&quot;count&quot;:361,&quot;item&quot;:&quot;6&quot;},{&quot;count&quot;:182,&quot;item&quot;:&quot;13&quot;},{&quot;count&quot;:181,&quot;item&quot;:&quot;14&quot;},{&quot;count&quot;:91,&quot;item&quot;:&quot;16&quot;},{&quot;count&quot;:91,&quot;item&quot;:&quot;15&quot;},{&quot;count&quot;:91,&quot;item&quot;:&quot;18&quot;},{&quot;count&quot;:89,&quot;item&quot;:&quot;17&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826707,&quot;name&quot;:&quot;INCIDENTCOUNT&quot;,&quot;fieldName&quot;:&quot;incidentcount&quot;,&quot;position&quot;:6,&quot;width&quot;:256,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513881,&quot;cachedContents&quot;:{&quot;non_null&quot;:5655,&quot;smallest&quot;:&quot;1&quot;,&quot;sum&quot;:&quot;1949172&quot;,&quot;null&quot;:1,&quot;average&quot;:&quot;344.6811671087533&quot;,&quot;largest&quot;:&quot;16804&quot;,&quot;top&quot;:[{&quot;count&quot;:114,&quot;item&quot;:&quot;1&quot;},{&quot;count&quot;:112,&quot;item&quot;:&quot;4&quot;},{&quot;count&quot;:111,&quot;item&quot;:&quot;3&quot;},{&quot;count&quot;:101,&quot;item&quot;:&quot;6&quot;},{&quot;count&quot;:95,&quot;item&quot;:&quot;5&quot;},{&quot;count&quot;:93,&quot;item&quot;:&quot;2&quot;},{&quot;count&quot;:77,&quot;item&quot;:&quot;20&quot;},{&quot;count&quot;:74,&quot;item&quot;:&quot;17&quot;},{&quot;count&quot;:73,&quot;item&quot;:&quot;18&quot;},{&quot;count&quot;:71,&quot;item&quot;:&quot;15&quot;},{&quot;count&quot;:71,&quot;item&quot;:&quot;8&quot;},{&quot;count&quot;:68,&quot;item&quot;:&quot;16&quot;},{&quot;count&quot;:68,&quot;item&quot;:&quot;7&quot;},{&quot;count&quot;:68,&quot;item&quot;:&quot;21&quot;},{&quot;count&quot;:67,&quot;item&quot;:&quot;9&quot;},{&quot;count&quot;:67,&quot;item&quot;:&quot;19&quot;},{&quot;count&quot;:66,&quot;item&quot;:&quot;11&quot;},{&quot;count&quot;:65,&quot;item&quot;:&quot;14&quot;},{&quot;count&quot;:64,&quot;item&quot;:&quot;10&quot;},{&quot;count&quot;:62,&quot;item&quot;:&quot;23&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;tags&quot;:[&quot;fire department&quot;,&quot;fdny&quot;,&quot;fd&quot;,&quot;fires&quot;,&quot;community board&quot;,&quot;station&quot;,&quot;fire station&quot;,&quot;fire house&quot;,&quot;emergency&quot;,&quot;911&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.datasets['zkky-n5j3'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;zkky-n5j3&quot;,&quot;name&quot;:&quot;Water Resevoir Levels&quot;,&quot;attribution&quot;:&quot;Department of Environmental Protection (DEP)&quot;,&quot;averageRating&quot;:0.0,&quot;category&quot;:&quot;Environmental Sustainability&quot;,&quot;createdAt&quot;:1314740665,&quot;description&quot;:&quot;New York City water supply system reservoir levels&quot;,&quot;displayType&quot;:&quot;table&quot;,&quot;downloadCount&quot;:26,&quot;numberOfComments&quot;:0,&quot;oid&quot;:332250,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1314740665,&quot;publicationGroup&quot;:239955,&quot;publicationStage&quot;:&quot;published&quot;,&quot;rowClass&quot;:&quot;&quot;,&quot;rowsUpdatedAt&quot;:1314740746,&quot;rowsUpdatedBy&quot;:&quot;txun-eb7e&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:239955,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:213,&quot;viewLastModified&quot;:1363712522,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:2826775,&quot;name&quot;:&quot;Neversink Date              &quot;,&quot;fieldName&quot;:&quot;neversink_date&quot;,&quot;position&quot;:2,&quot;width&quot;:436,&quot;dataTypeName&quot;:&quot;date&quot;,&quot;renderTypeName&quot;:&quot;date&quot;,&quot;tableColumnId&quot;:1513949,&quot;cachedContents&quot;:{&quot;non_null&quot;:2035,&quot;smallest&quot;:1109692800,&quot;null&quot;:0,&quot;largest&quot;:1285858800,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:1283698800},{&quot;count&quot;:19,&quot;item&quot;:1283785200},{&quot;count&quot;:18,&quot;item&quot;:1283871600},{&quot;count&quot;:17,&quot;item&quot;:1283958000},{&quot;count&quot;:16,&quot;item&quot;:1284044400},{&quot;count&quot;:15,&quot;item&quot;:1284130800},{&quot;count&quot;:14,&quot;item&quot;:1284217200},{&quot;count&quot;:13,&quot;item&quot;:1284303600},{&quot;count&quot;:12,&quot;item&quot;:1284390000},{&quot;count&quot;:11,&quot;item&quot;:1284476400},{&quot;count&quot;:10,&quot;item&quot;:1284562800},{&quot;count&quot;:9,&quot;item&quot;:1284649200},{&quot;count&quot;:8,&quot;item&quot;:1284735600},{&quot;count&quot;:7,&quot;item&quot;:1284822000},{&quot;count&quot;:6,&quot;item&quot;:1284908400},{&quot;count&quot;:5,&quot;item&quot;:1284994800},{&quot;count&quot;:4,&quot;item&quot;:1285081200},{&quot;count&quot;:3,&quot;item&quot;:1285167600},{&quot;count&quot;:2,&quot;item&quot;:1285254000},{&quot;count&quot;:1,&quot;item&quot;:1285340400}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826776,&quot;name&quot;:&quot;Neversink Elevation&quot;,&quot;fieldName&quot;:&quot;neversink_elevation&quot;,&quot;position&quot;:3,&quot;width&quot;:328,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513950,&quot;cachedContents&quot;:{&quot;non_null&quot;:2035,&quot;smallest&quot;:&quot;1394.42&quot;,&quot;sum&quot;:&quot;2911954.23&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;1430.935739557740&quot;,&quot;largest&quot;:&quot;1442.89&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;1428.62&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;1419.96&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;1418.08&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;1417.94&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;1417.78&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;1417.65&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;1417.51&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;1417.41&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;1417.28&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;1417.15&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;1417&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;1416.93&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;1416.14&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;1416.05&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;1415.96&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;1415.14&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;1414.67&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;1414.2&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;1413.75&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;1412.81&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826777,&quot;name&quot;:&quot;Neversink Storage&quot;,&quot;fieldName&quot;:&quot;neversink_storage&quot;,&quot;position&quot;:4,&quot;width&quot;:304,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513951,&quot;cachedContents&quot;:{&quot;non_null&quot;:2035,&quot;smallest&quot;:&quot;16760&quot;,&quot;sum&quot;:&quot;63671393&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;31288.15380835381&quot;,&quot;largest&quot;:&quot;36911&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;30096&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;26346&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;25564&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;25506&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;25441&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;25388&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;25330&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;25289&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;25236&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;25183&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;25121&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;25093&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;24771&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;24734&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;24698&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;24367&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;24178&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;23990&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;23811&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;23438&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826778,&quot;name&quot;:&quot;Rondout Date             &quot;,&quot;fieldName&quot;:&quot;rondout_date&quot;,&quot;position&quot;:5,&quot;width&quot;:400,&quot;dataTypeName&quot;:&quot;date&quot;,&quot;renderTypeName&quot;:&quot;date&quot;,&quot;tableColumnId&quot;:1513952,&quot;cachedContents&quot;:{&quot;non_null&quot;:2034,&quot;smallest&quot;:1109692800,&quot;null&quot;:1,&quot;largest&quot;:1285858800,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:1283785200},{&quot;count&quot;:19,&quot;item&quot;:1283871600},{&quot;count&quot;:18,&quot;item&quot;:1283958000},{&quot;count&quot;:17,&quot;item&quot;:1284044400},{&quot;count&quot;:16,&quot;item&quot;:1284130800},{&quot;count&quot;:15,&quot;item&quot;:1284217200},{&quot;count&quot;:14,&quot;item&quot;:1284303600},{&quot;count&quot;:13,&quot;item&quot;:1284390000},{&quot;count&quot;:12,&quot;item&quot;:1284476400},{&quot;count&quot;:11,&quot;item&quot;:1284562800},{&quot;count&quot;:10,&quot;item&quot;:1284649200},{&quot;count&quot;:9,&quot;item&quot;:1284735600},{&quot;count&quot;:8,&quot;item&quot;:1284822000},{&quot;count&quot;:7,&quot;item&quot;:1284908400},{&quot;count&quot;:6,&quot;item&quot;:1284994800},{&quot;count&quot;:5,&quot;item&quot;:1285081200},{&quot;count&quot;:4,&quot;item&quot;:1285167600},{&quot;count&quot;:3,&quot;item&quot;:1285254000},{&quot;count&quot;:2,&quot;item&quot;:1285340400},{&quot;count&quot;:1,&quot;item&quot;:1285426800}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826779,&quot;name&quot;:&quot;Rondout Elevation&quot;,&quot;fieldName&quot;:&quot;rondout_elevation&quot;,&quot;position&quot;:6,&quot;width&quot;:304,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513953,&quot;cachedContents&quot;:{&quot;non_null&quot;:2034,&quot;smallest&quot;:&quot;827.73&quot;,&quot;sum&quot;:&quot;1701247.79&quot;,&quot;null&quot;:1,&quot;average&quot;:&quot;836.4050098328417&quot;,&quot;largest&quot;:&quot;842.11&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;838.43&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;838.15&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;837.99&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;837.9&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;836.34&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;836.08&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;836.25&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;836.01&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;835.76&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;835.93&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;835.89&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;835.88&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;835.84&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;836.1&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;836.07&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;835.6&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;835.86&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;835.91&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;835.95&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;837.58&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826780,&quot;name&quot;:&quot;Rondout Storage&quot;,&quot;fieldName&quot;:&quot;rondout_storage&quot;,&quot;position&quot;:7,&quot;width&quot;:280,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513954,&quot;cachedContents&quot;:{&quot;non_null&quot;:2034,&quot;smallest&quot;:&quot;42004&quot;,&quot;sum&quot;:&quot;96888875&quot;,&quot;null&quot;:1,&quot;average&quot;:&quot;47634.64847590954&quot;,&quot;largest&quot;:&quot;51499&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;48981&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;48793&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;48684&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;48624&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;47580&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;47406&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;47519&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;47360&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;47194&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;47307&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;47281&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;47274&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;47248&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;47420&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;47400&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;47088&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;47261&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;47294&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;47320&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;48410&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826781,&quot;name&quot;:&quot;Schoharie Date             &quot;,&quot;fieldName&quot;:&quot;schoharie_date&quot;,&quot;position&quot;:8,&quot;width&quot;:424,&quot;dataTypeName&quot;:&quot;date&quot;,&quot;renderTypeName&quot;:&quot;date&quot;,&quot;tableColumnId&quot;:1513955,&quot;cachedContents&quot;:{&quot;non_null&quot;:2034,&quot;smallest&quot;:1109692800,&quot;null&quot;:1,&quot;largest&quot;:1285858800,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:1283785200},{&quot;count&quot;:19,&quot;item&quot;:1283871600},{&quot;count&quot;:18,&quot;item&quot;:1283958000},{&quot;count&quot;:17,&quot;item&quot;:1284044400},{&quot;count&quot;:16,&quot;item&quot;:1284130800},{&quot;count&quot;:15,&quot;item&quot;:1284217200},{&quot;count&quot;:14,&quot;item&quot;:1284303600},{&quot;count&quot;:13,&quot;item&quot;:1284390000},{&quot;count&quot;:12,&quot;item&quot;:1284476400},{&quot;count&quot;:11,&quot;item&quot;:1284562800},{&quot;count&quot;:10,&quot;item&quot;:1284649200},{&quot;count&quot;:9,&quot;item&quot;:1284735600},{&quot;count&quot;:8,&quot;item&quot;:1284822000},{&quot;count&quot;:7,&quot;item&quot;:1284908400},{&quot;count&quot;:6,&quot;item&quot;:1284994800},{&quot;count&quot;:5,&quot;item&quot;:1285081200},{&quot;count&quot;:4,&quot;item&quot;:1285167600},{&quot;count&quot;:3,&quot;item&quot;:1285254000},{&quot;count&quot;:2,&quot;item&quot;:1285340400},{&quot;count&quot;:1,&quot;item&quot;:1285426800}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826782,&quot;name&quot;:&quot;Schoharie Elevation&quot;,&quot;fieldName&quot;:&quot;schoharie_elevation&quot;,&quot;position&quot;:9,&quot;width&quot;:328,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513956,&quot;cachedContents&quot;:{&quot;non_null&quot;:2034,&quot;smallest&quot;:&quot;1072.93&quot;,&quot;sum&quot;:&quot;2271904.59&quot;,&quot;null&quot;:1,&quot;average&quot;:&quot;1116.963908554572&quot;,&quot;largest&quot;:&quot;1133.39&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;1106.37&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;1104.93&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;1109.06&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;1103.38&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;1103.27&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;1103.14&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;1103.02&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;1102.87&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;1102.74&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;1102.63&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;1102.35&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;1101.85&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;1101.34&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;1100.83&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;1100.28&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;1099.62&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;1099.03&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;1098.44&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;1097.88&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;1097.29&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826783,&quot;name&quot;:&quot;Schoharie Storage&quot;,&quot;fieldName&quot;:&quot;schoharie_storage&quot;,&quot;position&quot;:10,&quot;width&quot;:304,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513957,&quot;cachedContents&quot;:{&quot;non_null&quot;:2034,&quot;smallest&quot;:&quot;3440&quot;,&quot;sum&quot;:&quot;31224429&quot;,&quot;null&quot;:1,&quot;average&quot;:&quot;15351.24336283186&quot;,&quot;largest&quot;:&quot;20900&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;11898&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;11475&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;12689&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;11037&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;11005&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;10969&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;10935&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;10892&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;10855&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;10824&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;10745&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;10604&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;10459&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;10315&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;10159&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;9976&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;9815&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;9654&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;9502&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;9341&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826784,&quot;name&quot;:&quot;Cannonsville Date             &quot;,&quot;fieldName&quot;:&quot;cannonsville_date&quot;,&quot;position&quot;:11,&quot;width&quot;:460,&quot;dataTypeName&quot;:&quot;date&quot;,&quot;renderTypeName&quot;:&quot;date&quot;,&quot;tableColumnId&quot;:1513958,&quot;cachedContents&quot;:{&quot;non_null&quot;:2033,&quot;smallest&quot;:1109779200,&quot;null&quot;:2,&quot;largest&quot;:1285858800,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:1283871600},{&quot;count&quot;:19,&quot;item&quot;:1283958000},{&quot;count&quot;:18,&quot;item&quot;:1284044400},{&quot;count&quot;:17,&quot;item&quot;:1284130800},{&quot;count&quot;:16,&quot;item&quot;:1284217200},{&quot;count&quot;:15,&quot;item&quot;:1284303600},{&quot;count&quot;:14,&quot;item&quot;:1284390000},{&quot;count&quot;:13,&quot;item&quot;:1284476400},{&quot;count&quot;:12,&quot;item&quot;:1284562800},{&quot;count&quot;:11,&quot;item&quot;:1284649200},{&quot;count&quot;:10,&quot;item&quot;:1284735600},{&quot;count&quot;:9,&quot;item&quot;:1284822000},{&quot;count&quot;:8,&quot;item&quot;:1284908400},{&quot;count&quot;:7,&quot;item&quot;:1284994800},{&quot;count&quot;:6,&quot;item&quot;:1285081200},{&quot;count&quot;:5,&quot;item&quot;:1285167600},{&quot;count&quot;:4,&quot;item&quot;:1285254000},{&quot;count&quot;:3,&quot;item&quot;:1285340400},{&quot;count&quot;:2,&quot;item&quot;:1285426800},{&quot;count&quot;:1,&quot;item&quot;:1285513200}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826785,&quot;name&quot;:&quot;Cannonsville Elevation&quot;,&quot;fieldName&quot;:&quot;cannonsville_elevation&quot;,&quot;position&quot;:12,&quot;width&quot;:364,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513959,&quot;cachedContents&quot;:{&quot;non_null&quot;:2030,&quot;smallest&quot;:&quot;1090.29&quot;,&quot;sum&quot;:&quot;2316973.63&quot;,&quot;null&quot;:5,&quot;average&quot;:&quot;1141.366320197044&quot;,&quot;largest&quot;:&quot;1157.6&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;1114.13&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;1113.32&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;1112.6&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;1111.84&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;1111.13&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;1110.56&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;1110&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;1109.49&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;1108.92&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;1108.44&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;1107.91&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;1107.36&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;1106.69&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;1106.03&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;1105.32&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;1104.56&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;1104.15&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;1104.04&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;1103.92&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;1103.86&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826786,&quot;name&quot;:&quot;Cannonsville Storage&quot;,&quot;fieldName&quot;:&quot;cannonsville_storage&quot;,&quot;position&quot;:13,&quot;width&quot;:340,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513960,&quot;cachedContents&quot;:{&quot;non_null&quot;:2030,&quot;smallest&quot;:&quot;25646&quot;,&quot;sum&quot;:&quot;172272765&quot;,&quot;null&quot;:5,&quot;average&quot;:&quot;84863.43103448276&quot;,&quot;largest&quot;:&quot;109210&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;49090&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;48189&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;47388&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;46543&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;45754&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;45120&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;44497&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;43961&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;43362&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;42857&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;42301&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;41723&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;41019&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;40326&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;39579&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;38807&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;38401&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;38292&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;38173&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;38113&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826787,&quot;name&quot;:&quot;Pepacton Date              &quot;,&quot;fieldName&quot;:&quot;pepacton_date&quot;,&quot;position&quot;:14,&quot;width&quot;:424,&quot;dataTypeName&quot;:&quot;date&quot;,&quot;renderTypeName&quot;:&quot;date&quot;,&quot;tableColumnId&quot;:1513961,&quot;cachedContents&quot;:{&quot;non_null&quot;:2035,&quot;smallest&quot;:1109692800,&quot;null&quot;:0,&quot;largest&quot;:1285858800,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:1283698800},{&quot;count&quot;:19,&quot;item&quot;:1283785200},{&quot;count&quot;:18,&quot;item&quot;:1283871600},{&quot;count&quot;:17,&quot;item&quot;:1283958000},{&quot;count&quot;:16,&quot;item&quot;:1284044400},{&quot;count&quot;:15,&quot;item&quot;:1284130800},{&quot;count&quot;:14,&quot;item&quot;:1284217200},{&quot;count&quot;:13,&quot;item&quot;:1284303600},{&quot;count&quot;:12,&quot;item&quot;:1284390000},{&quot;count&quot;:11,&quot;item&quot;:1284476400},{&quot;count&quot;:10,&quot;item&quot;:1284562800},{&quot;count&quot;:9,&quot;item&quot;:1284649200},{&quot;count&quot;:8,&quot;item&quot;:1284735600},{&quot;count&quot;:7,&quot;item&quot;:1284822000},{&quot;count&quot;:6,&quot;item&quot;:1284908400},{&quot;count&quot;:5,&quot;item&quot;:1284994800},{&quot;count&quot;:4,&quot;item&quot;:1285081200},{&quot;count&quot;:3,&quot;item&quot;:1285167600},{&quot;count&quot;:2,&quot;item&quot;:1285254000},{&quot;count&quot;:1,&quot;item&quot;:1285340400}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826788,&quot;name&quot;:&quot;Pepacton Elevation&quot;,&quot;fieldName&quot;:&quot;pepacton_elevation&quot;,&quot;position&quot;:15,&quot;width&quot;:316,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513962,&quot;cachedContents&quot;:{&quot;non_null&quot;:2035,&quot;smallest&quot;:&quot;1240.77&quot;,&quot;sum&quot;:&quot;2588975.04&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;1272.223606879607&quot;,&quot;largest&quot;:&quot;1283.68&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;1257.3&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;1256.98&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;1256.66&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;1256.33&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;1256.04&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;1255.73&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;1255.4&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;1255.11&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;1255.09&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;1254.84&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;1254.53&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;1254.23&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;1253.93&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;1253.65&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;1253.35&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;1253.05&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;1252.73&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;1252.42&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;1252.13&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;1251.82&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826789,&quot;name&quot;:&quot;Pepacton Storage&quot;,&quot;fieldName&quot;:&quot;pepacton_storage&quot;,&quot;position&quot;:16,&quot;width&quot;:292,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513963,&quot;cachedContents&quot;:{&quot;non_null&quot;:2035,&quot;smallest&quot;:&quot;81099&quot;,&quot;sum&quot;:&quot;264979028&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;130210.8245700246&quot;,&quot;largest&quot;:&quot;150593&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;105097&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;104597&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;104101&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;103589&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;103140&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;102662&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;102155&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;101709&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;101679&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;101297&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;100824&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;100367&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;99911&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;99489&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;99034&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;98582&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;98101&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;97637&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;97203&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;96740&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826790,&quot;name&quot;:&quot;Ashokan East Date             &quot;,&quot;fieldName&quot;:&quot;ashokan_east_date&quot;,&quot;position&quot;:17,&quot;width&quot;:460,&quot;dataTypeName&quot;:&quot;date&quot;,&quot;renderTypeName&quot;:&quot;date&quot;,&quot;tableColumnId&quot;:1513964,&quot;cachedContents&quot;:{&quot;non_null&quot;:2035,&quot;smallest&quot;:1109692800,&quot;null&quot;:0,&quot;largest&quot;:1285858800,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:1283698800},{&quot;count&quot;:19,&quot;item&quot;:1283785200},{&quot;count&quot;:18,&quot;item&quot;:1283871600},{&quot;count&quot;:17,&quot;item&quot;:1283958000},{&quot;count&quot;:16,&quot;item&quot;:1284044400},{&quot;count&quot;:15,&quot;item&quot;:1284130800},{&quot;count&quot;:14,&quot;item&quot;:1284217200},{&quot;count&quot;:13,&quot;item&quot;:1284303600},{&quot;count&quot;:12,&quot;item&quot;:1284390000},{&quot;count&quot;:11,&quot;item&quot;:1284476400},{&quot;count&quot;:10,&quot;item&quot;:1284562800},{&quot;count&quot;:9,&quot;item&quot;:1284649200},{&quot;count&quot;:8,&quot;item&quot;:1284735600},{&quot;count&quot;:7,&quot;item&quot;:1284822000},{&quot;count&quot;:6,&quot;item&quot;:1284908400},{&quot;count&quot;:5,&quot;item&quot;:1284994800},{&quot;count&quot;:4,&quot;item&quot;:1285081200},{&quot;count&quot;:3,&quot;item&quot;:1285167600},{&quot;count&quot;:2,&quot;item&quot;:1285254000},{&quot;count&quot;:1,&quot;item&quot;:1285340400}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826791,&quot;name&quot;:&quot;Ashokan East Elevation&quot;,&quot;fieldName&quot;:&quot;ashokan_east_elevation&quot;,&quot;position&quot;:18,&quot;width&quot;:364,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513965,&quot;cachedContents&quot;:{&quot;non_null&quot;:2035,&quot;smallest&quot;:&quot;566.42&quot;,&quot;sum&quot;:&quot;1187721.06&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;583.6467125307125&quot;,&quot;largest&quot;:&quot;591.37&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;576.55&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;576.37&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;576.34&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;576.31&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;576.29&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;576.27&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;576.23&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;573.41&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;572.95&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;572.52&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;572.12&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;571.68&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;571.23&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;570.8&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;570.34&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;569.91&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;569.46&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;569.04&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;568.63&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;568.19&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826792,&quot;name&quot;:&quot;Ashokan East Storage&quot;,&quot;fieldName&quot;:&quot;ashokan_east_storage&quot;,&quot;position&quot;:19,&quot;width&quot;:340,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513966,&quot;cachedContents&quot;:{&quot;non_null&quot;:2035,&quot;smallest&quot;:&quot;49359&quot;,&quot;sum&quot;:&quot;152941359&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;75155.45896805897&quot;,&quot;largest&quot;:&quot;87919&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;63766&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;63488&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;63442&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;63396&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;63365&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;63334&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;63272&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;59086&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;58424&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;57804&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;57228&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;56595&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;55947&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;55328&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;54665&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;54054&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;53449&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;52884&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;52332&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;51740&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826793,&quot;name&quot;:&quot;Ashokan West Date             &quot;,&quot;fieldName&quot;:&quot;ashokan_west_date&quot;,&quot;position&quot;:20,&quot;width&quot;:460,&quot;dataTypeName&quot;:&quot;date&quot;,&quot;renderTypeName&quot;:&quot;date&quot;,&quot;tableColumnId&quot;:1513967,&quot;cachedContents&quot;:{&quot;non_null&quot;:2035,&quot;smallest&quot;:1109692800,&quot;null&quot;:0,&quot;largest&quot;:1285858800,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:1283698800},{&quot;count&quot;:19,&quot;item&quot;:1283785200},{&quot;count&quot;:18,&quot;item&quot;:1283871600},{&quot;count&quot;:17,&quot;item&quot;:1283958000},{&quot;count&quot;:16,&quot;item&quot;:1284044400},{&quot;count&quot;:15,&quot;item&quot;:1284130800},{&quot;count&quot;:14,&quot;item&quot;:1284217200},{&quot;count&quot;:13,&quot;item&quot;:1284303600},{&quot;count&quot;:12,&quot;item&quot;:1284390000},{&quot;count&quot;:11,&quot;item&quot;:1284476400},{&quot;count&quot;:10,&quot;item&quot;:1284562800},{&quot;count&quot;:9,&quot;item&quot;:1284649200},{&quot;count&quot;:8,&quot;item&quot;:1284735600},{&quot;count&quot;:7,&quot;item&quot;:1284822000},{&quot;count&quot;:6,&quot;item&quot;:1284908400},{&quot;count&quot;:5,&quot;item&quot;:1284994800},{&quot;count&quot;:4,&quot;item&quot;:1285081200},{&quot;count&quot;:3,&quot;item&quot;:1285167600},{&quot;count&quot;:2,&quot;item&quot;:1285254000},{&quot;count&quot;:1,&quot;item&quot;:1285340400}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826794,&quot;name&quot;:&quot;Ashokan West Elevation&quot;,&quot;fieldName&quot;:&quot;ashokan_west_elevation&quot;,&quot;position&quot;:21,&quot;width&quot;:364,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513968,&quot;cachedContents&quot;:{&quot;non_null&quot;:2034,&quot;smallest&quot;:&quot;566.31&quot;,&quot;sum&quot;:&quot;1192576.73&quot;,&quot;null&quot;:1,&quot;average&quot;:&quot;586.3209095378564&quot;,&quot;largest&quot;:&quot;593.79&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;566.31&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;566.49&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;566.71&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;566.91&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;567.1&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;567.26&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;567.41&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;567.56&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;567.71&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;567.83&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;567.96&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;568.2&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;568.48&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;568.72&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;568.98&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;569.24&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;569.51&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;569.76&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;570.01&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;570.23&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:2826795,&quot;name&quot;:&quot;Ashokan West Storage&quot;,&quot;fieldName&quot;:&quot;ashokan_west_storage&quot;,&quot;position&quot;:22,&quot;width&quot;:340,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:1513969,&quot;cachedContents&quot;:{&quot;non_null&quot;:2034,&quot;smallest&quot;:&quot;26264&quot;,&quot;sum&quot;:&quot;88897962&quot;,&quot;null&quot;:1,&quot;average&quot;:&quot;43705.97935103245&quot;,&quot;largest&quot;:&quot;51192&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;26264&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;26402&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;26571&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;26725&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;26871&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;26994&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;27109&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;27225&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;27340&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;27432&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;27532&quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;27717&quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot;27932&quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;28116&quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;28316&quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;28516&quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;28723&quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;28916&quot;},{&quot;count&quot;:2,&quot;item&quot;:&quot;29108&quot;},{&quot;count&quot;:1,&quot;item&quot;:&quot;29289&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:false,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;As needed&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;table&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;table&quot;,&quot;fatrow&quot;,&quot;page&quot;],&quot;rdfSubject&quot;:&quot;0&quot;,&quot;rowIdentifier&quot;:&quot;0&quot;,&quot;rdfClass&quot;:&quot;&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;txun-eb7e&quot;,&quot;displayName&quot;:&quot;Albert Webber&quot;,&quot;emailUnsubscribed&quot;:false,&quot;privacyControl&quot;:&quot;login&quot;,&quot;profileLastModified&quot;:1364930827,&quot;screenName&quot;:&quot;Albert Webber&quot;},&quot;tags&quot;:[&quot;department of environmental protection&quot;,&quot;dep&quot;,&quot;environment&quot;,&quot;water&quot;,&quot;reservoir&quot;,&quot;health&quot;,&quot;ecosystem&quot;,&quot;eco-system&quot;,&quot;agua&quot;,&quot;water system&quot;,&quot;water supply&quot;,&quot;nyc&quot;,&quot;tap&quot;,&quot;tap water&quot;,&quot;conservation&quot;,&quot;healthy living&quot;],&quot;flags&quot;:[&quot;default&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:null}"));
+       blist.browse.baseURL = "/browse";
+    });
+  </script>
+  <script src="/packages/browse-control.js?1365185895" type="text/javascript"></script>
+
+
+
+    <script type="text/javascript">
+$(function() {
+    $('body.mmr').ready(function() {
+        $.getScript('/assets/489C82E9-3E7D-4332-BAE7-ABA6656A1E67')
+            .done(function() {
+                $('.cpr-link').each(function() {
+                    $(this).data('url', $(this).attr('href'));
+                    $(this).attr('href', '#cpr-colorbox');
+                    $(this).click(function() {
+                        $('#cpr-colorbox-link').attr('href', $(this).data('url')).text($(this).data('url'));
+                        $(this).colorbox({inline:true, width:'50%', speed:200, opacity:0.5});
+                    });
+                });
+            });
+    });
+    $('a.print-link').each(function() {
+          $(this).click(function() { window.print(); return false; });
+    });
+});
+</script>
+<!--[if lte IE 8]>
+<script type="text/javascript">
+/*
+  $(function() {
+    $('a.print-link').each(function() {
+      var url = document.URL;
+      var path = url.substring(0, url.indexOf('?'));
+      var args = url.substring(url.indexOf('?') + 1);
+      if (path.indexOf('mmr/goals', path.length - 9) !== -1) {
+        $(this).off('click');
+        $(this).click(function(){ window.open(path + '/print?' + args); return false; });
+      }
+    });
+  });
+*/
+</script>
+<![endif]-->
+
+
+
+<script type="text/javascript">
+/* (c) 2008-2012 Add This, LLC */
+var addthis_conf={ver:300};if(!((window._atc||{}).ver)){var _atd="www.addthis.com/",_atr="//s7.addthis.com/",_euc=encodeURIComponent,_duc=decodeURIComponent,_atc={rrev:115467,dr:0,ver:250,loc:0,enote:"",cwait:500,bamp:0.25,camp:1,csmp:0.0001,damp:0,famp:0.02,pamp:0.2,tamp:1,lamp:1,plmp:0.00001,vamp:1,vrmp:0.0001,ohmp:0,ltj:1,xamp:1,abf:!!window.addthis_do_ab,qs:0,cdn:0,rsrcs:{bookmark:_atr+"static/r07/bookmark018.html",atimg:_atr+"static/r07/atimg018.html",countercss:_atr+"static/r07/counter002.css",counterIE67css:_atr+"static/r07/counterIE67002.css",counter:_atr+"static/r07/counter002.js",core:_atr+"static/r07/core025.js",wombat:_atr+"static/r07/bar008.js",qbarcss:_atr+"bannerQuirks.css",fltcss:_atr+"static/r07/floating002.css",barcss:_atr+"static/r07/banner004.css",barjs:_atr+"static/r07/banner001.js",contentcss:_atr+"static/r07/content005.css",contentjs:_atr+"static/r07/content006.js",copythis:_atr+"static/r07/copythis00A.js",copythiscss:_atr+"static/r07/copythis00A.css",ssojs:_atr+"static/r07/sso003.js",ssocss:_atr+"static/r07/sso000.css",peekaboocss:_atr+"static/r07/peekaboo002.css",overlayjs:_atr+"static/r07/overlay004.js",widget32css:_atr+"static/r07/widgetbig045.css",widgetcss:_atr+"static/r07/widget087.css",widgetIE67css:_atr+"static/r07/widgetIE67002.css",widgetpng:"//s7.addthis.com/static/r07/widget045.png",link:_atr+"static/r07/link.html",pinit:_atr+"static/r07/pinit005.html",linkedin:_atr+"static/r07/linkedin018.html",fbshare:_atr+"static/r07/fbshare001.html",tweet:_atr+"static/r07/tweet018.html",menujs:_atr+"static/r07/menu117.js",sh:_atr+"static/r07/sh093.html"}};}(function(){var f;var j=(window.location.protocol=="https:"),x,o,c={0:_atr,1:"//ct1.addthis.com/",2:"//ct2.addthis.com/",3:"//ct3.addthis.com/",4:"//ct4.addthis.com/",100:"//ct0.addthis.com/"},u=Math.random();_atc.cdn=0;if(!window.addthis||window.addthis.nodeType!==f){try{x=window.navigator?(navigator.userLanguage||navigator.language):"";o=x.split("-").pop().toLowerCase()=="us";_atc.cdn=true||j?0:(window.addthis_cdn||(u>=0.99?100:(u>=0.98?2:(u>=0.97?3:(u>=0.96&&o?4:(u>=0.95&&o?1:0))))));if(_atc.cdn){for(var q in _atc.rsrcs){if(_atc.rsrcs.hasOwnProperty(q)){_atc.rsrcs[q]=_atc.rsrcs[q].replace(_atr,c[_atc.cdn]).replace(/live\/[a-z]07/,"live/d07");}}_atr=c[_atc.cdn];}}catch(v){}function b(r,k,e,a){return function(){if(!this.qs){this.qs=0;}_atc.qs++;if(!((this.qs++>0&&a)||_atc.qs>1000)&&window.addthis){window.addthis.plo.push({call:r,args:arguments,ns:k,ctx:e});}};}function p(k){var e=this,a=this.queue=[];this.name=k;this.call=function(){a.push(arguments);};this.call.queuer=this;this.flush=function(y,s){this.flushed=1;for(var r=0;r<a.length;r++){y.apply(s||e,a[r]);}return y;};}window.addthis={ost:0,cache:{},plo:[],links:[],ems:[],timer:{load:((new Date()).getTime())},_Queuer:p,_queueFor:b,data:{getShareCount:b("getShareCount","data")},bar:{show:b("show","bar"),initialize:b("initialize","bar")},login:{initialize:b("initialize","login"),connect:b("connect","login")},box:b("box"),button:b("button"),counter:b("counter"),count:b("count"),toolbox:b("toolbox"),update:b("update"),init:b("init"),ad:{event:b("event","ad"),getPixels:b("getPixels","ad")},util:{getServiceName:b("getServiceName")},ready:b("ready"),addEventListener:b("addEventListener","ed","ed"),removeEventListener:b("removeEventListener","ed","ed"),user:{getID:b("getID","user"),getGeolocation:b("getGeolocation","user",null,true),getPreferredServices:b("getPreferredServices","user",null,true),getServiceShareHistory:b("getServiceShareHistory","user",null,true),ready:b("ready","user"),isReturning:b("isReturning","user"),isOptedOut:b("isOptedOut","user"),isUserOf:b("isUserOf","user"),hasInterest:b("hasInterest","user"),isLocatedIn:b("isLocatedIn","user"),interests:b("getInterests","user"),services:b("getServices","user"),location:b("getLocation","user")},session:{source:b("getSource","session"),isSocial:b("isSocial","session"),isSearch:b("isSearch","session")},_pmh:new p("pmh")};var l=document.getElementsByTagName("script")[0];function d(a){a.style.width=a.style.height="1px";a.style.position="absolute";a.style.zIndex=100000;}if(document.location.href.indexOf(_atr)==-1){var m=document.getElementById("_atssh");if(!m){m=document.createElement("div");m.style.visibility="hidden";m.id="_atssh";d(m);l.parentNode.appendChild(m);}function g(a){if(addthis._pmh.flushed){_ate.pmh(a);}else{addthis._pmh.call(a);}}if(window.postMessage){if(window.attachEvent){window.attachEvent("onmessage",g);}else{if(window.addEventListener){window.addEventListener("message",g,false);}}}if(!m.firstChild){var h,t=navigator.userAgent.toLowerCase(),n=Math.floor(Math.random()*1000);if(/msie/.test(t)&&!(/opera/.test(t))){m.innerHTML="<iframe id=\"_atssh"+n+"\" width=\"1\" height=\"1\" title=\"AddThis utility frame\" name=\"_atssh"+n+"\" src=\"\">";h=document.getElementById("_atssh"+n);}else{h=document.createElement("iframe");h.id="_atssh"+n;h.title="AddThis utility frame";m.appendChild(h);}d(h);h.frameborder=h.style.border=0;h.style.top=h.style.left=0;_atc._atf=h;}}var w=document.createElement("script");w.type="text/javascript";w.src=(j?"https:":"http:")+_atc.rsrcs.core;l.parentNode.appendChild(w);var i=10000;if(Math.random()<_atc.ohmp){setTimeout(function(){if(!window.addthis.timer.core){(new Image()).src="//m.addthisedge.com/live/t00/oh.gif?"+Math.floor(Math.random()*4294967295).toString(36)+"&cdn="+_atc.cdn+"&sr="+_atc.ohmp+"&rev="+_atc.rrev+"&to="+i;if(_atc.cdn!==0){var e=document.createElement("script");e.type="text/javascript";e.src=(j?"https:":"http:")+_atr+"static/r07/core025.js";l.parentNode.appendChild(e);}}},i);}}})();
+
+// LiveDocs
+$("a.exec").click(function(event) {
+  event.preventDefault();
+
+  var iframe = '<iframe class="live-docs" src="' + $.htmlEscape($(this).attr('href')) + '" width="800" height="650" scrolling="yes"></iframe>';
+  $(this).parent().after(iframe);
+});
+</script>
+
+</body>
+</html>
