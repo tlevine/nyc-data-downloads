@@ -1,0 +1,490 @@
+Building Address,Building Name,Building Park,Submarket Name,Submarket Cluster,County Name,PropertyType,Building Class,Building Status,Year Built,Year Renovated,Number Of Stories,Last Sale Price,Last Sale Date,For Sale Status,For Sale Price,Land Area (AC),Rentable Building Area,Typical Floor Size,Number Of Elevators,Core Factor,Percent Leased,Average Weighted Rent,Services,Total New Space (SF),Total Relet Space (SF),Total Sublet Space (SF),Total Vacant Avail Relet Space (SF),Total Vacant Avail Sublet Space (SF),Max Building Contiguous Space,Max Floor Contiguous Space,Total Available Space (SF),Amenities,Zoning,Number Of Parking Spaces,Parking Ratio,Building Operating Expenses,Building Tax Expenses,Location 1
+120 W 45th St,Tower 45,,Times Square,Midtown,Manhattan,Office,A,Existing,1989,,40,,,N,,0.3558,443956,11098,9,,86.46,62.05,Direct - Plus Electric,,84578,37376,60125,26626,26626,13313,121954,"Atrium, Commuter Rail, Concierge, Courtyard, On Site Management, Property Manager on Site, Restaurant",C6-5.5,,,"2010 Tax @ $12.22/sf, 2011 Est Tax @ $12.22/sf; 2011 Ops @ $17.30/sf, 2010 Est Ops @ $17.57/sf","2010 Tax @ $12.22/sf, 2011 Est Tax @ $12.22/sf; 2011 Ops @ $17.30/sf, 2010 Est Ops @ $17.57/sf","120 45th St
+New York, NY 10036
+(40.757269695813804, -73.98400302159699)"
+155 W 46th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1927,,7,,,N,,0.0459,12600,1800,1,,100,28,Direct - Plus Electric,,1800,0,0,0,1800,1800,1800,,C6-7T,,,,,"155 46th St
+New York, NY 10036
+(40.758257159927325, -73.9843070160967)"
+1560 Broadway,Actor's Equity Bldg,,Times Square,Midtown,Manhattan,Office,B,Existing,1924,,17,,,N,,0.2479,212500,15000,7,,98.64,35.36,Direct - Plus Electric,,7406,5000,2894,0,5000,5000,12406,"Corner Lot, On Site Management, Property Manager on Site, Restaurant",C6-7T,,,"2011 Tax @ $6.69/sf; 2011 Ops @ $19.40/sf, 2010 Est Ops @ $17.95/sf","2011 Tax @ $6.69/sf; 2011 Ops @ $19.40/sf, 2010 Est Ops @ $17.95/sf","1560 Broadway
+New York, NY 10036
+(40.75900327160855, -73.98519067014539)"
+729 Seventh Ave,,,Times Square,Midtown,Manhattan,Office,B,Existing,1915,1984,18,29000000,06/30/2001,N,,0.2479,163400,10800,6,,87.82,45.38,Direct - Plus Electric,,32347,1400,19907,0,10990,10800,33747,"24/7 Building Access, Concierge","C6-7.5,New York,(R0)",,,,,"729 Seventh Ave
+New York, NY 10036
+(40.75981723342805, -73.9841623585609)"
+810 Seventh Ave,,,Columbus Circle,Midtown,Manhattan,Office,A,Existing,1970,,41,147712500,12/30/1993,N,,0.564,748023,16444,13,,92.37,64.900000000000006,Direct - Plus Electric,,96834,0,57077,0,22437,22437,96834,"Atrium, Concierge, Conferencing Facility, Food Service, Metro/Subway, Property Manager on Site, Restaurant","C6-7, New York",,0.46,"2010 Tax @ $10.56/sf, 2011 Est Tax @ $10.45/sf; 2001 Ops @ $15.23/sf, 2011 Est Ops @ $18.50/sf","2010 Tax @ $10.56/sf, 2011 Est Tax @ $10.45/sf; 2001 Ops @ $15.23/sf, 2011 Est Ops @ $18.50/sf","810 Seventh Ave
+New York, NY 10036
+(40.759842914885056, -73.9842263035319)"
+130 W 42nd St,Bush Tower,,Penn Plaza/Garment,Midtown,Manhattan,Office,B,Existing,1917,,30,,,N,,0.2261,226500,7004,9,,96.91,Negotiable,Direct - Plus Electric,,13000,0,7000,0,6000,6000,13000,"24/7 Building Access, Bus Line, Concierge, Metro/Subway, On Site Management, Property Manager on Site",C6-7,,,"2010 Tax @ $6.01/sf, 2011 Est Tax @ $0.52/sf; 2011 Ops @ $1.09/sf, 2010 Est Ops @ $15.59/sf","2010 Tax @ $6.01/sf, 2011 Est Tax @ $0.52/sf; 2011 Ops @ $1.09/sf, 2010 Est Ops @ $15.59/sf","130 42nd St
+New York, NY 10036
+(40.755370336213275, -73.98535022965069)"
+1515 Broadway,One Astor Plaza,,Times Square,Midtown,Manhattan,Office,A,Existing,1972,,54,544500000,04/27/2007,N,,1.5014,1750000,32407,32,,100,Negotiable,Direct - Plus Electric,,0,4000,0,0,2000,2000,4000,"24/7 Building Access, Bus Line, Metro/Subway, On Site Management, Property Manager on Site","C6, New York",,0.12,"2010 Tax @ $11.64/sf, 2011 Est Tax @ $11.42/sf; 2001 Ops @ $19.45/sf, 2011 Est Ops @ $12.75/sf","2010 Tax @ $11.64/sf, 2011 Est Tax @ $11.42/sf; 2001 Ops @ $19.45/sf, 2011 Est Ops @ $12.75/sf","1515 Broadway
+New York, NY 10036
+(40.75729656648954, -73.98573468333922)"
+825 Eighth Ave,Worldwide Plaza,,Times Square,Midtown,Manhattan,Office,A,Existing,1989,,47,605000000,07/21/2005,N,,1.3774,1900000,60000,27,,99.91,Negotiable,,,72362,33116,1685,33116,68288,34144,105478,"Banking, Concierge, Corner Lot, Energy Star Labeled, Fitness Center, Food Court, Metro/Subway, On Site Management, Property Manager on Site, Restaurant","C62, New York",,0.3,"2010 Tax @ $12.23/sf, 2011 Est Tax @ $12.22/sf; 2001 Ops @ $12.11/sf, 2011 Est Ops @ $11.18/sf","2010 Tax @ $12.23/sf, 2011 Est Tax @ $12.22/sf; 2001 Ops @ $12.11/sf, 2011 Est Ops @ $11.18/sf","825 Eighth Ave
+New York, NY 10036
+(40.7610388035879, -73.98707738246674)"
+711 7th Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1925,,2,,,N,,0.1377,7381,3691,0,,100,-,,,,,,,,,,,C6-7T,,,2009 Tax @ $55.68/sf,2009 Tax @ $55.68/sf,"711 7th Ave
+New York, NY 10036
+(40.75962412941186, -73.98433399575754)"
+719 7th Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1927,,3,,,N,,0.0453,4998,1666,0,,100,-,,,,,,,,,,,C6-7T,,,2009 Tax @ $65.22/sf,2009 Tax @ $65.22/sf,"719 7th Ave
+New York, NY 10036
+(40.75975902771626, -73.98424406355463)"
+687 8th Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,4100000,05/16/1998,N,,0.0465,5588,1587,0,,100,-,,,,,,,,,,,"C6-4, New York",,,2011 Tax @ $36.10/sf; 2011 Est Ops @ $20.58/sf,2011 Tax @ $36.10/sf; 2011 Est Ops @ $20.58/sf,"687 8th Ave
+New York, NY 10036
+(40.75820320060552, -73.98910040251286)"
+688 8th Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,5,,,N,,0.06,8484,1696,0,,100,-,,,,,,,,,,,C6-4,,,2008 Tax @ $5.55/sf,2008 Tax @ $5.55/sf,"688 8th Ave
+New York, NY 10036
+(40.75820320060552, -73.98910040251286)"
+713 8th Ave,,,Times Square,Midtown,Manhattan,Office,B,Existing,,,3,,,N,,,25318,8439,0,,100,-,,,,,,,,,,,,,,"2011 Tax @ $11.77/sf, 2010 Est Tax @ $11.38/sf; 2011 Est Ops @ $17.25/sf","2011 Tax @ $11.77/sf, 2010 Est Tax @ $11.38/sf; 2011 Est Ops @ $17.25/sf","713 8th Ave
+New York, NY 10036
+(40.75906832243723, -73.9884815362417)"
+219-235 W 40th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1923,,5,59990000,07/13/2000,N,,0.1148,25000,4696,0,,100,-,,,,,,,,,,,M1-6,,,2011 Tax @ $36.04/sf; 2011 Est Ops @ $209.70/sf,2011 Tax @ $36.04/sf; 2011 Est Ops @ $209.70/sf,"219 235 W 40th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+141 W 41st St,,,Penn Plaza/Garment,Midtown,Manhattan,Office,C,Existing,1900,,5,4500000,01/31/2004,N,,0.0562,8545,1375,1,,82.45,60.45,Direct - Plus Electric,,6700,0,1500,0,5200,2200,6700,Food Service,C5-3,,,"2011 Tax @ $7.33/sf; 2001 Ops @ $6.48/sf, 2011 Est Ops @ $9.16/sf","2011 Tax @ $7.33/sf; 2001 Ops @ $6.48/sf, 2011 Est Ops @ $9.16/sf","141 41st St
+New York, NY 10036
+(40.75479477011447, -73.986096666935)"
+220 W 41st St,,,Times Square,Midtown,Manhattan,Retail,,Existing,,,5,,,N,,,39631,7926,0,,100,-,,,,,,,,,,,,200,,,,"220 41st St
+New York, NY 10036
+(40.75561380596294, -73.98808789816832)"
+262 W 41st St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1923,,8,,,N,,0.1134,35600,4450,0,,100,-,,,,,,,,,,Property Manager on Site,C6-7.5,,,,,"262 41st St
+New York, NY 10036
+(40.75609928567383, -73.98922189182137)"
+136 W 42nd St,,,Penn Plaza/Garment,Midtown,Manhattan,Office,B,Existing,1900,1983,5,5250000,09/22/1995,N,,0.0562,8812,2002,0,,100,-,,,,,,,,,,,"C6-7, New York",,,2008 Tax @ $8.01/sf,2008 Tax @ $8.01/sf,"136 42nd St
+New York, NY 10036
+(40.75539731587412, -73.98543116863328)"
+215-219 W 42nd St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1919,,6,,,N,,0.4723,30392,7500,0,,100,-,,,,,,,,,,,C6-7.5,,,2010 Tax @ $0.82/sf,2010 Tax @ $0.82/sf,"215 219 W 42nd St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+225-229 W 42nd St,The New 42nd St Studios,,Times Square,Midtown,Manhattan,Retail,,Existing,2000,,10,,,N,,0.3089,84000,7500,2,,100,-,,,,,,,,,,,C6-5,,,2010 Tax @ $12.95/sf; 2010 Est Ops @ $15.71/sf,2010 Tax @ $12.95/sf; 2010 Est Ops @ $15.71/sf,"225 229 W 42nd St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+234 W 42nd St,,42nd Street Retail Shops,Times Square,Midtown,Manhattan,Retail,,Existing,2000,,15,851500000,03/29/2007,N,,1.3432,300359,20023,0,,100,-,,,,,,,,,,"Enclosed Mall, Food Court, Hotel, Kiosk/Cart Space, Metro/Subway, Mixed Use, Restaurant, Signage",NZS,,,2009 Combined Tax/Ops @ $27.59/sf; 2011 Est Ops @ $13.32/sf,2009 Combined Tax/Ops @ $27.59/sf; 2011 Est Ops @ $13.32/sf,"234 42nd St
+New York, NY 10036
+(40.75644935397512, -73.98798606489039)"
+301 W 42nd St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1972,1999,2,27000000,07/24/2001,N,,0.1385,12905,6000,0,,100,-,,,,,,,,,,,C6-4,,,2011 Tax @ $39.79/sf; 2011 Est Ops @ $12.40/sf,2011 Tax @ $39.79/sf; 2011 Est Ops @ $12.40/sf,"301 42nd St
+New York, NY 10036
+(40.75728466411027, -73.9898319776268)"
+303 W 42nd St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1900,,13,,,N,,0.4224,45500,3500,0,,95.33,42.35,Direct - Full Service Gross,,2125,0,2125,0,1000,1000,2125,,C6-4,,,"2011 Tax @ $7.65/sf; 2001 Ops @ $41.62/sf, 2011 Est Ops @ $14.14/sf","2011 Tax @ $7.65/sf; 2001 Ops @ $41.62/sf, 2011 Est Ops @ $14.14/sf","303 42nd St
+New York, NY 10036
+(40.75730752021273, -73.98988708275053)"
+125 W 43rd St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1910,,5,,,N,,0.048,7041,1408,0,,100,-,,,,,,,,,,,C6-5.5,,,2008 Ops @ $12.47/sf,2008 Ops @ $12.47/sf,"125 43rd St
+New York, NY 10036
+(40.75603583451493, -73.98482862287369)"
+253 W 43rd St,,,Times Square,Midtown,Manhattan,Retail,,Existing,,,5,,,N,,,17987,3597,0,,100,-,,,,,,,,,,,,,,,,"253 43rd St
+New York, NY 10036
+(40.75735541284205, -73.98794832950449)"
+300 W 43rd St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1928,,6,,,N,,0.287,72038,12006,3,,100,45,Direct - Plus Electric,,3600,17316,0,0,2500,2500,20916,,C6-4,,,"2011 Tax @ $5.36/sf; 2011 Ops @ $14.24/sf, 2010 Est Ops @ $15.49/sf","2011 Tax @ $5.36/sf; 2011 Ops @ $14.24/sf, 2010 Est Ops @ $15.49/sf","300 43rd St
+New York, NY 10036
+(40.75793576160128, -73.98941818760571)"
+120 W 44th St,,,Times Square,Midtown,Manhattan,Office,B,Existing,1930,,17,,,N,,0.1722,120000,7500,2,,100,-,,,,,,,,,,Property Manager on Site,C6-5.5,,,2010 Tax @ $4.69/sf; 2001 Ops @ $8.18/sf,2010 Tax @ $4.69/sf; 2001 Ops @ $8.18/sf,"120 44th St
+New York, NY 10036
+(40.756602407393416, -73.98428003643579)"
+234-236 W 44th St,,,Times Square,Midtown,Manhattan,Office,B,Existing,1927,,11,,,N,,0.1309,53200,5200,2,,94.47,45,Direct - Modified Gross,,2944,0,2944,0,1884,1884,2944,,C6-5,,,"2011 Tax @ $5.77/sf; 2011 Ops @ $14.65/sf, 2010 Est Ops @ $15.04/sf","2011 Tax @ $5.77/sf; 2011 Ops @ $14.65/sf, 2010 Est Ops @ $15.04/sf","234 236 W 44th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+300-304 W 44th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1930,,4,,,N,,0.06,9483,2370,0,,100,-,,,,,,,,,,"Corner Lot, Street parking only",C6-4,,,2008 Tax @ $10.44/sf,2008 Tax @ $10.44/sf,"300 304 W 44th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+305 W 44th St,,,Times Square,Midtown,Manhattan,Office,B,Existing,1928,,5,,,N,,0.23,20676,4135,0,,100,-,,,,,,,,,,,C6-4,,,2011 Tax @ $12.78/sf; 2011 Est Ops @ $30.63/sf,2011 Tax @ $12.78/sf; 2011 Est Ops @ $30.63/sf,"305 44th St
+New York, NY 10036
+(40.7586416486521, -73.98902399049685)"
+115 W 45th St,,,Times Square,Midtown,Manhattan,Office,B,Existing,1925,,12,,,N,,0.1033,43644,3637,0,,83.1,40.82,Direct - Plus All Utilities,,7375,0,7375,0,4200,4200,7375,"24/7 Building Access, Bus Line, Metro/Subway",C6-5.5,,,1999 Tax @ $4.61/sf; 1999 Ops @ $9.64/sf,1999 Tax @ $4.61/sf; 1999 Ops @ $9.64/sf,"115 45th St
+New York, NY 10036
+(40.757088041289194, -73.98349762627032)"
+121 W 45th St,Connolly's Pub,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,3,4500000,08/07/1998,N,,0.0715,9429,3143,0,,100,-,,,,,,,,,,,"C6-5.5, New York",,,"2011 Tax @ $14.91/sf; 2011 Ops @ $7.08/sf, 2010 Est Ops @ $6.38/sf","2011 Tax @ $14.91/sf; 2011 Ops @ $7.08/sf, 2010 Est Ops @ $6.38/sf","121 45th St
+New York, NY 10036
+(40.75716898027184, -73.98370447033705)"
+123 W 45th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1930,,5,3410000,03/02/2002,N,,0.129,4942,1214,0,,100,-,,,,,,,,,,,"C6-5.5,Manhattan(K9)",,,"2011 Tax @ $20.80/sf; 2011 Ops @ $13.62/sf, 2010 Est Ops @ $4.54/sf","2011 Tax @ $20.80/sf; 2011 Ops @ $13.62/sf, 2010 Est Ops @ $4.54/sf","123 45th St
+New York, NY 10036
+(40.75720495315301, -73.9837854093197)"
+251 W 45th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1958,,7,,,N,,0.3691,45584,6511,0,,100,-,,,,,,,,,,Pylon Sign,C6-5,,,2010 Tax @ $6.61/sf; 2010 Est Ops @ $4.66/sf,2010 Tax @ $6.61/sf; 2010 Est Ops @ $4.66/sf,"251 45th St
+New York, NY 10036
+(40.75885071246665, -73.98766148726594)"
+263 W 45th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,3,,,N,,0.0367,7799,2599,0,,100,-,,,,,,,,,,,C6-5,,,2008 Tax @ $6.67/sf,2008 Tax @ $6.67/sf,"263 45th St
+New York, NY 10036
+(40.758940644669565, -73.98786833133272)"
+347 W 46 St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,3,650000,03/29/1991,N,,0.045,3168,1000,0,,100,-,,,,,,,,,,,"R8, New York",,,1995 Tax @ $7.49/sf,1995 Tax @ $7.49/sf,"347 46 St
+New York, NY 10036
+(40.76054143788173, -73.98970294827245)"
+129 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1902,,9,,,N,,0.0849,27250,4284,0,,100,-,,,,,,,,,,,C6-5.5,,,2008 Tax @ $13.08/sf,2008 Tax @ $13.08/sf,"129 46th St
+New York, NY 10036
+(40.75795139043731, -73.98356057881233)"
+136 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,5,,,N,,0.0344,5720,1144,0,,100,-,,,,,,,,,,,C6-5.5,,,2009 Tax @ $5.63/sf,2009 Tax @ $5.63/sf,"136 46th St
+New York, NY 10036
+(40.75805930908086, -73.98382138220086)"
+140a W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,5,,,N,,0.0344,6358,1272,0,,100,-,,,,,,,,,,,C6-5.5,,,2009 Tax @ $6.23/sf,2009 Tax @ $6.23/sf,"140a 46th St
+New York, NY 10036
+(40.75817457848294, -73.98418595742201)"
+147-149 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,2006,4,18000000,10/06/2006,N,,0.0867,13460,3308,0,,100,-,,,,,,,,,,,C6-5.5,,,2010 Tax @ $12.96/sf; 2010 Est Ops @ $4.12/sf,2010 Tax @ $12.96/sf; 2010 Est Ops @ $4.12/sf,"147 149 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+150 W 46th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1930,,7,,,N,,0.0689,21000,3000,1,,71.430000000000007,26,Direct - Triple Net,,6000,0,6000,0,6000,3000,6000,"24/7 Building Access, Property Manager on Site",C6-5.5,,,"2011 Tax @ $7.96/sf, 2010 Est Tax @ $8.13/sf; 2010 Ops @ $12.60/sf, 2011 Est Ops @ $7.53/sf","2011 Tax @ $7.96/sf, 2010 Est Tax @ $8.13/sf; 2010 Ops @ $12.60/sf, 2011 Est Ops @ $7.53/sf","150 46th St
+New York, NY 10036
+(40.75818521416494, -73.98411815847055)"
+227 W 46th St,,,Times Square,Midtown,Manhattan,Office,B,Existing,1919,,6,,,N,,0.1722,28765,4794,0,,100,-,,,,,,,,,,,C6-5,,,,,"227 46th St
+New York, NY 10036
+(40.7592644006001, -73.98669021947433)"
+247 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,2006,,1,820000,03/12/2004,N,,0.1148,5000,5000,0,,100,-,,,,,,,,,,,C6-4,,,2008 Tax @ $61.11/sf,2008 Tax @ $61.11/sf,"247 46th St
+New York, NY 10036
+(40.759169981512386, -73.98640276810715)"
+252 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,,,N,,0.0367,5319,1329,0,,100,-,,,,,,,,,,,C6-5,,,2010 Tax @ $5.57/sf; 2010 Est Ops @ $7.21/sf,2010 Tax @ $5.57/sf; 2010 Est Ops @ $7.21/sf,"252 46th St
+New York, NY 10036
+(40.759453258226245, -73.98713088726868)"
+256-262 W 46th St,,Show Biz Parking,Times Square,Midtown,Manhattan,Retail,,Existing,,,,1166620,10/14/2005,N,,0.2399,5808,,0,,0,-,,,,,,,,,,,"C65, New York",90,,,,"256 262 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+300 W 46th St,,,Times Square,Midtown,Manhattan,Office,B,Existing,1890,,5,,,N,,0.186,29670,4772,0,,100,-,,,,,,,,,,,C6-4,,,2011 Tax @ $4.05/sf; 2011 Est Ops @ $11.23/sf,2011 Tax @ $4.05/sf; 2011 Est Ops @ $11.23/sf,"300 46th St
+New York, NY 10036
+(40.75980677379133, -73.98803431257573)"
+303-305 W 46th St,Parking Lot,,Times Square,Midtown,Manhattan,Retail,,Existing,1910,,1,11000000,08/16/2003,N,,0.11,4060,4060,0,,100,-,,,,,,,,,,,C6-4 (G6),,,2010 Tax @ $9.64/sf; 2010 Est Ops @ $2.96/sf,2010 Tax @ $9.64/sf; 2010 Est Ops @ $2.96/sf,"303 305 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+307-311 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,,,1,15813790,08/16/2003,N,,0.14,5280,5281,0,,100,-,,,,,,,,,,,R8 (G6),,,2010 Tax @ $10.41/sf; 2010 Est Ops @ $1.98/sf,2010 Tax @ $10.41/sf; 2010 Est Ops @ $1.98/sf,"307 311 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+315 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1910,,3,3750000,11/05/2002,N,,0.046,3539,1180,0,,100,-,,,,,,,,,,,R8 (K4),,,2010 Tax @ $11.81/sf; 2010 Est Ops @ $11.59/sf,2010 Tax @ $11.81/sf; 2010 Est Ops @ $11.59/sf,"315 46th St
+New York, NY 10036
+(40.760145736188804, -73.98877664658232)"
+318-320 W 46th St,,,Times Square,Midtown,Manhattan,Office,B,Existing,1928,,6,,,N,,0.101,24308,4051,0,,100,-,,,,,,,,,,,R8,,,2008 Tax @ $4.28/sf,2008 Tax @ $4.28/sf,"318 320 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+323-325 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,,,4,,,N,,,8796,1709,0,,100,-,,,,,,,,,,,,,,,,"323 325 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+334-338 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,,,N,,0.2537,15576,3894,0,,100,-,,,,,,,,,,,R8,,,2008 Tax @ $3.43/sf,2008 Tax @ $3.43/sf,"334 338 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+343 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1915,,3,3600000,09/17/2003,N,,0.0436,4832,1611,0,,100,-,,,,,,,,,,"Mixed Use, Restaurant",R8/C1-5,,,2008 Tax @ $7.32/sf,2008 Tax @ $7.32/sf,"343 46th St
+New York, NY 10036
+(40.76048747855998, -73.98957704318838)"
+344 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,3,2000000,09/19/2000,N,,0.0461,3464,1154,0,,100,-,,,,,,,,,,Street parking only,"R8,New York,(K4)",,,2010 Tax @ $12.27/sf; 2010 Est Ops @ $16.24/sf,2010 Tax @ $12.27/sf; 2010 Est Ops @ $16.24/sf,"344 46th St
+New York, NY 10036
+(40.76047848533966, -73.98956804996806)"
+346-348 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,1986,4,5000000,03/22/2003,N,,0.082,8750,1750,0,,100,-,,,,,,,,,,,R8/C1-5 (C7),,,2009 Tax @ $18.84/sf,2009 Tax @ $18.84/sf,"346 348 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+350 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,3,563500,08/12/1992,N,,0.036,2791,930,0,,100,-,,,,,,,,,,,"R8, New York",,,2008 Tax @ $11.50/sf,2008 Tax @ $11.50/sf,"350 46th St
+New York, NY 10036
+(40.76055043110199, -73.98972992793335)"
+353 W 46th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1910,,4,2000000,11/29/1997,N,,0.0436,4043,1025,0,,100,-,,,,,,,,,,,"R-8, New York",,,2010 Tax @ $6.09/sf; 2010 Est Ops @ $10.39/sf,2010 Tax @ $6.09/sf; 2010 Est Ops @ $10.39/sf,"353 46th St
+New York, NY 10036
+(40.760622376864376, -73.98989180589865)"
+355-365 W 46th St,,,Times Square,Midtown,Manhattan,Office,B,Existing,1920,,4,,,N,,0.0459,8000,2000,1,,100,-,,,,,,,,,,,R8,,,2001 Tax @ $3.42/sf; 2001 Ops @ $4.45/sf,2001 Tax @ $3.42/sf; 2001 Ops @ $4.45/sf,"355 365 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+362 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,3,,,N,,0.04,10412,3470,0,,100,-,,,,,,,,,,,R8,,,,,"362 46th St
+New York, NY 10036
+(40.76072130228761, -73.99011663640596)"
+365-367 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1899,,4,6450000,04/16/2002,N,,0.076,10164,3322,0,,100,-,,,,,,,,,,,"R8, New York, K9",,,2009 Tax @ $7.02/sf,2009 Tax @ $7.02/sf,"365 367 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+366 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,2002,5,3700000,05/11/2006,N,,0.0386,3200,1600,0,,100,-,,,,,,,,,,"Mezzanine, Signage, Street parking only",C1-5/R-8,,,2010 Tax @ $7.50/sf; 2010 Ops @ $12.81/sf,2010 Tax @ $7.50/sf; 2010 Ops @ $12.81/sf,"366 46th St
+New York, NY 10036
+(40.760766268389034, -73.99022455504945)"
+368 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,,,4,,,N,,,3400,850,0,,100,-,,,,,,,,,,,,,,1995 Tax @ $2.57/sf; 1995 Ops @ $16.06/sf,1995 Tax @ $2.57/sf; 1995 Ops @ $16.06/sf,"368 46th St
+New York, NY 10036
+(40.760784254829616, -73.99027851437125)"
+370-372 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,,,N,,0.0248,10233,2558,0,,94.14,30,,,600,0,600,0,600,600,600,,R8,,,2008 Tax @ $2.16/sf,2008 Tax @ $2.16/sf,"370 372 W 46th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+373 W 46th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,,,N,,0.0231,2880,720,0,,100,-,,,,,,,,,,,R8,,,2010 Tax @ $4.08/sf; 2010 Est Ops @ $8.68/sf,2010 Tax @ $4.08/sf; 2010 Est Ops @ $8.68/sf,"373 46th St
+New York, NY 10036
+(40.76084720737168, -73.99042240589591)"
+165 W 47th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1909,,4,,,N,,0.0557,8000,2000,0,,100,-,,,,,,,,,,,C6-7T,,,2008 Tax @ $83.06/sf,2008 Tax @ $83.06/sf,"165 47th St
+New York, NY 10036
+(40.75905755653338, -73.98424406355463)"
+226 W 47th St,,,Times Square,Midtown,Manhattan,Office,B,Existing,1923,,10,,,N,,0.0735,27500,3125,2,,0,-,,,,,,,,,,Property Manager on Site,C6-7.5,,,2008 Tax @ $11.37/sf,2008 Tax @ $11.37/sf,"226 47th St
+New York, NY 10036
+(40.75965311672302, -73.98574317354236)"
+254 W 47th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1925,,5,7500000,01/23/2002,N,,0.058,10750,2150,1,,100,-,,,,,,,,,,,"C6-5, New York, L8",,,2010 Tax @ $5.24/sf; 2010 Est Ops @ $9.77/sf,2010 Tax @ $5.24/sf; 2010 Est Ops @ $9.77/sf,"254 47th St
+New York, NY 10036
+(40.76004681076563, -73.98662726693226)"
+257-259 W 47th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1930,,4,1208500,02/01/1994,N,,0.125,20072,5307,1,,100,-,,,,,,,,,,,C6-5,160,,2009 Tax @ $4.88/sf,2009 Tax @ $4.88/sf,"257 259 W 47th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+148-154 W 48th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1954,,6,62500000,10/22/2004,N,,0.1722,37921,6320,0,,100,-,,,,,,,,,,,C6-5.5,,,2008 Tax @ $5.95/sf,2008 Tax @ $5.95/sf,"148 154 W 48th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+156-158 W 48th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,1969,5,,,N,,0.0781,11796,2359,0,,100,-,,,,,,,,,,Signage,C6-5.5,,,2010 Tax @ $16.28/sf; 2010 Est Ops @ $12.93/sf,2010 Tax @ $16.28/sf; 2010 Est Ops @ $12.93/sf,"156 158 W 48th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+160 W 48th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1929,,4,13875000,05/19/2004,N,,0.039,3323,831,0,,100,-,,,,,,,,,,,C6-7T,,,,,"160 48th St
+New York, NY 10036
+(40.759552183649475, -73.98347064660942)"
+162-164 W 48th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1930,,4,33400000,08/14/2004,N,,0.0781,11979,2995,0,,100,-,,,,,,,,,,,C6-7T,,,2010 Tax @ $12.62/sf; 2010 Est Ops @ $27.15/sf,2010 Tax @ $12.62/sf; 2010 Est Ops @ $27.15/sf,"162 164 W 48th St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+163 W 48th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1910,,4,,,N,,0.1008,13344,3336,0,,100,-,,,,,,,,,,,C6-7T,,,2009 Tax @ $6.80/sf,2009 Tax @ $6.80/sf,"163 48th St
+New York, NY 10036
+(40.759581866623, -73.98347499520301)"
+166 W 48th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,,,N,,0.0459,4792,738,0,,100,-,,,,,,,,,,,C6-7T,,,2011 Tax @ $15.00/sf; 2011 Ops @ $3.95/sf,2011 Tax @ $15.00/sf; 2011 Ops @ $3.95/sf,"166 48th St
+New York, NY 10036
+(40.75962412941186, -73.98364151779498)"
+244 W 48th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1910,,4,,,N,,0.0424,8958,2239,0,,100,-,,,,,,,,,,,C6-5,,,2008 Tax @ $5.56/sf,2008 Tax @ $5.56/sf,"244 48th St
+New York, NY 10036
+(40.76082022771078, -73.98650136184818)"
+249 W 48th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,,,2,,,N,,,10000,5000,0,,100,-,,,,,,,,,,,,,,,,"249 48th St
+New York, NY 10036
+(40.76059237506483, -73.98588693782297)"
+148 W 49th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,,,N,,0.05,5174,1140,0,,100,-,,,,,,,,,,,C6-7T,,,2008 Tax @ $17.98/sf,2008 Tax @ $17.98/sf,"148 49th St
+New York, NY 10036
+(40.5867152873402, -73.98693254776641)"
+233 W 49th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1948,,9,6100000,12/14/1995,N,,0.124,48600,5400,0,,100,-,,,,,,,,,,,"C65, New York",,,2001 Tax @ $3.14/sf; 2001 Ops @ $4.52/sf,2001 Tax @ $3.14/sf; 2001 Ops @ $4.52/sf,"233 49th St
+New York, NY 10036
+(40.58558675685327, -73.98872987769549)"
+249 W 49th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1910,2009,2,5650000,12/11/2004,N,,0.0576,4515,2257,0,,100,-,,,,,,,,,,"A/C, Street parking only",C6-5,,,"2011 Tax @ $15.42/sf; 2011 Ops @ $19.40/sf, 2010 Est Ops @ $12.86/sf","2011 Tax @ $15.42/sf; 2011 Ops @ $19.40/sf, 2010 Est Ops @ $12.86/sf","249 49th St
+New York, NY 10036
+(40.585549868299104, -73.98880160543969)"
+250 W 49th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1907,,8,13100000,08/28/1999,N,,0.1837,64000,8000,2,,100,-,Direct - Plus Electric,,,,,,,,,"On Site Management, Property Manager on Site","C6-5, New York",,,"2011 Tax @ $6.20/sf; 2011 Ops @ $12.80/sf, 2010 Est Ops @ $10.91/sf","2011 Tax @ $6.20/sf; 2011 Ops @ $12.80/sf, 2010 Est Ops @ $10.91/sf","250 49th St
+New York, NY 10036
+(40.585590650769085, -73.98885104918438)"
+135 W 50th St,Sports Illustrated Building,,Columbus Circle,Midtown,Manhattan,Office,A,Existing,1962,,23,332500000,06/28/2002,N,,1.107,800733,34814,16,23,100,43.49,Sublet - Plus Electric,,0,141646,0,35045,55235,55235,141646,"Concierge, LEED Certified - Silver, LEED Registered, On Site Management, Property Manager on Site","C6-7, Manhattan (O3)",,,"2010 Tax @ $10.25/sf, 2011 Est Tax @ $10.14/sf; 2000 Ops @ $14.63/sf, 2011 Est Ops @ $13.88/sf","2010 Tax @ $10.25/sf, 2011 Est Tax @ $10.14/sf; 2000 Ops @ $14.63/sf, 2011 Est Ops @ $13.88/sf","135 50th St
+New York, NY 10036
+(40.58600833067434, -73.98639662416525)"
+214 W 50th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,4375000,09/08/1995,N,,0.0459,8500,2125,0,,100,-,,,,,,,,,,,"C6-7.5, New York",,,"2010 Tax @ $5.93/sf; 2001 Ops @ $10.69/sf, 2010 Est Ops @ $10.26/sf","2010 Tax @ $5.93/sf; 2001 Ops @ $10.69/sf, 2010 Est Ops @ $10.26/sf","214 50th St
+New York, NY 10036
+(40.64885879883271, -74.01659638603601)"
+218 W 50th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1930,,6,,,N,,0.1377,34948,5824,0,,100,-,,,,,,,,,,,C6-7T,,,2008 Tax @ $4.15/sf,2008 Tax @ $4.15/sf,"218 50th St
+New York, NY 10036
+(40.64880807705889, -74.0165121947924)"
+251 W 50th St,,,Columbus Circle,Midtown,Manhattan,Retail,,Existing,,,2,,,N,,,2614,1306,0,,100,-,,,,,,,,,,,,,,2010 Tax @ $21.96/sf; 2010 Est Ops @ $5.81/sf,2010 Tax @ $21.96/sf; 2010 Est Ops @ $5.81/sf,"251 50th St
+New York, NY 10036
+(40.64844523678271, -74.01579373225542)"
+253 W 51st St,,,Columbus Circle,Midtown,Manhattan,Office,B,Existing,1991,,3,,,N,,0.09,5309,1769,0,,88.7,60,Direct - Full Service Gross,,600,0,600,0,600,600,600,,C6-4,,,"2010 Tax @ $10.47/sf, 2011 Est Tax @ $10.35/sf; 2011 Est Ops @ $2.75/sf","2010 Tax @ $10.47/sf, 2011 Est Tax @ $10.35/sf; 2011 Est Ops @ $2.75/sf","253 51st St
+New York, NY 10036
+(40.64786170019595, -74.01633131110513)"
+201 W 52nd St,,,Columbus Circle,Midtown,Manhattan,Office,B,Existing,1939,,3,,,N,,0.1274,22000,5500,1,,100,-,,,,,,,,,,"Property Manager on Site, Restaurant",C6-6.5,,,2008 Tax @ $11.17/sf,2008 Tax @ $11.17/sf,"201 52nd St
+New York, NY 10036
+(40.64795543271813, -74.01800634270266)"
+228 W 52nd St,,,Columbus Circle,Midtown,Manhattan,Retail,,Existing,1920,,5,,,N,,0.149,22076,860,0,,100,-,,,,,,,,,,,C6-7,,,2010 Tax @ $7.19/sf; 2010 Est Ops @ $3.08/sf,2010 Tax @ $7.19/sf; 2010 Est Ops @ $3.08/sf,"228 52nd St
+New York, NY 10036
+(40.647559748608806, -74.01746174745959)"
+256 W 52nd St,,,Columbus Circle,Midtown,Manhattan,Retail,,Existing,1950,,4,2500000,12/21/2000,N,,0.048,4612,1310,0,,100,-,,,,,,,,,,,"C6-5, New York (K4)",,,2009 Tax @ $17.09/sf,2009 Tax @ $17.09/sf,"256 52nd St
+New York, NY 10036
+(40.64720711159702, -74.01687240889196)"
+261 W 52nd St,,,Columbus Circle,Midtown,Manhattan,Retail,,Existing,1922,,3,,,N,,1.0331,7709,2569,0,,100,-,,,,,,,,,,,C6-5,,,,,"261 52nd St
+New York, NY 10036
+(40.647199781955045, -74.0167434743041)"
+232 W 48th St,,,Times Square,Midtown,Manhattan,Retail,,Existing,1910,,4,1630000,09/23/1995,N,,0.039,3460,800,0,,100,-,,,,,,,,,,,"C65, New York",,,2010 Tax @ $12.72/sf; 2010 Est Ops @ $7.51/sf,2010 Tax @ $12.72/sf; 2010 Est Ops @ $7.51/sf,"232 48th St
+New York, NY 10036
+(40.76065834974554, -73.98612364659584)"
+1119 Avenue of the Americas,,,Times Square,Midtown,Manhattan,Office,C,Existing,1920,,4,7481000,02/17/2000,N,,0.0303,5264,1316,0,,100,-,,,,,,,,,,Corner Lot,"C6-6, New York (O9)",,,,,"1119 Avenue
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+1460 Broadway,,,Penn Plaza/Garment,Midtown,Manhattan,Office,A,Existing,1951,,17,7200000000,10/04/2002,N,,0.26,215000,12647,5,,100,-,,,,,,,,,,"24/7 Building Access, Bus Line, Metro/Subway, On Site Management, Property Manager on Site",C5-3,,,"2011 Tax @ $7.73/sf; 2001 Ops @ $17.00/sf, 2011 Est Ops @ $12.26/sf","2011 Tax @ $7.73/sf; 2001 Ops @ $17.00/sf, 2011 Est Ops @ $12.26/sf","1460 Broadway
+New York, NY 10036
+(40.75557989934772, -73.98645145616032)"
+1530 Broadway,,,Times Square,Midtown,Manhattan,Retail,,Existing,1936,2001,4,,,N,,1.021,119000,29750,0,,100,-,,,,,,,,,,,C6-7T,,,2010 Tax @ $57.57/sf; 2010 Est Ops @ $30.57/sf,2010 Tax @ $57.57/sf; 2010 Est Ops @ $30.57/sf,"1530 Broadway
+New York, NY 10036
+(40.75783137537844, -73.98550431810116)"
+1551-1553 Broadway,,,Times Square,Midtown,Manhattan,Retail,,Existing,2009,,3,,,N,,0.11,25000,8333,0,,100,-,,,,,,,,,,"Bus Line, Metro/Subway",C6-7T,,,2010 Tax @ $20.83/sf; 2010 Est Ops @ $15.64/sf,2010 Tax @ $20.83/sf; 2010 Est Ops @ $15.64/sf,"1551 1553
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+1552-1554 Broadway,I Miller Shoe Building/TGI Friday's,,Times Square,Midtown,Manhattan,Retail,,Existing,1939,2006,4,136550000,08/18/2007,N,,0.0735,15000,3200,0,,100,-,,,,,,,,,,"A/C, Bus Line, Corner Lot, Metro/Subway, Restaurant, Signage, Signalized Intersection, Street parking only, Tenant Controlled HVAC","C6-7T, Manhattan(K9)",,,"2010 Tax @ $57.80/sf, 2011 Est Tax @ $57.80/sf; 2011 Ops @ $11.56/sf, 2010 Est Ops @ $23.73/sf","2010 Tax @ $57.80/sf, 2011 Est Tax @ $57.80/sf; 2011 Ops @ $11.56/sf, 2010 Est Ops @ $23.73/sf","1552 1554
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+1600 Broadway,,,Times Square,Midtown,Manhattan,Retail,,Existing,2006,,2,,,N,,,30000,12000,0,,100,-,,,,,,,,,,,,,,,,"1600 Broadway
+New York, NY 10036
+(40.76008129426175, -73.98479268511082)"
+1601-1611 Broadway,Crowne Plaza,,Times Square,Midtown,Manhattan,Office,A,Existing,1989,,48,,,N,,0.8996,200533,28418,7,,100,36,Sublet - Plus Electric,,0,50086,0,50086,50086,25693,50086,"Concierge, Conferencing Facility, Fitness Center, Hotel, Property Manager on Site, Restaurant",C6-7.5,,,2008 Tax @ $32.64/sf,2008 Tax @ $32.64/sf,"1601 1611
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+1619 Broadway,Brill Bldg,,Times Square,Midtown,Manhattan,Office,B,Existing,1931,,11,151000000,11/05/2003,N,,0.3444,175000,15909,4,,100,55,Sublet - Plus Electric,,43644,6972,0,6972,31417,12227,50616,Corner Lot,C6-7.5,,,"2011 Tax @ $11.06/sf; 2011 Ops @ $12.55/sf, 2010 Est Ops @ $13.02/sf","2011 Tax @ $11.06/sf; 2011 Ops @ $12.55/sf, 2010 Est Ops @ $13.02/sf","1619 Broadway
+New York, NY 10036
+(40.760096273839764, -73.98486230863858)"
+1625 Broadway,,,Times Square,Midtown,Manhattan,Retail,,Existing,1942,,2,,,N,,0.0467,5000,2500,0,,100,-,,,,,,,,,,,C6-7T,,,2009 Tax @ $31.43/sf,2009 Tax @ $31.43/sf,"1625 Broadway
+New York, NY 10036
+(40.760096273839764, -73.98486230863858)"
+1627 Broadway,Retail portion of Snapple Theater Center,,Times Square,Midtown,Manhattan,Retail,,Existing,1930,,2,,,N,,0.1458,18528,9264,0,,100,-,,,,,,,,,,,C6-7T,,,"2011 Tax @ $33.22/sf; 2011 Ops @ $26.50/sf, 2010 Est Ops @ $17.18/sf","2011 Tax @ $33.22/sf; 2011 Ops @ $26.50/sf, 2010 Est Ops @ $17.18/sf","1627 Broadway
+New York, NY 10036
+(40.760096273839764, -73.98486230863858)"
+1628-1630 Broadway,,,Times Square,Midtown,Manhattan,Retail,,Existing,1911,,3,,,N,,0.065,8034,2678,0,,100,46.8,Sublet - Plus Electric,,0,5000,0,5000,5000,2500,5000,,C6-7T,,,"2011 Tax @ $35.84/sf; 2011 Ops @ $11.10/sf, 2010 Est Ops @ $8.21/sf","2011 Tax @ $35.84/sf; 2011 Ops @ $11.10/sf, 2010 Est Ops @ $8.21/sf","1628 1630
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+1633 Broadway,Paramount Plaza,,Columbus Circle,Midtown,Manhattan,Office,A,Existing,1971,1989,48,980000000,08/14/2007,N,,2.0764,2438049,47701,40,,87.51,56.3,Direct - Plus Electric,,304562,31791,304562,6915,222517,50144,336353,"24/7 Building Access, Energy Star Labeled, Fitness Center, Metro/Subway, On Site Management",C6-7.5,,0.1,"2010 Tax @ $11.10/sf, 2011 Est Tax @ $10.98/sf; 2001 Ops @ $17.79/sf, 2011 Est Ops @ $15.81/sf","2010 Tax @ $11.10/sf, 2011 Est Tax @ $10.98/sf; 2001 Ops @ $17.79/sf, 2011 Est Ops @ $15.81/sf","1633 Broadway
+New York, NY 10036
+(40.760096273839764, -73.98486230863858)"
+1634-1642 Broadway,,,Columbus Circle,Midtown,Manhattan,Retail,,Existing,1910,,5,,,N,,0.5439,16000,6673,0,,100,-,,,,,,,,,,,C6-7,,,2001 Tax @ $4.35/sf; 2001 Ops @ $13.81/sf,2001 Tax @ $4.35/sf; 2001 Ops @ $13.81/sf,"1634 1642
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+1650 Broadway,,,Columbus Circle,Midtown,Manhattan,Office,B,Existing,1922,,13,,,N,,0.1784,107075,8305,4,,100,-,,,,,,,,,,,C6-7.5,,,"2011 Tax @ $6.56/sf; 2001 Ops @ $16.14/sf, 2011 Est Ops @ $17.74/sf","2011 Tax @ $6.56/sf; 2001 Ops @ $16.14/sf, 2011 Est Ops @ $17.74/sf","1650 Broadway
+New York, NY 10036
+(40.76008129426175, -73.98479268511082)"
+1674 Broadway,,,Columbus Circle,Midtown,Manhattan,Office,C,Existing,1921,1985,9,,,N,,0.1205,46000,5111,1,,95.43,30,Direct - Plus Electric,,2100,0,2100,0,2100,2100,2100,,C6-7.5,,,"2010 Tax @ $10.54/sf; 1997 Ops @ $2.80/sf, 2010 Est Ops @ $15.83/sf","2010 Tax @ $10.54/sf; 1997 Ops @ $2.80/sf, 2010 Est Ops @ $15.83/sf","1674 Broadway
+New York, NY 10036
+(40.76008129426175, -73.98479268511082)"
+1 Bryant Park,Bank of America Tower,,Times Square,Midtown,Manhattan,Office,A,Existing,2009,,51,,,N,,2.0061,2118441,34580,0,,98.12,65,,,39761,7168,39761,7168,24211,24211,46929,"Bus Line, LEED Certified - Platinum, LEED Registered, Metro/Subway, Restaurant",C6-6,,,"2011 Tax @ $27.14/sf; 2011 Ops @ $20.74/sf, 2010 Est Ops @ $22.68/sf","2011 Tax @ $27.14/sf; 2011 Ops @ $20.74/sf, 2010 Est Ops @ $22.68/sf","1 Bryant Park
+New York, NY 10036
+(40.57864437332576, -74.11537335151279)"
+634 Eighth Ave,,,Times Square,Midtown,Manhattan,Office,C,Existing,1965,,5,,,N,,0.287,12500,12500,0,,100,-,,,,,,,,,,,C6-7,,,,,"634 Eighth Ave
+New York, NY 10036
+(40.756567089116984, -73.99022537861946)"
+681 Eighth Ave,,,Times Square,Midtown,Manhattan,Office,C,Existing,1929,,3,2000000,09/30/1992,N,,0.1377,25687,6000,1,,100,-,,,,,,,,,,,C6-4,,,2011 Tax @ $4.71/sf; 2011 Est Ops @ $13.90/sf,2011 Tax @ $4.71/sf; 2011 Est Ops @ $13.90/sf,"681 Eighth Ave
+New York, NY 10036
+(40.75810427518235, -73.98917234827519)"
+690-692 Eighth Ave,,,Times Square,Midtown,Manhattan,Office,C,Existing,1920,,6,,,N,,0.1148,15000,2500,1,,100,-,Direct - Plus Electric,,,,,,,,,,C6-5,,,2001 Tax @ $14.92/sf; 2001 Ops @ $48.69/sf,2001 Tax @ $14.92/sf; 2001 Ops @ $48.69/sf,"690 692 Eighth Ave
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+694 Eighth Ave,,,Times Square,Midtown,Manhattan,Office,B,Existing,1900,,5,,,N,,0.1148,23000,4950,0,,100,-,Direct - Plus Electric,,,,,,,,,"24/7 Building Access, Signage",C6-4,,,2008 Tax @ $12.54/sf,2008 Tax @ $12.54/sf,"694 Eighth Ave
+New York, NY 10036
+(40.7584100446723, -73.98894751776788)"
+724 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,3652000,08/12/1994,N,,0.03,5424,1356,0,,100,-,,,,,,,,,,"Corner Lot, Signalized Intersection, Street parking only",C6-4,,,,,"724 Eighth Ave
+New York, NY 10036
+(40.75925540737984, -73.98830899912707)"
+725 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1925,,4,,,N,,0.04,6600,1800,0,,100,-,,,,,,,,,,,C6-4,,,2010 Tax @ $26.02/sf; 2010 Est Ops @ $5.74/sf,2010 Tax @ $26.02/sf; 2010 Est Ops @ $5.74/sf,"725 Eighth Ave
+New York, NY 10036
+(40.75950721754805, -73.98812913472119)"
+726 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1910,,4,4300000,10/15/2005,N,,0.03,4106,1026,0,,100,-,,,,,,,,,,Street parking only,C6-4,,,2010 Tax @ $17.03/sf; 2010 Est Ops @ $9.58/sf,2010 Tax @ $17.03/sf; 2010 Est Ops @ $9.58/sf,"726 Eighth Ave
+New York, NY 10036
+(40.75930037348127, -73.98828201946617)"
+728 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,560000,11/29/1991,N,,0.028,2580,645,0,,100,-,,,,,,,,,,,"C64, New York",,,2010 Tax @ $16.33/sf; 2010 Est Ops @ $8.52/sf,2010 Tax @ $16.33/sf; 2010 Est Ops @ $8.52/sf,"728 Eighth Ave
+New York, NY 10036
+(40.75934533958275, -73.988246046585)"
+730 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,850000,06/10/1992,N,,0.028,3476,987,0,,100,-,,,,,,,,,,,"C6-4, New York",,,2008 Tax @ $12.35/sf,2008 Tax @ $12.35/sf,"730 Eighth Ave
+New York, NY 10036
+(40.759390305684235, -73.98821906692416)"
+732 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1910,,4,1450000,03/02/2004,N,,0.044,4621,1155,0,,100,-,,,,,,,,,,,"C6-4, County",,,2008 Tax @ $13.21/sf,2008 Tax @ $13.21/sf,"732 Eighth Ave
+New York, NY 10036
+(40.75944426500598, -73.98818309404294)"
+741-743 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,5,,,N,,0.13,17465,3493,0,,100,-,,,,,,,,,,,C6-4,,,2008 Tax @ $8.10/sf,2008 Tax @ $8.10/sf,"741 743 Eighth Ave
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+750 Eighth Ave,Retail Portion of Res. Bldg.,,Times Square,Midtown,Manhattan,Retail,,Existing,2008,,43,16250000,03/21/2007,N,,0.3444,31431,15000,0,,78.489999999999995,225,Direct - Plus Electric,,6761,0,6761,0,6761,6761,6761,Street parking only,"C6-4, New York, (L8)",,,,,"750 Eighth Ave
+New York, NY 10036
+(40.7599209056815, -73.98784135167182)"
+760 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1928,,3,,,N,,0.1837,15000,5000,0,,100,-,,,,,,,,,,Signalized Intersection,C6-4,,,2010 Tax @ $24.08/sf; 2010 Ops @ $17.70/sf,2010 Tax @ $24.08/sf; 2010 Ops @ $17.70/sf,"760 Eighth Ave
+New York, NY 10036
+(40.76023566839177, -73.98760752794419)"
+763 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,3,,,N,,0.06,5816,1939,0,,100,-,,,,,,,,,,,C6-4,,,2008 Tax @ $16.03/sf,2008 Tax @ $16.03/sf,"763 Eighth Ave
+New York, NY 10036
+(40.76019969551061, -73.98762551438477)"
+765 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,5,,,N,,0.0574,10271,2054,0,,100,-,,,,,,,,,,,C6-4,,,2009 Tax @ $5.81/sf,2009 Tax @ $5.81/sf,"765 Eighth Ave
+New York, NY 10036
+(40.76026264805262, -73.98758954150361)"
+771 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1978,,2,11750000,03/28/2001,N,,0.115,13500,6750,0,,100,-,,,,,,,,,,Signalized Intersection,C6-4,,,2010 Tax @ $18.74/sf; 2010 Est Ops @ $10.94/sf,2010 Tax @ $18.74/sf; 2010 Est Ops @ $10.94/sf,"771 Eighth Ave
+New York, NY 10036
+(40.760622376864376, -73.98732873811514)"
+777 Eighth Ave,,,Times Square,Midtown,Manhattan,Office,C,Existing,1930,,3,,,N,,0.1148,17000,5000,1,,41.18,27,Direct - Plus Electric,,10000,0,10000,0,10000,5000,10000,,C6-4,,,"2011 Tax @ $11.89/sf; 2011 Ops @ $7.49/sf, 2010 Est Ops @ $11.68/sf","2011 Tax @ $11.89/sf; 2011 Ops @ $7.49/sf, 2010 Est Ops @ $11.68/sf","777 Eighth Ave
+New York, NY 10036
+(40.76073928872819, -73.98724779913249)"
+781 Eighth Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,4,,,Y,9000000,0.0436,6800,1700,0,,100,162.5,Direct - Plus Electric,,3400,0,0,0,3400,1700,3400,,C6-4,,,2009 Tax @ $14.25/sf,2009 Tax @ $14.25/sf,"781 Eighth Ave
+New York, NY 10036
+(40.76082022771078, -73.98718484659042)"
+797 Eighth Ave,,,Times Square,Midtown,Manhattan,Office,C,Existing,1925,,4,2100000,08/18/1994,N,,0.0539,8700,2000,0,,100,-,,,,,,,,,,,C6-4,,,2010 Tax @ $22.78/sf; 2010 Est Ops @ $13.23/sf,2010 Tax @ $22.78/sf; 2010 Est Ops @ $13.23/sf,"797 Eighth Ave
+New York, NY 10036
+(40.7610388035879, -73.98707738246674)"
+830 Eighth Ave,,,Columbus Circle,Midtown,Manhattan,Office,B,Under Renovation,1986,2011,10,4500000,05/11/1996,N,,0.0402,22000,2200,1,,100,-,,,,,,,,,,"24/7 Building Access, On Site Management, Property Manager on Site",C6-4,,,"2010 Tax @ $11.86/sf; 2001 Ops @ $13.40/sf, 2010 Est Ops @ $3.43/sf","2010 Tax @ $11.86/sf; 2001 Ops @ $13.40/sf, 2010 Est Ops @ $3.43/sf","830 Eighth Ave
+New York, NY 10036
+(40.76101300172994, -73.98701352088503)"
+832 Eighth Ave,,,Columbus Circle,Midtown,Manhattan,Office,C,Existing,1920,,4,,,N,,0.3444,6000,1200,0,,100,-,,,,,,,,,,,C6-4,,,"2011 Tax @ $5.48/sf; 2011 Ops @ $28.52/sf, 2010 Est Ops @ $6.48/sf","2011 Tax @ $5.48/sf; 2011 Ops @ $28.52/sf, 2010 Est Ops @ $6.48/sf","832 Eighth Ave
+New York, NY 10036
+(40.76101300172994, -73.98701352088503)"
+570 Seventh Ave,,,Times Square,Midtown,Manhattan,Office,B,Existing,1929,,21,,,N,,0.1653,119862,5273,5,,97.34,41,Direct - Plus Electric,,3191,0,3191,0,1884,1884,3191,,C6-7.5,,,"2011 Tax @ $7.65/sf; 2011 Ops @ $21.37/sf, 2010 Est Ops @ $22.77/sf","2011 Tax @ $7.65/sf; 2011 Ops @ $21.37/sf, 2010 Est Ops @ $22.77/sf","570 Seventh Ave
+New York, NY 10036
+(40.75540401741684, -73.98746254270337)"
+711 Seventh Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1925,,3,,,N,,0.1377,17400,3341,0,,100,-,,,,,,,,,,,C6-7T,,,"2011 Tax @ $24.32/sf; 2011 Ops @ $16.42/sf, 2010 Est Ops @ $19.34/sf","2011 Tax @ $24.32/sf; 2011 Ops @ $16.42/sf, 2010 Est Ops @ $19.34/sf","711 Seventh Ave
+New York, NY 10036
+(40.75962412941186, -73.98433399575754)"
+717 Seventh Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,,5,,,N,,0.0453,6890,1378,0,,100,-,,,,,,,,,,,C6,,,2011 Tax @ $61.86/sf,2011 Tax @ $61.86/sf,"717 Seventh Ave
+New York, NY 10036
+(40.75968708195387, -73.98428902965611)"
+721-723 Seventh Ave,,,Times Square,Midtown,Manhattan,Office,B,Existing,1920,,13,22950000,12/15/2005,N,,0.077,44200,3400,0,,89.28,33.14,Direct - Plus Electric,,4739,0,4739,0,3839,3839,4739,,C6-7T,,,"2010 Tax @ $7.39/sf, 2011 Est Tax @ $7.48/sf; 2001 Ops @ $12.37/sf, 2011 Est Ops @ $14.93/sf","2010 Tax @ $7.39/sf, 2011 Est Tax @ $7.48/sf; 2001 Ops @ $12.37/sf, 2011 Est Ops @ $14.93/sf","721 723 Seventh Ave
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+725 Seventh Ave,,,Times Square,Midtown,Manhattan,Office,C,Existing,1920,,5,,,N,,0.0574,10625,2125,0,,100,-,,,,,,,,,,,C6-7T,,,"2010 Tax @ $27.25/sf; 1995 Ops @ $7.36/sf, 2010 Est Ops @ $24.96/sf","2010 Tax @ $27.25/sf; 1995 Ops @ $7.36/sf, 2010 Est Ops @ $24.96/sf","725 Seventh Ave
+New York, NY 10036
+(40.75981723342805, -73.9841623585609)"
+727 Seventh Ave,,,Times Square,Midtown,Manhattan,Retail,,Existing,1920,2003,6,,,N,,0.06,17500,2500,0,,100,54.29,Sublet - Plus Electric,,0,17500,0,0,17500,2500,17500,,C6-7T,,,"2011 Tax @ $11.42/sf; 2011 Ops @ $6.10/sf, 2010 Est Ops @ $7.41/sf","2011 Tax @ $11.42/sf; 2011 Ops @ $6.10/sf, 2010 Est Ops @ $7.41/sf","727 Seventh Ave
+New York, NY 10036
+(40.75981723342805, -73.9841623585609)"
+745 Seventh Ave,Barclays Capital Building,,Times Square,Midtown,Manhattan,Office,A,Existing,2002,,32,171450000,09/21/2004,N,,1.4339,1035180,32349,18,,100,-,,,,,,,,,,"24/7 Building Access, Commuter Rail","Commercial, New York",,,2010 Tax @ $16.04/sf; 2010 Est Ops @ $19.51/sf,2010 Tax @ $16.04/sf; 2010 Est Ops @ $19.51/sf,"745 Seventh Ave
+New York, NY 10036
+(40.75981723342805, -73.9841623585609)"
+1 Times Sq,1 Times Square,,Times Square,Midtown,Manhattan,Office,B,Existing,1904,1967,25,110000000,06/26/1993,N,,0.1904,117000,5950,4,,100,-,,,,,,,,,,"Metro/Subway, On Site Management, Property Manager on Site, Signage","C6-7, New York",,,"2011 Tax @ $21.10/sf; 2011 Ops @ $14.82/sf, 2010 Est Ops @ $13.99/sf","2011 Tax @ $21.10/sf; 2011 Ops @ $14.82/sf, 2010 Est Ops @ $13.99/sf","1 Times Sq
+New York, NY 10036
+(40.75656445024312, -73.98617777974034)"
+3 Times Sq,The Reuters Bldg,,Times Square,Midtown,Manhattan,Office,A,Existing,2001,,32,,,N,,0.6802,855000,30598,0,,100,-,,,,,,,,,,"Bus Line, LEED Registered, Metro/Subway, Signage",C6-7,,,"2010 Tax @ $0.35/sf, 2011 Est Tax @ $17.35/sf; 2011 Est Ops @ $14.42/sf","2010 Tax @ $0.35/sf, 2011 Est Tax @ $17.35/sf; 2011 Est Ops @ $14.42/sf","3 Times Sq
+New York, NY 10036
+(40.75660671837689, -73.98627922326138)"
+5 Times Sq,Five Times Square,,Times Square,Midtown,Manhattan,Office,A,Existing,2002,,37,1280000000,11/19/2002,N,,0.6,1101779,29778,18,,100,58,Sublet - Plus Electric,,0,95003,0,95003,95003,31675,95003,"Bus Line, Corner Lot, Metro/Subway",C6-7,,,2008 Combined Tax/Ops @ $18.77/sf; 2010 Est Ops @ $16.03/sf,2008 Combined Tax/Ops @ $18.77/sf; 2010 Est Ops @ $16.03/sf,"5 Times Sq
+New York, NY 10036
+(40.75664898651065, -73.98638066678241)"
+7 Times Sq,Times Square Tower,,Times Square,Midtown,Manhattan,Office,A,Existing,2004,,48,,,N,,0.5153,1238797,25808,26,,98.11,74.41,Direct - Plus Electric,,29210,17584,23437,17584,17584,17584,46794,"Bus Line, Corner Lot, Energy Star Labeled, LEED Registered, Metro/Subway",NZS,,,2011 Tax @ $13.85/sf; 2011 Est Ops @ $13.38/sf,2011 Tax @ $13.85/sf; 2011 Est Ops @ $13.38/sf,"7 Times Sq
+New York, NY 10036
+(40.756691254649255, -73.98648211031504)"
+Two Times Square,,,Times Square,Midtown,Manhattan,Retail,,Existing,1991,,30,,,N,,0.3199,30000,1000,0,,100,-,,,,,,,,,,,,,,,,"Two Times Square
+New York, NY 10036
+(40.756612485560694, -73.98614289812899)"
+213 W 40th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1910,,6,2800000,08/01/1996,N,,0.0574,14000,2500,0,,100,Negotiable,Direct - Plus Electric,,1700,0,0,0,1700,1700,1700,24/7 Building Access,"M1-6, Manhattan",,,"2011 Tax @ $5.34/sf; 2011 Ops @ $5.13/sf, 2010 Est Ops @ $7.05/sf","2011 Tax @ $5.34/sf; 2011 Ops @ $5.13/sf, 2010 Est Ops @ $7.05/sf","213 40th St
+New York, NY 10036
+(40.5930924427657, -73.9909658652445)"
+215 W 40th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1924,,14,25000000,01/16/2002,N,,0.112,65186,4938,3,,100,Negotiable,Direct - Plus Electric,,0,2000,0,2000,2000,2000,2000,,"M1-6,Manhattan,(L1)",,,"2011 Tax @ $7.05/sf; 2011 Ops @ $8.25/sf, 2010 Est Ops @ $8.82/sf","2011 Tax @ $7.05/sf; 2011 Ops @ $8.25/sf, 2010 Est Ops @ $8.82/sf","215 40th St
+New York, NY 10036
+(40.59308868559697, -73.99096962241323)"
+230 W 41st St,The New Herald Tribune Bldg,,Times Square,Midtown,Manhattan,Office,B,Existing,1923,2002,20,59990000,07/13/2000,N,,0.6428,302000,26500,8,,100,Negotiable,Direct - Plus Electric,,37248,7899,0,7899,13340,9009,45147,On Site Management,"M1-6, New York",,,"2011 Tax @ $6.44/sf; 2011 Ops @ $17.36/sf, 2010 Est Ops @ $16.12/sf","2011 Tax @ $6.44/sf; 2011 Ops @ $17.36/sf, 2010 Est Ops @ $16.12/sf","230 41st St
+New York, NY 10036
+(40.755729396383664, -73.98835789668838)"
+120 W 42nd St,,,Penn Plaza/Garment,Midtown,Manhattan,Office,C,Existing,1912,,6,12375000,06/05/2002,N,,0.0567,75269,12544,1,,100,Negotiable,,,75219,0,0,0,63297,27363,75219,,"C6-7, Manhattan (O1)",,,2008 Tax @ $1.08/sf,2008 Tax @ $1.08/sf,"120 42nd St
+New York, NY 10036
+(40.75533024246631, -73.98533930599118)"
+218-220 W 42nd St,Candler Tower,42nd Street Retail Shops,Times Square,Midtown,Manhattan,Office,B,Existing,1921,,25,208000000,06/20/2002,N,,0.3482,227685,11833,8,,99.03,Negotiable,,,2200,39190,2200,0,23266,11833,41390,"24/7 Building Access, Balconies, Concierge, Energy Star Labeled","C6-7, New York, O3",,,"2010 Tax @ $10.66/sf, 2011 Est Tax @ $13.81/sf; 2000 Ops @ $4.24/sf, 2011 Est Ops @ $21.83/sf","2010 Tax @ $10.66/sf, 2011 Est Tax @ $13.81/sf; 2000 Ops @ $4.24/sf, 2011 Est Ops @ $21.83/sf","218 220 W 42nd St
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+243 W 42nd St,E Walk,E Walk,Times Square,Midtown,Manhattan,Retail (Theme/Festival Center),,Existing,2000,,4,,,N,,1.0044,161000,43750,0,,100,Negotiable,,,2509,0,0,0,2509,2509,2509,"Bus Line, Enclosed Mall, Metro/Subway, Mixed Use",,,,"2011 Est Tax @ $25.41/sf; 2011 Ops @ $20.57/sf, 2010 Est Ops @ $24.82/sf","2011 Est Tax @ $25.41/sf; 2011 Ops @ $20.57/sf, 2010 Est Ops @ $24.82/sf","243 42nd St
+New York, NY 10036
+(40.7565888124199, -73.98816954068609)"
+229 W 43rd St,The Times Square Building,,Times Square,Midtown,Manhattan,Office,A,Existing,1913,2008,16,160000000,06/28/2007,N,,1.46,789826,49364,11,,34.44,Negotiable,,,517806,0,517806,0,477889,64040,517806,"Bus Line, Metro/Subway","C6-5, New York (O9)",,,"2011 Tax @ $9.02/sf; 2011 Ops @ $15.38/sf, 2010 Est Ops @ $9.43/sf","2011 Tax @ $9.02/sf; 2011 Ops @ $15.38/sf, 2010 Est Ops @ $9.43/sf","229 43rd St
+New York, NY 10036
+(40.75708489676276, -73.98727767505787)"
+145 W 45th St,,,Times Square,Midtown,Manhattan,Office,B,Existing,1920,,12,12600000,12/07/1995,N,,0.1581,81600,6800,3,,100,Negotiable,,,2106,0,0,0,2106,2106,2106,"24/7 Building Access, Restaurant, Security System","C655, Manhattan",,,"2011 Tax @ $7.30/sf; 2011 Ops @ $10.28/sf, 2010 Est Ops @ $15.76/sf","2011 Tax @ $7.30/sf; 2011 Ops @ $10.28/sf, 2010 Est Ops @ $15.76/sf","145 45th St
+New York, NY 10036
+(40.75762643183614, -73.9847007261664)"
+151 W 46th St,,,Times Square,Midtown,Manhattan,Office,C,Existing,1927,,16,10675000,03/14/1997,N,,0.1148,63162,5000,3,,96.04,Negotiable,,,2500,0,2500,0,2500,2500,2500,,"C6-5.5, New York",,,"2010 Tax @ $7.21/sf, 2011 Est Tax @ $7.65/sf; 2007 Ops @ $18.65/sf, 2011 Est Ops @ $7.81/sf","2010 Tax @ $7.21/sf, 2011 Est Tax @ $7.65/sf; 2007 Ops @ $18.65/sf, 2011 Est Ops @ $7.81/sf","151 46th St
+New York, NY 10036
+(40.75821219382584, -73.98419909745314)"
+114 W 47th St,U.S. Trust Bldg,,Times Square,Midtown,Manhattan,Office,A,Existing,1989,,26,,,N,,0.5739,507456,22727,12,,100,Negotiable,,,0,7747,0,0,7747,7747,7747,"Energy Star Labeled, On Site Management, Property Manager on Site",C6-5.5,,,"2011 Tax @ $16.46/sf; 2007 Ops @ $35.39/sf, 2011 Est Ops @ $20.61/sf","2011 Tax @ $16.46/sf; 2007 Ops @ $35.39/sf, 2011 Est Ops @ $20.61/sf","114 47th St
+New York, NY 10036
+(40.75844601755347, -73.98280514830776)"
+240 W 52nd St,,,Columbus Circle,Midtown,Manhattan,Retail,,Existing,1920,,5,,,N,,0.0918,14300,2860,0,,0,Negotiable,,,14300,0,14300,0,14300,4000,14300,,C6-5,,,2008 Tax @ $4.94/sf,2008 Tax @ $4.94/sf,"240 52nd St
+New York, NY 10036
+(40.6474086184609, -74.01720917378775)"
+1500 Broadway,Times Square Plaza,,Times Square,Midtown,Manhattan,Office,A,Existing,1974,,33,,,N,,0.5825,501358,15193,10,,83.53,Negotiable,,,96609,30628,82589,0,38550,14020,127237,"24/7 Building Access, Bus Line, Concierge, Metro/Subway, On Site Management, Property Manager on Site, Restaurant",C6-7T,,,2011 Tax @ $16.50/sf; 2011 Est Ops @ $20.86/sf,2011 Tax @ $16.50/sf; 2011 Est Ops @ $20.86/sf,"1500 Broadway
+New York, NY 10036
+(40.75687220400221, -73.98599774151177)"
+1501 Broadway,Paramount Bldg,,Times Square,Midtown,Manhattan,Office,B,Existing,1926,2006,31,,,N,,0.9504,638566,20598,13,,100,Negotiable,Direct - Plus Electric,,3956,4000,0,0,4000,4000,7956,"24/7 Building Access, Banking, Food Service, On Site Management, Property Manager on Site, Restaurant",C6-7.5,,,"2011 Tax @ $8.26/sf, 2010 Est Tax @ $8.35/sf; 2011 Ops @ $20.08/sf","2011 Tax @ $8.26/sf, 2010 Est Tax @ $8.35/sf; 2011 Ops @ $20.08/sf","1501 Broadway
+New York, NY 10036
+(40.75664722311285, -73.98607810294877)"
+1540 Broadway,,1540 Broadway,Times Square,Midtown,Manhattan,Office,A,Existing,1989,,44,254800000,11/07/2006,N,,0.888,1172383,26337,17,,94.19,Negotiable,,,108245,27000,68174,27000,37257,27000,135245,"24/7 Building Access, Bus Line, Concierge, Food Service, Metro/Subway, Signage","C6-7T, New York",,,2001 Tax @ $6.79/sf; 2009 Ops @ $20.23/sf,2001 Tax @ $6.79/sf; 2009 Ops @ $20.23/sf,"1540 Broadway
+New York, NY 10036
+(40.75821098926468, -73.98527751716185)"
+1585 Broadway,Morgan Stanley Bldg,,Times Square,Midtown,Manhattan,Office,A,Existing,1990,,41,,,N,,1.31,1350000,57062,26,,99.95,Negotiable,,,626,0,626,0,626,626,626,"Bus Line, Commuter Rail, Concierge, Fitness Center, Metro/Subway, On Site Management, Property Manager on Site",C6-7.5,,,,,"1585 Broadway
+New York, NY 10036
+(40.75992989890182, -73.9848915754157)"
+1604-1610 Broadway,,,Times Square,Midtown,Manhattan,Retail,,Existing,1912,2001,3,21000000,11/30/2001,N,,1.5709,29875,9958,0,,100,Negotiable,,,20978,0,0,0,20978,8865,20978,,"M1-6, New York, L1",,,2008 Combined Tax/Ops @ $137.30/sf; 2007 Combined Est Tax/Ops @ $101.72/sf,2008 Combined Tax/Ops @ $137.30/sf; 2007 Combined Est Tax/Ops @ $101.72/sf,"1604 1610
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+1675 Broadway,,,Columbus Circle,Midtown,Manhattan,Office,A,Existing,1989,,35,,,N,,0.5814,761092,21745,18,,100,Negotiable,,,0,3750,0,0,3750,2350,3750,"Atrium, Banking, Concierge",C6-7.5,,0.08,"2011 Tax @ $14.48/sf; 2007 Ops @ $31.78/sf, 2011 Est Ops @ $13.70/sf","2011 Tax @ $14.48/sf; 2007 Ops @ $31.78/sf, 2011 Est Ops @ $13.70/sf","1675 Broadway
+New York, NY 10036
+(40.760096273839764, -73.98486230863858)"
+620 Eighth Ave,New York Times,,Times Square,Midtown,Manhattan,Office,A,Existing,2007,,52,225000000,03/05/2005,N,,1.8365,1500000,33143,28,,100,Negotiable,,,0,93985,0,30917,63068,31534,93985,"Atrium, Bus Line, Conferencing Facility, Metro/Subway, On Site Management, Security System, Signage",M1-6,,,2009 Est Ops @ $22.50/sf,2009 Est Ops @ $22.50/sf,"620 Eighth Ave
+New York, NY 10036
+(40.756567089116984, -73.99022537861946)"
+701 Seventh Ave,,,Times Square,Midtown,Manhattan,Office,C,Existing,1910,,10,,,N,,0.3116,112000,11200,1,,81.61,Negotiable,Direct - Plus Electric,,20600,0,20600,0,6437,6437,20600,,C6-7T,,,"2011 Tax @ $7.32/sf; 2011 Ops @ $8.58/sf, 2010 Est Ops @ $9.33/sf","2011 Tax @ $7.32/sf; 2011 Ops @ $8.58/sf, 2010 Est Ops @ $9.33/sf","701 Seventh Ave
+New York, NY 10036
+(40.75922547953279, -73.98457658628757)"
+750 Seventh Ave,,,Times Square,Midtown,Manhattan,Office,A,Existing,1990,,36,485000000,05/03/2007,N,,0.598,591169,19194,11,,99.44,Negotiable,,,48349,14613,3329,14613,45020,17749,62962,"Concierge, Energy Star Labeled, Metro/Subway, Property Manager on Site","C67T, Manhattan",,,"2010 Tax @ $11.50/sf, 2011 Est Tax @ $11.60/sf; 2001 Ops @ $15.97/sf, 2011 Est Ops @ $14.94/sf","2010 Tax @ $11.50/sf, 2011 Est Tax @ $11.60/sf; 2001 Ops @ $15.97/sf, 2011 Est Ops @ $14.94/sf","750 Seventh Ave
+New York, NY 10036
+(40.759842914885056, -73.9842263035319)"
+761-779 Seventh Ave,,,Columbus Circle,Midtown,Manhattan,Retail,,Existing,1986,,2,6500000,08/27/1992,N,,0.6916,4000,2000,0,,62.5,Negotiable,,,1500,0,1500,0,1500,1500,1500,,"C6-7, New York",,,,,"761 779 Seventh Ave
+New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+787 Seventh Ave,Equitable Building,,Columbus Circle,Midtown,Manhattan,Office,A,Existing,1985,,54,,,N,,1.8365,1743413,46900,30,,100,Negotiable,,,0,46306,0,46306,28677,28677,46306,"Atrium, Banking, Energy Star Labeled, Fitness Center, Metro/Subway, Restaurant, Security System",C6-6,,0.05,"2011 Tax @ $13.02/sf; 2010 Ops @ $21.36/sf, 2011 Est Ops @ $20.58/sf","2011 Tax @ $13.02/sf; 2010 Ops @ $21.36/sf, 2011 Est Ops @ $20.58/sf","787 Seventh Ave
+New York, NY 10036
+(40.75981723342805, -73.9841623585609)"
+4 Times Sq,,,Times Square,Midtown,Manhattan,Office,A,Existing,1999,,48,,,N,,1.0514,1755000,31456,32,,97.42,Negotiable,,,45366,37281,45366,37281,45366,37281,82647,"Bus Line, Energy Star Labeled, Metro/Subway","NZS, C6-5.5",,,"2010 Tax @ $0.42/sf, 2011 Est Tax @ $0.30/sf; 2011 Est Ops @ $17.27/sf","2010 Tax @ $0.42/sf, 2011 Est Tax @ $0.30/sf; 2011 Est Ops @ $17.27/sf","4 Times Sq
+New York, NY 10036
+(40.75665475369446, -73.98624434165002)"
+11 Times Sq,Eleven Times Square,,Times Square,Midtown,Manhattan,Office,A,Existing,2010,,40,,,N,,0.06,1111960,27727,0,24,38.090000000000003,Negotiable,,,688417,0,633417,0,353551,40856,688417,"24/7 Building Access, A/C, Atrium, Bus Line, Card Key Access, Commuter Rail, Concierge, Corner Lot, LEED Certified - Gold, LEED Registered, Mail Room, Metro/Subway, On Site Management, Property Manager on Site, Restaurant, Signage",C6-7,,,,,"11 Times Sq
+New York, NY 10036
+(40.756691254649255, -73.98648211031504)"
