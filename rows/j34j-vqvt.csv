@@ -1,0 +1,548 @@
+YEARMONTH,INCIDENTCLASSIFICATION,INCIDENTBOROUGH,INCIDENTCOUNT,AVERAGERESPONSETIME
+200907,Non Medical Emergencies,Manhattan,4446,4:51
+200907,Structural Fires,Citywide,1947,3:54
+200907,Structural Fires,Manhattan,435,4:00
+200907,Structural Fires,Bronx,432,3:59
+200907,Structural Fires,Staten Island,90,4:34
+200907,Structural Fires,Brooklyn,652,3:29
+200907,Structural Fires,Queens,338,4:17
+200907,Non Structural Fires,Citywide,1495,4:19
+200907,Non Structural Fires,Manhattan,349,4:16
+200907,Non Structural Fires,Bronx,296,4:32
+200907,Non Structural Fires,Staten Island,103,4:38
+200907,Non Structural Fires,Brooklyn,438,3:59
+200907,Non Structural Fires,Queens,309,4:31
+200907,Medical Emergencies,Citywide,18606,4:12
+200907,Medical Emergencies,Manhattan,4895,4:17
+200907,Medical Emergencies,Bronx,3429,4:17
+200907,Medical Emergencies,Staten Island,933,4:19
+200907,Medical Emergencies,Brooklyn,5344,3:51
+200907,Medical Emergencies,Queens,4005,4:30
+200907,Non Medical Emergencies,Citywide,15739,4:50
+200907,Non Medical Emergencies,Bronx,3150,5:04
+200907,Non Medical Emergencies,Staten Island,877,5:24
+200907,Non Medical Emergencies,Brooklyn,4395,4:20
+200907,Non Medical Emergencies,Queens,2871,5:11
+200907,False Alarm,Citywide,2655,4:07
+200907,False Alarm,Manhattan,474,4:07
+200907,False Alarm,Bronx,755,4:26
+200907,False Alarm,Staten Island,192,3:49
+200907,False Alarm,Brooklyn,565,3:42
+200907,False Alarm,Queens,669,4:11
+200907,Medical False Alarm,Citywide,408,4:13
+200907,Medical False Alarm,Manhattan,110,4:18
+200907,Medical False Alarm,Bronx,75,4:00
+200907,Medical False Alarm,Staten Island,10,4:10
+200907,Medical False Alarm,Brooklyn,111,3:50
+200907,Medical False Alarm,Queens,102,4:42
+200907,All Fire/Emergency Incidents,Citywide,40850,4:27
+200907,All Fire/Emergency Incidents,Manhattan,10709,4:32
+200907,All Fire/Emergency Incidents,Bronx,8137,4:37
+200907,All Fire/Emergency Incidents,Staten Island,2205,4:45
+200907,All Fire/Emergency Incidents,Brooklyn,11505,4:01
+200907,All Fire/Emergency Incidents,Queens,8294,4:43
+200908,All Fire/Emergency Incidents,Brooklyn,11749,4:01
+200908,Structural Fires,Citywide,1933,3:58
+200908,Structural Fires,Manhattan,439,4:04
+200908,Structural Fires,Bronx,432,4:17
+200908,Structural Fires,Staten Island,80,4:32
+200908,Structural Fires,Brooklyn,613,3:26
+200908,Structural Fires,Queens,369,4:16
+200908,Non Structural Fires,Citywide,1283,4:18
+200908,Non Structural Fires,Manhattan,276,4:15
+200908,Non Structural Fires,Bronx,230,4:41
+200908,Non Structural Fires,Staten Island,44,5:01
+200908,Non Structural Fires,Brooklyn,402,3:49
+200908,Non Structural Fires,Queens,331,4:36
+200908,Medical Emergencies,Citywide,18409,4:13
+200908,Medical Emergencies,Manhattan,4854,4:16
+200908,Medical Emergencies,Bronx,3438,4:20
+200908,Medical Emergencies,Staten Island,838,4:26
+200908,Medical Emergencies,Brooklyn,5437,3:53
+200908,Medical Emergencies,Queens,3842,4:30
+200908,Non Medical Emergencies,Citywide,16859,4:55
+200908,All Fire/Emergency Incidents,Queens,8380,4:44
+200908,Non Medical Emergencies,Manhattan,4621,5:02
+200908,Non Medical Emergencies,Bronx,3786,5:17
+200908,Non Medical Emergencies,Staten Island,834,4:56
+200908,Non Medical Emergencies,Brooklyn,4571,4:19
+200908,Non Medical Emergencies,Queens,3047,5:12
+200908,False Alarm,Citywide,2814,4:06
+200908,False Alarm,Manhattan,514,4:17
+200908,False Alarm,Bronx,779,4:21
+200908,False Alarm,Staten Island,198,4:04
+200908,False Alarm,Brooklyn,632,3:34
+200908,False Alarm,Queens,691,4:11
+200908,Medical False Alarm,Citywide,425,4:19
+200908,Medical False Alarm,Manhattan,132,4:16
+200908,Medical False Alarm,Bronx,84,4:20
+200908,Medical False Alarm,Staten Island,15,4:44
+200908,Medical False Alarm,Brooklyn,94,3:46
+200908,Medical False Alarm,Queens,100,4:49
+200908,All Fire/Emergency Incidents,Citywide,41723,4:30
+200908,All Fire/Emergency Incidents,Manhattan,10836,4:38
+200908,All Fire/Emergency Incidents,Bronx,8749,4:47
+200908,All Fire/Emergency Incidents,Staten Island,2009,4:38
+200909,Non Structural Fires,Brooklyn,362,3:51
+200909,Structural Fires,Citywide,2096,3:58
+200909,Structural Fires,Manhattan,468,4:13
+200909,Structural Fires,Bronx,449,4:00
+200909,Structural Fires,Staten Island,103,4:16
+200909,Structural Fires,Brooklyn,676,3:34
+200909,Structural Fires,Queens,400,4:13
+200909,Non Structural Fires,Citywide,1294,4:21
+200909,Non Structural Fires,Manhattan,277,4:23
+200909,Non Structural Fires,Bronx,237,4:40
+200909,Non Structural Fires,Staten Island,64,4:16
+200909,Non Structural Fires,Queens,354,4:39
+200909,Medical Emergencies,Citywide,17073,4:15
+200909,Medical Emergencies,Manhattan,4592,4:16
+200909,Medical Emergencies,Bronx,3230,4:27
+200909,Medical Emergencies,Staten Island,840,4:21
+200909,Medical Emergencies,Brooklyn,4927,3:54
+200909,Medical Emergencies,Queens,3484,4:34
+200909,Non Medical Emergencies,Citywide,14027,4:46
+200909,Non Medical Emergencies,Manhattan,4018,5:00
+200909,Non Medical Emergencies,Bronx,2840,4:55
+200909,Non Medical Emergencies,Staten Island,761,4:56
+200909,Non Medical Emergencies,Brooklyn,3880,4:11
+200909,Non Medical Emergencies,Queens,2528,5:06
+200909,False Alarm,Citywide,2187,4:07
+200909,False Alarm,Manhattan,373,4:20
+200909,False Alarm,Bronx,563,4:20
+200909,False Alarm,Staten Island,217,4:09
+200909,False Alarm,Brooklyn,457,3:32
+200909,False Alarm,Queens,577,4:11
+200909,Medical False Alarm,Citywide,405,4:14
+200909,Medical False Alarm,Manhattan,94,4:26
+200909,Medical False Alarm,Bronx,92,3:57
+200909,Medical False Alarm,Staten Island,13,5:12
+200909,Medical False Alarm,Brooklyn,96,3:41
+200909,Medical False Alarm,Queens,110,4:39
+200909,All Fire/Emergency Incidents,Citywide,37082,4:27
+200909,All Fire/Emergency Incidents,Manhattan,9822,4:37
+200909,All Fire/Emergency Incidents,Bronx,7411,4:36
+200909,All Fire/Emergency Incidents,Staten Island,1998,4:33
+200909,All Fire/Emergency Incidents,Brooklyn,10398,3:58
+200909,All Fire/Emergency Incidents,Queens,7453,4:43
+200910,All Fire/Emergency Incidents,Queens,8390,4:51
+200910,Structural Fires,Citywide,2290,3:56
+200910,Structural Fires,Manhattan,501,4:08
+200910,Structural Fires,Bronx,528,4:02
+200910,Structural Fires,Staten Island,92,4:14
+200910,Structural Fires,Brooklyn,749,3:32
+200910,Structural Fires,Queens,420,4:15
+200910,Non Structural Fires,Citywide,1110,4:16
+200910,Non Structural Fires,Manhattan,281,4:17
+200910,Non Structural Fires,Bronx,191,4:26
+200910,Non Structural Fires,Staten Island,47,4:27
+200910,Non Structural Fires,Brooklyn,311,3:47
+200910,Non Structural Fires,Queens,280,4:40
+200910,Medical Emergencies,Citywide,17377,4:17
+200910,Medical Emergencies,Manhattan,4584,4:20
+200910,Medical Emergencies,Bronx,3253,4:23
+200910,Medical Emergencies,Staten Island,904,4:30
+200910,Medical Emergencies,Brooklyn,5006,3:54
+200910,Medical Emergencies,Queens,3630,4:37
+200910,Non Medical Emergencies,Citywide,17663,4:48
+200910,Non Medical Emergencies,Manhattan,4721,4:49
+200910,Non Medical Emergencies,Bronx,3645,5:05
+200910,Non Medical Emergencies,Staten Island,989,5:11
+200910,Non Medical Emergencies,Brooklyn,4893,4:14
+200910,Non Medical Emergencies,Queens,3415,5:13
+200910,False Alarm,Citywide,2135,4:11
+200910,False Alarm,Manhattan,375,4:17
+200910,False Alarm,Bronx,544,4:22
+200910,False Alarm,Staten Island,203,4:08
+200910,False Alarm,Brooklyn,462,3:43
+200910,False Alarm,Queens,551,4:21
+200910,Medical False Alarm,Citywide,399,4:19
+200910,Medical False Alarm,Manhattan,101,4:06
+200910,Medical False Alarm,Bronx,92,4:34
+200910,Medical False Alarm,Staten Island,12,4:31
+200910,Medical False Alarm,Brooklyn,100,3:45
+200910,Medical False Alarm,Queens,94,4:55
+200910,All Fire/Emergency Incidents,Citywide,40974,4:30
+200910,All Fire/Emergency Incidents,Manhattan,10563,4:34
+200910,All Fire/Emergency Incidents,Bronx,8253,4:42
+200910,All Fire/Emergency Incidents,Staten Island,2247,4:46
+200910,All Fire/Emergency Incidents,Brooklyn,11521,4:01
+200911,Medical False Alarm,Queens,92,4:33
+200911,Structural Fires,Citywide,2430,3:58
+200911,Structural Fires,Manhattan,583,4:12
+200911,Structural Fires,Bronx,546,4:00
+200911,Structural Fires,Staten Island,97,4:32
+200911,Structural Fires,Brooklyn,759,3:31
+200911,Structural Fires,Queens,445,4:18
+200911,Non Structural Fires,Citywide,1156,4:22
+200911,Non Structural Fires,Manhattan,260,4:13
+200911,Non Structural Fires,Bronx,167,4:49
+200911,Non Structural Fires,Staten Island,100,4:38
+200911,Non Structural Fires,Brooklyn,342,3:50
+200911,Non Structural Fires,Queens,287,4:50
+200911,Medical Emergencies,Citywide,16751,4:18
+200911,Medical Emergencies,Manhattan,4284,4:25
+200911,Medical Emergencies,Bronx,3122,4:28
+200911,Medical Emergencies,Staten Island,909,4:26
+200911,Medical Emergencies,Brooklyn,4832,3:56
+200911,Medical Emergencies,Queens,3604,4:32
+200911,Non Medical Emergencies,Citywide,15555,4:46
+200911,Non Medical Emergencies,Manhattan,4250,4:51
+200911,Non Medical Emergencies,Bronx,3298,5:00
+200911,Non Medical Emergencies,Staten Island,790,5:02
+200911,Non Medical Emergencies,Brooklyn,4443,4:13
+200911,Non Medical Emergencies,Queens,2774,5:07
+200911,False Alarm,Citywide,1977,4:14
+200911,False Alarm,Manhattan,353,4:25
+200911,False Alarm,Bronx,508,4:28
+200911,False Alarm,Staten Island,223,4:20
+200911,False Alarm,Brooklyn,416,3:37
+200911,False Alarm,Queens,477,4:21
+200911,Medical False Alarm,Citywide,328,4:08
+200911,Medical False Alarm,Manhattan,90,4:16
+200911,Medical False Alarm,Bronx,60,4:02
+200911,Medical False Alarm,Staten Island,17,3:30
+200911,Medical False Alarm,Brooklyn,69,3:44
+200911,All Fire/Emergency Incidents,Citywide,38197,4:29
+200911,All Fire/Emergency Incidents,Manhattan,9820,4:37
+200911,All Fire/Emergency Incidents,Bronx,7701,4:41
+200911,All Fire/Emergency Incidents,Staten Island,2136,4:40
+200911,All Fire/Emergency Incidents,Brooklyn,10861,4:01
+200911,All Fire/Emergency Incidents,Queens,7679,4:45
+200912,All Fire/Emergency Incidents,Staten Island,2229,4:48
+200912,Structural Fires,Citywide,2674,4:04
+200912,Structural Fires,Manhattan,650,4:14
+200912,Structural Fires,Bronx,596,4:12
+200912,Structural Fires,Staten Island,130,4:30
+200912,Structural Fires,Brooklyn,816,3:38
+200912,Structural Fires,Queens,482,4:19
+200912,Non Structural Fires,Citywide,1358,4:16
+200912,Non Structural Fires,Manhattan,366,4:13
+200912,Non Structural Fires,Bronx,214,4:38
+200912,Non Structural Fires,Staten Island,48,4:39
+200912,All Fire/Emergency Incidents,Queens,8851,4:56
+200912,Non Structural Fires,Brooklyn,415,3:47
+200912,Non Structural Fires,Queens,315,4:38
+200912,Medical Emergencies,Citywide,16706,4:26
+200912,Medical Emergencies,Manhattan,4257,4:29
+200912,Medical Emergencies,Bronx,3210,4:34
+200912,Medical Emergencies,Staten Island,900,4:38
+200912,Medical Emergencies,Brooklyn,4647,4:02
+200912,Medical Emergencies,Queens,3692,4:42
+200912,Non Medical Emergencies,Citywide,19205,4:53
+200912,Non Medical Emergencies,Manhattan,5017,5:00
+200912,Non Medical Emergencies,Bronx,3937,5:03
+200912,Non Medical Emergencies,Staten Island,1018,5:00
+200912,Non Medical Emergencies,Brooklyn,5533,4:20
+200912,Non Medical Emergencies,Queens,3700,5:19
+200912,False Alarm,Citywide,1947,4:22
+200912,False Alarm,Manhattan,400,4:36
+200912,False Alarm,Bronx,425,4:38
+200912,False Alarm,Staten Island,119,4:32
+200912,False Alarm,Brooklyn,439,3:54
+200912,False Alarm,Queens,564,4:20
+200912,Medical False Alarm,Citywide,370,4:32
+200912,Medical False Alarm,Manhattan,104,4:29
+200912,Medical False Alarm,Bronx,51,4:55
+200912,Medical False Alarm,Staten Island,14,5:38
+200912,All Fire/Emergency Incidents,Brooklyn,11953,4:09
+200912,Medical False Alarm,Brooklyn,103,4:06
+200912,Medical False Alarm,Queens,98,4:45
+200912,All Fire/Emergency Incidents,Citywide,42260,4:37
+200912,All Fire/Emergency Incidents,Manhattan,10794,4:44
+200912,All Fire/Emergency Incidents,Bronx,8433,4:48
+201001,Non Medical Emergencies,Bronx,3869,4:59
+201001,Structural Fires,Citywide,2467,3:55
+201001,Structural Fires,Manhattan,624,4:11
+201001,Structural Fires,Bronx,554,3:59
+201001,Structural Fires,Staten Island,91,4:16
+201001,Structural Fires,Brooklyn,773,3:23
+201001,Structural Fires,Queens,425,4:20
+201001,Non Structural Fires,Citywide,1239,4:11
+201001,Non Structural Fires,Manhattan,329,4:13
+201001,Non Structural Fires,Bronx,214,4:36
+201001,Non Structural Fires,Staten Island,76,4:20
+201001,Non Structural Fires,Brooklyn,378,3:43
+201001,Non Structural Fires,Queens,242,4:24
+201001,Medical Emergencies,Citywide,16581,4:20
+201001,Medical Emergencies,Manhattan,4097,4:23
+201001,Medical Emergencies,Bronx,3298,4:29
+201001,Medical Emergencies,Staten Island,850,4:30
+201001,Medical Emergencies,Brooklyn,4767,3:57
+201001,Medical Emergencies,Queens,3569,4:36
+201001,Non Medical Emergencies,Citywide,18234,4:46
+201001,Non Medical Emergencies,Manhattan,4874,4:51
+201001,Non Medical Emergencies,Staten Island,843,4:57
+201001,Non Medical Emergencies,Brooklyn,5176,4:14
+201001,Non Medical Emergencies,Queens,3472,5:09
+201001,False Alarm,Citywide,1725,4:19
+201001,False Alarm,Manhattan,313,4:27
+201001,False Alarm,Bronx,410,4:37
+201001,False Alarm,Staten Island,126,4:08
+201001,False Alarm,Brooklyn,366,3:51
+201001,False Alarm,Queens,510,4:21
+201001,Medical False Alarm,Citywide,302,4:28
+201001,Medical False Alarm,Manhattan,77,4:27
+201001,Medical False Alarm,Bronx,66,4:54
+201001,Medical False Alarm,Staten Island,7,4:08
+201001,Medical False Alarm,Brooklyn,79,3:55
+201001,Medical False Alarm,Queens,73,4:47
+201001,All Fire/Emergency Incidents,Citywide,40548,4:31
+201001,All Fire/Emergency Incidents,Manhattan,10314,4:37
+201001,All Fire/Emergency Incidents,Bronx,8411,4:43
+201001,All Fire/Emergency Incidents,Staten Island,1993,4:40
+201001,All Fire/Emergency Incidents,Brooklyn,11539,4:02
+201001,All Fire/Emergency Incidents,Queens,8291,4:49
+201002,Non Medical Emergencies,Manhattan,4212,4:57
+201002,Structural Fires,Citywide,2202,4:01
+201002,Structural Fires,Manhattan,510,4:07
+201002,Structural Fires,Bronx,552,4:05
+201002,Structural Fires,Staten Island,76,4:26
+201002,Structural Fires,Brooklyn,674,3:35
+201002,Structural Fires,Queens,390,4:30
+201002,Non Structural Fires,Citywide,1848,4:14
+201002,Non Structural Fires,Manhattan,630,4:12
+201002,Non Structural Fires,Bronx,207,4:32
+201002,Non Structural Fires,Staten Island,35,4:27
+201002,Non Structural Fires,Brooklyn,584,3:55
+201002,Non Structural Fires,Queens,392,4:34
+201002,Medical Emergencies,Citywide,14517,4:25
+201002,Medical Emergencies,Manhattan,3511,4:27
+201002,Medical Emergencies,Bronx,2772,4:25
+201002,Medical Emergencies,Staten Island,759,4:50
+201002,Medical Emergencies,Brooklyn,4311,4:05
+201002,Medical Emergencies,Queens,3164,4:44
+201002,Non Medical Emergencies,Citywide,16672,5:02
+201002,Non Medical Emergencies,Bronx,3146,5:10
+201002,Non Medical Emergencies,Staten Island,1437,6:06
+201002,Non Medical Emergencies,Brooklyn,4824,4:32
+201002,Non Medical Emergencies,Queens,3053,5:19
+201002,False Alarm,Citywide,1548,4:35
+201002,False Alarm,Manhattan,268,4:46
+201002,False Alarm,Bronx,304,4:47
+201002,False Alarm,Staten Island,137,4:35
+201002,False Alarm,Brooklyn,390,4:04
+201002,False Alarm,Queens,449,4:48
+201002,Medical False Alarm,Citywide,278,4:28
+201002,Medical False Alarm,Manhattan,58,4:31
+201002,Medical False Alarm,Bronx,57,4:48
+201002,Medical False Alarm,Staten Island,12,5:05
+201002,Medical False Alarm,Brooklyn,80,3:52
+201002,Medical False Alarm,Queens,71,4:45
+201002,All Fire/Emergency Incidents,Citywide,37065,4:41
+201002,All Fire/Emergency Incidents,Manhattan,9189,4:40
+201002,All Fire/Emergency Incidents,Bronx,7038,4:47
+201002,All Fire/Emergency Incidents,Staten Island,2456,5:34
+201002,All Fire/Emergency Incidents,Brooklyn,10863,4:15
+201002,All Fire/Emergency Incidents,Queens,7519,4:58
+201003,All Fire/Emergency Incidents,Brooklyn,12672,4:12
+201003,Structural Fires,Citywide,2325,4:02
+201003,Structural Fires,Manhattan,512,4:14
+201003,Structural Fires,Bronx,511,4:09
+201003,Structural Fires,Staten Island,131,4:24
+201003,Structural Fires,Brooklyn,784,3:36
+201003,Structural Fires,Queens,387,4:24
+201003,Non Structural Fires,Citywide,1660,4:24
+201003,Non Structural Fires,Manhattan,348,4:14
+201003,Non Structural Fires,Bronx,243,4:30
+201003,Non Structural Fires,Staten Island,139,4:49
+201003,Non Structural Fires,Brooklyn,572,4:08
+201003,Non Structural Fires,Queens,358,4:43
+201003,Medical Emergencies,Citywide,16929,4:17
+201003,Medical Emergencies,Manhattan,4441,4:22
+201003,Medical Emergencies,Bronx,3221,4:24
+201003,Medical Emergencies,Staten Island,813,4:41
+201003,Medical Emergencies,Brooklyn,4932,3:55
+201003,Medical Emergencies,Queens,3522,4:33
+201003,Non Medical Emergencies,Citywide,21125,5:10
+201003,All Fire/Emergency Incidents,Queens,8998,5:01
+201003,Non Medical Emergencies,Manhattan,4826,5:03
+201003,Non Medical Emergencies,Bronx,4157,5:24
+201003,Non Medical Emergencies,Staten Island,2253,6:11
+201003,Non Medical Emergencies,Brooklyn,5825,4:31
+201003,Non Medical Emergencies,Queens,4064,5:31
+201003,False Alarm,Citywide,2157,4:33
+201003,False Alarm,Manhattan,356,4:33
+201003,False Alarm,Bronx,581,4:41
+201003,False Alarm,Staten Island,211,4:54
+201003,False Alarm,Brooklyn,432,3:59
+201003,False Alarm,Queens,577,4:41
+201003,Medical False Alarm,Citywide,368,4:18
+201003,Medical False Alarm,Manhattan,75,4:10
+201003,Medical False Alarm,Bronx,68,4:30
+201003,Medical False Alarm,Staten Island,8,4:13
+201003,Medical False Alarm,Brooklyn,127,3:59
+201003,Medical False Alarm,Queens,90,4:40
+201003,All Fire/Emergency Incidents,Citywide,44564,4:44
+201003,All Fire/Emergency Incidents,Manhattan,10558,4:43
+201003,All Fire/Emergency Incidents,Bronx,8781,4:55
+201003,All Fire/Emergency Incidents,Staten Island,3555,5:38
+201004,Non Structural Fires,Brooklyn,377,3:46
+201004,Structural Fires,Citywide,2173,3:59
+201004,Structural Fires,Manhattan,531,4:06
+201004,Structural Fires,Bronx,470,4:04
+201004,Structural Fires,Staten Island,102,4:50
+201004,Structural Fires,Brooklyn,704,3:33
+201004,Structural Fires,Queens,366,4:20
+201004,Non Structural Fires,Citywide,1467,4:22
+201004,Non Structural Fires,Manhattan,378,4:37
+201004,Non Structural Fires,Bronx,265,4:26
+201004,Non Structural Fires,Staten Island,119,4:54
+201004,Non Structural Fires,Queens,328,4:33
+201004,Medical Emergencies,Citywide,17252,4:13
+201004,Medical Emergencies,Manhattan,4525,4:20
+201004,Medical Emergencies,Bronx,3145,4:20
+201004,Medical Emergencies,Staten Island,917,4:30
+201004,Medical Emergencies,Brooklyn,4966,3:52
+201004,Medical Emergencies,Queens,3699,4:27
+201004,Non Medical Emergencies,Citywide,15101,4:48
+201004,Non Medical Emergencies,Manhattan,4188,4:55
+201004,Non Medical Emergencies,Bronx,3112,4:59
+201004,Non Medical Emergencies,Staten Island,995,5:00
+201004,Non Medical Emergencies,Brooklyn,4131,4:19
+201004,Non Medical Emergencies,Queens,2675,5:03
+201004,False Alarm,Citywide,2089,4:15
+201004,False Alarm,Manhattan,370,4:26
+201004,False Alarm,Bronx,644,4:26
+201004,False Alarm,Staten Island,178,4:15
+201004,False Alarm,Brooklyn,402,3:43
+201004,False Alarm,Queens,495,4:17
+201004,Medical False Alarm,Citywide,383,4:11
+201004,Medical False Alarm,Manhattan,91,4:17
+201004,Medical False Alarm,Bronx,75,4:12
+201004,Medical False Alarm,Staten Island,14,4:33
+201004,Medical False Alarm,Brooklyn,122,3:53
+201004,Medical False Alarm,Queens,81,4:25
+201004,All Fire/Emergency Incidents,Citywide,38465,4:28
+201004,All Fire/Emergency Incidents,Manhattan,10083,4:37
+201004,All Fire/Emergency Incidents,Bronx,7711,4:37
+201004,All Fire/Emergency Incidents,Staten Island,2325,4:45
+201004,All Fire/Emergency Incidents,Brooklyn,10702,4:01
+201004,All Fire/Emergency Incidents,Queens,7644,4:40
+201005,All Fire/Emergency Incidents,Queens,9272,4:48
+201005,Structural Fires,Citywide,2121,3:59
+201005,Structural Fires,Manhattan,529,4:07
+201005,Structural Fires,Bronx,437,4:07
+201005,Structural Fires,Staten Island,101,4:34
+201005,Structural Fires,Brooklyn,703,3:33
+201005,Structural Fires,Queens,351,4:21
+201005,Non Structural Fires,Citywide,1538,4:18
+201005,Non Structural Fires,Manhattan,373,4:12
+201005,Non Structural Fires,Bronx,267,4:40
+201005,Non Structural Fires,Staten Island,80,4:33
+201005,Non Structural Fires,Brooklyn,489,3:49
+201005,Non Structural Fires,Queens,329,4:46
+201005,Medical Emergencies,Citywide,19278,4:15
+201005,Medical Emergencies,Manhattan,5086,4:19
+201005,Medical Emergencies,Bronx,3617,4:24
+201005,Medical Emergencies,Staten Island,916,4:42
+201005,Medical Emergencies,Brooklyn,5549,3:54
+201005,Medical Emergencies,Queens,4110,4:28
+201005,Non Medical Emergencies,Citywide,17866,4:53
+201005,Non Medical Emergencies,Manhattan,4847,4:52
+201005,Non Medical Emergencies,Bronx,3580,5:07
+201005,Non Medical Emergencies,Staten Island,1074,5:04
+201005,Non Medical Emergencies,Brooklyn,4711,4:22
+201005,Non Medical Emergencies,Queens,3654,5:16
+201005,False Alarm,Citywide,2614,4:19
+201005,False Alarm,Manhattan,424,4:20
+201005,False Alarm,Bronx,740,4:32
+201005,False Alarm,Staten Island,223,4:19
+201005,False Alarm,Brooklyn,475,3:53
+201005,False Alarm,Queens,752,4:23
+201005,Medical False Alarm,Citywide,431,4:07
+201005,Medical False Alarm,Manhattan,104,4:03
+201005,Medical False Alarm,Bronx,107,4:09
+201005,Medical False Alarm,Staten Island,16,4:08
+201005,Medical False Alarm,Brooklyn,128,3:57
+201005,Medical False Alarm,Queens,76,4:23
+201005,All Fire/Emergency Incidents,Citywide,43848,4:31
+201005,All Fire/Emergency Incidents,Manhattan,11363,4:34
+201005,All Fire/Emergency Incidents,Bronx,8748,4:43
+201005,All Fire/Emergency Incidents,Staten Island,2410,4:49
+201005,All Fire/Emergency Incidents,Brooklyn,12055,4:04
+201006,Medical False Alarm,Queens,107,4:32
+201006,Structural Fires,Citywide,1937,3:58
+201006,Structural Fires,Manhattan,422,4:01
+201006,Structural Fires,Bronx,402,4:06
+201006,Structural Fires,Staten Island,93,4:50
+201006,Structural Fires,Brooklyn,663,3:32
+201006,Structural Fires,Queens,357,4:23
+201006,Non Structural Fires,Citywide,1741,4:19
+201006,Non Structural Fires,Manhattan,426,4:18
+201006,Non Structural Fires,Bronx,312,4:30
+201006,Non Structural Fires,Staten Island,106,4:51
+201006,Non Structural Fires,Brooklyn,496,3:56
+201006,Non Structural Fires,Queens,401,4:30
+201006,Medical Emergencies,Citywide,19256,4:16
+201006,Medical Emergencies,Manhattan,5342,4:19
+201006,Medical Emergencies,Bronx,3519,4:24
+201006,Medical Emergencies,Staten Island,943,4:30
+201006,Medical Emergencies,Brooklyn,5472,3:54
+201006,Medical Emergencies,Queens,3980,4:33
+201006,Non Medical Emergencies,Citywide,17689,4:59
+201006,Non Medical Emergencies,Manhattan,4820,5:01
+201006,Non Medical Emergencies,Bronx,3853,5:15
+201006,Non Medical Emergencies,Staten Island,967,5:02
+201006,Non Medical Emergencies,Brooklyn,4650,4:28
+201006,Non Medical Emergencies,Queens,3399,5:19
+201006,False Alarm,Citywide,2695,4:21
+201006,False Alarm,Manhattan,497,4:25
+201006,False Alarm,Bronx,780,4:38
+201006,False Alarm,Staten Island,202,4:09
+201006,False Alarm,Brooklyn,434,3:52
+201006,False Alarm,Queens,782,4:21
+201006,Medical False Alarm,Citywide,460,4:14
+201006,Medical False Alarm,Manhattan,127,4:11
+201006,Medical False Alarm,Bronx,83,4:25
+201006,Medical False Alarm,Staten Island,19,4:22
+201006,Medical False Alarm,Brooklyn,124,3:55
+201006,All Fire/Emergency Incidents,Citywide,43778,4:34
+201006,All Fire/Emergency Incidents,Manhattan,11634,4:39
+201006,All Fire/Emergency Incidents,Bronx,8949,4:49
+201006,All Fire/Emergency Incidents,Staten Island,2330,4:44
+201006,All Fire/Emergency Incidents,Brooklyn,11839,4:07
+201006,All Fire/Emergency Incidents,Queens,9026,4:49
+FyTotal,All Fire/Emergency Incidents,Staten Island,27893,4:54
+FyTotal,Structural Fires,Citywide,26595,3:59
+FyTotal,Structural Fires,Manhattan,6204,4:08
+FyTotal,Structural Fires,Bronx,5909,4:05
+FyTotal,Structural Fires,Staten Island,1186,4:30
+FyTotal,Structural Fires,Brooklyn,8566,3:32
+FyTotal,Structural Fires,Queens,4730,4:20
+FyTotal,Non Structural Fires,Citywide,17189,4:18
+FyTotal,Non Structural Fires,Manhattan,4293,4:17
+FyTotal,Non Structural Fires,Bronx,2843,4:34
+FyTotal,Non Structural Fires,Staten Island,961,4:39
+FyTotal,Non Structural Fires,Brooklyn,5166,3:52
+FyTotal,All Fire/Emergency Incidents,Queens,99797,4:49
+FyTotal,Non Structural Fires,Queens,3926,4:37
+FyTotal,Medical Emergencies,Citywide,208735,4:17
+FyTotal,Medical Emergencies,Manhattan,54468,4:21
+FyTotal,Medical Emergencies,Bronx,39254,4:24
+FyTotal,Medical Emergencies,Staten Island,10522,4:31
+FyTotal,Medical Emergencies,Brooklyn,60190,3:55
+FyTotal,Medical Emergencies,Queens,44301,4:34
+FyTotal,Non Medical Emergencies,Citywide,205735,4:53
+FyTotal,Non Medical Emergencies,Manhattan,54840,4:56
+FyTotal,Non Medical Emergencies,Bronx,42373,5:07
+YEARMONTH,INCIDENTCLASSIFICATION,INCIDENTBOROUGH,INCIDENTCOUNT,AVERAGERESPONSETIME
+FyTotal,Non Medical Emergencies,Staten Island,12838,5:21
+FyTotal,Non Medical Emergencies,Brooklyn,57032,4:21
+FyTotal,Non Medical Emergencies,Queens,38652,5:15
+FyTotal,False Alarm,Citywide,26543,4:16
+FyTotal,False Alarm,Manhattan,4717,4:23
+FyTotal,False Alarm,Bronx,7033,4:30
+FyTotal,False Alarm,Staten Island,2229,4:16
+FyTotal,False Alarm,Brooklyn,5470,3:46
+FyTotal,False Alarm,Queens,7094,4:21
+FyTotal,Medical False Alarm,Citywide,4557,4:17
+FyTotal,Medical False Alarm,Manhattan,1163,4:17
+FyTotal,Medical False Alarm,Bronx,910,4:22
+FyTotal,Medical False Alarm,Staten Island,157,4:29
+FyTotal,All Fire/Emergency Incidents,Brooklyn,137657,4:04
+FyTotal,Medical False Alarm,Brooklyn,1233,3:52
+FyTotal,Medical False Alarm,Queens,1094,4:40
+FyTotal,All Fire/Emergency Incidents,Citywide,489354,4:33
+FyTotal,All Fire/Emergency Incidents,Manhattan,125685,4:38
+FyTotal,All Fire/Emergency Incidents,Bronx,98322,4:44

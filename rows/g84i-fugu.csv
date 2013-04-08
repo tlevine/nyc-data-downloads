@@ -1,0 +1,52 @@
+Component Name,Required Inspection Test Type,Required Inspection Frequency
+"Gauges (dry, preaction, and deluge systems)",Inspect,Weekly/monthly
+Control valves,Inspect,Weekly/monthly
+Alarm devices,Inspect,Quarterly
+Gauges (wet pipe systems),Inspect,Monthly
+Pipe and fittings, Inspect,Annually
+Sprinklers,Inspect,Annually
+Fire department connections,Inspect,Quarterly
+Valves (all types),Inspect,See NFPA 25 Table 12.1
+Alarm devices,Test,Quarterly/semiannually
+Main drain,Test,Annually
+Gauges,Test,5 years
+Sprinklers,Test,"50 years, and every 10 years thereafter"
+Control valves,Inspect,Weekly/monthly
+Pressure regulating devices,Inspect,Quarterly
+Piping Inspect Quarterly,Inspect,Quarterly
+Hose connections,Inspect,Quarterly
+Cabinet,Inspect,Annually
+Hose,Inspect,Annually
+Hose storage device,Inspect,Annually
+Alarm device,Test,Quarterly
+Hose nozzle,Test,Annually
+Hose storage device,Test,Annually
+Hose,Test,5 years/3 years
+Pressure control valve,Test,5 years
+Pressure reducing valve,Test,5 years
+Hydrostatic test,Test,5 years
+Flow test,Test,5 years
+Main drain test,Test,Annually
+Condition of water in tank Inspect Monthly/quarterly,Inspect,Monthly/quarterly
+Water temperature Inspect Daily/weekly,Inspect,Daily/weekly
+Heating system Inspect Daily/weekly,Inspect,Daily/weekly
+Control valves Inspect Weekly/monthly,Inspect,Weekly/monthly
+Water — level Inspect Monthly/quarterly,Inspect,Monthly/quarterly
+Air pressure Inspect Monthly/quarterly,Inspect,Monthly/quarterly
+Tank —exterior Inspect Quarterly,Inspect,Quarterly
+Interior Inspect 5 years/ 3 years,Inspect,5 years/3 years
+Check valves Inspect 5 years,Inspect,5 years
+Temperature alarms Test Monthly,Test,Monthly
+High temperature limit switches Test Monthly,Test,Monthly
+Water level alarms Test Semiannually,Test,Semiannually
+Level indicators Test 5 years,Test,5 years
+Pressure gauges Test 5 years,Test,5 years
+"Control equipment, including fuses, lamps, LEDs LEDs, and power supply",Inspect,"Weekly, or annually if alarm, supervisory and trouble signals are monitored by a central station"
+Batteries,Inspect,Monthly/semiannually
+Emergency voice alarm communications equipment,Inspect,Semiannually
+Remote annunciators,Inspect,Semiannually
+Alarm notification appliance,Inspect,Semiannually
+Supervisory signal and waterflow initiating devices,Inspect,Quarterly
+"Other initiating devices (e.g. duct detectors, fire alarm boxes and smoke detectors)",Inspect,Semiannually
+Interface equipment,Inspect,Semiannually
+Central station transmitters,Inspect,Semiannually

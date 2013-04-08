@@ -1,0 +1,307 @@
+Fee Type Name,Certificate Name,Fee Application Name,Fee Amount
+Certificate,1. Blasting contractor certificate,Original application,$105.00
+Certificate,1. Blasting contractor certificate,Renewal application,$50.00
+Certificate,2. Certificate of approval (per application),Original application,$625.00
+Certificate,2. Certificate of approval (per application),Amended application,$625.00
+Certificate,2. Certificate of approval (per application),Change of ownership,$625.00
+Certificate,2. Certificate of approval (per application),"Change in manufacturing process, chemical composition or design",$625.00
+Certificate,2. Certificate of approval (per application),Renewal application,$50.00
+Certificate,2. Certificate of approval (per application),"Change of identification, including change in name of article, model number or name of manufacturer",$210.00
+Certificate,3. Certificate of fitness,Original application (including written examination) (for 3 years),$25.00
+Certificate,3. Certificate of fitness,Practical (on-site) examination for fire safety director,$445.00
+Certificate,3. Certificate of fitness,Practical (on-site) examination for fire safety/EAP director,$305.00
+Certificate,3. Certificate of fitness,Renewal application (without examination),$5.00
+Certificate,4. Certificate of license for flammable and combustible liquid storage systems,Original application (including written examination),$145.00
+Certificate,4. Certificate of license for flammable and combustible liquid storage systems,Renewal application (without examination),$15.00
+Certificate,5. Certificate of license for motor fuel storage and dispensing systems,Original application (including written examination),$145.00
+Certificate,5. Certificate of license for motor fuel storage and dispensing systems,Renewal application (without examination),$15.00
+Certificate,6. Certificate of operation,Original application,"$3,500.00"
+Certificate,6. Certificate of operation,Renewal application,"$2,500.00"
+Certificate,7. Certificate of qualification for refrigerating system operating engineer,Original application (including written examination) (for 3 years),$60.00
+Certificate,7. Certificate of qualification for refrigerating system operating engineer,Practical examination,$225.00
+Certificate,7. Certificate of qualification for refrigerating system operating engineer,Renewal application (without examination),$5.00
+Certificate,8. Commercial cooking exhaust system servicing company certificate,Original application,$105.00
+Certificate,8. Commercial cooking exhaust system servicing company certificate,Renewal application,$50.00
+Certificate,9. Fireworks contractor certificate,Original application,$110.00
+Certificate,9. Fireworks contractor certificate,Renewal application,$110.00
+Certificate,10. Fumigation and thermal insecticidal fogging operation company certificate,Original application,$105.00
+Certificate,10. Fumigation and thermal insecticidal fogging operation company certificate,Renewal application,$50.00
+Certificate,11. Portable fire extinguisher sales company certificate,Original application,$105.00
+Certificate,11. Portable fire extinguisher sales company certificate,Renewal application,$50.00
+Certificate,12. Portable fire extinguisher servicing company certificate,Original application,$100.00
+Certificate,12. Portable fire extinguisher servicing company certificate,Renewal application,$50.00
+Certificate,13. Pyrotechnic supplier certificate,Original application,$105.00
+Certificate,13. Pyrotechnic supplier certificate,Renewal application,$50.00
+Certificate,14. Registration of expeditors,Original application,$105.00
+Certificate,14. Registration of expeditors,Renewal application,$50.00
+Certificate,15. Smoke detector maintenance company certificate,Original application,$105.00
+Certificate,15. Smoke detector maintenance company certificate,Renewal application,$50.00
+Training Schools,1. Fire safety director training school,Original application,"$2,940.00"
+Training Schools,1. Fire safety director training school,Renewal application,$420.00
+Training Schools,2. Fire safety/EAP director training school,Original application,"$2,940.00"
+Training Schools,2. Fire safety/EAP director training school,Renewal application,$420.00
+Training Schools,3. Refrigeration and related technology training school,Original application,"$2,940.00"
+Training Schools,3. Refrigeration and related technology training school,Renewal application,$420.00
+Permits and Inspections,1. Aerosol products,"Store, handle or use up to and including 2,500 pounds",$105.00
+Permits and Inspections,1. Aerosol products,"Store, handle or use more than 2,500 pounds",$210.00
+Permits and Inspections,2. Assembly occupancies,Fire safety inspection/permit (frequency of inspection as required by code or rule) Occupancy 75 to 149,$415.00
+Permits and Inspections,2. Assembly occupancies,Fire safety inspection/permit (frequency of inspection as required by code or rule) Occupancy 150 to 499,$520.00
+Permits and Inspections,2. Assembly occupancies,Fire safety inspection/permit (frequency of inspection as required by code or rule) Occupancy 500 to 999,$625.00
+Permits and Inspections,2. Assembly occupancies,"Fire safety inspection/permit (frequency of inspection as required by code or rule) Occupancy 1,000 to 2,499",$725.00
+Permits and Inspections,2. Assembly occupancies,"Fire safety inspection/permit (frequency of inspection as required by code or rule) Occupancy 2,500 to 9,999",$830.00
+Permits and Inspections,2. Assembly occupancies,"Fire safety inspection/permit (frequency of inspection as required by code or rule) Occupancy 10,000 or greater, and arenas and stadiums (per hour)",$210.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Maintain or operate an automotive liquid motor fuel-dispensing facility,$105.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Precision test of underground tank and piping (frequency of inspection as required by code or rule) (per hour),$210.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Leak detection functionality test (per hour) (frequency of test as required by code or rule),$210.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Tank test (per site) (frequency of test as required by code or rule),$355.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Tank reopening and repair (frequency of inspection as required by code or rule),$320.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,"Installation and alteration (frequency of inspection as required by code or rule) With discharge lines For tank with capacity of 4,000 gallons or less",$980.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Installation and alteration (frequency of inspection as required by code or rule) With discharge lines Each additional tank,$210.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,"Installation and alteration (frequency of inspection as required by code or rule) With discharge lines For tank with a capacity greater than 4,000 gallons","$1,210.00"
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Installation and alteration (frequency of inspection as required by code or rule) With discharge lines Each additional tank,$420.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,"Installation and alteration (frequency of inspection as required by code or rule) Without discharge lines For tank with capacity of 4,000 gallons or less",$665.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Installation and alteration (frequency of inspection as required by code or rule) Without discharge lines Each additional tank,$195.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,"Installation and alteration (frequency of inspection as required by code or rule) Without discharge lines For tank with a capacity greater than 4,000 gallons",$840.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Installation and alteration (frequency of inspection as required by code or rule) Without discharge lines Each additional tank,$385.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Fire extinguishing system test Initial installation acceptance test (per system) (per hour),$210.00
+Permits and Inspections,3. Automotive liquid motor fuel-dispensing facilities,Fire extinguishing system test Periodic test (frequency of test as required by code or rule) (per system) (per hour),$210.00
+Permits and Inspections,4. Aviation facilities and operations,Maintain or operate an aircraft-fueling vehicle,$105.00
+Permits and Inspections,4. Aviation facilities and operations,Maintain or operate a seaplane base,$315.00
+Permits and Inspections,4. Aviation facilities and operations,"Conduct a helicopter landing at other than an approved heliport, helistop or airport",$315.00
+Permits and Inspections,4. Aviation facilities and operations,Conduct a helicopter lift operation,$315.00
+Permits and Inspections,4. Aviation facilities and operations,Conduct a hot air balloon operation,$315.00
+Permits and Inspections,5. Bulk plants and terminals and bulk transfer facilities,"Store and/or use flammable and combustible liquids in stationary tanks (per equivalent unit of storage) 
+Use following algorithm to determine “equivalent unit of storage”: Equivalent unit of storage = (number of millions of gallons of tank capacity at facility) 
++ (3 x number of tanks at facility)",$70.00
+Permits and Inspections,5. Bulk plants and terminals and bulk transfer facilities,Fire protection system inspection (frequency of inspection as required by code or rule)(per hour),$210.00
+Permits and Inspections,5. Bulk plants and terminals and bulk transfer facilities,Fire department connection inspection (frequency of inspection as required by code or rule) (per hour),$210.00
+Permits and Inspections,5. Bulk plants and terminals and bulk transfer facilities,Periodic inspection and/or test (frequency of inspection as required by code or rule) (per hour),$210.00
+Permits and Inspections,5. Bulk plants and terminals and bulk transfer facilities,"Installation of devices, equipment and systems (new or altered), including fire protection systems (frequency of inspection as required by code or rule) (per hour)",$210.00
+Permits and Inspections,6. CNG motor fuel-dispensing facilities,Maintain or operate a CNG motor fuel-dispensing facility,$625.00
+Permits and Inspections,6. CNG motor fuel-dispensing facilities,"Installation of devices, equipment and systems (new or altered), including fire protection systems (frequency of inspection as required by code or rule) (per hour)",$210.00
+Permits and Inspections,7. Cellulose nitrate film,"Store Up to and including 100,000 feet",$105.00
+Permits and Inspections,7. Cellulose nitrate film,"Store More than 100,000 feet",$210.00
+Permits and Inspections,7. Cellulose nitrate film,Handle and use,$105.00
+Permits and Inspections,8. Combustible dust-producing operations,Conduct a combustible dust-producing operation,$105.00
+Permits and Inspections,9. Combustible fibers,Store less than 10 tons,$105.00
+Permits and Inspections,9. Combustible fibers,Store 10 tons or more,$210.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use liquids with a flash point of 300°F or less In containers each equal to or less than 55 gallons: Up to and including 550 gallons",$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use liquids with a flash point of 300°F or less In containers each equal to or less than 55 gallons: More than 550 gallons up to and including 2,500 gallons",$210.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use liquids with a flash point of 300°F or less In containers each equal to or less than 55 gallons: Each additional 2,500 gallons or portion thereof",$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use liquids with a flash point of 300°F or less In tanks each larger than 55 gallons Up to and including 20 tanks",$125.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use liquids with a flash point of 300°F or less In tanks each larger than 55 gallons More than 20 tanks",$415.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use fuel oil in tanks each larger than 55 gallons 1 or 2 family dwellings, or schools where tuition is charged (frequency of inspection as required by code or rule)",$50.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use fuel oil in tanks each larger than 55 gallons In buildings where no oil burner certificate of fitness is required",$90.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use fuel oil in tanks each larger than 55 gallons In buildings where an oil burner certificate of fitness is required, or for any other purpose Up to and including 20 tanks",$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use fuel oil in tanks each larger than 55 gallons In buildings where an oil burner certificate of fitness is required, or for any other purpose More than 20 tanks",$210.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)",Store kerosene Store for retail sale,$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)",Store kerosene Store for wholesale,$210.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)",Store kerosene Store for use,$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)",Store or handle essential oils Less than 500 pounds,$50.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)",Store or handle essential oils 500 pounds or more,$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use petroleum products with a flash point exceeding 300°F In containers each equal to or less than 55 gallons Up to and including 550 gallons",$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use petroleum products with a flash point exceeding 300°F In containers each equal to or less than 55 gallons More than 550 gallons up to and including 2,500 gallons",$210.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use petroleum products with a flash point exceeding 300°F In containers each equal to or less than 55 gallons Each additional 2,500 gallons or portion thereof",$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use petroleum products with a flash point exceeding 300°F In tanks each larger than 55 gallons Up to and including 20 tanks",$125.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use petroleum products with a flash point exceeding 300°F In tanks each larger than 55 gallons More than 20 tanks",$415.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use waxes, oils and fats (animal, vegetable or mineral) More than 400 pounds of wax",$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store, handle or use waxes, oils and fats (animal, vegetable or mineral) More than 250 gallons of oils and/or fats",$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)",Manufacture combustible liquid,$210.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Manufacture or distill liquor, spirits or alcohol",$210.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store liquors, spirits or alcohol (except retail liquor stores and premises where alcohol is sold for consumption on the premises) In containers, each equal to or less than 55 gallons More than 500 up to and including 1,000 gallons",$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store liquors, spirits or alcohol (except retail liquor stores and premises where alcohol is sold for consumption on the premises) In containers, each equal to or less than 55 gallons More than 1,000 up to and including 5,000 gallons",$210.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store liquors, spirits or alcohol (except retail liquor stores and premises where alcohol is sold for consumption on the premises) In containers, each equal to or less than 55 gallons Each additional 5,000 gallons or portion thereof",$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store liquors, spirits or alcohol (except retail liquor stores and premises where alcohol is sold for consumption on the premises) In tanks each larger than 55 gallons Up to and including 10 tanks",$105.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)","Store liquors, spirits or alcohol (except retail liquor stores and premises where alcohol is sold for consumption on the premises) In tanks each larger than 55 gallons More than 10 tanks",$210.00
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)",Store and/or use fuel oil stored on a marine vessel moored to or anchored at privately owned waterfront property,Included in fees set forth in A03.1(5); tank on the vessel is treated as a stationary tank
+Permits and Inspections,"10. Combustible liquids (excluding paints, varnishes and lacquers)",Store and use fuel oil on a mobile heating trailer (citywide),$105.00
+Permits and Inspections,11. Combustible materials,"Store more than 2, 000 cubic feet",$105.00
+Permits and Inspections,11. Combustible materials,Store flammable plastic foam Up to and including 3 tons,$105.00
+Permits and Inspections,11. Combustible materials,Store flammable plastic foam More than 3 tons,$210.00
+Permits and Inspections,12. Commercial cooking systems,Maintain or operate a commercial cooking system,$70.00
+Permits and Inspections,12. Commercial cooking systems,Acceptance test of fire extinguishing system,As set forth in A03.1(20)
+Permits and Inspections,13. Compressed gases,"Store, handle or use corrosive",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use flammable (non-liquefied)",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use flammable (liquefied, non-cryogenic, except LPG)",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use non-flammable (non-liquefied)",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use non-flammable (liquefied, non-cryogenic)",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use anhydrous liquid ammonia",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use carbon dioxide",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use acetylene",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use highly toxic",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use liquefied chlorine",$105.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use toxic",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use unstable (reactive)",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use water reactive",$210.00
+Permits and Inspections,13. Compressed gases,"Store, handle or use pyrophoric",$210.00
+Permits and Inspections,14. Compressing gases,"Maintain or operate a device, equipment or system to compress flammable gas Compress to a pressure up to and including 15 psig",$210.00
+Permits and Inspections,14. Compressing gases,"Maintain or operate a device, equipment or system to compress flammable gas Compress to a pressure more than 15 psig",$415.00
+Permits and Inspections,14. Compressing gases,"Maintain or operate a device, equipment or system to compress non-flammable gas",$210.00
+Permits and Inspections,14. Compressing gases,"Maintain or operate a device, equipment or system to compress atmospheric air Up to and including three compressors",$105.00
+Permits and Inspections,14. Compressing gases,"Maintain or operate a device, equipment or system to compress atmospheric air Each additional six compressors or portion thereof",$105.00
+Permits and Inspections,15. Corrosive materials,"Store, handle or use solid",$50.00
+Permits and Inspections,15. Corrosive materials,"Store, handle or use liquid In portable containers",$50.00
+Permits and Inspections,15. Corrosive materials,"Store, handle or use liquid In tanks (each unit of 1,000 gallons or portion thereof)",$50.00
+Permits and Inspections,16. Cryogenic fluids,"Store, handle or use flammable",$210.00
+Permits and Inspections,16. Cryogenic fluids,"Store, handle or use nonflammable Up to and including 1,300 gallons",$210.00
+Permits and Inspections,16. Cryogenic fluids,"Store, handle or use nonflammable Each additional 3,900 gallons or portion thereof",$105.00
+Permits and Inspections,17. Dry cleaning facilities,Maintain or operate a dry cleaning facility,$125.00
+Permits and Inspections,18. Decorations,Fire safety inspection of combustible decorations and scenery in: An assembly occupancy,Included in fee set forth in A03.1(2)
+Permits and Inspections,18. Decorations,Fire safety inspection of combustible decorations and scenery in: Other public gathering places,Included in fee set forth in A03.1(56)
+Permits and Inspections,19. Explosives,"Store, handle and sell explosives at vendor’s facility (frequency of inspection as required by code or rule) Initial inspection",$210.00
+Permits and Inspections,19. Explosives,"Store, handle and sell explosives at vendor’s facility (frequency of inspection as required by code or rule) Subsequent inspection (per hour)",$210.00
+Permits and Inspections,19. Explosives,"Store, handle and use explosives at a job site (frequency of inspection as required by code or rule) (per hour)",$210.00
+Permits and Inspections,19. Explosives,Store small arms ammunition for sale Up to and including 25 percent of the maximum allowable code quantities,$105.00
+Permits and Inspections,19. Explosives,Store small arms ammunition for sale More than 25 percent of the maximum allowable code quantities,$210.00
+Permits and Inspections,19. Explosives,Store black powder or smokeless propellant Less than 14 pounds,$50.00
+Permits and Inspections,19. Explosives,Store black powder or smokeless propellant 14 pounds or more,$105.00
+Permits and Inspections,19. Explosives,"Store, sell or offer for sale low explosives at a location other than a vendor’s facility or job site (frequency of inspection as required by code) (per hour)",$210.00
+Permits and Inspections,20. Fire protection systems,Acceptance tests Commercial cooking fire extinguishing system (per system) Mechanical only,$285.00
+Permits and Inspections,20. Fire protection systems,Acceptance tests Commercial cooking fire extinguishing system (per system) Mechanical and electrical,$580.00
+Permits and Inspections,20. Fire protection systems,Acceptance tests Fire and carbon monoxide alarm and communication systems (per system) (per hour),$210.00
+Permits and Inspections,20. Fire protection systems,"Acceptance tests Fire extinguishing systems, mechanical and electrical, (per system) (per hour) Carbon dioxide",$210.00
+Permits and Inspections,20. Fire protection systems,"Acceptance tests Fire extinguishing systems, mechanical and electrical, (per system) (per hour) Clean agent",$210.00
+Permits and Inspections,20. Fire protection systems,"Acceptance tests Fire extinguishing systems, mechanical and electrical, (per system) (per hour) Dry chemical",$210.00
+Permits and Inspections,20. Fire protection systems,"Acceptance tests Fire extinguishing systems, mechanical and electrical, (per system) (per hour) Foam",$210.00
+Permits and Inspections,20. Fire protection systems,"Acceptance tests Fire extinguishing systems, mechanical and electrical, (per system) (per hour) Halon",$210.00
+Permits and Inspections,20. Fire protection systems,"Acceptance tests Fire extinguishing systems, mechanical and electrical, (per system) (per hour) Water mist",$210.00
+Permits and Inspections,20. Fire protection systems,"Acceptance tests Fire extinguishing systems, mechanical and electrical, (per system) (per hour) Wet chemical",$210.00
+Permits and Inspections,20. Fire protection systems,"Acceptance tests Fire and booster pumps (per pump) (per hour) Electric driven, mechanical and electrical",$210.00
+Permits and Inspections,20. Fire protection systems,Acceptance tests Fire and booster pumps (per pump) (per hour) Engine driven,$210.00
+Permits and Inspections,20. Fire protection systems,Periodic tests (frequency of inspection as required by code or rule) Sprinkler system One fire department connection,$320.00
+Permits and Inspections,20. Fire protection systems,Periodic tests (frequency of inspection as required by code or rule) Sprinkler system Each additional fire department connection,$275.00
+Permits and Inspections,20. Fire protection systems,Periodic tests (frequency of inspection as required by code or rule) Sprinkler system Trip test (per valve) (per hour),$210.00
+Permits and Inspections,20. Fire protection systems,Periodic tests (frequency of inspection as required by code or rule) Sprinkler system Flow test,$105.00
+Permits and Inspections,20. Fire protection systems,Periodic tests (frequency of inspection as required by code or rule) Standpipe system One fire department connection,$365.00
+Permits and Inspections,20. Fire protection systems,Periodic tests (frequency of inspection as required by code or rule) Standpipe system Each additional fire department connection,$210.00
+Permits and Inspections,20. Fire protection systems,Periodic tests (frequency of inspection as required by code or rule) Combination sprinkler/Standpipe system One fire department connection,$365.00
+Permits and Inspections,20. Fire protection systems,Periodic tests (frequency of inspection as required by code or rule) Combination sprinkler/Standpipe system Each additional fire department connection,$210.00
+Permits and Inspections,21. Fireworks displays,Permit application,$210.00
+Permits and Inspections,21. Fireworks displays,Site inspection (per hour),$210.00
+Permits and Inspections,21. Fireworks displays,Monitoring of fireworks display (including pre-display operations and post-display safety measures) (per hour),$210.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store, handle or use in containers, each equal to or less than 55 gallons Up to and including 550 gallons",$105.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store, handle or use in containers, each equal to or less than 55 gallons More than 550 gallons up to and including 2,500",$210.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store, handle or use in containers, each equal to or less than 55 gallons Each additional 2,500 gallons or portion thereof",$105.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store, handle or use in tanks, each larger than 55 gallons Up to and including 10 tanks",$210.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store, handle or use in tanks, each larger than 55 gallons More than 10 tanks",$415.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store, handle and use gasoline or other petroleum products in containers, each equal to or less than 55 gallons Up to and including 55 gallons",$50.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store, handle and use gasoline or other petroleum products in containers, each equal to or less than 55 gallons More than 55 gallons",$105.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)",Store and handle for retail sale Up to and including 100 gallons,$95.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)",Store and handle for retail sale More than 100 gallons,$105.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)",Manufacture flammable liquid,$210.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Manufacture or distill liquor, spirits or alcohol",$210.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store and handle liquors, spirits or alcohol (except retail liquor stores and premises where alcohol is sold for consumption on the premises) In containers, each equal to or less than 55 gallons More than 500 up to and including 1,000 gallons",$105.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store and handle liquors, spirits or alcohol (except retail liquor stores and premises where alcohol is sold for consumption on the premises) In containers, each equal to or less than 55 gallons More than 1,000 up to and including 5,000 gallons",$210.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store and handle liquors, spirits or alcohol (except retail liquor stores and premises where alcohol is sold for consumption on the premises) In containers, each equal to or less than 55 gallons Each additional 5,000 gallons or portion thereof",$105.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store and handle liquors, spirits or alcohol (except retail liquor stores and premises where alcohol is sold for consumption on the premises) In tanks each larger than 55 gallons Up to and including 10 tanks",$105.00
+Permits and Inspections,"22. Flammable liquids (excluding paint, varnish and lacquer)","Store and handle liquors, spirits or alcohol (except retail liquor stores and premises where alcohol is sold for consumption on the premises) In tanks each larger than 55 gallons More than 10 tanks",$210.00
+Permits and Inspections,23. Flammable solids,"Store, handle or use",$105.00
+Permits and Inspections,23. Flammable solids,"Store, handle and use nitrocellulose products in manufacture",$210.00
+Permits and Inspections,24. Floor finishing or surfacing operations,Conduct a floor finishing or surfacing operation,$105.00
+Permits and Inspections,25. Fruit and crop ripening,Maintain or operate a fruit or crop ripening facility,$105.00
+Permits and Inspections,26. Fumigation and thermal insecticidal fogging,Maintain or operate a toxic or flammable fumigation and thermal insecticidal fogging facility,$105.00
+Permits and Inspections,"27. High rise office buildings, and hotels and motels",Fire safety inspection (frequency of inspection as required by code or rule),$570.00
+Permits and Inspections,28. Highly toxic materials,"Store, handle or use liquid",$105.00
+Permits and Inspections,28. Highly toxic materials,"Store, handle or use solid",$105.00
+Permits and Inspections,29. Hazardous production materials (HPM),"Store, handle or use hazardous production materials at an HPM facility",$315.00
+Permits and Inspections,30. High-piled combustible storage,"Maintain or operate a high-piled combustible storage facility Up to and including 5,000 square feet of high-piled combustible storage",$105.00
+Permits and Inspections,30. High-piled combustible storage,"Maintain or operate a high-piled combustible storage facility More than 5,000 square feet of high-piled combustible storage",$210.00
+Permits and Inspections,31. Hot work operations,Citywide operations,$105.00
+Permits and Inspections,,Site-specific hot work program,$105.00
+Permits and Inspections,32. Industrial furnaces,Maintain or operate an industrial furnace,$105.00
+Permits and Inspections,33. Inspections and re-inspections,"Inspections or witnessed tests required by the code or rules, the fee for which is not otherwise specified herein (per hour)",$210.00
+Permits and Inspections,33. Inspections and re-inspections,"Re-inspections in connection with permit or inspection required by code or rule, to confirm correction of violation(s) (per hour)",$210.00
+Permits and Inspections,33. Inspections and re-inspections,Failure to provide access for a scheduled inspection or witnessed test,$105.00
+Permits and Inspections,33. Inspections and re-inspections,Late cancellation of a scheduled inspection or witnessed test (notice of less than 1 business day),$105.00
+Permits and Inspections,"34. Laboratories, nonproduction","Maintain or operate a non-production laboratory Original permit (per laboratory unit) Up to and including 2,500 square feet",$210.00
+Permits and Inspections,"34. Laboratories, nonproduction","Maintain or operate a non-production laboratory Original permit (per laboratory unit) More than 2,500 square feet",$315.00
+Permits and Inspections,"34. Laboratories, nonproduction","Maintain or operate a non-production laboratory Renewal permits (per laboratory unit) Up to and including 2,500 square feet",$105.00
+Permits and Inspections,"34. Laboratories, nonproduction","Maintain or operate a non-production laboratory Renewal permits (per laboratory unit) More than 2,500 square feet",$210.00
+Permits and Inspections,35. Liquefied petroleum gases,"Store, handle or use",$210.00
+Permits and Inspections,36. Lumber yards,Storage of lumber at lumber yards,$105.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Maintain or operate a marine liquid motor fuel-dispensing facility,$105.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Precision test of underground tank and piping (frequency of inspection as required by code or rule) (per hour),$210.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Leak detection functionality test (frequency of test as required by code or rule) (per hour),$210.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Tank test (per site) (frequency of test as required by code or rule),$355.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Tank reopening and repair (frequency of inspection as required by code or rule),$320.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,"Installation andalteration (frequency of inspection as required by code or rule) With discharge lines For tank with capacity up to and including 4,000 gallons",$980.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Installation andalteration (frequency of inspection as required by code or rule) With discharge lines Each additional tank,$210.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,"Installation andalteration (frequency of inspection as required by code or rule) With discharge lines For tank with a capacity more than 4,000 gallons","$1,210.00"
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Installation andalteration (frequency of inspection as required by code or rule) With discharge lines Each additional tank,$420.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,"Installation andalteration (frequency of inspection as required by code or rule) Without discharge lines For tank with capacity up to and including 4,000 gallons",$665.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Installation andalteration (frequency of inspection as required by code or rule) Without discharge lines Each additional tank,$195.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,"Installation andalteration (frequency of inspection as required by code or rule) Without discharge lines For tank with a capacity more than 4,000 gallons",$840.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Installation andalteration (frequency of inspection as required by code or rule) Without discharge lines Each additional tank,$385.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Fire extinguishing system test Initial installation acceptance test (per system),$750.00
+Permits and Inspections,37. Marine liquid motor fuel-dispensing facilities,Fire extinguishing system test Periodic test (frequency of test as required by code or rule) (per system),$750.00
+Permits and Inspections,38. Methane recovery facilities,Maintain or operate a methane recovery facility (per hour),$210.00
+Permits and Inspections,38. Methane recovery facilities,"Installation of devices, equipment and systems (new or altered), (frequency of inspection as required by code or rule) (per hour)",$210.00
+Permits and Inspections,38. Methane recovery facilities,Periodic inspection/test (frequency of inspection as required by code or rule) (per hour),$210.00
+Permits and Inspections,39. Natural gas liquefaction facilities,Maintain or operate natural gas liquefaction facility (per hour),$210.00
+Permits and Inspections,39. Natural gas liquefaction facilities,"Installation of devices, equipment and systems (new or altered), (frequency of inspection as required by code or rule) (per hour)",$210.00
+Permits and Inspections,39. Natural gas liquefaction facilities,Periodic inspection/test (frequency of inspection as required by code or rule) (per hour),$210.00
+Permits and Inspections,40. Open flames,Fire safety inspection for use of an open flame in: An assembly occupancy,Included in fee set forth in A03.1(2)
+Permits and Inspections,40. Open flames,Fire safety inspection for use of an open flame in: Other public gathering places,Included in fee set forth in A03.1(56)
+Permits and Inspections,40. Open flames,Fire safety inspection for use of an open flame in: A covered mall (per hour),$210.00
+Permits and Inspections,41. Organic coatings,Manufacture organic coating,$210.00
+Permits and Inspections,42. Organic peroxides,"Store, handle or use liquid",$210.00
+Permits and Inspections,42. Organic peroxides,"Store, handle or use solid",$210.00
+Permits and Inspections,43. Oxidizing materials,"Store, handle or use liquid (per hour)",$210.00
+Permits and Inspections,43. Oxidizing materials,"Store, handle or use solid (per hour)",$210.00
+Permits and Inspections,43. Oxidizing materials,"Store, handle or use hydrogen peroxide, (concentration of 35% or more) Up to and including 150 gallons in containers",$50.00
+Permits and Inspections,43. Oxidizing materials,"Store, handle or use hydrogen peroxide, (concentration of 35% or more) More than 150 gallons in containers",$105.00
+Permits and Inspections,43. Oxidizing materials,"Store, handle or use hydrogen peroxide, (concentration of 35% or more) In bulk, per 1,000 gallons or portion thereof",$50.00
+Permits and Inspections,"44. Paints, varnishes and lacquers (with a flash point of 300°F or less)","Store, handle or use paint, varnish and lacquer Up to and including 1,000 gallons",$105.00
+Permits and Inspections,"44. Paints, varnishes and lacquers (with a flash point of 300°F or less)","Store, handle or use paint, varnish and lacquer More than 1,000 gallons",$210.00
+Permits and Inspections,"44. Paints, varnishes and lacquers (with a flash point of 300°F or less)","Manufacture, mix or compound",$210.00
+Permits and Inspections,45. Plan examinations,Review of design and installation documents,$210.00
+Permits and Inspections,45. Plan examinations,Review of fire safety and evacuation plan,$210.00
+Permits and Inspections,45. Plan examinations,Review of emergency action plan Original application,$525.00
+Permits and Inspections,45. Plan examinations,Review of emergency action plan Amended application (per hour)(total not to exceed $525.00),$210.00
+Permits and Inspections,46. Portable fueled space heaters,"Store, handle or use",$210.00
+Permits and Inspections,47. Pyrophoric materials,"Store, handle or use liquid",$105.00
+Permits and Inspections,47. Pyrophoric materials,"Store, handle or use solid",$105.00
+Permits and Inspections,48. Pyroxylin plastics,"Store, handle or use raw pyroxylin plastics",$105.00
+Permits and Inspections,48. Pyroxylin plastics,Use of raw pyroxylin plastics in manufacture of products,$210.00
+Permits and Inspections,49. Refrigerating systems,Maintain or operate a refrigerating system (per compressor),$105.00
+Permits and Inspections,50. Repair garages,Maintain or operate a repair garage,$105.00
+Permits and Inspections,51. Smoking rooms,Fire safety inspection in health care facilities (frequency of inspection as required by code or rule),$105.00
+Permits and Inspections,52. Special effects,Special effects permit application,$210.00
+Permits and Inspections,52. Special effects,Production company special effects permit application,$210.00
+Permits and Inspections,52. Special effects,Site inspection (per hour),$210.00
+Permits and Inspections,52. Special effects,Central storage facility permit application,$210.00
+Permits and Inspections,52. Special effects,Monitoring of special effects operations (per hour),$210.00
+Permits and Inspections,53. Special services,"Requests for an inspection, witnessing of test, or other services, at times other than regular business hours, or other special circumstances","Hourly fee based on cost of services, including travel time, overtime, expenses and overhead"
+Permits and Inspections,54. Spraying and dipping operations,Conduct a spraying or dipping operation,$310.00
+Permits and Inspections,"55. Standby of department personnel (as required by code, rule or permit)",Firefighting apparatus (per hour) (per apparatus),$525.00
+Permits and Inspections,"55. Standby of department personnel (as required by code, rule or permit)",Other services,"Hourly fee based on cost of services, including travel time, overtime, expenses and overhead"
+Permits and Inspections,56. Street fairs and other public gatherings or gathering places,Review of site plan (per hour),$210.00
+Permits and Inspections,56. Street fairs and other public gatherings or gathering places,Fire safety inspection (per hour),$210.00
+Permits and Inspections,57. Sulfur,"Store, handle or use up and including 1,500 pounds",$50.00
+Permits and Inspections,57. Sulfur,"Store, handle or use more than 1,500 pounds",$105.00
+Permits and Inspections,58. Tar kettles,"Store, handle or use a tar kettle",$105.00
+Permits and Inspections,59. Tire-rebuilding plants,Maintain or operate a tire-rebuilding plant,$210.00
+Permits and Inspections,"60. Tires, scrap tires and tire byproducts","Store tires, scrap tires and tire byproducts",$70.00
+Permits and Inspections,61. Toxic materials,"Store, handle or use liquid",$105.00
+Permits and Inspections,61. Toxic materials,"Store, handle or use solid",$105.00
+Permits and Inspections,62. Transportation of hazardous materials,Combustible liquid by motor vehicle,$105.00
+Permits and Inspections,62. Transportation of hazardous materials,Compressed gas by motor vehicle,$105.00
+Permits and Inspections,62. Transportation of hazardous materials,Explosives by marine vessel (per hour),$210.00
+Permits and Inspections,62. Transportation of hazardous materials,Explosives by motor vehicle (per hour),$210.00
+Permits and Inspections,62. Transportation of hazardous materials,Firefighting apparatus escort (as required by code or rule) (per hour) (per apparatus),$525.00
+Permits and Inspections,62. Transportation of hazardous materials,Flammable liquid by motor vehicle,$105.00
+Permits and Inspections,63. Unstable (reactive) materials,"Store, handle or use liquid",$105.00
+Permits and Inspections,63. Unstable (reactive) materials,"Store, handle or use solid",$105.00
+Permits and Inspections,64. Water-reactive materials,"Store, handle or use liquid",$105.00
+Permits and Inspections,64. Water-reactive materials,"Store, handle or use solid",$105.00
+Permits and Inspections,64. Water-reactive materials,Store calcium carbide,$105.00
+Permits and Inspections,64. Water-reactive materials,Up to and including 600 pounds,$210.00
+Permits and Inspections,64. Water-reactive materials,More than 600 pounds,
+Administrative Services,1. Transcripts and special reports (per transcript or special report) (per premises),,$10.00
+Administrative Services,2. Replacement of lost permit or certificate,,$5.00
+Administrative Services,3. Application for modification of certificate (except certificate of approval),,$5.00
+Administrative Services,4. Violation dismissal notice (per violation),,$5.00
+Administrative Services,5. Application for modification,,$200.00
+Administrative Services,6. Removal and storage of contraband material (per cylinder or device reclaimed),,$65.00
+Administrative Services,7. Payment returned for insufficient funds (per item),,$20.00
+Late Renewals,1. Certificates and permits,,As set forth in Section 117.3

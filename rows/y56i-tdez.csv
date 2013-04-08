@@ -1,0 +1,13 @@
+Modified Mercalli Intensity (MMI),Damage/Perception
+I,Not felt except by a very few under especially favorable conditions
+II,"Felt only by a few people at rest, especially on upper floors of buildings"
+III,"Felt quite noticeably by people indoors, especially on upper floors of buildings.  Many people do not recognize it as an earthquake. Standing motor cars may rock slightly. Vibrations similar to the passing of a truck."
+IV,"Felt indoors by many, outdoors by few during the day. At night, some awakened. Dishes, windows, doors, disturbed; walls make cracking sound. Sensation like heavy truck striking building. Standing motor cars rocked noticeably."
+V,"Felt by nearly everyone; many awakened. Some dishes, windows broken. Unstable objects overturned. Pendulum clocks may stop."
+VI,Felt by all; many frightened.  Some heavy furniture moved. Few instances of fallen plaster. Damage slight.
+VII,Damage negligible in buildings of good design and construction. Slight to moderate damage in well-built ordinary structures. Considerable damage in poorly built or badly designed structures. Some chimneys broken.
+VIII,"Damage slight in specially designed structures. Considerable damage in ordinary substantial buildings with partial collapse. Damage great in poorly built structures. Fall of chimneys, factory stacks, columns, monuments, walls. Heavy furniture overturned"
+IX,"Damage considerable in specially designed structures. Well-designed frame structures thrown out of plumb. Damage great in substantial buildings, with partial collapse. Buildings shifted off foundations"
+X,Some well-built wooden structures destroyed. Most masonry and frame structures destroyed with foundations. Rails bent
+XI,"Few, if any masonry or frame structures remain standing. Bridges destroyed. Rails bent greatly"
+XII,Total damage. Lines of sight and level are distorted. Objects thrown into the air

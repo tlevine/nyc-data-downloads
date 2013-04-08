@@ -1,0 +1,61 @@
+Application Type,Land Use Detail,Amount,Comments
+Special Permit,"Less than 10,000 square feet",$2040.00,The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement
+Special Permit,"10,000 to 19,999 square feet",$3100.00,The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement
+Special Permit,"20,000 to 39,999 square feet",$4080.00,The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement
+Special Permit,"40,000 to 69,999 square feet",$5215.00,The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement
+Special Permit,"70,000 to 99,999 square feet",$6125.00,The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement
+Special Permit,"100,000 to 239,999 square feet",$6805.00,The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement
+Special Permit,"240,000 to 500,000 square feet",$17765.00,The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement
+Special Permit,"over 500,000 square feet",$29485.00,The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement
+Zoning Map Amendment,"Less than 10,000 square feet",$2190.00,The area of all zoning lots in the area to be rezoned
+Zoning Map Amendment,"10,000 to 19,999 square feet",$3250.00,The area of all zoning lots in the area to be rezoned
+Zoning Map Amendment,"20,000 to 39,999 square feet",$4310.00,The area of all zoning lots in the area to be rezoned
+Zoning Map Amendment,"40,000 to 69,999 square feet",$5445.00,The area of all zoning lots in the area to be rezoned
+Zoning Map Amendment,"70,000 to 99,999 square feet",$6425.00,The area of all zoning lots in the area to be rezoned
+Zoning Map Amendment,"100,000 to 239,999 square feet",$7105.00,The area of all zoning lots in the area to be rezoned
+Zoning Map Amendment,"240,000 to 500,000 square feet",$18445.00,The area of all zoning lots in the area to be rezoned
+Zoning Map Amendment,"over 500,000 square feet",$30620.00,The area of all zoning lots in the area to be rezoned
+Changes to City Map & Landfill,Elimination of a mapped but unimproved street,$1740.00,
+Changes to City Map & Landfill,Establishment of a Landfill,$3400.00,
+Changes to City Map & Landfill,Any other change in The City Street Map,$5445.00,
+Franchises and revocable consents,Applications pursuant to §197-c of the City Charter,$3400.00,
+Franchises and revocable consents,Enclosed sidewalk cafes pursuant to New York City Administrative Code section 20-225 - Per Chair,$55.00,Minimum $1360
+Amendment to Zoning Resolution,Amendments to the text of the Zoning Resolution pursuant to Section 201 of the City Charter,$5445.00,
+Zoning Certification ,"certification for public school space pursuant to Section 107-123 of   Article X, Chapter 7",$160.00,
+Zoning Certification ,For an application for one zoning lot with no more than two existing or proposed dwelling units and no commercial or community facility use,$380.00,
+Zoning Certification ,For all other applications the fee for each zoning lot,$430.00,
+Zoning Authorization,For an application for one zoning lot with no more than two existing or proposed dwelling units and no commercial or community facility use,$755.00,
+Zoning Authorization,"all other applications with no commercial or community facility use, the fee shall be based upon the number of dwelling units being proposed",$830.00,Per Dwelling Unit
+Zoning Authorization for Open Spaces,"Less than 10,000 square feet",$1060.00,"The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area"
+Zoning Authorization for Open Spaces,"10,000 to 19,999 square feet",$1590.00,"The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area"
+Zoning Authorization for Open Spaces,"20,000 to 39,999 square feet",$2040.00,"The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area"
+Zoning Authorization for Open Spaces,"40,000 to 69,999 square feet",$2645.00,"The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area"
+Zoning Authorization for Open Spaces,"70,000 to 99,999 square feet",$3100.00,"The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area"
+Zoning Authorization for Open Spaces,"100,000 square feet and over",$3400.00,"The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area"
+Zoning Authorization,Pursuant to §95-04 (Transit Easements) of the Zoning Resolution,$270.00,
+All other sections of the Zoning Resolution,"Less than 10,000 square feet",$1060.00,"In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. "
+All other sections of the Zoning Resolution,"10,000 to 19,999 square feet",$1590.00,"In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. "
+All other sections of the Zoning Resolution,"20,000 to 39,999 square feet",$2040.00,"In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. "
+All other sections of the Zoning Resolution,"40,000 to 69,999 square feet",$2645.00,"In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. "
+All other sections of the Zoning Resolution,"70,000 to 99,999 square feet",$3100.00,"In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. "
+All other sections of the Zoning Resolution,"100,000 square feet and over",$3400.00,"In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. "
+Supplemental Fee for Large Projects,"Applications that may result in the development of 500,000 to 999,999 square feet of floor area",$80000.00,
+Supplemental Fee for Large Projects,"Applications that may result in the development of 1,000,000 to 2,499,000 square feet of floor area",$120000.00,
+Supplemental Fee for Large Projects,"Applications that may result in the development of at least 2,500,000 square feet of floor area",$160000.00,
+Natural Feature Restoration Fee,Per Square Foot,$0.10,"Maximum of $18900. Pursuant to §§105-45, 107-321, 107-65, and 119-40 of the Zoning Resolution, for the restoration of trees that have been removed or topography that has been altered without the prior approval of the City Planning Commission pursuant to §§105-40, 107-60, 119-10, 119-20, or 119-30 of the Zoning Resolution is filed"
+Zoning Verification Fee,Request that the Department of City Planning verify in writing the zoning district(s) in which a property is located,$110.00,
+CEQR Application Fee,"Less than 10,000 sq. ft.",$460.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"10,000 to 19,999 sq. ft.",$1350.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"20,000 to 39,999 sq. ft.",$2940.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"40,000 to 59,999 sq. ft.",$5465.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"60,000 to 79,999 sq. ft.",$8195.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"80,000 to 99,999 sq. ft.",$13660.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"100,000 to 149,999 sq. ft.",$27325.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"150,000 to 199,999 sq. ft.",$47815.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"200,000 to 299,999 sq. ft.",$71415.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"300,000 to 499,999 sq. ft.",$128545.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"500,000 to 1,000,000 sq. ft",$192820.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,"Over 1,000,000 sq. ft.",$314225.00,Projects measurable in square feet (Square Footage of Total Project)
+CEQR Application Fee,Projects not measurable in square feet (Ex. bus franchises),$1880.00,
+CEQR Application Fee,Type II Actions,$110.00,Projects not measurable in square feet
+Supplemental Fee for Large Projects,For Environmental Mitigation,$8000.00,"For CEQR applications filed on or after July 1, 2009, for which a restrictive declaration to ensure compliance with project components related to the environment and/or mitigation of significant adverse impacts will be executed"

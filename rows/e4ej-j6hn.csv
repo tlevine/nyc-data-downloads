@@ -1,0 +1,806 @@
+Name,Location,Type
+Tremont Park,Arthur Avenue & East Tremont Avenue,Bocce Courts
+Ferry Point Park,Corner of Balcom Avenue and Dewey Avenue,Basketball Courts
+Franz Sigel Park,E 153 St. & Grand Concourse,Basketball Courts
+Gun Hill Playground,Holland Ave. & Magenta St.,Basketball Courts
+Macombs,E 158th St. & Ruppert Plaza,Basketball Courts
+Sound View Park,Bronx River & Lafayette Aves.,Basketball Courts
+St. James Park,E 193 St. & Jerome Ave.,Basketball Courts
+Alex Lindower Park,Mill & Strickland Aves.,Basketball Courts
+Bensonhurst Park,"Gravesend Bay, 21 Ave., Cropsey Ave. and Bay Pkwy.",Basketball Courts
+Dyker Beach Park,"Shore Pkwy., 86 St. and 7 to 14 Aves.",Basketball Courts
+Leon S. Kaiser Playground,Coney Island Creek and W 24 St.,Basketball Courts
+Marine Park/PS 278,Fillmore Ave. & Madison Pl.,Basketball Courts
+J. Hood Wright Playground (*Under Construction),176 St. & Ft. Washington Ave.,Basketball Courts
+Morningside Park,W. 113 St. & Morningside,Basketball Courts
+Morningside Park,W. 116 St. & Morningside,Basketball Courts
+Morningside Park,W. 123 St. & Morningside,Basketball Courts
+Sara D. Roosevelt Park (A),Stanton St.,Basketball Courts
+Sara D. Roosevelt Park (B),Delancey St. between Forsythe and Christie Sts.,Basketball Courts
+Sara D. Roosevelt Park (D),Canal to Hester Sts.,Basketball Courts
+Francis Lewis Park,"3 Ave., 147 St. and E River",Basketball Courts
+Joseph P. Addabbo Playground,North Conduit Ave. between 81 and 82 Sts.,Basketball Courts
+MacNeil Park,Poppenhusen Ave. and 119 St.,Basketball Courts
+FDR Boardwalk & Beach,Miller Field & Greely Ave.,Basketball Courts
+Crotona Park,E. 173d St. and Crotona Ave.,Tennis Courts
+Haffen Park,"Hammersley, Ely & Gunther Aves.",Tennis Courts
+St. James Park,Jerome Ave. and E. 193d St.,Tennis Courts
+St. Mary's Park,E. 145 St. and St. Ann's Ave.,Tennis Courts
+Van Cortlandt Park,Stadium - W. 242nd St. and Broadway,Tennis Courts
+Van Cortlandt Park,"Woodlawn, W. 233rd St. & Jerome Ave.",Tennis Courts
+Lucille Ferrera Tennis Courts (Dyker Beach Park),"Cropsey Avenue, Bay 8th Street and Poly Place",Tennis Courts
+Friends Field,Ave. L & East 4th St.,Tennis Courts
+Joseph T. McGuire Park,Avenue W and Bergen,Tennis Courts
+Kaiser Playground,Neptune Ave. & W. 25th St.,Tennis Courts
+Manhattan Beach,Oriental Blvd.,Tennis Courts
+Marine Park,Fillmore Ave. & Stuart St.,Tennis Courts
+McKinley Park,7th Ave. & 75th St.,Tennis Courts
+Inwood Hill Park,207th St. and Seaman Ave.,Tennis Courts
+Riverside Park,Riverside Drive and W. 119th St.,Tennis Courts
+Crocheron Park,215th Place & 33rd Ave.,Tennis Courts
+Det. Keith L. Williams Park,Liberty Ave. & 173rd St.,Tennis Courts
+Forest Park,Park Lane South & 89th St.,Tennis Courts
+Kissena Park,Rose & Oak Aves.,Tennis Courts
+Kissena Park,Rose & Oak Aves.,Tennis Courts
+Flushing Meadows Corona Park,Flushing Meadows Corona Park,Tennis Courts
+Willowbrook Park,Richmond Ave. & Eton Place,Tennis Courts
+Wolfes Pond Park,"Cornelia Ave., off of Highland Blvd.",Tennis Courts
+Patterson Playground,"Morris Avenue, East 148 Street, College Avenue, East 145 Street",Football Fields
+Betsy Head Memorial Playground,"Livonia, Dumont, Hopkinson, Blake avenues, Strauss Street",Football Fields
+St. Vartan Playground,"1 to 2 avenues, East 35 to East 36 streets",Football Fields
+Forest Park,Victory Field,Football Fields
+World Ice Arena,125-40 Roosevelt Avenue,Ice Skating Rinks
+Bensonhurst Park,BAY PKWY & CROPSEY AVENUE,Playgrounds
+Betsy Head Memorial Playground,DUMONT AVE & BRISTOL ST,Playgrounds
+Brower Park,BROOKLYN AVE & PROSPECT PL,Playgrounds
+Brower Park,BROOKLYN AVE & PROSPECT PL,Playgrounds
+Maria Hernandez Park,KNICKERBOCKER ST ENTRANCE,Playgrounds
+Dinapoli Playground,"E. 92 ST, SEAVIEW AVE",Playgrounds
+Carroll Park,"Carroll, Court, President, Smith Sts",Playgrounds
+Commodore Barry Park,"Park Ave, Navy St, Flushing Ave, N Eliot Pl",Playgrounds
+Middleton Playground,"Lynch, Middleton Sts, Lee Ave",Playgrounds
+Lafayette Playground,"Lafayette Ave, E/o Malcolm X Blvd",Playgrounds
+Bay 8 Playground,CROPSEY & BAY 8,Playgrounds
+Dyker Playground,14 AVE & 86 ST,Playgrounds
+Fort Greene Playground,MYRTLE AVE & ST EDWARDS PLAZA,Playgrounds
+Fort Greene Park,DEKALB AVE & CUMBERLAND ST,Playgrounds
+Gravesend Park,18 AVE & 56 ST,Playgrounds
+Greenpoint Park,"Commercial, Franklin, Dupont Sts",Playgrounds
+Van Voorhees Park,"Congress, Columbia, Pacific, Hicks Sts",Playgrounds
+Wm E Kelly Memorial Park,"Ave S, E 14 & E 8 Sts",Playgrounds
+Leif Ericson Park,"4TH AVE TO CS ADJ 5TH AVE, BTWN 66TH AND 67TH STREET",Playgrounds
+Dr Martin Luther King Jr Park,"Dumont, Blake, Miller Aves, Bradford St",Playgrounds
+Ps 278 Playground,"FILLMORE AVE, MADISON PL",Playgrounds
+Lenape  Playground,S/O AVE U & E 38 ST,Playgrounds
+Dr John's Playground,GERRITSEN AVE & AVE X,Playgrounds
+Vincent V Abate Playground,"LORIMER ST, DRIGGS AVE",Playgrounds
+Mckinley Park,"73-75 STS, FT HAMILTON PKWY",Playgrounds
+Owls Head Park,"67 ST & COLONIAL RD, NORTH OF B066-02",Playgrounds
+Owls Head Park,"NR ENT @ COLONIAL RD/67 ST, SOUTH OF B066-01",Playgrounds
+Third St Playground,4 ST & PROSPECT PK W,Playgrounds
+Garfield Tot Lot,WEST DRIVE OPP GARFIELD PL,Playgrounds
+Vanderbilt Playground,"PROSPECT PK S/W, VANDERBILT ST",Playgrounds
+Imagination Playground,OCEAN AVE & E LAKE DR,Playgrounds
+Lincoln Rd Playground,LINCOLN RD & OCEAN AVE,Playgrounds
+Harmony Playground,11 ST & PROSPECT PARK W,Playgrounds
+Coffey Park,"KING, RICHARDS & DWIGHT STS",Playgrounds
+Grace Playground,"Belmont & Pitkins Aves, Vermont & New Jersey Sts",Playgrounds
+Saratoga Square Park,"Macon St, Howard Ave, Halsey St, Saratoga Ave",Playgrounds
+Asser Levy Playground,SURF AVE & 5 ST,Playgrounds
+Vinland Playground,95 ST & SHORE ROAD,Playgrounds
+79 St Playground,79 ST & SHORE RD,Playgrounds
+Sunset Park,6 AVE BET 41 & 44 STS,Playgrounds
+Herbert Von King Park,"W/O TOMPKINS AVE, E/O MARCY AVE",Playgrounds
+Weeksville Playground,"Atlantic, Howard Aves, Herkimer St",Playgrounds
+Sgt William Dougherty Playground,"Anthony St, Vandervoort Ave, Cherry St",Playgrounds
+Sledge Playground,E 95 St Bet Aves K & L,Playgrounds
+Martin Luther Playground,"55 To 56 Sts, 2 Ave",Playgrounds
+Lt Joseph Petrosino Park,"New Utrecht To 16 Aves, 70 To 71 Sts",Playgrounds
+Seth Low Playground,"AVE P, BAY PKWY, W 12 ST",Playgrounds
+Crispus Attucks Playground,"Classon Ave, Fulton St, Irving Pl",Playgrounds
+Lions' Pride Playground,"Riverdale, Van Sinderen, Livonia, Snediker Aves",Playgrounds
+Bill Brown Memorial Playground,"Bedford Ave, Ave X To Ave Y, E 24 St",Playgrounds
+Washington Park,"3 To 4 Sts, 4 To 5 Aves",Playgrounds
+Monsignor Mcgolrick Playground,NASSUA  AVE BET MONITOR ST & RUSSELL ST,Playgrounds
+St Mary's Playground,Smith St Bet Nelson & Huntington Sts,Playgrounds
+Dodger Playground,Sullivan Pl W/o Nostrand Ave,Playgrounds
+Calvert Vaux,BAY 44 & CROPSEY AVE,Playgrounds
+Bush Clinton Park,"LORRAINE, CLINTON, HENRY STS",Playgrounds
+Col David Marcus Mem Playground,"Ocean Pkwy, Ave P, E 3 St",Playgrounds
+Greenwood Playground,"Ft Hamilton Pkwy, Prospect Ave, Greenwood Ave",Playgrounds
+Rudd Playground,"Bushwick Ave, Aberdeen St, Granite St",Playgrounds
+Bedford Playground,"Bedford Ave & S 9 St, Division Ave",Playgrounds
+Thomas Greene Playground,"3 Ave, Nevins, Degraw & Douglas Sts",Playgrounds
+Rolf Henry Playground,New York & Clarkson Aves,Playgrounds
+Linwood Playground,"Linwood St, New Lots & Hegeman Aves",Playgrounds
+Paul W Kolbert Playground,"Ave L, E 17 To E 18 Sts",Playgrounds
+Rappaport Playground,"Ft Hamilton Pkwy, 10 Ave, 52 To 53 Sts",Playgrounds
+South Pacific Playground,"W/s Howard Ave, Pacific To Dean Sts",Playgrounds
+Powell Playground,Sackman To Powell Sts Bet Glenmore & Pitkin Aves,Playgrounds
+Kelly Playground,N/s Ave S Bet Bmt & Ps 255,Playgrounds
+Garibaldi Playground,82 To 83 St At 18 Ave,Playgrounds
+Mt Prospect Park,EASTERN PKWY BETWEEN WASHINGTON AVE & FLATBUSH AVE,Playgrounds
+Nicholas A. Brizzi Playground,"42 To 43 Sts, 10 To New Utrecht Aves",Playgrounds
+Sperandeo Brothers Playground,"Atlantic Ave, Elton To Linwood Sts",Playgrounds
+Bath Beach Playground,Shore Pkwy & 17 Ave,Playgrounds
+Homecrest Playground,"Shore Pkwy To Williams Ct, E 12 St",Playgrounds
+Brighton Playground,W/s Brighton 2 St At Boardwalk,Playgrounds
+Russell Pederson Playground,"Colonial Rd, 83 To 85 Sts",Playgrounds
+Hamilton Metz Field,"Albany, East New York, Lefferts Aves",Playgrounds
+Mellett Playground,"Ave V, E 13 St & E 14 St",Playgrounds
+Fulton Park East,Stuyvesant Ave & Marion St,Playgrounds
+Sunners Playgournd,"Ave H, Kings Highway & E 49 St",Playgrounds
+Sarsfield Playground,E 38 St & Ryder St,Playgrounds
+Pfc Thomas Norton Mem Playground,"Nostrand Ave & Ave P, Kings Highway",Playgrounds
+Joe Galapo Playground,"Bedford Ave & Gravesend Neck Rd, Ave V, E 24 St",Playgrounds
+Admiral Playground,"Clinton St, Nelson St, Hamilton Ave",Playgrounds
+Ps 1 Playground,"46 & 47 Sts, 3 Ave",Playgrounds
+PARK STRIP,"W/s Gowanus Pkwy, 81 & 82 Sts",Playgrounds
+John J Carty Park,"FT HAMILTON PKWY, 94-95 STS",Playgrounds
+Hot Spot Tot Lot,"Campus Rd, E 21 St & Ave H",Playgrounds
+Israel Putnam,"M Garvey Blvd, Madison To Monroe Sts",Playgrounds
+Paerdegat Park,"Foster Ave & Farragut Rd, E 40 St, Albany Ave",Playgrounds
+Callahan-kelly Playground,"Fulton,truxton Sts, Van Sinderen Ave,eastern Pkwy",Playgrounds
+Washington Hall Park,"Park, Washington Aves To Hall St",Playgrounds
+Steuben Playground,"Flushing, Steuben St, Bklyn Queens Exwy",Playgrounds
+Dimattina Playground,"Rapelye, Hicks, Coles St",Playgrounds
+Palmetto Playground,"Atlantic Ave, Columbia, State Sts",Playgrounds
+Harry Chapin Park,"Columbia Hts, Middagh, Cranberry & Willow Sts",Playgrounds
+PARK,"Jay, York, Prospect, Bridge Sts",Playgrounds
+Penn Triangle,Penn St & Wythe Ave,Playgrounds
+Rodney Playground South,"Rodney, S 3 & S 4 Sts",Playgrounds
+Jaime Campiz Playground,"Hope St, Marcy, Metropolitan Aves",Playgrounds
+Plce Ofcr Reinaldo Salgado Playground,"Monroe To Madison Sts, Patchen & Ralph Aves",Playgrounds
+St Andrew's Playground,"Atlantic Ave, Herkimer St, Kingston Ave",Playgrounds
+Gowanus Playground,"Hoyt, Wyckoff, Bond Sts",Playgrounds
+Dean Playground,Dean To Bergen Sts Bet 6 & Carlton Aves,Playgrounds
+Tilden Playground,"Tilden Ave, E 48 To E 49 Sts",Playgrounds
+Dolgon Playground,"Ave V, Nostrand & Batchelder Sts",Playgrounds
+Glenwood Playground,Ralph Ave & Farragut Rd,Playgrounds
+Hancock Playground,"BEDFORD AVE, HANCOCK ST, JEFFERSON AVE",Playgrounds
+Sheepshead Playground,"Ave Z, Nostrand Ave To E 29 St",Playgrounds
+Mcdonald Playground,"Mcdonald Ave, Bet Aves S & T",Playgrounds
+Breukelen  Playground,LOUISIANA & FLATLANDS AVE,Playgrounds
+Fox Playground,"Aves H & I, E 54 To E 55 Sts",Playgrounds
+Van Dyke Playground,"Dumont Ave, Powell St",Playgrounds
+Nostrand Playground,Nostrand & Foster Aves,Playgrounds
+Pat Perlato Playground.,FALMOUTH ST & ORIENTAL AVE,Playgrounds
+Manhattan Beach Park,MACKENZIE & ORIENTAL AVES,Playgrounds
+West Playground,N/s Ave Z Bet West St & W 1 St,Playgrounds
+Parham Playground,"Adelphi St, Clermont, Dekalb, Willoughby Aves",Playgrounds
+Wingate Park,S E Corner Brooklyn Ave & Rutland Rd,Playgrounds
+Frost Playground,"Frost St, Kingsland & Morgan Aves",Playgrounds
+Brevoort Playground,W/s Ralph Ave Bet Sumpter & Chauncey Sts,Playgrounds
+Underwood Park,Lafayette & Washington Aves,Playgrounds
+Howard Playground & Pool,Glenmore & Mother Gaston Blvd,Playgrounds
+Schenck Playground,"Livonia Ave, Barbey St & Schenck Ave",Playgrounds
+Sumner Playground,"M Garvey Blvd, Throop, Park & Myrtle Aves",Playgrounds
+Roebling Playground,"Wilson & Lee Aves, Taylor St, Bedford Ave",Playgrounds
+Rainbow Park,55 & 56 Sts At 6 Ave,Playgrounds
+Star Spangled Playground,Franklin Ave Bet Willoughby & Dekalb Aves,Playgrounds
+Parkside Playground,"Rogers Ave, Winthrop St, Parkside Ave",Playgrounds
+Nautilus Playground,"Public Beach, W 29 & W 32 Sts",Playgrounds
+Jesse Owens Playground,Stuyvesant & Lafayette Aves,Playgrounds
+Ditmas Playground,Ditmas Ave Bet E 91 & E 92 Sts,Playgrounds
+Marlboro Playground,W 11 St & Ave W,Playgrounds
+Bay View,S/s Seaview Ave Opp E 99 St,Playgrounds
+Benson Playground,Bath Ave Bet Bay 22 & Bay 23 Sts,Playgrounds
+Patrick O’Rourke Park ,"80 To 81 Sts, 11 To 12 Aves",Playgrounds
+Belmont Playground,"Pitkin Ave, Drew St, Belmont, N Conduit Aves",Playgrounds
+Harry Maze Playground,Ave D Bet E 56 & E 57 St,Playgrounds
+Bartlett Playground,Bartlett St & Throop Ave,Playgrounds
+Power Playground,Ave N & Utica Ave,Playgrounds
+Pratt Playground,"Willoughby Ave, Emerson Pl",Playgrounds
+Classon Playground,Lafayette & Classon Aves,Playgrounds
+Jackie Robinson Park,Reid St Bet Chauncey And Marion Sts,Playgrounds
+Oxport Playground,"Flushing Ave, N Portland Ave & N Oxford St",Playgrounds
+Luna Park Playground,"Surf Ave, W 8 St To W 12 St",Playgrounds
+Oracle Playground,Adelphi & Myrtle Aves,Playgrounds
+Greene Playground,Greene Ave Bet Waverly & Washington Aves,Playgrounds
+Charlie's Place,"Hopkins To Ellery Streets, Tomkins To Throop Aves",Playgrounds
+Kennedy-king Playground,"Lenox Rd, Clarkson Ave, E 93 & E 94 Sts",Playgrounds
+Ps 286 Playground,"Ave Y, Bet Brown & Haring Sts",Playgrounds
+Tiger Playground,"Evergreen Ave, Eldert & Covert Sts",Playgrounds
+Buswhick Pool,"Flushing Ave, Bushwick Ave & Humboldt St",Playgrounds
+Ten Eyck Playground,"Bushwick Ave, Scholes & Meserole Sts",Playgrounds
+El Hajj Malik El Shabazz Playground,"Reid Ave, Macon & Macdonough Sts",Playgrounds
+Surf Playground,"Surf Ave, W 25 & W 27 Sts",Playgrounds
+Digilio Playground,Mcdonald Ave & Ave F,Playgrounds
+Park Slope Playground,"Berkeley Pl, Lincoln Pl, 5 & 6 Aves",Playgrounds
+Edmonds Playground,"Dekalb Ave, Adelphi St & Carlton Ave",Playgrounds
+Hattie Carthan Playground,"Monroe St, Tompkins Ave, Madison St & Marcy Ave",Playgrounds
+Jacob Joffe Fields,Ave K Bet E 58 & E 59 Sts,Playgrounds
+Fish Playground,Saratoga Ave Bet Herkimer & Fulton Sts,Playgrounds
+Hickman Playground,Veterans Ave Bet E 68 & E 66 Sts,Playgrounds
+Evergreen Playground,"Evergreen Ave & Decatur, Schaefer Sts",Playgrounds
+Fermi Playground,"Troutman St & Central Ave, Starr St & Wilson Ave",Playgrounds
+Century Playground,W Brighton Ave Bet W 2 & W 3 Sts,Playgrounds
+Newport Playground,"Newport Ave & Thatford Ave, Osborne St",Playgrounds
+100% Playground,"Glenwood Rd, E 100 & E 101 Sts",Playgrounds
+Osborn Playground,"Linden Blvd & Osborn St, Thatford Ave",Playgrounds
+Willoughby Playground,"Tompkins, Willoughby, Vernon Aves",Playgrounds
+Bath Playground,Bath Ave Bet 24 Ave & Bay 37 St,Playgrounds
+Elijah Stroud Playground,"Classon Ave, Sterling Pl & Park Pl",Playgrounds
+Curtis Park,"S/s Foster Ave, E 81 & E 82 Sts",Playgrounds
+Bergen Beach Playground,"Ave T, Ave N, E 71 & E 72 Sts",Playgrounds
+North Pacific Playground,"N/s Pacific St, Bet Nevins St & 3 Ave",Playgrounds
+Jackie Robinson Playground,"Sullivan Pl, Franklin Ave, Montgomery St",Playgrounds
+Eugenio Maria De Hostos Playground,Harrison Ave Bet Walton & Lorimer Sts,Playgrounds
+Chester Playground,"Chester St, Sutter Ave, Bristol St, Pitkin Ave",Playgrounds
+Chiarantano Fields,"E 45-e 46 Sts, Glenwood To Farragut Rds",Playgrounds
+Jacob's Ladder Playground,Clymer St Bet Wythe And Kent Aves,Playgrounds
+Umma Park,"Woodruff, Ocean & Crooke Aves",Playgrounds
+Mother Cabrini Park,President Street Bet Van Brunt & Columbia Streets,Playgrounds
+Lt. Federico Narvaez Tot Lot,Argyle And Cortelyou Rds,Playgrounds
+Nehemiah Park,"Osborn St, Watkins St, Riverdale",Playgrounds
+Wyona Street Playground,"Wyona St, Vermont St, Fulton St, Jamaica Ave, Arln",Playgrounds
+Epiphany Playground,"Berry St, S. 9th St, S. 10th St",Playgrounds
+Bennett Park,"Ft Washington Ave, W 183 St, Pinehurst Ave",Playgrounds
+Heckscher Playground,"62 ST, BET WEST & CENTER DRS",Playgrounds
+Billy Johnson Playground,67 ST & 5TH AVE,Playgrounds
+Adventure Playground,68 ST & CENTRAL PARK WEST,Playgrounds
+Mariner's Gate Playground,84 ST & CENTRAL PARK WEST,Playgrounds
+Safari Playground,91 ST & CENTRAL PARK WEST,Playgrounds
+Bendheim Playground,100 ST & 5TH AVE,Playgrounds
+Bernard Playground,108 ST & FIFTH AVE,Playgrounds
+110th St Playground,110 ST & CATHEDRAL PKWY,Playgrounds
+110th St & Lenox Ave Playground,110 ST & LENOX AVE,Playgrounds
+Playground One Fifty Two Clii,W 152 ST & BRADHURST AVE,Playgrounds
+Jackie Robinson Park,W 149 ST & BRADHURST AVE,Playgrounds
+Columbus Park,"Baxter, Mulberry, Bayard & Park Sts",Playgrounds
+Corlears Hook Park,"Jackson, Cherry Sts, Fdr Drive",Playgrounds
+Carmansville Playground,"Amsterdam Ave, W 151 To W 152 Sts",Playgrounds
+Downing Street Playground,"Downing To Carmine Sts, Ave Of Americas",Playgrounds
+Lily Brown Playground,"W 162 ST, E/O RIVERSIDE DR",Playgrounds
+Jacob Javits Playground,"M C PLAZA, FT WASHINGTON AVE",Playgrounds
+Anne Loftus Playground,BROADWAY & DYCKMAN ST,Playgrounds
+Sunken Playground,W 167 ST & EDGECOMBE AVE,Playgrounds
+Quisqueya Playground,W 180 ST & AMSTERDAM AVE,Playgrounds
+Wallenberg Playground,W 189 ST &  AMSTERDAM AVE,Playgrounds
+Ft George Playground,"FT GEORGE, ST NICHOLAS AVES",Playgrounds
+Adventure Playground,W 164 ST & EDGECOMBE AVE,Playgrounds
+James J Walker Park,"Hudson, Leroy, Clarkson Sts, 7 Ave",Playgrounds
+Hamilton Place Playground,"Hamilton Pl, W 140 To W 141 Sts",Playgrounds
+Emerson Playground,"SEAMAN AVE BET ISHAM, W 207 ST",Playgrounds
+Indian Road Playground,W 214 ST & SEAMAN AVE,Playgrounds
+John Jay Park,"Fdr Drive, E 76 To E 78 Sts",Playgrounds
+Thomas Jefferson Park,E 111 ST & 1 AVE,Playgrounds
+Madison Square Park,E 25 ST & MADISON AVE,Playgrounds
+Morningside Park,W 123 ST & MORNINGSIDE AVE,Playgrounds
+Morningside Playground,W 117 ST & MORNINGSIDE AVE,Playgrounds
+Morningside Park,MORNINGSIDE AVE & 113 ST,Playgrounds
+Morningside Park,MORNINGSIDE DR &  110 ST,Playgrounds
+Mt. Morris East,E 122 ST & MADISON AVE,Playgrounds
+Luther Gulick Playground,"Columbia, Delancey & Willett Sts",Playgrounds
+Loeb Playground,"Henry St, Market St, E Broadway",Playgrounds
+Vesuvio Playground,"Thompson St, Spring To Prince Sts",Playgrounds
+River Run Playground,W 83 ST & RIVERSIDE DR,Playgrounds
+Hippo Playground,W 91 ST & RIVERSIDE DR,Playgrounds
+Dinosaur Playground,W 97 ST & RIVERSIDE DR,Playgrounds
+Claremont,W 124 ST & RIVERSIDE DR,Playgrounds
+Tot Lot One Hundred Five,"W 105-106 ST, RIVERSIDE DR",Playgrounds
+Tot Lot One Hundred And Ten,"W110-111ST, RIVERSIDE DR",Playgrounds
+Tot Lot  One Hundred And Sixteen,W116ST-117ST/RIVERSIDE DR,Playgrounds
+Riverbank Playground,W 142 ST & RIVERSIDE DR,Playgrounds
+Palisades Playground,W 148 ST & RIVERSIDE DRIVE,Playgrounds
+Arlington Edinboro Playground,W 140 ST & ST NICHOLAS AVE,Playgrounds
+St Nicholas,W 129 ST & ST NICHOLAS TERR,Playgrounds
+Catbird Playground,EAST 84 ST & EAST END AVE,Playgrounds
+Seward Park,"Canal, Hester, Essex, Jefferson Sts",Playgrounds
+Sakura Park,"Riverside Dr, Claremont Ave To W 122 St",Playgrounds
+Union Square,UNION SQ W BETW. 17 & 16 ST,Playgrounds
+Washington Square Park,WASHINGTON SQ N/EAST OF  5 AVE,Playgrounds
+J Hood Wright Park,W 173 ST & FT WASHINGTONA VE,Playgrounds
+Houston St Playground,E HOUSTON TO STANTON STS,Playgrounds
+Stanton St Courts,STANTON ST,Playgrounds
+Rivington St Playground,RIVINGTON ST,Playgrounds
+Playground 103 CIII,Fdr Drive & E 103 St,Playgrounds
+James Weldon Johnson Playground,E 115 St Bet 3 & Lexington Aves,Playgrounds
+Essex Playground,"Essex, Norfolk & Houston Sts",Playgrounds
+Playground Of The Americas,"S/s W Houston St, Ave Of Americas",Playgrounds
+Capt Jacob Joseph Playground,Rutgers & Henry Sts,Playgrounds
+First Park,"Houston St, E 1 St, 1 Ave",Playgrounds
+Minetta Playground,"Minetta Lane, W 3 St & Ave Of Americas",Playgrounds
+Little Flower Playground,Madison St Opp Jefferson St,Playgrounds
+Harlem Lane Playground,"Harlem River, W 151 To W 154 Sts",Playgrounds
+White Playground,"Lexington Ave, E 105 To E 106 Sts",Playgrounds
+Courtney Callender Playground,"5 Ave, W 130 To W 131 Sts",Playgrounds
+Samuel Playground,"Lenox Ave, W 139 To W 140 Sts",Playgrounds
+Mccaffrey Playground,"W 43 St, 8 & 9 Aves",Playgrounds
+Asser Levy Playground,"E 23 To E 25 Sts, Fdr Drive",Playgrounds
+Baruch Playground,"Rivington, Mangin Sts & Baruch Pl",Playgrounds
+Cherry Clinton Playground,"Clinton, Cherry & Water Sts",Playgrounds
+Peter Minuit Park,E 108 To E 109 Sts Bet Park & Madison Aves,Playgrounds
+Samuel N. Bennerson 2nd Playground,"W 64 St, W/s Amsterdam Ave",Playgrounds
+Col Charles Young Playground,"W 145 To W 143 Sts, Lenox Ave, Harlem River Drive",Playgrounds
+Marx Brothers Playground,"2 Ave, E 96 To E 97 Sts",Playgrounds
+Sheltering Arms Park,"W 126 To W 129 Sts, Amsterdam Ave To Old Broadway",Playgrounds
+Stanley Isaacs Court,"Fdr Drive, E 95 To E 97 St",Playgrounds
+Lincoln Playground,S/e Corner 5 Ave & E 135 St,Playgrounds
+Sidney Hillman Playground,"Lewis, Delancey Sts",Playgrounds
+Monsignor Kett Playground,W 204 St Bet 10 & Nagle Aves,Playgrounds
+Booker T Washington Playground,"N/s W 108 St, Columbus & Amsterdam Aves",Playgrounds
+Moore Playground,"Madison Ave, E 130 & E 131 Sts",Playgrounds
+Morningside Playground,"Morningside Ave, W 123 & W 124 Sts",Playgrounds
+Tanahey Playground,"Cherry To Water Sts, W Catherine To Market Slips",Playgrounds
+Harlem River Park,"Lexington Ave, E 128 & E 129 Sts",Playgrounds
+Harlem River Park,"Lexington Ave, E 129 To E 130 Sts",Playgrounds
+Blake Hobbs Park,E 102 To E 104 Sts & 2 Ave,Playgrounds
+Washington Playground,"99 To 100 Sts, 3 Ave",Playgrounds
+Holcombe Rucker Playground,"W 155 St, 8 Ave To Harlem River Drive",Playgrounds
+Howard Bennett Playground,"W 135 To W 136 Sts, Lenox To 5 Aves",Playgrounds
+Desalvio Playground,Spring & Mulberry Sts,Playgrounds
+Tecumseh Playground,W 78 St & Amsterdam Ave,Playgrounds
+Jacob Schiff Playground,"Amsterdam Ave, W 136 St",Playgrounds
+Wagner Playground,N/s E 120 St Bet 1 & 2 Aves,Playgrounds
+Augustus Saint Gaudens,"2 Ave, E 19 To E 20 Sts",Playgrounds
+Playground 70,W 70 St Bet West End & Amsterdam Aves,Playgrounds
+Orville & Wilbur Playground,St Nicholas Ave & W 156 St,Playgrounds
+Sol Lain Playground,"Broadway, Henry St, Gouverneur St",Playgrounds
+Samuel Seabury Playground,"Lexington Ave, E 95 To E 96 Sts",Playgrounds
+Bloomingdale Playground,"Amsterdam Ave, W 104 & W 105 Sts",Playgrounds
+Nathan Straus Playground,N/s Rivington & Attorney Sts,Playgrounds
+Sol Bloom Playground,"Columbus Ave, W 91 To W 92 Sts, Central Park W",Playgrounds
+Ps 194 Playground,"7 To 8 Aves, W 143 To W 144 Sts",Playgrounds
+Penn South Playground,"W 26, 8 To 9 Aves",Playgrounds
+Bleecker Playground,"Hudson, Bleecker & W 11 Sts",Playgrounds
+East River Playground,"Fdr Drive, E 106 To E 107 Sts",Playgrounds
+Mckinley Playground,"Ave A, E 3-e 4 Sts",Playgrounds
+Bellevue South Park,"E 26 To E 28 Sts, 2 Ave",Playgrounds
+Playground Eighty Nine Lxxxix,"S/s W 89 St, Amsterdam & Columbus Aves",Playgrounds
+Hells Kitchen Park,"E/s 10 Ave, W 47 To W 48 St",Playgrounds
+St. Gregory's Park,W. 90th St B/w Broadway & Amsterdam Ave,Playgrounds
+Wild Flower Meadow,G CENTRAL PKWY (UPPER AREA),Playgrounds
+Horatio Playground,HORATIO PKWY & 50th Ave,Playgrounds
+Alley Pond Park: Near Ballfield,NR SPRINGFIELD LOT/BALLFIELDS,Playgrounds
+Alley Athletic Playground,"WINCHESTER BLVD, UNION TPKE",Playgrounds
+Grover Cleveland Park,"Rene Ct, Grandview Av, Stanhope St, Fairview Av",Playgrounds
+Charybdis Playground,SHORE BLVD OPP 23 AVE,Playgrounds
+Sutphin Playground,SUTPHIN BLVD & 125 AVE,Playgrounds
+Lakeview Lane Playground,LAKEVIEW LANE & 122 AVE,Playgrounds
+157th St Playground,157 ST & 116 AVE,Playgrounds
+Baisley Park South,150 ST & 130 AVE,Playgrounds
+Bowne Playground,"29 AND 32 AVES, 158 TO 159 STS",Playgrounds
+Bayswater Playground,BEACH  32  ST  &  DICKENS AVE,Playgrounds
+Poppenhusen Playground,"21 Ave, 124 St, 20 Ave, 123 St",Playgrounds
+Sobelsohn Park,"UNION TPKE, PARK LANE S, ADJ OVERLOOK",Playgrounds
+Jackson Pond Playground,108 ST & MYRTLE AVE,Playgrounds
+Greenhouse Playground,"MYRTLE AVE, WOODHAVEN BLVD",Playgrounds
+Dry Harbor Playground,80 ST & MYRTLE AVE,Playgrounds
+Redwood Playground,N/O G C PKWY OPP 193 ST,Playgrounds
+Seven Gables Playground,"S/o L I Exwy, 210 & Oceania Sts",Playgrounds
+Rufus King Park,JAMAICA AVE & 153 ST,Playgrounds
+Playground,164 ST & LITHONIA,Playgrounds
+Four Winds Playground,BOOTH MEMORIAL AVE & 160 ST,Playgrounds
+Playground,ROSE & OAK AVES,Playgrounds
+Linden Park,"41 To 42 Aves, 103 St",Playgrounds
+Laurelton Parkway West,120TH AVE & 238TH STREET,Playgrounds
+Windmuller Playground,"52 St, Woodside Ave, 39 Rd, 39 Dr, 54 St",Playgrounds
+Noonan Playground,"Greenpoint Ave, 43 St, 47 Ave, 42 St",Playgrounds
+Andrews Playground,"49 Ave, Vernon Blvd, 5 St",Playgrounds
+Equity Park,"88 To 89 Aves, 90 St, Woodhaven Blvd",Playgrounds
+Triborough Bridge Playground A,"HOYT AVE, 19 TO 21 STS",Playgrounds
+Triborough Bridge Playground D,"Hoyt Ave, 24 St To Crescent St",Playgrounds
+Triborough Bridge Playground E,"Hoyt Ave, Crescent St, 26 St",Playgrounds
+Hoyt Playground,"Hoyt Ave, 29 To 31 Sts",Playgrounds
+Hart Playground,"65 To 69 Sts, 37 Ave, Broadway",Playgrounds
+Gorman Playground,"30 Ave, 85 St, 25 Ave, 84 St",Playgrounds
+Police Officer Edward Byrne Park,"N Conduit Ave, 134 St, 135 Ave, 130 Pl",Playgrounds
+Addabbo Playground,"BET 81-82 STS, N CONDUIT AVE",Playgrounds
+Triassic Playground,JEWEL AVE & VAN WYCK EXWY,Playgrounds
+Jurassic Playground,W/S OF MEADOW LAKE & G C PKWY,Playgrounds
+Lawrence Playground,"COLLEGE PT BLVD, BOTANIC GDNS",Playgrounds
+Playground For All Children,111 ST & SAULTELL & 56 AVES,Playgrounds
+Albert H. Mauro Playground,PARK DR EAST & 73 TERRACE,Playgrounds
+Middle Village Playground,"68 Rd, 79 St, 69 Ave",Playgrounds
+Juniper North Playground Tennis,"80TH ST, JUNIPER BLVD S, 77TH PLACE, JUNIPER BLVD N, 78TH ST",Playgrounds
+Juniper South Playground,"72 ST, 74ST, JUNIPER BLVD SOUTH",Playgrounds
+Raymond O'connor Park,"33 Ave, 210 St, 32 Ave, Cpl Kennedy St",Playgrounds
+Vernon Playground,"VERNON BLVD, 40 & 41 AVES",Playgrounds
+Queensbridge Baby Park,41ST RD AND 12TH ST (EAST OF VERNON BLVD),Playgrounds
+Howard Von Dohlen Playground,"Archer Ave, 138 Pl, 91 Ave, 138 St",Playgrounds
+Daniel M O'connell Playground,"113 & Murdock Aves, 196 St",Playgrounds
+Springfield Playground,147 AVE & 184 ST,Playgrounds
+Laurelton Playground,"Brookville Blvd, S/o 136 Ave",Playgrounds
+Police Officer Nicholas Demuti,"Liberty Ave, 101 To 102 Sts",Playgrounds
+Frederick B Judge Playground,"111 Ave, 134 & 135 Sts, Lincoln St",Playgrounds
+Harvard Playground,"179 Pl, N/o Jamaica Ave",Playgrounds
+K.l. Williams Playground (tennis),"LIBERTY AVE, 172-173 STS",Playgrounds
+Junction Playground,"96 St, 34 Ave, Junction Blvd",Playgrounds
+Astoria Health Center Playground,"14 St, 31 Ave",Playgrounds
+Marconi Park,"109 Ave, 157 St, 108 Ave, 155 St",Playgrounds
+London Planetree Playground,"88 To 89 Sts, Atlantic To 95 Aves",Playgrounds
+"Phil ""scooter"" Rizzuto Park",125 ST & ATLANTIC AVE,Playgrounds
+Virginia Principe Playground,"CENTER OF PK, L I E SVCE RD, 54 AVE BETWEEN 63 AND 61 STS",Playgrounds
+Breininger Park,Braddock Ave & 240 St,Playgrounds
+115th Street Playground,"14 Rd, 115 St, 14 Ave",Playgrounds
+Murray Playground,"21 St, 45 Ave, 11 St, 45 Rd",Playgrounds
+Beach 59th Street Playground,Boardwalk & Beach 59-60 Sts,Playgrounds
+Beach 9th Street Playground,B 9 ST N OF BOARDWALK,Playgrounds
+Sandpiper Playground,BET B 106-107 STS,Playgrounds
+Rockaway Playground - M,B 84 ST & SHORE FRONT PKWY,Playgrounds
+Rockaway Playground - N,B 82 ST & SHORE FRONT PKWY,Playgrounds
+St Michaels Playground,"30 To 31 Aves & Boody St, Bklyn-queens Exwy",Playgrounds
+Nautilus Playground,"Merrick Blvd, 120 Ave, Baisley Blvd",Playgrounds
+Queens Valley Playground,137 St & 77 Ave,Playgrounds
+Dutch Kills Playground (ps 112),"37 Ave, 28 St, 36 Ave, Crescent St",Playgrounds
+Norelli-hargreaves Playground,"Van Wyck Exwy, 106 Ave, 142 St, 104 Ave",Playgrounds
+Playground One-forty,"Van Wyck Exwy, Rockaway Blvd, 140 St, 120 Ave",Playgrounds
+Manton Playground,MANTON ST & 83 AVE,Playgrounds
+Farm Playground/ps 26,"73 Ave, 195 St & 196 Pl",Playgrounds
+Hallets Cove Playground (area A),"HALLETS COVE, VERNON BLVD",Playgrounds
+Hallets Point Playground (area B),1 ST & E RIVER,Playgrounds
+Westbourne Playground,"Mott & Westbourne Aves, B 25 St",Playgrounds
+John Adams Playground,"133 Ave, 101 To 103 Sts",Playgrounds
+Seventies Playground,"78 Ave, 74 To 75 Sts",Playgrounds
+Glendale Playground,"Central Ave, 70th And 71st Street",Playgrounds
+Saul Weprin Playground,201 To 202 Sts Bet 53 & 56 Aves,Playgrounds
+Utopia Playground,"73 Ave, Jewel Ave, Utopia Pkwy",Playgrounds
+Playground Thirty-five,Steinway St & 35 Ave,Playgrounds
+Steinway Community Playground,"47 To 48 Sts, 20 Ave",Playgrounds
+Playground 146,146 ST & 56 RD,Playgrounds
+Silent Springs Playground,COLDEN ST & GERANIUM AVE,Playgrounds
+Captain Mario Fajardo Park,KISSENA BLVD & BOOTH MEM AVE,Playgrounds
+Rachel Carson Playground,COLDEN & JUNIPER STS,Playgrounds
+Underhill Playground,PECK AVE & 188 ST,Playgrounds
+Holy Cow Playground,"Horace Harding Blvd, Bishop Reilly Hs, Peck Ave",Playgrounds
+Evergreen Park (ps 68),"St. Felix & 75 Av, 60th St",Playgrounds
+Travers Park,"34 Ave, 78 St, 77 St",Playgrounds
+The Painter's Playground,Alderton St From Dieterle To Elwell Crescents,Playgrounds
+Delphin Greene Playground,121 Ave & 237 St,Playgrounds
+Bowne Playground,Sanford Ave From Union To Bowne Sts,Playgrounds
+Tenney Park,74 Ave & 260 St,Playgrounds
+Fresh Meadows Playground,67 Ave & 173 St,Playgrounds
+Tall Oak Playground,"64 Ave, 218 & 219 Sts",Playgrounds
+Playground Eighty (lxxx),"80 Ave, 261 & 262 Sts",Playgrounds
+Vleigh Playground,"70 Rd To 71 Ave, 150 St To Kissena Blvd",Playgrounds
+Bellaire Playground,"89 Ave, 207 & 208 Sts",Playgrounds
+Bland Playground,"40 Rd, Prince & Main Sts",Playgrounds
+Pomonok Playground,"Kissena Blvd, 65 Ave",Playgrounds
+Locust Manor Playground,"192 St, S/s 121 Ave",Playgrounds
+Woodtree Playground,"20 Ave, 37 St, 38 St",Playgrounds
+Ravenswood Playground,"35 Ave, 21 St, 34 Ave",Playgrounds
+Vleigh Place Playground,"Vleigh Pl, 141 St & Union Tpke",Playgrounds
+Maurice A Fitzgerald Playground,Atlantic Ave Bet 104 & 106 Sts,Playgrounds
+Admiral Park,"Little Neck Pkwy, 42 To 43 Aves",Playgrounds
+Tornsey Playground,Skillman Ave & 43 St,Playgrounds
+Electric Playground,"W/s 164 St, S/o 65 Ave",Playgrounds
+Whitestone Playground,152 St Bet 11 & 12 Aves,Playgrounds
+Emerald Playground,164 St Bet Jewel & 71 Aves,Playgrounds
+Challenge Playground,W/s 251 St Bet 61 & 63 Aves,Playgrounds
+Cadwallader Colden Playground,Union St & 31 Rd,Playgrounds
+Telephone Playground,"Bell Blvd, 75 Ave & 217 St",Playgrounds
+Peters Field,"Liberty Ave, 183 Pl, 104 Ave",Playgrounds
+Hillside Park,"82 Ave, 256 To 257 Sts",Playgrounds
+Grassmere Playground,"Grassmere Terr, Brookhaven Ave, Briar Pl",Playgrounds
+Alley Park,67 Ave & 230 St,Playgrounds
+Handball Haven,"102 St, 62 Ave & Yellowstone Blvd",Playgrounds
+Turtle Playground,138 St & Service Rd S/s Horace Harding Exwy,Playgrounds
+Gunn Park (ps 18),"S/s Hillside Ave, E/o 235 Ct",Playgrounds
+Haggerty Park,S/s Jamaica Ave Bet 202 & 204 Sts,Playgrounds
+Bridge And Tunnel Park,"Tunnel Plaza, 50 Ave, 11 St",Playgrounds
+Playground Ninety Xc,Northern Blvd & 90 St,Playgrounds
+Northern Playground,Northern Blvd & 93 St,Playgrounds
+Marie Curie Park,46 Ave & 211 St,Playgrounds
+Bulova Park,"W/s 77 St, N/s 25 Ave",Playgrounds
+Louis Pasteur Park,52 Ave Bet 248 St & Marathon Pkwy,Playgrounds
+Freedom Square,Vleigh Pl & Main St,Playgrounds
+East Elmhurst Playground,25 Ave Bet 98 & 100 Sts,Playgrounds
+Ampere Playground,101 Ave Bet 82 & 83 Sts,Playgrounds
+Francis Lewis Playground,42 Ave At Francis Lewis Blvd,Playgrounds
+Centerville Playground,"96 St, Centreville St & Albert Rd",Playgrounds
+Joseph Austin Playground,Grand Central Pkwy Bet 164 Pl & 168 St,Playgrounds
+Steinway Playground (jhs 141),"20 Rd-20 Ave, 37-38 Sts",Playgrounds
+Bay Terrace Playground,Ne Corner 212 St & 23 Ave,Playgrounds
+Oakland Gardens,E/s Springfield Blvd & 54 Ave,Playgrounds
+Latimer Playground,167 St & 109 Ave,Playgrounds
+Hollis Playground,"204 St, Hollis Ave, 205 St, 111 Ave",Playgrounds
+Lannett Playground,"B 8 St, Lanett Ave, B 9 St",Playgrounds
+Harold Schneiderman Playground,155 Ave Bet 84 & 85 Sts,Playgrounds
+Rochdale Park (jhs 72),NR GUY BREWER BLVD & 134 AVE,Playgrounds
+Rocket Park,"N Conduit Ave, Arion Rd, 149 Ave",Playgrounds
+Louis Armstrong Playground,37 Ave Bet 112 & 113 Sts,Playgrounds
+Edward Hart T Playground,147 St Bet 26 & 27 Aves,Playgrounds
+Walter Ward Playground,89 St & 160 Ave,Playgrounds
+Reiff Playground,"Fresh Pond Rd, 63 St, 59 Drive",Playgrounds
+North Rochdale Playground,Baisley Blvd & Bedell St,Playgrounds
+South Rochdale Playground,173 St & 137 Ave,Playgrounds
+Spirit Playground,36 Ave Bet 9 & 10 Sts,Playgrounds
+Sunrise Playground,"149 Rd, Weller Lane, 149 Ave, 253 St",Playgrounds
+Tot Lot Park,W/s 98 St Bet Northern Blvd & 32 Ave,Playgrounds
+Sean's Place,"38 St, 31 Av & Brwy Btwn 31 Av & Broadway",Playgrounds
+Playground,NEAR THE RECREATION BUILDING; OFF BAISLEY AVE,Playgrounds
+Broad Channel Park,"Cross Bay Blvd, 100 Pl, E 18 Rd, 203 Ave",Playgrounds
+Clove Lakes Park Playground,CLOVE RD & CHESHIRE PL,Playgrounds
+Saturn Play Equipment,CLOVE ROAD & FOREST AVE,Playgrounds
+Mahoney Playground,"Beechwood Ave, Crescent & Cleveland Sts",Playgrounds
+Dugan Playground,"Mill Rd, Weed Ave, Tysens Lane",Playgrounds
+Wolfes Pond Park,BETWEEN PARK BUILDING AND POND,Playgrounds
+Wolfes Pond Park,"END OF CORNELIA AVE, OPP HOCKEY RINK",Playgrounds
+Midland Playground,"Lincoln, Mason, Midland, Boundary, Bedford Aves",Playgrounds
+Schmul Park,"WILD AVE, PEARSON ST",Playgrounds
+Playland,CAPADONNO BLVD & SAND LANE,Playgrounds
+Midland Playground,"BET MILLER FIELD, GREELY AVE",Playgrounds
+Midland Beach Playground,"BET GRAHAM BLVD, JEFFERSON AVE",Playgrounds
+Carlton Park,"Foster, Carlton, Burchard Aves",Playgrounds
+Arrochar Playground,"Sand Lane, Major & Mcfarland Aves",Playgrounds
+Old Town Playground,"Parkinson Ave, Kramer St",Playgrounds
+Toad Hall Playground,"Schmidts Lane, Manor Rd & Laguardia Ave",Playgrounds
+Adventure Station,INSIDE WILLOWBROOK PARK ADJ TO CAROUSEL FOR ALL CHILDREN,Playgrounds
+Terrace Playground,"Foote Ave, Howard Ave & Martha St",Playgrounds
+Great Kills Veterans Playground,"Hillcrest Ave, N/o Highmount Rd",Playgrounds
+Naples Playground,"Targee St, Naples St",Playgrounds
+Lemon Creek Park,"HYLAN BLVD, SHARROTT & SEGUINE AVES",Playgrounds
+Dongan Playground,"Mason, Buel, Dongan Hills Aves",Playgrounds
+Greencroft Playground,"Redgrave, Greencroft Sts, Ainsworth & Durant Aves",Playgrounds
+Double Nickel Playground/ps 55,"Preston Ave, Koch Blvd, Arden Rd & Osborne St",Playgrounds
+Bloomingdale Park,"DRUMGOOLE RD, MAGUIRE AVE",Playgrounds
+Jennifer's Playground,"Jules Dr, Elson Ct, Regis Dr",Playgrounds
+Luis R Lopez Park,Targee Street & Oder Avenue,Playgrounds
+Sobel Court Park,"Sobel Ct, Vanderbilt Av, Oder Av",Playgrounds
+Morton Playground,MORTON PL & UNIVERSITY AVE,Playgrounds
+Olinville Playground,"E 219 ST, BX RIVER PKWY",Playgrounds
+Prospect Park (2),CROTONA N BET MARMION/PROSPECT,Playgrounds
+Crotona Playground (3),CROTONA N BET WATERLOO/MARMION,Playgrounds
+Hill & Dale Playground,CROTONA PK E @ E 173 ST,Playgrounds
+Martin Van Buren Playground,CROTONA E-CLAREMONT/PROSPECT,Playgrounds
+Tremont Playground (1),COR E TREMONT & ARTHUR AVES,Playgrounds
+Upper,"E 178 ST, UPPER LEVEL",Playgrounds
+Fort Independence Playground,"Sedgwick Ave, Stevenson Pl, Jerome Pk Reservoir",Playgrounds
+Hines Park,"Fulton To Franklin Aves, S/o E 167 St",Playgrounds
+Kossuth Playground,MOSHOLU PWY N/KOSSETH AVE,Playgrounds
+Mullaly Park (1), E 164 ST & RIVER AVE,Playgrounds
+Mullaly Playground (2),CROMWELL AVE & MCCLELLAN ST,Playgrounds
+Strong Street Playground,"STRONG ST, RESERVOIR AVE",Playgrounds
+Fort #4 Playground, RESERVOIR AVE. & SEDGWICK,Playgrounds
+Playground For All Children,"BRUCKNER EXWY, BUHRE AVE",Playgrounds
+Pelican Bay Playground,ORCHARD BEACH  SECTION 6-7,Playgrounds
+St James Park,E 193 ST & JEROME AVE,Playgrounds
+St Mary's Playground West, ST ANNS AVE & E 147 ST,Playgrounds
+Henry Hudson Park (upper),INDEPENDENCE & W 227 ST,Playgrounds
+Slattery Playground,"Ryer Ave,valentine Ave & E 183 St",Playgrounds
+Van Cortlandt Classic Playground,"VC PARK SOUTH, GOUVERNEUR AVE",Playgrounds
+Woodlawn Playground,"W 239 ST, VAN CORTLANDT EAST",Playgrounds
+Southwest Playground,W 240 ST & BROADWAY,Playgrounds
+Williamsbridge Oval,RESERVOIR OVAL WEST & 208 ST,Playgrounds
+Belmont Playground,"E 181, E 182 Sts, Crotona & Belmont Aves",Playgrounds
+Cauldwell Playground,"E 163 St, Cauldwell Ave, E 161 St, Eagle Ave",Playgrounds
+Hunts Point Playground,"Hunts Point Rd, Spofford Ave, Faile St",Playgrounds
+Goble Playground,S/e Corner Macombs Pl & Gobel Rd,Playgrounds
+Mott Playground,"Morris To College Aves, E 166-e 167 Sts",Playgrounds
+Rev J Polite Pg & Stebbins Playground,"Rev James Polite Ave, Intervale Ave bet. Home St and 167th St",Playgrounds
+Soundview Park,LAFAYETTE AVE BET MORRISON & BOYNTON AVE,Playgrounds
+Colucci Playground,Wilkinson & Mayflower Aves,Playgrounds
+Watson Gleason Playground,"Noble, Gleason, Rosedale, Watson Aves",Playgrounds
+Rienzi Playground,"White Plains Rd, E 226 St, Barnes Ave, E 225 St",Playgrounds
+Flynn Playground,"E 157 St, 3 Ave, E 158 St, Brook Ave",Playgrounds
+Plimpton Playground,"Edward L Grant Hwy, Plimpton Ave",Playgrounds
+Bridge Playground,"Boscobel Pl, University Ave, W 171 St",Playgrounds
+Jenny  Jerome Playground,"N/s Cross Bronx Exwy, Jerome Ave, E 174 St",Playgrounds
+Admiral Farragut Playground,"E 176 St, Crotona Ave, Prospect Ave",Playgrounds
+Prospect Playground,"Clinton Ave, E 176 St, Prospect Ave",Playgrounds
+Bailey Playground,"W 234 St, Bailey Ave, W 238 St",Playgrounds
+P. O. Serrano Playground,"Olmstead, Turnbull, Castle Hill, Lafayette Aves",Playgrounds
+Vinmont Veteran Park,"W 254 St, Riverdale & Mosholu Aves",Playgrounds
+Merriam Playground. (lower),"MERRIAM & OGDEN AVES, W 168 ST, UNIVERSITY",Playgrounds
+Dawson Playground,"Dawson St, Rogers Pl, Rev. James A Polite",Playgrounds
+Nelson Playground,"W 166 St, Nelson Ave, Wododycrest Ave",Playgrounds
+Spuyten Duyvil Playground,"Douglas Ave, W 235 & W 236 Sts",Playgrounds
+Bruckner Playground/p.s. 183,"Phillips Ave, E 177 St",Playgrounds
+Angelo Campanero Playground,GUN HILL/EASTCHEST RDS/O'NEIL,Playgrounds
+Tiffany Playground,"Fox St, E 167 St, Tiffany St",Playgrounds
+Colgate Close,N/s Bruckner Exwy At Close & Colgate Aves,Playgrounds
+Haffen Park,ELY & BURKE AVES,Playgrounds
+Mosholu Playground (ps 8),"MOSHOLU PKWY, BAINBRIDGE AVE",Playgrounds
+Marble Hill Playground,Marble Hill Ave Bet W 228 & W 230 Sts,Playgrounds
+Haviland Playground,"Pugsley, Haviland, Watson Aves",Playgrounds
+Stebbins Park,"E 165 St, Stebbins Ave, Roger Pl",Playgrounds
+Magenta Playground,"Rosewood & Magenta Sts, Olinville Ave",Playgrounds
+Arcilla Playground,"Park, Clay, Teller Aves, E 164 St",Playgrounds
+Space Time Playground,"Lafayette, Bolton, Underhill Aves",Playgrounds
+Gouverneur Playground,"3 Ave, St Pauls Pl, Washington Ave",Playgrounds
+I Am Park,"E 147 St, Jackson Ave, E 144 St, St Marys Pk",Playgrounds
+Burns Playground,"Mace, Lodovick & Gunther Aves",Playgrounds
+Fox Playground,"S/e Corner Fox St, E 156 St",Playgrounds
+Cleopatra Playground,Anthony Ave & Prospect Pl,Playgrounds
+Harding Park,Bolton Ave Bet O'brien & Cornell Aves,Playgrounds
+Galileo Park Park,Macombs Road And W 176 Street,Playgrounds
+Vidalia Park,Vyse & Daly Aves Bet W 179-180 Streets,Playgrounds
+Washington Park,E. 183 St B/w Washington & Park,Playgrounds
+Stop & Go Playground,"Bathgate, Washington Aves, E. 175 St",Playgrounds
+Beanstalk Playground,"Billingsley Terr, Phelan Pl, Sedgwick Ave",Playgrounds
+Walton Park,"E.181st St, Walton Ave,jerome Ave",Playgrounds
+Morris Garden,"Morris Ave, E.181st St,creston Ave",Playgrounds
+Arcilla Playground,"Teller Avenue, Park Avenue, Clay Avenue, East 64 Street",Bathrooms
+Behagen Playground,"Tinton Avenue, East 165 Street, Union Avenue, East 166 Street",Bathrooms
+Belmont Playground,"Crotona Avenue, East 181 Street",Bathrooms
+Capt. Rivera Playground,"East 156 Street, Forest Avenue",Bathrooms
+Clark Playground,"3 Avenue, East 144 Street, East 146 Street",Bathrooms
+Crotona Park (Pool House), 173rd Street and Fulton Avenue,Bathrooms
+Franz Sigel Park,"East 153 Street, Gerard Avenue, East 151 Street, Walton Avenue",Bathrooms
+Magenta Playground,"Olinville Avenue, Rosewood Street",Bathrooms
+Mathew Muliner Playground,"Delancy Place, Muliner Avenue, Matthews Avenue",Bathrooms
+Millbrook Playground,"East 135 Street, Cypress Avenue",Bathrooms
+Orchard Beach Pavilion,"Bruckner Boulevard, Eastchester Bay, Hutchinson",Bathrooms
+Parkside Playground,"Arnow Avenue, Adee Avenue, Olinville Avenue",Bathrooms
+Pelham Bay Park (Hunter Island Picnic Area),"Bruckner Boulevard, Eastchester Bay, Hutchinson",Bathrooms
+Pelham Bay Park (Playground for All Children),Bruckner Expressway & Buhre Avenue,Bathrooms
+Quarry Ballfields,"Quarry Road, East 181 Street, Oak Place & Hughes Avenue",Bathrooms
+Richman (Echo) Park Playground,"East 178 Street & Ryer Avenue, Upper Level",Bathrooms
+Riverbend Playground,"Bailey Avenue, West Kingsbridge Road",Bathrooms
+St. Mary's Playground East Playground,Jackson Avenue between East 144 and 145 streets,Bathrooms
+Vidalia Park,Vyse & Daly avenues between West 179-180 streets,Bathrooms
+Albert J. Parham Playground,"Adelphi Street, Clermont, DeKalb & Willoughby avenues",Bathrooms
+Carroll Park,Court & Smith Streets,Bathrooms
+Coney Island Beach,Stillwell Avenue,Bathrooms
+Coney Island Beach,West 16th Street,Bathrooms
+Coney Island Beach,W 22 ST.,Bathrooms
+Fort Greene Playground,Myrtle Avenue & St. Edwards Plaza,Bathrooms
+Fox Playground,"Avenue H, East 54 to E 55 streets",Bathrooms
+Glenwood Playground,Ralph Avenue & Farragut Road,Bathrooms
+Jesse Owens Playground,Stuyvesant & Lafayette avenues,Bathrooms
+Prospect Park (Middle Long Meadow),Picnic House,Bathrooms
+Prospect Park (The Bandshell),Prospect Park West/7th Street/15th Street,Bathrooms
+PS 286 Playground,"Avenue Y, between Brown & Haring streets",Bathrooms
+Sternberg Park,"Montrose Avenue, Boerum, Lorimer, Leonard streets",Bathrooms
+Tiger Playground,Evergreen Avenue & Eldert Street,Bathrooms
+Underwood Park,Lafayette & Waverly avenues,Bathrooms
+Washington Hall Playground,"Park, Washington avenues to Hall Street",Bathrooms
+Yak Playground,Avenue Y between Coyle & Batchelder streets,Bathrooms
+Carl Schurz Park,East 84 Street & East End Avenue,Bathrooms
+Central Park (Dana Discovery Center),110th Street between Fifth Avenue and Malcolm X Boulevard,Bathrooms
+Central Park Delacorte Comfort Station,Mid-Park at 80th Street,Bathrooms
+Central Park (Lasker),Central Park at 107th Street,Bathrooms
+Central Park (North Meadow Recreation Center),Mid-park at 97th Street,Bathrooms
+Central Park (Wollman Rink),Center Drive to East Drive (including Gapstow Bridge),Bathrooms
+Chelsea Recreation Center,"South of West 25 Street, 9 to 10 avenues",Bathrooms
+Columbus Park,"Baxter, Mulberry, Bayard & Worth streets",Bathrooms
+Fort Tryon Park (Anne Loftus Playground),Broadway & Dyckman Street,Bathrooms
+Fort Washington Park (Lily Brown Playground),"West 162 Street, east of Riverside Drive",Bathrooms
+Hamilton Fish Park (Recreation Center),Between East Houston & Stanton streets,Bathrooms
+J. Hood Wright Park,"Ft. Washington & Haven avenues, West 173 Street",Bathrooms
+Jackie Robinson Park (Recreation Center),"Bradhurst & Edgecombe avenues,West 145 to West 155 streets",Bathrooms
+Morningside Park,West 123 Street & Morningside Avenue,Bathrooms
+Riverside Park (Café),"105th Street, next to Henry Hudson Parkway",Bathrooms
+Sara D. Roosevelt Park,East Houston Street to Canal Street,Bathrooms
+Vesuvio Playground,Spring & Thompson streets,Bathrooms
+Bayside Fields,"204 Street & 29 Avenue, Clearview Expressway",Bathrooms
+Cunningham Park (HQ8),"South of Union Turnpike, between Francis Lewis Boulevard & 193rd Street",Bathrooms
+Flushing Meadows Corona Park (Passerelle),"Unisphere Fountain to pool, at Meridian Road",Bathrooms
+Flushing Meadows Corona Park (Playground for All Children) ,111 Street and Corona Avenue,Bathrooms
+"Flushing Meadows Corona Park (Zoo, Ballfields)",Grand Central Parkway to 111th Street to Heckscher Children Farm to Playground for All Children,Bathrooms
+Juniper Valley Park,Lutheran Avenue; North and South Juniper boulevards; and the pathway from 76th Street on north end to 75th Street on south end,Bathrooms
+Lawerence Virgilio Playground,39 Drive & 54 Street,Bathrooms
+Michaelis-Bayswater Park,"Beach Channel Drive, B 32 Street, Dwight Avenue, Norton Avenue",Bathrooms
+Arrochar Playground,"Sand Lane, Major Avenue, McFarland Avenue",Bathrooms
+Blood Root Valley (Greenbelt Nature Center),"Rockland, Manor and Brielle avenues, Forest Hill Road",Bathrooms
+Blood Root Valley (Park House),"Rockland, Manor and Brielle avenues, Forest Hill Road",Bathrooms
+Blue Heron Park Preserve (Nature Center),Poillon Avenue,Bathrooms
+Corporal Thompson Park/West Brighton Pool,"Broadway, Henderson Avenue",Bathrooms
+Double Nickel Playground,Osborne Street and Preston Avenue,Bathrooms
+Grandview Playground,"Grandview Avenue, Continental Place",Bathrooms
+High Rock Park (McArthur Park),Richmond Parkway & Moravian Cemetery at Rockland Avenue,Bathrooms
+Joline Pool Playground (Modular Equipment),"Joline Avenue, Hylan Boulevard",Bathrooms
+Lyons Pool,"Pier 6, Victory Boulevard",Bathrooms
+Markham Playground,"Willowbrook Parkway, Forest Avenue & Houston Street",Bathrooms
+Midland Beach & Boardwalk,"Natural Area and Boardwalk from Sands Lane to Vulcan Street, East of Father Capodanno Boulevard",Bathrooms
+Midland Field,Midland Avenue & Mason Avenue,Bathrooms
+South Beach (Saturn Playground),"Natural Area and Boardwalk from Sands Lane to Vulcan Street, East of Father Capodanno Boulevard",Bathrooms
+Stapleton Playground,Tompkins Avenue & Broad Street,Bathrooms
+Terrace Playground,Howard Avenue & Martha Street,Bathrooms
+Todt Hill Playground,Schmidts Lane & Manor Road,Bathrooms
+Coney Island,Brighton 2nd,Bathrooms
+Coney Island,W 27 ST.,Bathrooms
+Coney Island,W 33 St.,Bathrooms
+Marine Park Nature Center,East 33rd Street and Avenue U,Bathrooms
+Bendheim Playground,100th Street and Fifth Ave,Bathrooms
+Liberty Pool,173rd Street and 106th Avenue,Bathrooms
+Ederle Comfort Station,,Bathrooms
+Rockaway Beach 86 Comfort Station,Beach 86 Street,Bathrooms
+Rockaway Beach 97 Comfort Station,Beach 97 Street,Bathrooms
+Rockaway Beach 106 Comfort Station,Beach 106 Street,Bathrooms
+Rockaway Beach 117th L/G,Beach 117 Street,Bathrooms
+Bloomingdale Park,"Richmond Pkwy, Bloomingdale Rd., Lenevar Ave",Bathrooms
+Conference House Park,"Pittsville St,Hylan Blvd.,Surf,Richard Aves",Bathrooms
+South Beach Wetlands,Quintard St Bet. Quincy Ave & Father Capodanno Blvd,Bathrooms
+Bulova Park,"W/S 77 Street, N/S 25 Avenue",Baseball Fields
+Betsy Head Memorial Playground,"Livonia, Dumont, Hopkinson, Blake avenues, Strauss Street",Baseball Fields
+De Matti Playground,"Tompkins Avenue, Chestnut Street & Shaughnessy Lane",Baseball Fields
+Arcilla Playground,"Clay, Teller avenues, East 164 Street",Baseball Fields
+St. Vartan Playground,"1 to 2 avenues, East 35 to East 36 streets",Baseball Fields
+Orchard Beach and Promenade,On Long Island Sound in Pelham Bay Park,Beaches
+Manhattan Beach,"On Atlantic Ocean, Oriental Blvd., from Ocean Avenue to Mackenzie Street",Beaches
+Brighton Beach & Coney Island and Coney Island Boardwalk,"On Atlantic Ocean, from W. 37th Street to Corbin Place",Beaches
+Rockaway Beach and Boardwalk,"On Atlantic Ocean, from Beach 9th Street, Far Rockaway, to Beach 149th Street, Neponsit",Beaches
+South Beach,"On Lower New York Bay, from Fort Wadsworth to Miller Field, Midland Beach",Beaches
+Wolfe's Pond Beach,"On Raritan Bay and Prince's Bay, Holton to Cornelia Avenues",Beaches
+Midland Beach and Franklin D. Roosevelt Boardwalk,"On Lower New York Bay, from Fort Wadsworth to Miller Field, Midland Beach",Beaches
+The Salt Marsh Nature Center,East 33rd Street and Avenue U,Nature Centers
+"Audubon Center, Prospect Park",East Drive & Lincoln Road,Nature Centers
+Dana Discovery Center,110th St. & Lenox Ave,Nature Centers
+Blue Heron Nature Center,222 Poillon Avenue between Amboy Road and Hylan Blvd,Nature Centers
+Alley Pond Adventure Center,Windchester Boulevard & Grand Central Parkway,Nature Centers
+Fort Totten Visitors Center ,212th Street and Bell Boulevard,Nature Centers
+Forest Park Visitor Center,Woodhaven Boulevard & Forest Park Drive,Nature Centers
+Alfred E. Smith,80 Catherine Street,Recreation Centers
+Asser Levy,Asser Levy Place,Recreation Centers
+St. Mary's,450 St. Ann's Avenue,Recreation Centers
+St. James,2530 Jerome Avenue,Recreation Centers
+Brownsville Recreation Center,1555 Linden Boulevard,Recreation Centers
+Von King Cultural Arts Center,670 Lafayette Avenue,Recreation Centers
+Red Hook,155 Bay Street,Recreation Centers
+St. John's,1251 Prospect Place,Recreation Centers
+Basil Behagen (Field House),East 166th Street,Recreation Centers
+Sunset Park,7th Avenue at 43rd Street,Recreation Centers
+Fort Hamilton Senior Center,9941 Fort Hamilton Parkway,Recreation Centers
+Tony Dapolito,3 Clarkson Street,Recreation Centers
+East 54th,348 East 54th Street,Recreation Centers
+Thomas Jefferson,2180 1st  Avenue,Recreation Centers
+J. Hood Wright,351 Fort Washington Avenue,Recreation Centers
+Highbridge Recreation Center,2301 Amsterdam Avenue,Recreation Centers
+Hansborough,35 West 134th Street,Recreation Centers
+Jackie Robinson,85 Bradhurst Avenue,Recreation Centers
+North Meadow (Community Center),Central Park,Recreation Centers
+Morningside (Field House),410 West 123rd Street,Recreation Centers
+Roy Wilkins Family Center,177th St & Baisley Boulevard,Recreation Centers
+Sorrentino,18-48 Cornaga Avenue,Recreation Centers
+Louis Armstrong (Community Center),33-16 108 St.,Recreation Centers
+A.R.R.O.W. (Field House),35-30 35th Street,Recreation Centers
+George Cromwell Recreation Center,Pier 6 @ Murray Hulbert  Avenue,Recreation Centers
+Chelsea,430 West 25th Street,Recreation Centers
+Pelham Fritz,18 Mount Morris Park West,Recreation Centers
+Greenbelt Recreation Center,"Brielle Avenue (between Walcott and Rockland avenues, across from Sea View Hospital)",Recreation Centers
+West Bronx (Community Center),1527 Jessup Avenue,Recreation Centers
+Hunts Point,765 Manida Street,Recreation Centers
+Det. Keith L. Williams (Field House),106-16 173rd Street between 106th and 107th avenues,Recreation Centers
+Playground for All Children (Field House),111-01 Corona Avenue,Recreation Centers
+Al Oerter Recreation Center,131-40 Fowler Avenue,Recreation Centers
+Flushing Meadows Corona Park Pool & Rink,Avery Avenue and 131 Street,Recreation Centers
+Claremont,170th Street and Clay Avenue,Pools
+Crotona,173rd Street and Fulton Avenue,Pools
+Haffen,Ely and Burke Avenues,Pools
+Mapes,E. 180th Street between Mapes & Prospect Avenues,Pools
+Mullaly,E. 164th St. bet. Jerome & River Aves.,Pools
+Van Cortlandt,W. 242nd St. and Broadway,Pools
+St. Mary's,St. Ann's Avenue and E. 145th Street,Pools
+Betsy Head,"Boyland, Livonia and Dumont Avenues",Pools
+Bushwick,"Humboldt Street, Flushing & Bushwick Avenues",Pools
+Commodore Barry,"Flushing and Park Avenues, Navy and North Elliot Streets",Pools
+Douglas and DeGraw,Third Avenue and Nevins Street,Pools
+Howard,"Glenmore and Mother Gaston Blvd., East New York Avenue",Pools
+Kosciusko,Kosciusko between Marcy and Dekalb Avenues,Pools
+Red Hook,Bay and Henry Streets,Pools
+Sunset Park,Seventh Avenue between 41st and 44th Streets,Pools
+Brownsville,Linden and Mother Gaston Blvds. and Christopher Avenue B077,Pools
+Metropolitan,Bedford and Metropolitan Avenues,Pools
+St. John's,"Prospect Place, between Troy and Schenectady Avenues",Pools
+Asser Levy,Asser Levy Place and E. 23rd Street,Pools
+Tony Dapolito,Clarkson St. and Seventh Ave. South,Pools
+Dry Dock,E. 10th St. between Aves. C and D,Pools
+Hamilton Fish,Pitt Street and Houston Street,Pools
+Highbridge,Amsterdam Ave. and W. 173rd Street,Pools
+Jackie Robinson,Bradhurst Avenue and W. 146th Street,Pools
+John Jay,East of York Avenue on 77th St.,Pools
+Lasker,110th Street & Lenox Avenue,Pools
+Marcus Garvey,124th Street and Fifth Avenue,Pools
+Sheltering Arms,W. 129th Street and Amsterdam Ave.,Pools
+Thomas Jefferson,E. 112th Street and First Avenue,Pools
+Wagner,E. 124th Street between First and Second Avenues,Pools
+Asser Levy,Asser Levy Place and E. 23rd Street,Pools
+Chelsea,West 25th St. between 9th & 10th Aves,Pools
+Hansborough,134th St. between Fifth & Lenox Aves.,Pools
+Recreation Center 54,E. 54th St. bet. First and Second Aves.,Pools
+Frederick Douglass,Amsterdam Ave. between 100th & 102nd Streets,Pools
+Thompson Street,Thompson St. between Spring & Prince Streets,Pools
+Astoria,19th Street and 23rd Drive,Pools
+Fisher,99th Street and 32nd Avenue,Pools
+Liberty,173rd Street and 106th Avenue,Pools
+Fort Totten,338 Story Avenue,Pools
+Roy Wilkins,177th Street and Baisley Boulevard,Pools
+Faber,Faber Street and Richmond Terrace,Pools
+Lyons,Pier 6 and Victory Boulevard,Pools
+Tottenville,Hylan Boulevard and Joline Avenue,Pools
+West Brighton,Henderson Avenue between Broadway and Chappel Streets,Pools
+Flushing Meadows Corona Park Pool & Rink,Avery Avenue and 131 Street,Pools
+Flushing Meadows Corona Park Pool & Rink,Avery Avenue and 131 Street,Pools
+Floating Pool,Tiffany Street & Viele Avenue ,Pools

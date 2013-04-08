@@ -1,0 +1,12 @@
+WOH Basin,Total Basin Area (acres),Total Reservoir Area (acres),Total Water Bodies** incl. Reservoirs (acres),Basin Area minus Water Bodies (acres),Total Impervious Surface (acres),Impervious as % of Total Basin Area,Impervious as % of Basin Excluding Water Body Areas***,Population Density**** (persons/ sq. mi),References ****
+Ashokan,163405,8106,8557,154849,1549,0.9%,1%,33,
+Cannonsville,291077,4713,6144,284933,4608,1.6%,1.6%,39,
+Neversink,58902,1493,1873,57029,350,0.6%,0.6%,13,
+Pepacton,237472,5194,5822,231650,2517,1.1%,1.1%,21,
+Rondout,61039,2038,2160,58879,605,1%,1%,32,
+Schoharie,202040,1145,2021,200019,2345,1.2%,1.2%,27,
+Grand Total,1013936,22688,26576,987360,11975,1.2%,1.2%,29,
+,,,,,,,,,* Impervious surface acreages are calculated from NYCDEP GIS data derived from Spring 2001 high resolution (0.3 m) NYS Ortho Imagery using pattern recognition software.
+,,,,,,,,,"** Water Bodies (column D) include reservoirs, lakes, ponds, and rivers/major streams but exclude minor streams and wetlands."
+,,,,,,,,," *** To analyze the portion of potentially developable land area that is already impervious, percentages in column H represent the total  impervious acreage for each basin divided by the difference between the total basin area and the total water body area (i.e. F/E)."
+,,,,,,,,,"**** Population density (column I) based on 2000 Census Data. See graph below for correllation between pop. density and % impervious over total  basin area (column I vs. column G). Column G is used in order to be consistent with pop. density, which is over total basin area - not land only."

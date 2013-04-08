@@ -1,0 +1,18 @@
+Basin,Reservoir Acres,Basin Acres (land only),Total Acres,Reservoir Shoreline Miles,Stream Miles,100 ft. Riparian Buffer*** Acres
+Basin,Reservoir Acres,Basin Acres (land only),Total Acres,Reservoir Shoreline Miles,Stream Miles,100 ft. Riparian Buffer*** Acres
+Ashokan,8106.5,155299,163405.5,53.2,485.4,11384.2
+Cannonsville,4712.7,286364.6,291077.3,56.2,802.6,18782.6
+Neversink,1492.8,57409.4,58902.2,18.6,229.9,5389.6
+Pepacton,5193.7,232278.5,237472.2,53.2,664.6,15711.4
+Rondout,2037.9,59001.1,61039,20.3,203.4,4797.7
+Schoharie,1144.8,200895,202039.9,14.9,742.7,17371.9
+WOH Total,22688.4,991247.5,1013936,216.4,3128.6,73437.4
+Boyds Corner,222.3,14095.6,14317.8,5.5,51.3,1187.7
+Kensico,2069.2,6406.3,8475.5,32.4,20.7,448.3
+West Branch,1002.3,11733.6,12735.9,14,54.4,1258.2
+EOH Total,3293.8,32235.4,35529.2,51.9,126.5,2894.1
+Watershed Total,25982.2,1023482.9,1049465.2,268.3,3255,76331.5
+"*CAT/DEL includes all WOH basins plus West Branch, Boyds Corner, and Kensico.",,,,,,
+**Includes streams and rivers only (stream24 plus NHD vectors for streampoly proxies).,,,,,,
+"***Hydro features buffered include streams and rivers only (stream24 plus water24), and exlude reservoirs and lakes.",,,,,,
+Catskill / Delaware* Land and Reservoir Areas and Stream** Length by Basin,,,,,,

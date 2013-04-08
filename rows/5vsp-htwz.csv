@@ -1,0 +1,97 @@
+"Type of Material, Operation or Facility",Supervision Type,Fire Code /Rule Section
+"Boatyards, marinas and similar facilities",Personal,R301-01(b)(1)
+Tar kettle operations using combustible liquid,Personal,FC303.4
+Asphalt melter operations using combustible liquid,Personal,R303-01(b)(2)
+"Portable space heaters storage, handling and use",Personal/General,FC313.5.2.6
+De-fueling motor vehicle fuel tanks,Personal,FC316.3
+"Cellulose nitrate storage, handling and use",Personal/General,FC306.2.1
+Group A occupancies (fire safety training),Personal,FC401.6.1
+Group B office building fire safety director,Personal,FC401.6.2.2
+Group B office building EAP/fire safety director,Personal,FC401.7.2
+Group I-2 occupancies (fire safety training),Personal,FC401.6.4
+Group R-1 occupancies (fire safety director),Personal,FC401.6.5.2
+Group R-1 homeless shelter (fire safety coordinator),Personal,FC401.6.8.2
+Group R-1 homeless shelter (fire guards),Personal,FC401.6.8.3
+"Street festivals, fairs, bazaars, carnivals and similar outdoor events
+Kerosene and other combustible liquid storage, handling and use",Personal,R403-01(b)(4)(D)
+Preheating of fuel oil in stationary oil-fired systems,Personal/General,FC603.1.8
+Fuel oil transfer from a stationary tank to fuel-oil  burning equipment or another stationary tank installed above the lowest floor,General,R603-01(c)
+Refrigerating system operating engineer (certificate of qualification),Personal/General,FC606.1.1
+"Flameproofing of decorations, drapes and scenery",Personal,"FC801.7
+R 805-01(b)(3) and 805-02(b)(3)"
+"Sprinkler system inspection, testing and other maintenance",Personal,FC 901.6.3(1) and 903.5
+"Standpipe system inspection, testing and other maintenance",Personal,FC901.6.3(2)
+"Foam extinguishing system inspection, testing and other maintenance",Personal,FC 901.6.3(3)
+"Private hydrant system inspection, testing and other maintenance",Personal,FC901.6.3(5)
+"Yard hydrant system inspection, testing and other maintenance",Personal,FC 901.6.3(6) and 914.3
+"Fire alarm system inspection, testing and other maintenance",Personal,FC901.6.3(4)
+Servicing of portable fire extinguishers,Personal,FC901.6.3.1
+Portable Fire Extinguisher Sales,Personal,R901-03(c)
+Inspection and cleaning of commercial cooking exhaust systems,Personal,FC901.6.3.3
+Fire guard for out-of-service fire protection systems,Personal,FC901.7
+Central station monitoring of fire alarm systems,Personal,R901-01(f)(3)(A)
+Standpipe system operations (multi-zone system),Personal,FC905.1.1
+Smoke detector maintenance,Personal,R907-01(e)(2)
+Helicopter lift operations,Personal,FC1110.6
+Dry cleaning facilities using flammable or combustible liquids,General,FC1201.4
+Construction site handling and use of space heaters,Personal,FC1403.6
+Construction site space heaters fueled by piped natural gas,Personal/General,R1403-01(d)
+Construction site (demolition operations) fire guard,Personal,FC1404.5
+Construction site aerial fueling of cranes,Personal/General,R1405-01(d)
+Construction site liquid oxygen storage and use,Personal,FC1406.2.3
+Construction site fire safety manager (effective 7/1/10),Personal,R1408-01(b)(2)
+Construction site powder-actuated tools,Personal,FC1418.1.1
+Spray finishing and dipping operations,Personal,FC1501.4(1)
+Floor finishing operations,Personal,FC1501.4(2)
+Fumigation and thermal insecticidal fogging operations,Personal,FC1701.4.2
+Automotive and marine liquid motor fuel-dispensing facilities,Personal,FC2201.7
+Compressed natural gas motor fuel-dispensing facilities,Personal,FC2201.7
+Torch operations using oxygen and a flammable gas,Personal,FC2603.4.1
+"Fire guard for construction site, rooftop and citywide torch operations",Personal,FC2604.2.7
+Non-production laboratories,Personal/General,FC2706.4
+Handling and use of explosives delivered to waterfront structures,Personal,FC2707.7.2
+"Aerosol storage, handling and use",Personal/General,R2801-01(c)
+Fire guard for combustible fibers on waterfront structures,Personal,FC2906.8.1
+Compressing of a gas,Personal,FC3001.4.3
+"Compressed gas storage, handling or use",Personal/General,FC3001.4.1
+Carbon dioxide container filling,Personal,R3004-01(d)(2)
+"Corrosive material storage, handling and use",Personal/General,FC3101.4
+"Cryogenic fluid storage, handling and use",Personal/General,FC3201.4.1 and 3201.4.3
+Cryogenic tank installer,Personal,FC3201.4.2
+"High explosives storage, handling and use",Personal,FC3301.5.1
+Blasting site personnel (other than blasting personnel),Personal,FC3301.5.1
+"Fireworks storage, handling and use",Personal,FC3301.5.2
+"Special effects displays, and storage and handling",Personal/General,FC3301.5.3
+Flammable/combustible liquid manufacture,Personal,FC3401.6.1
+"Flammable/combustible liquid storage, handling and use",Personal/General,FC3401.6.2 and 3401.6.3
+Underground storage system precision test,Personal,R3404-02(b)(3)
+Flammable/combustible liquid cargo tank dispensing,Personal,FC3406.2.8(7)
+Flammable/combustible liquid handling at wharfs,Personal,FC3406.4.7.1
+Bulk plants and terminals,Personal,FC3406.4.12
+"Flammable gas storage, handling and use",Personal/General,FC3501.4
+Ethylene oxide handled and used in sterilizers,Personal,FC3501.4.1
+Compressed natural gas handling and use,Personal,"FC3501.4.2
+R3507-01(e)"
+Tar kettle operations using CNG,Personal,"FC3501.4.2
+R3507-01(j)(2)(F)(1)"
+Asphalt melter operations using CNG,Personal,R3507-01(j)(2)(G)(1)
+Fire guard for CNG torch operations,Personal,R3507-01(j)(2)(F)(4)
+Methane recovery plant,Personal,"FC3501.4.3
+R3508-01(b)(3)"
+"Flammable solid storage, handling and use",Personal/General,R3601-01(c)
+"Toxic and highly toxic storage, handling and use",Personal/General,FC3701.5
+"LPG storage, handling and use",Personal/General,"FC3801.5
+R3809-01(e)"
+Tar kettle operations using LPG,Personal,"FC3801.5.2
+R3809-01(j)(2)(F)(1)"
+Fire guard for LPG torch operations,Personal,R3809-01(j)(2)(F)(4)
+"Street festivals, fairs, bazaars, carnivals and similar outdoor events
+LPG storage, handling and use",Personal,"FC3801.5.6
+R403-01(b)(4)(C)"
+Asphalt melter operations using LPG,Personal,R3809-01(j)(2)(G)(1)
+"Organic peroxide storage, handling and use",Personal/General,FC3901.5
+"Oxidizer storage, handling and use",Personal/General,FC4001.4
+"Pyrophoric material storage, handling and use",Personal/General,FC4101.5
+"Pyroxylin plastics storage, handling and use",Personal/General,FC4201.5
+"Unstable (reactive) material storage, handling and use",Personal/General,FC4301.5
+"Water-reactive solid and liquid storage, handling and use",Personal/General,FC4401.5

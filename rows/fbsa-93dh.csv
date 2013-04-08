@@ -1,0 +1,12 @@
+Zone,Description,MaximumDwelling units per acre
+R1,Single-family detached residences,4 to 7
+R2,Single-family detached residences,11 to 15
+R3,"Two-family detached, semi-detached, 
+and general residence districts",26 to 42
+R4,"Two-family detached, semi-detached, and general residence districts",30 to 65
+R5,General residence districts (provides a transition between lower and higher density neighborhoods),65 to 80
+R6,General residence districts (medium density housing between 3 and 12 stories),129 to 192
+R7,General residence districts (medium density apartment houses with good access to public transportation),192 to 322
+R8,General residence districts (high density residential districts),258 to 427
+R9,General residence districts (high density residential districts),444 to 495
+R10,General residence districts (highest density residential district),551 to 700

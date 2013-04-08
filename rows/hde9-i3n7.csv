@@ -1,0 +1,5 @@
+Category,Heat Index,Health Hazards
+Extreme Danger,130°F-Higher,Heat Stroke/Sunstroke is likely with continued exposure
+Danger,105°F-129°F,"Sunstroke, muscle cramps, and/or heat exhaustion possible with prolonged exposure and/or physical activity"
+Extreme Caution,90°F-105°F,"Sunstroke, muscle cramps, and/or heat exhaustion possible with prolonged exposure and/or physical activity"
+Caution,80°F-90°F,Fatigue possible with prolonged exposure and/or physical activity

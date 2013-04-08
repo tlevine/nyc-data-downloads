@@ -1,0 +1,10 @@
+Product,Criteria
+Heat Advisory (New York City),"Issued within 24 hours prior to onset of any of the following conditions:
+Heat index of at least 100° F but less than 105° F for any period of time. Maximum heat index of 95°F or greater for two consecutive days. Nighttime lows above 80° F for any period of time"
+Excessive Heat Watch,"Issued within 48 hours prior to onset of the following conditions:
+Heat index of at least 105° F for more than 3 hours per day for 2 consecutive days. Heat index of at least 115° F for any time of 95° F or higher for two consecutive days."
+Excessive Heat Warning,"Issued within 24 hours of onset of the following conditions:
+Heat index of at least 105° F for more than 3 hours per day for 2 consecutive days. Heat index of more than 115° F for any time period."
+Wind Chill Watch,Issued by the NWS when there is a chance that wind chill temperatures will decrease to at least 24º F below zero during the next 24 to 48 hours
+Wind Chill Advisory,Issued when the wind chill could be life threatening if action is not taken. The criteria for this advisory are expected wind chill readings of 15º F to 24º F degrees below zero
+Wind Chill Warning,Issued when wind chill readings are life threatening. Wind chill readings of 25º F below zero or lower are expected

@@ -1,0 +1,171 @@
+PROGRAM,PROGRAM NAME,Provider,SITE Name,Site Address,Borough,ZIP,Contact Number,Website,Community Board,For in -school youth only,For court-involved only,min age,max age,GED Help (Yes or No),Job Readiness Help (yes or no),College Readiness Help (yes or no),For Dads Only (yes or no) ,Catchment area requirment (yes or no) 
+Justice,ARCHES,Jewish Child Care Association,Jewish Child Care Association,1555 Linden Blvd,Brooklyn,11212,212-425-3333,http://www.jccany.org/site/PageServer,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,"BronxWorks, Inc","BronxWorks, Inc",1130 Grand Concourse,Bronx ,10456,718 508 3040,http://www.bronxworks.org/home,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,The Children's Village,The Children's Village,"400 East Fordham Road, ",Bronx,10458,718-220-4700,http://childrensvillage.org/about/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,Phipps Community Development Corporation,Phipps Community Development Corporation,1680 Seward Avenue,Bronx,10473,212-243 9090,http://www.phippsny.org/pcdc.html,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,"Fedcap Rehabilitation Services, Inc","Fedcap Rehabilitation Services, Inc",,Bronx,,,http://www.fedcap.org/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,New York Center for Interpersonal Development ,New York Center for Interpersonal Development ,130 Stuyvesant Place- 4th floor,Staten Island,10301,(718) 815-4557,http://www.nycid.org/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,Alpha School Center for Progressive Living,Alpha School Center for Progressive Living,2400 Linden Blvd,Brooklyn,11208,718-257-5800,http://www.alphaschoolcpl.org/about.html,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,"Friends of Bedford, Inc","Friends of Bedford, Inc",510 Gates Ave,Brooklyn,11216,,http://www.friendsofbedford.org/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,Good Shepherd Services,Good Shepherd Services,862 Park Avenue,Brooklyn,11206,718-919-3938,http://www.goodshepherds.org/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,Exodus Transistional Community,Exodus Transistional Community,2271 Third Ave,Manhattan,10035,917.492.0990,http://www.etcny.org/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,Friends of Island Academy,Friends of Island Academy,22 E 128th Street,Manhattan,10035,(212) 760-0755,http://www.friendsny.org/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,"Harlem Commonwealth Council, Inc.","Harlem Commonwealth Council, Inc.",361 West 125th Street,Manhattan,10027,(212) 749-0900,http://www.harlemcommonwealth.org/index/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,Health People,Health People,552 Southern Blvd,Bronx,10455,718-585-8585,http://www.healthpeople.org/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,"Federation Employment & Guidance Services, Inc.","Federation Employment & Guidance Services, Inc.",412-424 E 147th Street,Bronx,10455,212.366.8400,http://www.fegs.org/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,New York City Mission Society,New York City Mission Society,646 Malcolm X Blvd,Manhattan,10037,(212) 368-8400,http://www.nycmissionsociety.org/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,The Osborne Association,The Osborne Association,809 Westchester Avenue,Bronx,10455,718 707 2600,http://www.osborneny.org/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,Bronx Clergy Criminal Justice Roundtable,Bronx Clergy Criminal Justice Roundtable,1175 Boston Road,Bronx,10456,866 611 0678,http://www.clergyroundtable.org/#/bccjr/4558583841,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,"Safe Space NYC, Inc.",Bronx,250 Bedford Park Blvd.,Bronx,10468,718-526-2400,http://www.safespacenyc.org/safespace/section/,,N,Y,16,24,N,N,N,N,Y
+Justice,ARCHES,"Community Mediation Services, Inc.",Mosholu Montefiore Community Center,3450 DeKalb Avenue,Bronx,10467,718.5 23.6868,http://mediatenyc.org/,,N,Y,16,24,N,N,N,N,Y
+Health,Cure Violence,NYC Department of Health and Mental Hygiene,Man Up,821(B) Van Siclen Avenue,Brooklyn,11207,(718) 498-2320,http://www.manupinc.org/news.html,,N,N,N/A,N/A,N,N,N,N,Y
+Health,Cure Violence,NYC Department of Health and Mental Hygiene,Crown Heights Community  Mediation Center,256 Kingston Avenue,Brooklyn,11213,718.5 23.6868,http://mediatenyc.org/,,N,N,N/A,N/A,N,N,N,N,Y
+Health,Cure Violence,NYC Department of Health and Mental Hygiene,NYC Mission Society,646 Malcolm X Boulevard,Manhattan,10037,(212) 368-8400,http://www.nycmissionsociety.org/,,N,N,N/A,N/A,N,N,N,N,Y
+Justice,Community Education Pathways to Success,Brooklyn Public Library,Brooklyn Public Library,665 New Lots Ave,Brooklyn,11207,718-649-0311,http://www.brooklynpubliclibrary.org/locations/new-lots,,N,Y,17,24,Y,Y,N,N,Y
+Justice,Community Education Pathways to Success,"East Side House, Inc","East Side House, Inc",201 St. Anns Ave,Bronx,10454,718.665.5250,http://www.eastsidehouse.org/,,N,Y,17,24,Y,Y,N,N,Y
+Justice,Community Education Pathways to Success,"East Side House, Inc","East Side House, Inc",337 Alexander Ave.,Bronx,10454,718.665.5250,http://www.eastsidehouse.org/,,N,Y,17,24,Y,Y,N,N,Y
+Justice,Community Education Pathways to Success,FEGS Health & Human Services System,FEGS Health & Human Services System,412-424 East 147th St,Bronx,10455,212.366.8400,http://www.fegs.org/,,N,Y,17,24,Y,Y,N,N,Y
+Justice,Community Education Pathways to Success,Queens Library,Queens Library,91-14 Merrick  Blvd,Queens,11432,(718) 990-0700,http://www.queenslibrary.org/branch/central-library/?filters=ev_loc:11000000,,N,Y,17,24,Y,Y,N,N,Y
+Justice,Community Education Pathways to Success,Queens Library,Queens Library,108-41 Guy R. Brewer Blvd,Queens,11433,(718) 739-4088 ,http://www.queenslibrary.org/branch/south-jamaica/?filters=ev_loc:95400000,,N,Y,17,24,Y,Y,N,N,Y
+Justice,Community Education Pathways to Success,Settlement Housing Fund - DREAMS Youthbuild,Settlement Housing Fund - DREAMS Youthbuild,1615 St. Johns Place ,Brooklyn,11233,212.265.6530,http://www.settlementhousingfund.org/dreams_youthbuild.html,,N,Y,17,24,Y,Y,N,N,Y
+Justice,Community Education Pathways to Success,Settlement Housing Fund - DREAMS Youthbuild,Settlement Housing Fund - DREAMS Youthbuild,1604 St. Johns Place ,Brooklyn,11233,212.265.6530,http://www.settlementhousingfund.org/dreams_youthbuild.html,,N,Y,17,24,Y,Y,N,N,Y
+Justice,Community Education Pathways to Success,The Fortune Society,The Fortune Society,625 West 140th St.,Manhattan,10040,212.691.7554,http://fortunesociety.org/,,N,Y,17,24,Y,Y,N,N,Y
+Justice,Community Education Pathways to Success,Union Settlement Association,Union Settlement Association,1775 Third Avenue,Manhattan,10029,212.828.6000,http://www.unionsettlement.org/,,N,Y,17,24,Y,Y,N,N,Y
+Education,Cornerstone Mentoring,Millenium Development,Millenium Development,5955 Shore Parkway,Brooklyn,11236,718-968-9621 ,http://www.milldev.org/bayview.htm,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Bronx Works,Bronx Works,465 St. Ann's Ave.,Bronx,10455,718 - 585 -5040,http://www.bronxworks.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,"Children's Arts & Science Workshops, Inc.","Children's Arts & Science Workshops, Inc.",1619 East 174th St. ,Bronx,10472,(212) 923-7766 x21,http://www.caswkids.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,"Grand Street Settlement, Inc.       ","Grand Street Settlement, Inc.       ",50 Humboldt St. ,Brooklyn,11206,(718) 453-8116,http://www.grandstreet.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Heartshare Human Services        ,Heartshare Human Services        ,2947 West 28th St. ,Brooklyn,11224,(718) 449-2897,http://www.heartshare.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,"Directions For Our Youth, Inc.","Directions For Our Youth, Inc.",475 Fountain Ave. ,Brooklyn,11208,(718) 277-6641,http://www.dfoy.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,"Alianza Dominicana, Inc.      ","Alianza Dominicana, Inc.      ",3782 Tenth Avenue,Manhattan,10034,(212) 567-8782,http://www.alianzaonline.org/main/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Neighborhood Initiatives Development Corp.,Neighborhood Initiatives Development Corp.,3016 Yates Ave. ,Bronx,10469,(718) 585-5040,http://www.nidcny.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Child Development of Mosholu Montifiore Community Center             ,Child Development of Mosholu Montifiore Community Center             ,1150 East 229th St. ,Bronx,10466,(718) 652-0246,http://www.mmcc.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Goodwill Industries of Greater New York            ,Goodwill Industries of Greater New York            ,228 York St. ,Brooklyn,11201,(718) 852-6318,http://www.goodwillny.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Jewish Community Center of Staten Island      ,Jewish Community Center of Staten Island      ,230 Broad Street,Staten Island,10304,(718) 981-0500,http://www.sijcc.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,"University Settlement Society of New York, Inc. ","University Settlement Society of New York, Inc. ",177 Myrtle St. ,Brooklyn,11201,(718) 522-5604,http://www.universitysettlement.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Supportive Children's Advocacy Network                     ,Supportive Children's Advocacy Network                     ,1820 Lexington Ave. ,Manhattan,10029,(212) 289-8819,http://www.scanny.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,The Child Center of New York,The Child Center of New York,34-30 137th St. ,Queens,11354,(718) 353-0385,http://www.childcenterny.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Federation of Italian-American Organizations of Brooklyn    ,Federation of Italian-American Organizations of Brooklyn    ,2298 West 8th St. ,Brooklyn,11223,(718) 449-1444,http://www.fiaobrooklyn.org/about/organizations/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Action Center for Education & Community Development,Action Center for Education & Community Development,57-10 Beach Channel Drive,Queens,11692,(718) 634-4493,http://www.theactioncenter.com/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Italian American Civil Rights League ,Italian American Civil Rights League ,2702 Linden Blvd.,Brooklyn,11208,(718) 964-9043,,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,The Children's Village,The Children's Village,2965 Eighth Avenue,Manhattan,10039,(212) 491-6127,http://www.childrensvillage.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Jacob A. Riis Neighborhood Settlement          ,Jacob A. Riis Neighborhood Settlement          ,35-40 21st St. ,Queens,11106,(718) 786-3131,http://www.riissettlement.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,"Police Athletic League, Inc.        ","Police Athletic League, Inc.        ",1544 Hassock St.,Queens,11691,(718) 471-0360,http://www.palnyc.org/800-PAL-4KIDS/Home.aspx,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Phipps Community Development,Phipps Community Development,1680 Seward Ave. ,Bronx,10473,(718) 589-0555,http://www.phippsny.org/pcdc.html,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,Southern Queens Park Association            ,Southern Queens Park Association            ,109-04 160th St. ,Queens,11433,(718) 297-7237,,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,"Groundwork, Inc.","Groundwork, Inc.",862 Park Ave. ,Brooklyn,11206,(718) 919-4756,http://www.groundworkinc.org/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,El Puente de Williamsburg,El Puente de Williamsburg,80 Clymer St. ,Brooklyn,11249,(718) 333-0575,http://www.elpuente.us/,,y,N,10,15,N,N,N,N,Y
+Education,Cornerstone Mentoring,YMCA of Greater New York - Chinatown,YMCA of Greater New York - Chinatown,286 South St. ,Manhattan,10002,(212) 385-9352,http://ymcanyc.org/index.php,,y,N,10,15,N,N,N,N,Y
+Education,CUNY ASAP,City University of New York,Borough Manhattan Community College,199 Chambers Street,Manhattan,10007,(212) 346-8660,http://www.bmcc.cuny.edu/asap/,,Y,N,N/A,N/A,N,Y,N,N,
+Education,CUNY ASAP,City University of New York,Bronx Community College,2051 University Boulevard,Bronx,10453,(718) 289-5120,http://www.bcc.cuny.edu/asap,,Y,N,N/A,N/A,N,Y,N,N,
+Education,CUNY ASAP,City University of New York,Queensborough Community College,222-05 56th Avenue,Queens,11364,(718) 631-6262,http://www.cuny.edu/academics/programs/notable/asap/prospective.html,,Y,N,N/A,N/A,N,Y,N,N,
+Education,CUNY ASAP,City University of New York,Hostos Community College,500 Grand Concourse,Bronx,10451,(718) 518-6625,http://oit.hostos.cuny.edu/asap/,,Y,N,N/A,N/A,N,Y,N,N,
+Education,CUNY ASAP,City University of New York,Kingsborough Community College,2001 Oriental Boulevard,Brooklyn,11235,(718) 368-5616,http://www.kbcc.cuny.edu/asap/Pages/default.aspx,,Y,N,N/A,N/A,N,Y,N,N,
+"Education, Health",CUNY Fatherhood Academy,LaGuardia Community College,LaGuardia Community College,"29-10 Thomson Ave, Long Island City",Queens,11101,(718) 730-7330,http://www.lagcc.cuny.edu/home/,,N,N,18,24,Y,Y,Y,Y,N
+Education,CUNY Preparatory School,City University of New York,CUNY Preparatory School,2122 White Plains Road,Bronx,10462,(718) 839-8862,http://www.cunyprep.org/cp.html,,N,N,16,18,y,N,Y,N,
+Employment,Employment Works,DB Grant Associates,Brooklyn Workforce 1 Career Center,9 Bond Street,Brooklyn,11201,(718) 246-5219,http://www.grantassociatesinc.com/,,N,Y,18,N/A,N,Y,N,N,N
+Employment,Employment Works,DB Grant Associates,Queens Workforce1 Career Center,168-24 Jamaica Avenue,Queens,11432,(718) 557-6755,http://www.grantassociatesinc.com/,,N,Y,18,N/A,N,Y,N,N,N
+Employment,Employment Works,FedCap,FedCap,890 Garrison Ave,Bronx,10474,917.477.4418,http://www.fedcap.org/,,N,Y,18,N/A,N,Y,N,N,N
+Education,IMPACT: Peer Mentoring in Young Adult Literacy,Bronx Community College,Future Now/IMPACT,"2155 University Avenue, GRH 505",Bronx,10453,718.289.5320,http://www.bcc.cuny.edu/futurenow/,,N,N,17,25,Y,N,Y,N,N
+Education,IMPACT: Peer Mentoring in Young Adult Literacy,Hostos Community College,Hostos Community College - Continuing Education & Professional Studies,"500 Grand Concourse, B- Room 208",Bronx,10451,(718) 518-6656,http://www.hostos.cuny.edu/contedu/,,N,N,17,25,Y,N,Y,N,N
+Education,IMPACT: Peer Mentoring in Young Adult Literacy,Medgar Evers College,Medgar Evers College Adult & Continuing Education,"1534 Bedford Avenue, 2nd Floor",Brooklyn,11216,(718) 804-8808,http://www.mec.cuny.edu/spcd/index.html,,N,N,17,25,Y,N,Y,N,N
+Employment,Jobs-Plus,BronxWorks,BronxWorks,60 East Tremont Avenue,Bronx,10455,646 393 4000,http://www.bronxworks.org/,,N,N,N/A,N/A,N,Y,N,N,
+Employment,Jobs-Plus,BronxWorks,"Betances, Moore, and Courtlandt",391 East 149th Street,Bronx,10455,718 508 3123,http://www.bronxworks.org,,N,N,N/A,N/A,N,Y,N,N,
+Employment,Jobs-Plus,City University of New York,Hostos Community College,300 East 115th Street,Manhattan,10029,917 - 492 - 0274,http://www.hostos.cuny.edu/cewd/programs/jp.html,,N,N,N/A,N/A,N,Y,N,N,
+Justice,Justice Community,Department of Probation,Fund for the City of New York/Center for Court Innovation,444 Thomas Boyland Street,Brooklyn,11212,347 378 2828,http://www.courtinnovation.org/,,N,Y,16,24,N,Y,Y,N,Y
+Justice,Justice Community,Department of Probation,Center for Community Alternatives,692 Blake Ave.,Brooklyn,11207,718-858-9658,http://www.communityalternatives.org/,,N,Y,16,24,N,Y,Y,N,Y
+Justice,Justice Community,Department of Probation,The Osborne Association,809 Westchester Ave.,Bronx,10455,718-707-2600,http://www.osborneny.org/,,N,Y,16,24,N,Y,Y,N,Y
+Justice,Justice Community,Department of Probation,The Children's Village,2090 Adam Clayton Powell Blvd,Manhattan,10027,(212) 932-9009,http://childrensvillage.org/,,N,Y,16,24,N,Y,Y,N,Y
+Justice,Justice Community,Department of Probation,CUNY - Research Foundation/Laguardia CC,111-27 Farmer Blvd,Queens,11412,(212) 417-8300,http://www.rfcuny.org/rfwebsite/,,N,Y,16,24,N,Y,Y,N,Y
+Justice,Justice Scholars,Department of Probation,Graham Windham,1958 Fulton St. ,Brooklyn,11233,212.529.6445,http://www.graham-windham.org/,,N,Y,16,24,N,Y,Y,N,Y
+Justice,Justice Scholars,Department of Probation,South Bronx Overall Development Corp,555 Bergen Ave.,Bronx,10455,(718) 292-3113,http://www.sobro.org/,,N,Y,16,24,Y,Y,Y,N,Y 
+Justice,Justice Scholars,Department of Probation,Center for Alternative Sentencing and Employment Services,345 Broadway,Manhattan,10007,212.553.6637,http://www.cases.org/,,N,Y,16,24,Y,Y,Y,N,Y 
+Justice,Justice Scholars,Department of Probation,New York Mission Society,645 Malcom X Blvd,Manhattan,10026,212) 368-8400,http://www.nycmissionsociety.org/,,N,Y,16,24,Y,Y,Y,N,Y 
+Justice,Justice Scholars,Department of Probation,The Fortune Society,29-76 Northern Blvd,Queens,11101,212.691.7554,http://fortunesociety.org/,,N,Y,16,24,Y,Y,Y,N,Y 
+Justice,Justice Scholars,Department of Probation,Community Mediation Services,89-64 163rd St.,Queens,11432,718.5 23.6868,http://mediatenyc.org/,,N,Y,16,24,Y,Y,Y,N,Y 
+Justice,Justice Scholars,Department of Probation,Community Mediation Services,125-01 Queens Blvd,Queens,11415,718.5 23.6868,http://mediatenyc.org/,,N,Y,16,24,Y,Y,Y,N,Y 
+Health,Nurse-Family Partnership,Harlem Hospital Center,Harlem Hospital Center,2690 Frederick Douglas Blvd,Manhattan,10037,212-939-8500,http://www.nyc.gov/html/doh/html/ms/ms-nfp.shtml,,N,N,N/A,N/A,N,N,N,N,
+Health,Nurse-Family Partnership,Harlem Hospital Center,Harlem Hospital Center,15 West 136th Street,Manhattan,10037,212-939-8500,http://www.nyc.gov/html/doh/html/ms/ms-nfp.shtml,,N,N,N/A,N/A,N,N,N,N,
+Health,Nurse-Family Partnership,NYC Department of Health and Mental Hygiene,NYC Department of Health and Mental Hygiene,82-68 164th st,Queens,11432,718-883-4195,http://www.nyc.gov/html/doh/html/ms/ms-nfp.shtml,,N,N,N/A,N/A,N,N,N,N,
+Health,Nurse-Family Partnership,Public Health Solutions,Public Health Solutions,103-24 Roosevelt Avenue,Queens,11368,646-619-6400,http://www.healthsolutions.org/?event=page.Health_Services&about=183,,N,N,N/A,N/A,N,N,N,N,
+Health,Nurse-Family Partnership,"Richmond Home Need Services, Inc.","Richmond Home Need Services, Inc.",3155 Amboy Road,Staten Island,10306,(718) 987-8400,http://www.homecareny.com/,,N,N,N/A,N/A,N,N,N,N,
+Health,Nurse-Family Partnership,SCO Family of Services,SCO Family of Services,444 Thomas Boyland Street,Brooklyn,11212,(718) 455-1166,http://www.sco.org/,,N,N,N/A,N/A,N,N,N,N,
+Health,Nurse-Family Partnership,SCO Family of Services,SCO Family of Services,1221 Bedford Avenue,Brooklyn,11216,(718) 455-1166,http://www.sco.org/,,N,N,N/A,N/A,N,N,N,N,
+Health,Nurse-Family Partnership,Targeted NFP Citywide,Targeted NFP Citywide,158 E 115th St.,Manhattan,10029,646-672-2865,http://www.nursefamilypartnership.org/locations/New-York/Targeted-Citywide-Initiative,,N,N,N/A,N/A,N,N,N,N,
+Health,Nurse-Family Partnership,Visiting Nurse Service of New York,Visiting Nurse Service of New York,1200 Waters Place,Bronx,10461,800-675-0391,http://www.vnsny.org/,,N,N,N/A,N/A,N,N,N,N,
+Employment,Nursing Career Ladders,Coler Goldwater Specialty Hospital,Coler Goldwater Specialty Hospital,1 Main Street,Manhattan,10044,212-848-6000 ,http://www.nyc.gov/html/hhc/coler-goldwater/home.html,,N,N,N/A,N/A,N,Y,N,N,
+Justice,NYC Justice Corps,Center for Alternative Sentences and Employment Services,Center for Alternative Sentencing and Employment Services,89-31 161st Street,Queens,11432,646-734-1513,http://nycjusticecorps.org/who-we-are/project-partners/,,N,Y,18,24,Y,Y,Y,N,Y
+Justice,NYC Justice Corps,Center for Community Alternatives,Center for Community Alternatives,100 Pennsylvania Avenue,Brooklyn,11207,212-691-1911,http://nycjusticecorps.org/who-we-are/project-partners/,,N,Y,18,24,Y,Y,Y,N,Y
+Justice,NYC Justice Corps,Harlem Community Justice Center,Harlem Community Justice Center,127 West 127th Street,Manhattan,10027,347-709-6127,http://nycjusticecorps.org/who-we-are/project-partners/,,N,Y,18,24,Y,Y,Y,N,Y
+Justice,NYC Justice Corps,Phipps Community Development Corporation,Phipps Community Development Corporation,1409 Fulton Avenue,Bronx,10456,347.329.4004,http://nycjusticecorps.org/who-we-are/project-partners/,,N,Y,18,24,Y,Y,Y,N,Y
+"Education, Employment",Project Rise,FEGS Health & Human Services System,FEGS Health & Human Services System,412-434 East 147th Street,Bronx,10455,212.366.8400,http://www.fegs.org/,,N,N,18,24,Y,Y,Y,N,
+"Education, Employment",Project Rise,Henry Street Settlement,Henry Street Settlement,301 Henry Street,Manhattan,10002,212.766.9200,http://www.henrystreet.org/,,N,N,18,24,Y,Y,Y,N,
+"Education, Employment",Project Rise,Kingsborough Community College,Kingsborough Community College,2001 Oriental Blvd,Brooklyn,11235,(718)-368-5000 ,http://kingsboroughcyap.ning.com/,,N,N,18,24,Y,Y,Y,N,
+"Education, Employment",SaveUSA,Food Bank for New York City,St. Mark's AME Church,95-18 Northern Blvd.,Queens,11372,212.566.7855,http://www.foodbanknyc.org/,,N,N,N/A,N/A,N,N,N,N,
+"Education, Employment",SaveUSA,Food Bank for New York City,Capital One Bank,356 Fulton St.,Brooklyn,11201,212.566.7855,http://www.foodbanknyc.org/,,N,N,N/A,N/A,N,N,N,N,
+"Education, Employment",SaveUSA,Food Bank for New York City,Carver Financial Literacy Center,300 W. 145th St,Manhattan,10039,212.566.7855,http://www.foodbanknyc.org/,,N,N,N/A,N/A,N,N,N,N,
+"Education, Employment",SaveUSA,Food Bank for New York City,ARIVA TAX CENTER,69 E. 167th St.,Bronx,10452,212.566.7855,http://www.foodbanknyc.org/,,N,N,N/A,N/A,N,N,N,N,
+Health,School-Based Health Centers,"Health and Hospital Corporation, North Brooklyn Network",Acorn High School for Social Justice,1396 Broadway,Brooklyn,11221,,,,Y,N,N/A,N/A,N,N,N,N,
+Health,School-Based Health Centers,"Health and Hospital Corporation, Queens Hospital Center",Springfield Gardens High School,14310 Springfield Boulevard,Queens,11413,"(718) 341-1914, extension 154",http://www.nyc.gov/html/hhc/qhc/html/services/pediatric.shtml,,Y,N,N/A,N/A,N,N,N,N,
+Health,School-Based Health Centers,Montefiore Medical Center,Evander Childs Campus,800 East Gun Hill Road,Bronx,10467,718-696-4070.,http://www.montekids.org/programs/school/,,Y,N,N/A,N/A,N,N,N,N,
+Health,School-Based Health Centers,Montefiore Medical Center,Herbert Lehman Campus,3000 East Tremont Avenue,Bronx,10461,718-696-4070.,http://www.montekids.org/programs/school/,,Y,N,N/A,N/A,N,N,N,N,
+Health,School-Based Health Centers,Morris Heights Health Center,Health Opportunities High School,350 Gerard Avenue,Bronx,10451,(718) 483-1270 ext. 2170,http://www.mhhc.org/services-2/school-based-health-centers,,Y,N,N/A,N/A,N,N,N,N,
+Health,School-Based Health Centers,NAQ,Truman High School,750 Baychester Avenue,Bronx,10475,(718) 483-1270 ext. 2170,,,Y,N,N/A,N/A,N,N,N,N,
+Employment,Sector-Focused Career Centers,"City of New York, LaGuardia Community College",NYC Healthcare1 Center,29-10 Thomson Avenue,Queens,11101,718 482 7244,http://www.lagcc.cuny.edu/ace/,,N,N,N/A,N/A,N,N,Y,N,
+Employment,Sector-Focused Career Centers,DB Grant Associates,NYC Industrial and Transportation Center,168-25 JAMAICA AVENUE,Queens,11432,(718) 577.2194,http://www.grantassociatesinc.com/,,N,N,N/A,N/A,N,N,Y,N,
+Education,Teen ACTION ,Be'er Hagolah Institutes,Be er Hagolah Institutes,671 Louisiana Avenue,Brooklyn,11239,718.642.6800 ext.101,http://www.beerhagolah.org/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,"BronxWorks, Inc",High School for Violin and Dance,1100 Boston Road,Bronx,10456,718-508-3123,http://www.bronxworks.org/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,East Side House Settlement,Mott Haven HS,701 St. Anns Avenue,Bronx,10455,718.665.5250 ext.111,http://www.eastsidehouse.org/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,El Puente De Williamsburg,El Puente,311 Central Avenue,Brooklyn,11221,718 387 0404,http://elpuente.us/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,"Global Kids, Inc.",John Adams H.S.,101-01 Rockaway Blvd,Queens,11417,(212) 226-0130 ,http://globalkids.org/#/our-programs,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,"Global Kids, Inc.",Curtis High School - H.S. 450,105 Hamilton Avenue,Staten Island,10301,(212) 226-0130 ,http://globalkids.org/#/our-programs,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,Inwood House,MS 363-Academy-for Professional Leadership & Excellence,120 East 184th Street,Bronx,10468,917.674.8269,http://www.inwoodhouse.com/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,New York City Mission Society,Minisink Townhouse,646 Malcolm X Blvd,Manhattan,10037,212-674-3500,http://www.nycmissionsociety.org/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,SCO Family of Services,Sunset Park High School,153 35th Street,Brooklyn,11232,516.671.1253,http://www.sco.org/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,Sports and Arts in Schools Foundation,PS 129,2055 Mapes Avenue,Bronx,10459,718) 786-7110,http://www.sasfny.org/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,Sports and Arts in Schools Foundation,Brooklyn Collegiate,2021 Bergen Street,Brooklyn,11233, (718) 786-7110,http://www.sasfny.org/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,St. Nick's Alliance Corporation,Beginning With Children Charter School,185 Ellery Street,Brooklyn,11206,718.389.1810,http://www.stnicksnpc.org/index.html,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,The Child Center of NY,MS 72,133-25 Guy R. Brewer Boulevard,Queens,11434,718.322.4953,http://www.childcenterny.org/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,The Children's Aid Society,IS 218,4600 Broadway,Manhattan,10040,212.949.4921,http://www.childrensaidsociety.org/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,The Children's Aid Society,Banana Kelly High School,965 Longwood Avenue,Bronx,10459,(212) 949-4696,http://www.childrensaidsociety.org/,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,The Children's Aid Society,Hope Leadership Academy,1732 Madison Avenue,Manhattan,10029,(212) 987-5648,http://www.childrensaidsociety.org/hope-leadership-academy,,Y,N,N/A,N/A,N,N,N,N,
+Education,Teen ACTION ,Women's Housing and Development Corporation,PS/IS 218 ,1220 Gerard Avenue,Bronx,10452,718.839.1100,http://www.whedco.org/home.php,,Y,N,N/A,N/A,N,N,N,N,
+Employment,WorkAdvance,Per Scholas,Per Scholas,804 E. 138th St.,Bronx,10454,(718) 772-0599,http://www.perscholas.org/,,N,N,N/A,N/A,N,Y,N,N,
+Employment,WorkAdvance,St. Nicks Alliance,St. Nicks Alliance,2 Kingsland Avenue,Brooklyn,11211,718 388 5454,http://www.stnicksnpc.org/,,N,N,N/A,N/A,N,Y,N,N,
+Employment,Young Adult Internship Program,BronxWorks,Bronx Works Center,391 East 149th Street,Bronx,10455,(718) 993-8880,http://www.bronxworks.org,,N,N,16,24,Y,Y,N,N,
+Employment,Young Adult Internship Program,Catholic Charities,Catholic Charities,23-40 Astoria Boulevard,Queens,11102,718-726-9790,http://www.ccbq.org,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,Chinese American Planning Council,Chinese American Planning Council,4101 8th Avenue,Brooklyn,11232,212-941-1920,www.cpc-nyc.org,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,Chinese American Planning Council,Chinese American Planning Council,136-18 39th Avenue,Queens,11354,212-941-1920,www.cpc-nyc.org,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,CUNY Research Foundation/LaGuardia CC,CUNY - Research Foundation/LaGuardia CC,31-10 Thompson Avenue,Queens,11101,(718) 609-2131,http://www.lagcc.cuny.edu/ace/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,Cypress Hills Local Development Corporation,Cypress Hills Local Development Corporation,832 Jamaica Avenue,Brooklyn,11208,(718) 647-2800,https://sites.google.com/a/cypresshills.org/cypress-hills-local-development-corporation/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,Ecumenical Community Development Organization,Ecumenical Community Development Organization,413 West 125th Street,Manhattan,10027,,www.ecdo.org,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,FEGS Health & Human Services System,FEGS Health & Human Services System,412 East 147 Street,Bronx,10455,212.366.8400,http://www.fegs.org/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,Greater Ridgewood Youth Council,Greater Ridgewood Youth Council,62-04 Myrtle Avenue,Queens,11385,(718) 456-5437,http://www.thegryc.org/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,Henry Street Settlement,Henry Street Settlement,367Madison Street,Manhattan,10002,212.254.3100 x274,http://www.henrystreet.org/programs/job-training-placement/youth-employment.html,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,LaGuardia Community College,Long Island City,"29-10 Thomson Ave, Long Island City",Queens,11101,1-718-482-7200,http://www.lagcc.cuny.edu/home/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,Mosholu Montefiore Community Center,Mosholu Montefiore Community Center,3450 DeKalb Avenue,Bronx,10467,(718) 652-0282,http://www.mmcc.org/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,New York Center of Interpersonal Development,New York Center of Interpersonal Development,26 Bay Street,Staten Island,10301,(718) 815-4557,http://www.nycid.org/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,Opportunities for a Better Tomorrow,Opportunities for a Better Tomorrow,25 Thornton Street,Brooklyn,11206,(718) 387-1600 X12,http://www.obtjobs.org/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,The Door,The Door,121 6th Avenue,Manhattan,10013,212-941-9090,http://www.door.org/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program,Vannguard Urban Improvement,Vannguard Urban Improvement,1477 Fulton Street,Brooklyn,11216,(718) 735-4466,http://vannguardurban.org/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program ,Henkels and McCoy,Henkels and McCoy,2155 University Ave,Bronx,10453,718-289-5387 ,http://www.henkels.com/Pages/default.aspx,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program ,Northern Manhattan Improvement Corporation - NMIC,Northern Manhattan Improvement Corporation - NMIC,76 Wadsworth Ave.,Manhattan,10033,(212) 740-9645,http://www.nmic.org/,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program ,SCAN,SCAN,40 East 164th Street,Bronx,10452,212-289-8030,http://scanny.org/index.asp,,N,N,16,24,Y,Y,Y,N,
+Employment,Young Adult Internship Program ,SCO Family of Services,Sco Family of Services,76 lewis Avenue,Brooklyn,11206,(718) 455-1166,http://www.sco.org/,,N,N,16,24,Y,Y,Y,N,
+Education,Young Adult Literacy Program,BronxWorks,BronxWorks,1130 Grand Concourse,Bronx,10456,718 508 3123,http://www.bronxworks.org,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,Brooklyn Public Library,New Lots Branch,665 New Lots Ave,Brooklyn,11207,718-649-0311,http://www.brooklynpubliclibrary.org/locations/new-lots,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,Brooklyn Public Library,Macon Branch,361 Lewis Ave,Brooklyn,11233,718-573-5606,http://www.brooklynpubliclibrary.org/locations/macon,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,CAMBA,CAMBA,855 Flatbush Avenue,Brooklyn,11226,718-287-2600,http://camba.org/,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,Highbridge Community Life Center,Highbridge Community Life Center,979 Ogden Avenue,Bronx,10452,(718) 681-2222 ,http://www.highbridgelife.org/,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,Lutheran Medical Center,Lutheran Medical Center,199 14th St.,Brooklyn,11215,718-630-7000,http://www.lutheranmedicalcenter.com/,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,New York Center for Interpersonal Development,New York Center for Interpersonal Development,2800 Victory Boulevard,Staten Island,10314,(718) 815-4557,http://www.nycid.org/,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,New York Public Library,West Farms Library,2085 Honeywell Avenue,Bronx,10460,(718) 367-5376,http://www.nypl.org/locations/west-farms,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,New York Public Library,Bronx Library Center,310 East Kingsbridge Road ,Bronx,10458,(718) 579-4244,http://www.nypl.org/locations/bronx-library-center,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,New York Public Library, Mott Haven Library,321 East 140th Street ,Bronx,10454,(718) 665-4878,http://www.nypl.org/locations/mott-haven,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,Northern Manhattan Improvement Corporation - NMIC,Northern Manhattan Improvement Corporation - NMIC,76 Wadsworth Ave.,Manhattan,10033,(212) 740-9645,http://www.nmic.org/,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,Queens Borough Public Library,Jamaica Branch,89-11 Merrick Boulevard,Queens,11432,(718) 480-4300,http://www.queenslibrary.org/,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,Queens Borough Public Library,Far Rockaway Branch,1637 Central Avenue,Queens,11691,(718) 480-4300,http://www.queenslibrary.org/,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,Queens Borough Public Library,Long Island City Branch,37-44 21 Street,Queens,11101,(718) 480-4300,http://www.queenslibrary.org/,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,Queens Public Library,South Jamaica Queens Library,108-41 Guy R. Brewer Blvd,Queens,11433,(718) 739-4088,http://www.queenslibrary.org/,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,The Fortune Society,The Fortune Society,29-76 Northern Boulevard,Queens,11101,212.691.7554,http://fortunesociety.org/,,N,N,17,24,Y,Y,N,N,
+Education,Young Adult Literacy Program,Union Settlement Association,Union Settlement Association,1775 Third Avenue,Manhattan,10029,212.828.6000,http://www.unionsettlement.org/,,N,N,17,24,Y,Y,N,N,

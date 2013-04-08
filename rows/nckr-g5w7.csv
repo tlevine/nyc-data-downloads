@@ -1,0 +1,45 @@
+Reservior #,Name of Reservior,Location,Drainage Area,Date Put in Service,Kind of Dam,Area of Water Surface at Spilway Elevation,Length of Shoreline (Miles),Elevation of Spillway M.S.L. Sandy Hook (Feet)
+,,Town,Sq. Mi.,,,,,
+,,,,,,Sq. MI.,,
+,,,,,,,,
+1,Boyds Corner,Kent,23.46,1873,"Masonry, Earth Wings",0.464,6.2,580.05
+2x,Barretts Pond,Kent,0.57,1870,Earth,0.108,1.4,776.55
+3x,Lake Glenieda,Carmel,0.68,1870,Earth,0.264,2.2,504.55
+4,West Branch (Main),Carmel,42.82,1895,"Earth, Masonry Core & Spilway",1.692,15.6,503.2
+5,West Branch Aux,Carmel,,,,,,
+,,,,,"Earth, Masonry Core & (Auxillary Dam)",0.17,11.2,514.55 Top
+6,Middle Branch,Southeast,21.31,1878,"Earth, Masonry Core",0.669,6.82,371.55
+7,Bog Brook -1,Southeast,3.67,1892,"Earth, Masonry Core",0.64,4.9,416.55
+,Bog Brook -2,Southeast,,,,,,
+,,,,,"Earth, Masonry Core",0.64,4.9,416.55
+8,East Branch (Sodom),Southeast,80.28,1891,"Masonry, Earth Wings",0.898,10.5,416.55
+9,Croton Falls (Diverting),Southeast,87.58,1911,"Earth, Concrete Core & Spillway",0.24,4.2,309.55
+10x,Lake Gilead,Carmel,0.62,1870,Earth ,0.191,2.1,496.55
+11,Croton Falls  ,Carmel,168.64,1911,Cyclopean Masonry,1.66,18,309.4
+12x,Kirk Lake,Carmel,2.84,1870,Earth  ,0.158,3.1,502.55
+13,Amawalk & Aux.,Somers,19.13,1897,"Earth, Masonry Core",0.947,8.5,399.55
+14,Titicus,North Salem,23.35,1893,"Masonry, Earth Wings w/Masonry Core",1.046,8.1,324.5
+15,Cross River,Bedford,29.8,1908,"Cyclopean Masonry, Concrete Faces",1.202,12.9,329.55
+16,Muscoot,Somers/Bedford,315.73,1905,Masonry,1.822,35,199.55
+17,New Croton,Cortlandt,375,1905,Masonry,3.53,38,196
+x = Controlled Lakes,,,,,,,,
+,,,Croton Totals,,,,,
+,,,,,,16.341,193.62,
+Catskill System,,,,,,,,
+1,Ashokan,Olive Bridge,257,1915,Masonry,12.99,40.2,W. 590.0
+,,,,,,,,E. 587.1
+2,Schohaire,Gilboa,314,1926,Masonry,1.79,16.5,1130
+Catskill Totals,,,,,,,,
+,,,,,,14.78,56.7,
+Delaware System,,,,,,,,
+1,Neversink,Neversink,93,1953,"Earth, Concrete Core",2.3,16.5,1440
+2,Pepacton,"Colchester, Andes & Middletown",372,1954,"Earth, Concrete Core",8.9,53.5,1280
+3,Cannonsville,"Deposit, Tompkins & Walton",450,1967,"Earth, Rolled Fill",7.5,53.5,1150
+,,,,,,,,1158
+4,Rondout,"Warwarsing, Neersink",95 Rond. 1010,1951,"Earth, Concrete Core",3.25,17,840
+,,,,,,,,1. - Low Water 2. - High Water
+Delaware Totals,,,,,,,,
+,,,,,,21.95,140.5,
+Kensico System,,,,,,,,
+1,Kensico,"Mt. Pleasant, No. Castle",13.33,1925,Masonry,3.47,30,357
+,,,,,,,,

@@ -1,0 +1,50 @@
+Year,Month,Provider,Location,System ID,# of Sessions,# of Users,# of Minutes,MB Received,MB Sent
+2012,12,Van Wagner,30-94 Steinway St; Phone Kiosk; Astoria; NY ,24336,168,80,15768,10747,788
+2012,12,Van Wagner,Phone Kiosk near Burger King @ Richmond Ave & Amboy Rd;  Staten Island; NY ,24335,257,112,17733,6742,743
+2012,12,Van Wagner,Phone Kiosk Fulton St & Albee Square; Brooklyn; NY ,24334,254,189,24043,7376,412
+2012,12,Van Wagner, Phone Kiosk @ Smith and Fulton St in Fulton Mall; Brooklyn; NY ,24332,0,0,0,0,0
+2012,12,Van Wagner,Phone Kiosk W Bway & Spring St; Phone Kiosk; New York; NY ,24331,160,146,8350,2835,300
+2012,12,Van Wagner,W 48th St near Rockefeller Center; in Phone Kiosk; New York; NY ,24330,169,158,4765,948,119
+2012,12,Van Wagner,SEC Broadway & W 58th St; Phone kiosk; New York; NY ,20731,306,248,10060,2364,528
+2012,12,Telebeam,850 Longwood Avenue; ; Bronx; NY ,9365,92,59,4865,7057,273
+2012,12,Telebeam,931 Westchester Avenue; ; Bronx; NY ,9364,47,29,1656,284,34
+2012,11,Van Wagner,W 48th St near Rockefeller Center,24330,266,161,11973,1895,315
+2012,11,Van Wagner,Broadway & W 58th St,20731,304,244,8965,3222,379
+2012,11,Van Wagner,"Albee Square, Brooklyn",24334,279,200,25289,9325,806
+2012,11,Van Wagner,"Richmond Ave & Amboy Rd, Staten Island",24335,189,104,13439,5665,642
+2012,11,Van Wagner,"2 Smith St, Brooklyn",24332,140,89,5975,3174,203
+2012,11,Van Wagner,"30-94 Steinway St, Astoria",24336,207,103,18915,12571,912
+2012,11,Van Wagner,W Broadway & Spring St,24331,224,139,20511,17749,1314
+2012,10,Van Wagner,W Broadway & Spring St,24331,376,283,19159,5082,763
+2012,10,Van Wagner,Broadway & W 58th St,20731,415,336,13090,3456,549
+2012,10,Van Wagner,W 95th & Broadway,24329,32,25,1194,1069,70
+2012,10,Van Wagner,"30-94 Steinway St, Astoria",24336,197,103,13316,6560,567
+2012,10,Van Wagner,"Richmond Ave & Amboy Rd, Staten Island",24335,286,126,17046,7069,658
+2012,10,Van Wagner,"Albee Square, Brooklyn",24334,310,181,17410,6990,556
+2012,10,Van Wagner,"2 Smith St, Brooklyn",24332,368,192,11034,5294,389
+2012,10,Van Wagner,W 48th St near Rockefeller Center,24330,212,179,8131,1242,295
+2012,9,Van Wagner,W 95th & Broadway,24329,70,55,1699,524,46
+2012,9,Van Wagner,W 48th St near Rockefeller Center,24330,346,276,12873,3324,264
+2012,9,Van Wagner,"2 Smith St, Brooklyn",24332,316,165,8706,2859,227
+2012,9,Van Wagner,"Albee Square, Brooklyn",24334,183,128,9160,5125,218
+2012,9,Van Wagner,"Richmond Ave & Amboy Rd, Staten Island",24335,233,106,13823,5088,283
+2012,9,Van Wagner,"30-94 Steinway St, Astoria",24336,220,91,18735,11905,767
+2012,9,Van Wagner,W Broadway & Spring St,24331,400,330,16621,4866,672
+2012,9,Van Wagner,Broadway & W 58th St,20731,696,539,23544,7621,1413
+2012,8,Van Wagner,"Albee Square, Brooklyn",24334,250,171,12520,6091,371
+2012,8,Van Wagner,"2 Smith St, Brooklyn",24332,375,194,10189,2508,269
+2012,8,Van Wagner,W Broadway & Spring St,24331,495,447,19031,5388,704
+2012,8,Van Wagner,W 48th St near Rockefeller Center,24330,608,506,21651,4236,589
+2012,8,Van Wagner,W 95th & Broadway,24329,83,42,1932,397,32
+2012,8,Van Wagner,Broadway & W 58th St,20731,878,684,28773,7767,1478
+2012,8,Van Wagner,"30-94 Steinway St, Astoria",24336,236,106,14611,8950,573
+2012,8,Van Wagner,"Richmond Ave & Amboy Rd, Staten Island",24335,213,112,10769,7111,334
+2012,7,Van Wagner,W 48th St near Rockefeller Center,24330,232,207,7115,984,144
+2012,7,Van Wagner,Broadway & W 58th St,20731,770,624,28268,8172,1389
+2012,7,Van Wagner,"Albee Square, Brooklyn",24334,73,60,2888,713,118
+2012,7,Van Wagner,"Richmond Ave & Amboy Rd, Staten Island",24335,52,38,2398,880,45
+2012,7,Van Wagner,"30-94 Steinway St, Astoria",24336,149,52,13077,13779,722
+2012,7,Van Wagner,TBD,24337,6,3,1787,132,13
+2012,7,Van Wagner,W 95th & Broadway,24329,29,23,836,147,22
+2012,7,Van Wagner,"2 Smith St, Brooklyn",24332,149,83,4670,823,75
+2012,7,Van Wagner,W Broadway & Spring St,24331,116,105,4213,1054,234
