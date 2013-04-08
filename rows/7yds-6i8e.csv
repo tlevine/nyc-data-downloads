@@ -1,0 +1,659 @@
+BOROUGH,GRADE ,PROGRAM TYPE,CORE SUBJECT (MS CORE and 9-12 ONLY),CORE COURSE (MS CORE and 9-12 ONLY),SERVICE CATEGORY(K-9* ONLY),NUMBER OF STUDENTS / SEATS FILLED,NUMBER OF SECTIONS,AVERAGE CLASS SIZE
+Brooklyn,0K,GEN ED,-,-,-,17264,783,22
+Brooklyn,0K,CTT,-,-,-,3056,149,20.5
+Brooklyn,0K,G&T,-,-,-,390,21,18.6
+Brooklyn,01,GEN ED,-,-,-,18658,823,22.7
+Brooklyn,01,CTT,-,-,-,2783,126,22.1
+Brooklyn,01,G&T,-,-,-,512,22,23.3
+Brooklyn,02,GEN ED,-,-,-,18083,784,23.1
+Brooklyn,02,CTT,-,-,-,2775,123,22.6
+Brooklyn,02,G&T,-,-,-,370,17,21.8
+Brooklyn,03,GEN ED,-,-,-,17201,737,23.3
+Brooklyn,03,CTT,-,-,-,2803,120,23.4
+Brooklyn,03,G&T,-,-,-,817,36,22.7
+Brooklyn,04,GEN ED,-,-,-,16729,674,24.8
+Brooklyn,04,CTT,-,-,-,2940,121,24.3
+Brooklyn,04,G&T,-,-,-,939,39,24.1
+Brooklyn,05,GEN ED,-,-,-,16460,652,25.2
+Brooklyn,05,CTT,-,-,-,2498,104,24
+Brooklyn,05,G&T,-,-,-,976,40,24.4
+Brooklyn,06,GEN ED,-,-,-,14553,552,26.4
+Brooklyn,06,CTT,-,-,-,3046,127,24
+Brooklyn,06,G&T,-,-,-,2142,71,30.2
+Brooklyn,07,GEN ED,-,-,-,15006,557,26.9
+Brooklyn,07,CTT,-,-,-,2931,118,24.8
+Brooklyn,07,G&T,-,-,-,2140,72,29.7
+Brooklyn,08,GEN ED,-,-,-,15562,576,27
+Brooklyn,08,CTT,-,-,-,2666,107,24.9
+Brooklyn,08,G&T,-,-,-,2464,80,30.8
+Brooklyn,09,GEN ED,-,-,-,165,10,16.5
+Brooklyn,0K-09,SPEC ED,-,-,12:1,2699,276,9.8
+Brooklyn,0K-09,SPEC ED,-,-,12:1:1,7903,815,9.7
+Brooklyn,0K-09,SPEC ED,-,-,15:1,16,2,8
+Brooklyn,0K-09,SPEC ED,-,-,6:1:1,6,1,6
+Brooklyn,0K-09,SPEC ED,-,-,8:1:1,12,1,12
+Brooklyn,MS Core,GEN ED,ENGLISH,MS English Core,-,50800,1927,26.4
+Brooklyn,MS Core,GEN ED,MATH,MS Math Core,-,41593,1572,26.5
+Brooklyn,MS Core,GEN ED,MATH,Integrated Algebra,-,3143,111,28.3
+Brooklyn,MS Core,GEN ED,MATH,Geometry,-,148,7,21.1
+Brooklyn,MS Core,GEN ED,MATH,Trigonometry,-,342,12,28.5
+Brooklyn,MS Core,GEN ED,MATH,Math A,-,1418,47,30.2
+Brooklyn,MS Core,GEN ED,MATH,Math B,-,17,1,17
+Brooklyn,MS Core,GEN ED,SCIENCE,MS Science Core,-,41160,1535,26.8
+Brooklyn,MS Core,GEN ED,SCIENCE,Earth Science,-,1896,64,29.6
+Brooklyn,MS Core,GEN ED,SCIENCE,Living Environment,-,3264,121,27
+Brooklyn,MS Core,GEN ED,SCIENCE,Chemistry,-,10,1,10
+Brooklyn,MS Core,GEN ED,SCIENCE,Physics,-,71,3,23.7
+Brooklyn,MS Core,GEN ED,SCIENCE,Other Science,-,2845,108,26.3
+Brooklyn,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,41981,1563,26.9
+Brooklyn,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,2284,79,28.9
+Brooklyn,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,842,35,24.1
+Brooklyn,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,2264,84,27
+Brooklyn,MS Core,CTT,ENGLISH,MS English Core,-,8166,329,24.8
+Brooklyn,MS Core,CTT,MATH,MS Math Core,-,7199,288,25
+Brooklyn,MS Core,CTT,MATH,Integrated Algebra,-,81,3,27
+Brooklyn,MS Core,CTT,MATH,Trigonometry,-,20,1,20
+Brooklyn,MS Core,CTT,MATH,Math A,-,76,3,25.3
+Brooklyn,MS Core,CTT,MATH,Math B,-,33,1,33
+Brooklyn,MS Core,CTT,SCIENCE,MS Science Core,-,7221,288,25.1
+Brooklyn,MS Core,CTT,SCIENCE,Earth Science,-,80,3,26.7
+Brooklyn,MS Core,CTT,SCIENCE,Living Environment,-,176,7,25.1
+Brooklyn,MS Core,CTT,SCIENCE,Other Science,-,725,29,25
+Brooklyn,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,6891,274,25.1
+Brooklyn,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,75,3,25
+Brooklyn,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,161,6,26.8
+Brooklyn,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,262,11,23.8
+Brooklyn,MS Core,SPEC ED,ENGLISH,MS English Core,-,2301,216,10.7
+Brooklyn,MS Core,SPEC ED,MATH,MS Math Core,-,2098,198,10.6
+Brooklyn,MS Core,SPEC ED,MATH,Integrated Algebra,-,10,1,10
+Brooklyn,MS Core,SPEC ED,MATH,Geometry,-,11,1,11
+Brooklyn,MS Core,SPEC ED,MATH,Math A,-,22,2,11
+Brooklyn,MS Core,SPEC ED,MATH,Math B,-,12,1,12
+Brooklyn,MS Core,SPEC ED,SCIENCE,MS Science Core,-,2046,194,10.5
+Brooklyn,MS Core,SPEC ED,SCIENCE,Earth Science,-,21,2,10.5
+Brooklyn,MS Core,SPEC ED,SCIENCE,Living Environment,-,21,2,10.5
+Brooklyn,MS Core,SPEC ED,SCIENCE,Other Science,-,125,11,11.4
+Brooklyn,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,2045,195,10.5
+Brooklyn,MS Core,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,11,1,11
+Brooklyn,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,68,6,11.3
+Brooklyn,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,64,6,10.7
+Brooklyn,09-12,GEN ED,ENGLISH,English 9,-,17374,676,25.7
+Brooklyn,09-12,GEN ED,ENGLISH,English 10,-,16800,617,27.2
+Brooklyn,09-12,GEN ED,ENGLISH,English 11,-,17068,638,26.8
+Brooklyn,09-12,GEN ED,ENGLISH,English 12,-,13754,525,26.2
+Brooklyn,09-12,GEN ED,ENGLISH,MS English Core,-,4635,187,24.8
+Brooklyn,09-12,GEN ED,ENGLISH,Other English,-,15036,628,23.9
+Brooklyn,09-12,GEN ED,MATH,Integrated Algebra,-,24666,992,24.9
+Brooklyn,09-12,GEN ED,MATH,Geometry,-,19168,714,26.8
+Brooklyn,09-12,GEN ED,MATH,Trigonometry,-,11169,396,28.2
+Brooklyn,09-12,GEN ED,MATH,Math A,-,4383,166,26.4
+Brooklyn,09-12,GEN ED,MATH,Math B,-,508,16,31.8
+Brooklyn,09-12,GEN ED,MATH,Other Math,-,6254,249,25.1
+Brooklyn,09-12,GEN ED,SCIENCE,Earth Science,-,20706,748,27.7
+Brooklyn,09-12,GEN ED,SCIENCE,Living Environment,-,32404,1224,26.5
+Brooklyn,09-12,GEN ED,SCIENCE,Chemistry,-,20094,720,27.9
+Brooklyn,09-12,GEN ED,SCIENCE,Physics,-,9981,357,28
+Brooklyn,09-12,GEN ED,SCIENCE,Other Science,-,15464,597,25.9
+Brooklyn,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,37971,1404,27
+Brooklyn,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,20673,753,27.5
+Brooklyn,09-12,GEN ED,SOCIAL STUDIES,Economics,-,3634,136,26.7
+Brooklyn,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,9571,349,27.4
+Brooklyn,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,9807,376,26.1
+Brooklyn,09-12,CTT,ENGLISH,English 9,-,3076,132,23.3
+Brooklyn,09-12,CTT,ENGLISH,English 10,-,3242,120,27
+Brooklyn,09-12,CTT,ENGLISH,English 11,-,2740,103,26.6
+Brooklyn,09-12,CTT,ENGLISH,English 12,-,1559,60,26
+Brooklyn,09-12,CTT,ENGLISH,MS English Core,-,758,33,23
+Brooklyn,09-12,CTT,ENGLISH,Other English,-,3291,134,24.6
+Brooklyn,09-12,CTT,MATH,Integrated Algebra,-,6606,263,25.1
+Brooklyn,09-12,CTT,MATH,Geometry,-,2092,80,26.2
+Brooklyn,09-12,CTT,MATH,Trigonometry,-,493,19,25.9
+Brooklyn,09-12,CTT,MATH,Math A,-,400,18,22.2
+Brooklyn,09-12,CTT,MATH,Math B,-,24,1,24
+Brooklyn,09-12,CTT,MATH,Other Math,-,148,7,21.1
+Brooklyn,09-12,CTT,SCIENCE,Earth Science,-,3981,140,28.4
+Brooklyn,09-12,CTT,SCIENCE,Living Environment,-,7198,271,26.6
+Brooklyn,09-12,CTT,SCIENCE,Chemistry,-,924,34,27.2
+Brooklyn,09-12,CTT,SCIENCE,Physics,-,337,14,24.1
+Brooklyn,09-12,CTT,SCIENCE,Other Science,-,3418,125,27.3
+Brooklyn,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,7061,260,27.2
+Brooklyn,09-12,CTT,SOCIAL STUDIES,US History & Government,-,3359,124,27.1
+Brooklyn,09-12,CTT,SOCIAL STUDIES,Economics,-,248,9,27.6
+Brooklyn,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,1314,47,28
+Brooklyn,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,1866,69,27
+Brooklyn,09-12,SPEC ED,ENGLISH,English 9,-,586,50,11.7
+Brooklyn,09-12,SPEC ED,ENGLISH,English 10,-,485,42,11.5
+Brooklyn,09-12,SPEC ED,ENGLISH,English 11,-,485,39,12.4
+Brooklyn,09-12,SPEC ED,ENGLISH,English 12,-,311,29,10.7
+Brooklyn,09-12,SPEC ED,ENGLISH,MS English Core,-,373,33,11.3
+Brooklyn,09-12,SPEC ED,ENGLISH,Other English,-,481,44,10.9
+Brooklyn,09-12,SPEC ED,MATH,Integrated Algebra,-,1106,92,12
+Brooklyn,09-12,SPEC ED,MATH,Geometry,-,191,16,11.9
+Brooklyn,09-12,SPEC ED,MATH,Trigonometry,-,57,5,11.4
+Brooklyn,09-12,SPEC ED,MATH,Math A,-,99,7,14.1
+Brooklyn,09-12,SPEC ED,MATH,Math B,-,56,5,11.2
+Brooklyn,09-12,SPEC ED,MATH,Other Math,-,148,12,12.3
+Brooklyn,09-12,SPEC ED,SCIENCE,Earth Science,-,430,35,12.3
+Brooklyn,09-12,SPEC ED,SCIENCE,Living Environment,-,1028,86,12
+Brooklyn,09-12,SPEC ED,SCIENCE,Chemistry,-,22,2,11
+Brooklyn,09-12,SPEC ED,SCIENCE,Other Science,-,791,65,12.2
+Brooklyn,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,1092,89,12.3
+Brooklyn,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,597,51,11.7
+Brooklyn,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,269,23,11.7
+Brooklyn,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,181,15,12.1
+Manhattan,0K,GEN ED,-,-,-,7218,335,21.5
+Manhattan,0K,CTT,-,-,-,1452,73,19.9
+Manhattan,0K,G&T,-,-,-,482,22,21.9
+Manhattan,01,GEN ED,-,-,-,7193,327,22
+Manhattan,01,CTT,-,-,-,1474,69,21.4
+Manhattan,01,G&T,-,-,-,503,21,24
+Manhattan,02,GEN ED,-,-,-,6715,306,21.9
+Manhattan,02,CTT,-,-,-,1460,69,21.2
+Manhattan,02,G&T,-,-,-,399,17,23.5
+Manhattan,03,GEN ED,-,-,-,6301,278,22.7
+Manhattan,03,CTT,-,-,-,1519,66,23
+Manhattan,03,G&T,-,-,-,473,19,24.9
+Manhattan,04,GEN ED,-,-,-,6249,267,23.4
+Manhattan,04,CTT,-,-,-,1554,67,23.2
+Manhattan,04,G&T,-,-,-,435,17,25.6
+Manhattan,05,GEN ED,-,-,-,6000,245,24.5
+Manhattan,05,CTT,-,-,-,1531,65,23.6
+Manhattan,05,G&T,-,-,-,461,19,24.3
+Manhattan,06,GEN ED,-,-,-,6122,251,24.4
+Manhattan,06,CTT,-,-,-,1542,63,24.5
+Manhattan,06,G&T,-,-,-,304,10,30.4
+Manhattan,07,GEN ED,-,-,-,6340,253,25.1
+Manhattan,07,CTT,-,-,-,1615,64,25.2
+Manhattan,07,G&T,-,-,-,280,9,31.1
+Manhattan,08,GEN ED,-,-,-,6687,256,26.1
+Manhattan,08,CTT,-,-,-,1608,61,26.4
+Manhattan,08,G&T,-,-,-,312,12,26
+Manhattan,09,GEN ED,-,-,-,614,27,22.7
+Manhattan,0K-09,SPEC ED,-,-,12:1,854,95,9
+Manhattan,0K-09,SPEC ED,-,-,12:1:1,2969,304,9.8
+Manhattan,0K-09,SPEC ED,-,-,6:1:1,5,1,5
+Manhattan,MS Core,GEN ED,ENGLISH,MS English Core,-,16989,686,24.8
+Manhattan,MS Core,GEN ED,MATH,MS Math Core,-,16087,644,25
+Manhattan,MS Core,GEN ED,MATH,Integrated Algebra,-,1613,59,27.3
+Manhattan,MS Core,GEN ED,MATH,Geometry,-,80,4,20
+Manhattan,MS Core,GEN ED,MATH,Trigonometry,-,34,1,34
+Manhattan,MS Core,GEN ED,MATH,Math A,-,326,13,25.1
+Manhattan,MS Core,GEN ED,SCIENCE,MS Science Core,-,15562,603,25.8
+Manhattan,MS Core,GEN ED,SCIENCE,Earth Science,-,1044,39,26.8
+Manhattan,MS Core,GEN ED,SCIENCE,Living Environment,-,1332,53,25.1
+Manhattan,MS Core,GEN ED,SCIENCE,Other Science,-,277,13,21.3
+Manhattan,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,14289,564,25.3
+Manhattan,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,703,26,27
+Manhattan,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,889,35,25.4
+Manhattan,MS Core,GEN ED,SOCIAL STUDIES,Participation in Government,-,26,1,26
+Manhattan,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,219,11,19.9
+Manhattan,MS Core,CTT,ENGLISH,MS English Core,-,3850,154,25
+Manhattan,MS Core,CTT,MATH,MS Math Core,-,3710,148,25.1
+Manhattan,MS Core,CTT,MATH,Integrated Algebra,-,101,5,20.2
+Manhattan,MS Core,CTT,MATH,Other Math,-,28,1,28
+Manhattan,MS Core,CTT,SCIENCE,MS Science Core,-,3808,148,25.7
+Manhattan,MS Core,CTT,SCIENCE,Earth Science,-,95,4,23.8
+Manhattan,MS Core,CTT,SCIENCE,Living Environment,-,147,6,24.5
+Manhattan,MS Core,CTT,SCIENCE,Other Science,-,100,5,20
+Manhattan,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,3228,128,25.2
+Manhattan,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,119,5,23.8
+Manhattan,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,102,5,20.4
+Manhattan,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,70,3,23.3
+Manhattan,MS Core,SPEC ED,ENGLISH,MS English Core,-,739,71,10.4
+Manhattan,MS Core,SPEC ED,MATH,MS Math Core,-,749,73,10.3
+Manhattan,MS Core,SPEC ED,MATH,Integrated Algebra,-,19,2,9.5
+Manhattan,MS Core,SPEC ED,MATH,Trigonometry,-,10,1,10
+Manhattan,MS Core,SPEC ED,MATH,Math A,-,48,4,12
+Manhattan,MS Core,SPEC ED,SCIENCE,MS Science Core,-,687,66,10.4
+Manhattan,MS Core,SPEC ED,SCIENCE,Earth Science,-,17,2,8.5
+Manhattan,MS Core,SPEC ED,SCIENCE,Living Environment,-,58,5,11.6
+Manhattan,MS Core,SPEC ED,SCIENCE,Chemistry,-,10,1,10
+Manhattan,MS Core,SPEC ED,SCIENCE,Other Science,-,32,3,10.7
+Manhattan,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,693,67,10.3
+Manhattan,MS Core,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,35,3,11.7
+Manhattan,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,7,1,7
+Manhattan,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,10,1,10
+Manhattan,09-12,GEN ED,ENGLISH,English 9,-,13658,545,25.1
+Manhattan,09-12,GEN ED,ENGLISH,English 10,-,12811,489,26.2
+Manhattan,09-12,GEN ED,ENGLISH,English 11,-,12506,494,25.3
+Manhattan,09-12,GEN ED,ENGLISH,English 12,-,10301,408,25.2
+Manhattan,09-12,GEN ED,ENGLISH,MS English Core,-,1154,50,23.1
+Manhattan,09-12,GEN ED,ENGLISH,Other English,-,8515,384,22.2
+Manhattan,09-12,GEN ED,MATH,Integrated Algebra,-,17541,742,23.6
+Manhattan,09-12,GEN ED,MATH,Geometry,-,13936,519,26.9
+Manhattan,09-12,GEN ED,MATH,Trigonometry,-,8355,310,27
+Manhattan,09-12,GEN ED,MATH,Math A,-,1087,54,20.1
+Manhattan,09-12,GEN ED,MATH,Math B,-,597,28,21.3
+Manhattan,09-12,GEN ED,MATH,Other Math,-,6450,241,26.8
+Manhattan,09-12,GEN ED,SCIENCE,Earth Science,-,14345,529,27.1
+Manhattan,09-12,GEN ED,SCIENCE,Living Environment,-,23848,927,25.7
+Manhattan,09-12,GEN ED,SCIENCE,Chemistry,-,13832,496,27.9
+Manhattan,09-12,GEN ED,SCIENCE,Physics,-,8528,309,27.6
+Manhattan,09-12,GEN ED,SCIENCE,Other Science,-,12795,507,25.2
+Manhattan,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,27547,1047,26.3
+Manhattan,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,16045,622,25.8
+Manhattan,09-12,GEN ED,SOCIAL STUDIES,Economics,-,2406,97,24.8
+Manhattan,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,6300,236,26.7
+Manhattan,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,3183,145,22
+Manhattan,09-12,CTT,ENGLISH,English 9,-,2403,95,25.3
+Manhattan,09-12,CTT,ENGLISH,English 10,-,2118,81,26.1
+Manhattan,09-12,CTT,ENGLISH,English 11,-,1280,52,24.6
+Manhattan,09-12,CTT,ENGLISH,English 12,-,813,33,24.6
+Manhattan,09-12,CTT,ENGLISH,MS English Core,-,468,19,24.6
+Manhattan,09-12,CTT,ENGLISH,Other English,-,1070,51,21
+Manhattan,09-12,CTT,MATH,Integrated Algebra,-,4132,168,24.6
+Manhattan,09-12,CTT,MATH,Geometry,-,1365,54,25.3
+Manhattan,09-12,CTT,MATH,Trigonometry,-,409,17,24.1
+Manhattan,09-12,CTT,MATH,Math A,-,133,5,26.6
+Manhattan,09-12,CTT,MATH,Math B,-,78,3,26
+Manhattan,09-12,CTT,MATH,Other Math,-,236,10,23.6
+Manhattan,09-12,CTT,SCIENCE,Earth Science,-,2415,88,27.4
+Manhattan,09-12,CTT,SCIENCE,Living Environment,-,4528,172,26.3
+Manhattan,09-12,CTT,SCIENCE,Chemistry,-,757,30,25.2
+Manhattan,09-12,CTT,SCIENCE,Physics,-,265,10,26.5
+Manhattan,09-12,CTT,SCIENCE,Other Science,-,2315,89,26
+Manhattan,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,4873,180,27.1
+Manhattan,09-12,CTT,SOCIAL STUDIES,US History & Government,-,2142,86,24.9
+Manhattan,09-12,CTT,SOCIAL STUDIES,Economics,-,282,9,31.3
+Manhattan,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,651,27,24.1
+Manhattan,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,286,14,20.4
+Manhattan,09-12,SPEC ED,ENGLISH,English 9,-,231,20,11.6
+Manhattan,09-12,SPEC ED,ENGLISH,English 10,-,160,14,11.4
+Manhattan,09-12,SPEC ED,ENGLISH,English 11,-,173,17,10.2
+Manhattan,09-12,SPEC ED,ENGLISH,English 12,-,137,13,10.5
+Manhattan,09-12,SPEC ED,ENGLISH,MS English Core,-,46,4,11.5
+Manhattan,09-12,SPEC ED,ENGLISH,Other English,-,142,13,10.9
+Manhattan,09-12,SPEC ED,MATH,Integrated Algebra,-,420,37,11.4
+Manhattan,09-12,SPEC ED,MATH,Geometry,-,126,11,11.5
+Manhattan,09-12,SPEC ED,MATH,Math A,-,28,2,14
+Manhattan,09-12,SPEC ED,SCIENCE,Earth Science,-,194,18,10.8
+Manhattan,09-12,SPEC ED,SCIENCE,Living Environment,-,387,30,12.9
+Manhattan,09-12,SPEC ED,SCIENCE,Chemistry,-,64,7,9.1
+Manhattan,09-12,SPEC ED,SCIENCE,Other Science,-,151,12,12.6
+Manhattan,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,402,33,12.2
+Manhattan,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,188,17,11.1
+Manhattan,09-12,SPEC ED,SOCIAL STUDIES,Economics,-,21,1,21
+Manhattan,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,56,5,11.2
+Manhattan,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,13,1,13
+Queens,0K,GEN ED,-,-,-,17453,768,22.7
+Queens,0K,CTT,-,-,-,2659,125,21.3
+Queens,0K,G&T,-,-,-,266,13,20.5
+Queens,01,GEN ED,-,-,-,17933,755,23.8
+Queens,01,CTT,-,-,-,2528,109,23.2
+Queens,01,G&T,-,-,-,378,16,23.6
+Queens,02,GEN ED,-,-,-,17126,704,24.3
+Queens,02,CTT,-,-,-,2663,113,23.6
+Queens,02,G&T,-,-,-,337,14,24.1
+Queens,03,GEN ED,-,-,-,16712,669,25
+Queens,03,CTT,-,-,-,2486,103,24.1
+Queens,03,G&T,-,-,-,416,17,24.5
+Queens,04,GEN ED,-,-,-,16190,610,26.5
+Queens,04,CTT,-,-,-,2472,95,26
+Queens,04,G&T,-,-,-,384,15,25.6
+Queens,05,GEN ED,-,-,-,16673,617,27
+Queens,05,CTT,-,-,-,2243,86,26.1
+Queens,05,G&T,-,-,-,299,12,24.9
+Queens,06,GEN ED,-,-,-,15677,573,27.4
+Queens,06,CTT,-,-,-,2464,98,25.1
+Queens,06,G&T,-,-,-,547,19,28.8
+Queens,07,GEN ED,-,-,-,16061,564,28.5
+Queens,07,CTT,-,-,-,2384,89,26.8
+Queens,07,G&T,-,-,-,449,15,29.9
+Queens,08,GEN ED,-,-,-,16238,571,28.4
+Queens,08,CTT,-,-,-,2260,85,26.6
+Queens,08,G&T,-,-,-,423,15,28.2
+Queens,09,GEN ED,-,-,-,817,36,22.7
+Queens,09,G&T,-,-,-,111,4,27.8
+Queens,0K-09,SPEC ED,-,-,12:1,2042,205,10
+Queens,0K-09,SPEC ED,-,-,12:1:1,6509,648,10
+Queens,0K-09,SPEC ED,-,-,6:1:1,12,2,6
+Queens,MS Core,GEN ED,ENGLISH,MS English Core,-,50496,1797,28.1
+Queens,MS Core,GEN ED,MATH,MS Math Core,-,40938,1462,28
+Queens,MS Core,GEN ED,MATH,Integrated Algebra,-,4311,152,28.4
+Queens,MS Core,GEN ED,MATH,Geometry,-,64,2,32
+Queens,MS Core,GEN ED,MATH,Math A,-,354,15,23.6
+Queens,MS Core,GEN ED,MATH,Other Math,-,29,1,29
+Queens,MS Core,GEN ED,SCIENCE,MS Science Core,-,42873,1525,28.1
+Queens,MS Core,GEN ED,SCIENCE,Earth Science,-,2461,83,29.7
+Queens,MS Core,GEN ED,SCIENCE,Living Environment,-,2205,82,26.9
+Queens,MS Core,GEN ED,SCIENCE,Other Science,-,744,26,28.6
+Queens,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,45472,1611,28.2
+Queens,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,508,18,28.2
+Queens,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,939,37,25.4
+Queens,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1167,42,27.8
+Queens,MS Core,CTT,ENGLISH,MS English Core,-,8179,309,26.5
+Queens,MS Core,CTT,MATH,MS Math Core,-,6356,240,26.5
+Queens,MS Core,CTT,MATH,Integrated Algebra,-,105,4,26.3
+Queens,MS Core,CTT,MATH,Math A,-,42,2,21
+Queens,MS Core,CTT,SCIENCE,MS Science Core,-,6401,242,26.5
+Queens,MS Core,CTT,SCIENCE,Earth Science,-,16,1,16
+Queens,MS Core,CTT,SCIENCE,Living Environment,-,181,7,25.9
+Queens,MS Core,CTT,SCIENCE,Physics,-,59,2,29.5
+Queens,MS Core,CTT,SCIENCE,Other Science,-,156,6,26
+Queens,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,6402,243,26.3
+Queens,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,110,5,22
+Queens,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,106,4,26.5
+Queens,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,272,10,27.2
+Queens,MS Core,SPEC ED,ENGLISH,MS English Core,-,2424,234,10.4
+Queens,MS Core,SPEC ED,MATH,MS Math Core,-,1912,188,10.2
+Queens,MS Core,SPEC ED,MATH,Integrated Algebra,-,15,2,7.5
+Queens,MS Core,SPEC ED,MATH,Other Math,-,28,3,9.3
+Queens,MS Core,SPEC ED,SCIENCE,MS Science Core,-,1996,194,10.3
+Queens,MS Core,SPEC ED,SCIENCE,Living Environment,-,23,2,11.5
+Queens,MS Core,SPEC ED,SCIENCE,Other Science,-,35,3,11.7
+Queens,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,2032,199,10.2
+Queens,MS Core,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,12,1,12
+Queens,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,69,7,9.9
+Queens,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,88,8,11
+Queens,09-12,GEN ED,ENGLISH,English 9,-,14838,546,27.2
+Queens,09-12,GEN ED,ENGLISH,English 10,-,15403,530,29.1
+Queens,09-12,GEN ED,ENGLISH,English 11,-,15699,536,29.3
+Queens,09-12,GEN ED,ENGLISH,English 12,-,11673,407,28.7
+Queens,09-12,GEN ED,ENGLISH,MS English Core,-,2538,90,28.2
+Queens,09-12,GEN ED,ENGLISH,Other English,-,13316,524,25.4
+Queens,09-12,GEN ED,MATH,Integrated Algebra,-,21500,818,26.3
+Queens,09-12,GEN ED,MATH,Geometry,-,18341,639,28.7
+Queens,09-12,GEN ED,MATH,Trigonometry,-,9194,321,28.6
+Queens,09-12,GEN ED,MATH,Math A,-,1090,42,26
+Queens,09-12,GEN ED,MATH,Math B,-,386,14,27.6
+Queens,09-12,GEN ED,MATH,Other Math,-,6155,233,26.4
+Queens,09-12,GEN ED,SCIENCE,Earth Science,-,22081,766,28.8
+Queens,09-12,GEN ED,SCIENCE,Living Environment,-,35959,1306,27.5
+Queens,09-12,GEN ED,SCIENCE,Chemistry,-,16399,567,28.9
+Queens,09-12,GEN ED,SCIENCE,Physics,-,8135,284,28.6
+Queens,09-12,GEN ED,SCIENCE,Other Science,-,15371,559,27.5
+Queens,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,34237,1210,28.3
+Queens,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,17921,632,28.4
+Queens,09-12,GEN ED,SOCIAL STUDIES,Economics,-,3172,113,28.1
+Queens,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,10374,356,29.1
+Queens,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,7831,286,27.4
+Queens,09-12,CTT,ENGLISH,English 9,-,2298,85,27
+Queens,09-12,CTT,ENGLISH,English 10,-,1686,61,27.6
+Queens,09-12,CTT,ENGLISH,English 11,-,1432,49,29.2
+Queens,09-12,CTT,ENGLISH,English 12,-,1044,37,28.2
+Queens,09-12,CTT,ENGLISH,MS English Core,-,447,15,29.8
+Queens,09-12,CTT,ENGLISH,Other English,-,1530,58,26.4
+Queens,09-12,CTT,MATH,Integrated Algebra,-,3312,125,26.5
+Queens,09-12,CTT,MATH,Geometry,-,1308,47,27.8
+Queens,09-12,CTT,MATH,Trigonometry,-,336,11,30.5
+Queens,09-12,CTT,MATH,Math A,-,125,7,17.9
+Queens,09-12,CTT,MATH,Other Math,-,165,7,23.6
+Queens,09-12,CTT,SCIENCE,Earth Science,-,2888,100,28.9
+Queens,09-12,CTT,SCIENCE,Living Environment,-,4472,161,27.8
+Queens,09-12,CTT,SCIENCE,Chemistry,-,538,18,29.9
+Queens,09-12,CTT,SCIENCE,Physics,-,400,13,30.8
+Queens,09-12,CTT,SCIENCE,Other Science,-,1302,46,28.3
+Queens,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,4091,141,29
+Queens,09-12,CTT,SOCIAL STUDIES,US History & Government,-,1672,58,28.8
+Queens,09-12,CTT,SOCIAL STUDIES,Economics,-,112,4,28
+Queens,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,755,25,30.2
+Queens,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,449,16,28.1
+Queens,09-12,SPEC ED,ENGLISH,English 9,-,793,67,11.8
+Queens,09-12,SPEC ED,ENGLISH,English 10,-,491,37,13.3
+Queens,09-12,SPEC ED,ENGLISH,English 11,-,542,47,11.5
+Queens,09-12,SPEC ED,ENGLISH,English 12,-,320,28,11.4
+Queens,09-12,SPEC ED,ENGLISH,MS English Core,-,237,21,11.3
+Queens,09-12,SPEC ED,ENGLISH,Other English,-,504,44,11.5
+Queens,09-12,SPEC ED,MATH,Integrated Algebra,-,1359,106,12.8
+Queens,09-12,SPEC ED,MATH,Geometry,-,284,23,12.3
+Queens,09-12,SPEC ED,MATH,Trigonometry,-,14,1,14
+Queens,09-12,SPEC ED,MATH,Math A,-,16,2,8
+Queens,09-12,SPEC ED,MATH,Other Math,-,53,5,10.6
+Queens,09-12,SPEC ED,SCIENCE,Earth Science,-,693,49,14.1
+Queens,09-12,SPEC ED,SCIENCE,Living Environment,-,1291,101,12.8
+Queens,09-12,SPEC ED,SCIENCE,Chemistry,-,44,4,11
+Queens,09-12,SPEC ED,SCIENCE,Physics,-,27,2,13.5
+Queens,09-12,SPEC ED,SCIENCE,Other Science,-,415,32,13
+Queens,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,1246,99,12.6
+Queens,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,532,43,12.4
+Queens,09-12,SPEC ED,SOCIAL STUDIES,Economics,-,23,2,11.5
+Queens,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,227,19,11.9
+Queens,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,66,5,13.2
+Staten Island,0K,GEN ED,-,-,-,3582,165,21.7
+Staten Island,0K,CTT,-,-,-,596,29,20.6
+Staten Island,0K,G&T,-,-,-,61,3,20.3
+Staten Island,01,GEN ED,-,-,-,3700,159,23.3
+Staten Island,01,CTT,-,-,-,715,30,23.8
+Staten Island,01,G&T,-,-,-,111,4,27.8
+Staten Island,02,GEN ED,-,-,-,3649,149,24.5
+Staten Island,02,CTT,-,-,-,847,33,25.7
+Staten Island,02,G&T,-,-,-,80,3,26.7
+Staten Island,03,GEN ED,-,-,-,3501,140,25
+Staten Island,03,CTT,-,-,-,792,32,24.8
+Staten Island,03,G&T,-,-,-,73,3,24.3
+Staten Island,04,GEN ED,-,-,-,3202,121,26.5
+Staten Island,04,CTT,-,-,-,849,32,26.5
+Staten Island,04,G&T,-,-,-,52,2,26
+Staten Island,05,GEN ED,-,-,-,3324,123,27
+Staten Island,05,CTT,-,-,-,831,31,26.8
+Staten Island,05,G&T,-,-,-,38,2,19
+Staten Island,06,GEN ED,-,-,-,3209,109,29.4
+Staten Island,06,CTT,-,-,-,724,25,29
+Staten Island,07,GEN ED,-,-,-,3328,112,29.7
+Staten Island,07,CTT,-,-,-,614,21,29.2
+Staten Island,08,GEN ED,-,-,-,3405,114,29.9
+Staten Island,08,CTT,-,-,-,603,21,28.7
+Staten Island,0K-09,SPEC ED,-,-,12:1,1011,98,10.3
+Staten Island,0K-09,SPEC ED,-,-,12:1:1,1406,141,10
+Staten Island,0K-09,SPEC ED,-,-,8:1:1,44,6,7.3
+Staten Island,MS Core,GEN ED,ENGLISH,MS English Core,-,10187,353,28.9
+Staten Island,MS Core,GEN ED,MATH,MS Math Core,-,8654,295,29.3
+Staten Island,MS Core,GEN ED,MATH,Integrated Algebra,-,1074,35,30.7
+Staten Island,MS Core,GEN ED,SCIENCE,MS Science Core,-,9043,306,29.6
+Staten Island,MS Core,GEN ED,SCIENCE,Earth Science,-,481,15,32.1
+Staten Island,MS Core,GEN ED,SCIENCE,Living Environment,-,165,5,33
+Staten Island,MS Core,GEN ED,SCIENCE,Physics,-,66,2,33
+Staten Island,MS Core,GEN ED,SCIENCE,Other Science,-,326,12,27.2
+Staten Island,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,9108,307,29.7
+Staten Island,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,356,11,32.4
+Staten Island,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,269,9,29.9
+Staten Island,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,467,17,27.5
+Staten Island,MS Core,CTT,ENGLISH,MS English Core,-,2359,82,28.8
+Staten Island,MS Core,CTT,MATH,MS Math Core,-,1958,67,29.2
+Staten Island,MS Core,CTT,MATH,Integrated Algebra,-,20,1,20
+Staten Island,MS Core,CTT,SCIENCE,MS Science Core,-,1917,66,29
+Staten Island,MS Core,CTT,SCIENCE,Earth Science,-,59,2,29.5
+Staten Island,MS Core,CTT,SCIENCE,Other Science,-,109,4,27.3
+Staten Island,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,1983,68,29.2
+Staten Island,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,20,1,20
+Staten Island,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,56,2,28
+Staten Island,MS Core,SPEC ED,ENGLISH,MS English Core,-,685,64,10.7
+Staten Island,MS Core,SPEC ED,MATH,MS Math Core,-,640,60,10.7
+Staten Island,MS Core,SPEC ED,SCIENCE,MS Science Core,-,615,58,10.6
+Staten Island,MS Core,SPEC ED,SCIENCE,Earth Science,-,21,2,10.5
+Staten Island,MS Core,SPEC ED,SCIENCE,Other Science,-,22,2,11
+Staten Island,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,624,59,10.6
+Staten Island,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,76,7,10.9
+Staten Island,09-12,GEN ED,ENGLISH,English 9,-,3748,132,28.4
+Staten Island,09-12,GEN ED,ENGLISH,English 10,-,3724,124,30
+Staten Island,09-12,GEN ED,ENGLISH,English 11,-,3620,125,29
+Staten Island,09-12,GEN ED,ENGLISH,English 12,-,3823,148,25.8
+Staten Island,09-12,GEN ED,ENGLISH,MS English Core,-,193,8,24.1
+Staten Island,09-12,GEN ED,ENGLISH,Other English,-,3857,140,27.6
+Staten Island,09-12,GEN ED,MATH,Integrated Algebra,-,4634,175,26.5
+Staten Island,09-12,GEN ED,MATH,Geometry,-,5120,173,29.6
+Staten Island,09-12,GEN ED,MATH,Trigonometry,-,2270,75,30.3
+Staten Island,09-12,GEN ED,MATH,Math A,-,66,4,16.5
+Staten Island,09-12,GEN ED,MATH,Other Math,-,2251,79,28.5
+Staten Island,09-12,GEN ED,SCIENCE,Earth Science,-,2977,104,28.6
+Staten Island,09-12,GEN ED,SCIENCE,Living Environment,-,5066,180,28.1
+Staten Island,09-12,GEN ED,SCIENCE,Chemistry,-,2876,94,30.6
+Staten Island,09-12,GEN ED,SCIENCE,Physics,-,1689,57,29.6
+Staten Island,09-12,GEN ED,SCIENCE,Other Science,-,4377,152,28.8
+Staten Island,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,8799,302,29.1
+Staten Island,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,5042,172,29.3
+Staten Island,09-12,GEN ED,SOCIAL STUDIES,Economics,-,1255,39,32.2
+Staten Island,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,2040,72,28.3
+Staten Island,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1716,60,28.6
+Staten Island,09-12,CTT,ENGLISH,English 9,-,486,17,28.6
+Staten Island,09-12,CTT,ENGLISH,English 10,-,641,22,29.1
+Staten Island,09-12,CTT,ENGLISH,English 11,-,491,16,30.7
+Staten Island,09-12,CTT,ENGLISH,English 12,-,251,8,31.4
+Staten Island,09-12,CTT,ENGLISH,Other English,-,598,21,28.5
+Staten Island,09-12,CTT,MATH,Integrated Algebra,-,1292,45,28.7
+Staten Island,09-12,CTT,MATH,Geometry,-,284,9,31.6
+Staten Island,09-12,CTT,MATH,Other Math,-,81,3,27
+Staten Island,09-12,CTT,SCIENCE,Earth Science,-,515,20,25.8
+Staten Island,09-12,CTT,SCIENCE,Living Environment,-,765,26,29.4
+Staten Island,09-12,CTT,SCIENCE,Chemistry,-,33,1,33
+Staten Island,09-12,CTT,SCIENCE,Other Science,-,663,23,28.8
+Staten Island,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,1109,39,28.4
+Staten Island,09-12,CTT,SOCIAL STUDIES,US History & Government,-,464,19,24.4
+Staten Island,09-12,CTT,SOCIAL STUDIES,Economics,-,67,2,33.5
+Staten Island,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,138,5,27.6
+Staten Island,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,388,15,25.9
+Staten Island,09-12,SPEC ED,ENGLISH,English 9,-,254,20,12.7
+Staten Island,09-12,SPEC ED,ENGLISH,English 10,-,160,14,11.4
+Staten Island,09-12,SPEC ED,ENGLISH,English 11,-,167,13,12.8
+Staten Island,09-12,SPEC ED,ENGLISH,English 12,-,130,11,11.8
+Staten Island,09-12,SPEC ED,ENGLISH,MS English Core,-,25,2,12.5
+Staten Island,09-12,SPEC ED,ENGLISH,Other English,-,223,19,11.7
+Staten Island,09-12,SPEC ED,MATH,Integrated Algebra,-,423,33,12.8
+Staten Island,09-12,SPEC ED,MATH,Geometry,-,61,5,12.2
+Staten Island,09-12,SPEC ED,MATH,Other Math,-,55,4,13.8
+Staten Island,09-12,SPEC ED,SCIENCE,Earth Science,-,202,15,13.5
+Staten Island,09-12,SPEC ED,SCIENCE,Living Environment,-,263,20,13.2
+Staten Island,09-12,SPEC ED,SCIENCE,Physics,-,12,1,12
+Staten Island,09-12,SPEC ED,SCIENCE,Other Science,-,291,22,13.2
+Staten Island,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,462,37,12.5
+Staten Island,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,220,17,12.9
+Staten Island,09-12,SPEC ED,SOCIAL STUDIES,Economics,-,21,2,10.5
+Staten Island,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,118,9,13.1
+Staten Island,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,184,14,13.1
+Bronx,0K,GEN ED,-,-,-,12808,565,22.7
+Bronx,0K,CTT,-,-,-,1988,93,21.4
+Bronx,0K,G&T,-,-,-,83,4,20.8
+Bronx,01,GEN ED,-,-,-,13433,587,22.9
+Bronx,01,CTT,-,-,-,1776,82,21.7
+Bronx,01,G&T,-,-,-,143,7,20.4
+Bronx,02,GEN ED,-,-,-,12590,554,22.7
+Bronx,02,CTT,-,-,-,2088,94,22.2
+Bronx,02,G&T,-,-,-,138,6,23
+Bronx,03,GEN ED,-,-,-,12379,536,23.1
+Bronx,03,CTT,-,-,-,1786,78,22.9
+Bronx,03,G&T,-,-,-,101,4,25.3
+Bronx,04,GEN ED,-,-,-,11982,497,24.1
+Bronx,04,CTT,-,-,-,2048,88,23.3
+Bronx,04,G&T,-,-,-,177,8,22.1
+Bronx,05,GEN ED,-,-,-,12298,508,24.2
+Bronx,05,CTT,-,-,-,1562,63,24.8
+Bronx,05,G&T,-,-,-,65,3,21.7
+Bronx,06,GEN ED,-,-,-,11253,433,26
+Bronx,06,CTT,-,-,-,2083,86,24.2
+Bronx,06,G&T,-,-,-,254,9,28.2
+Bronx,07,GEN ED,-,-,-,11206,414,27.1
+Bronx,07,CTT,-,-,-,2145,85,25.2
+Bronx,07,G&T,-,-,-,271,9,30.1
+Bronx,08,GEN ED,-,-,-,11661,426,27.4
+Bronx,08,CTT,-,-,-,2019,80,25.2
+Bronx,08,G&T,-,-,-,249,9,27.7
+Bronx,09,GEN ED,-,-,-,423,16,26.4
+Bronx,0K-09,SPEC ED,-,-,12:1,4428,408,10.9
+Bronx,0K-09,SPEC ED,-,-,12:1:1,6012,588,10.2
+Bronx,0K-09,SPEC ED,-,-,6:1:1,2,1,2
+Bronx,MS Core,GEN ED,ENGLISH,MS English Core,-,36447,1444,25.2
+Bronx,MS Core,GEN ED,MATH,MS Math Core,-,32920,1262,26.1
+Bronx,MS Core,GEN ED,MATH,Integrated Algebra,-,1759,66,26.7
+Bronx,MS Core,GEN ED,MATH,Geometry,-,12,1,12
+Bronx,MS Core,GEN ED,MATH,Math A,-,352,13,27.1
+Bronx,MS Core,GEN ED,MATH,Other Math,-,71,3,23.7
+Bronx,MS Core,GEN ED,SCIENCE,MS Science Core,-,30747,1184,26
+Bronx,MS Core,GEN ED,SCIENCE,Earth Science,-,744,27,27.6
+Bronx,MS Core,GEN ED,SCIENCE,Living Environment,-,2127,79,26.9
+Bronx,MS Core,GEN ED,SCIENCE,Chemistry,-,12,1,12
+Bronx,MS Core,GEN ED,SCIENCE,Physics,-,233,9,25.9
+Bronx,MS Core,GEN ED,SCIENCE,Other Science,-,323,13,24.8
+Bronx,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,32359,1241,26.1
+Bronx,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,829,32,25.9
+Bronx,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,553,22,25.1
+Bronx,MS Core,GEN ED,SOCIAL STUDIES,Economics,-,24,1,24
+Bronx,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,784,33,23.8
+Bronx,MS Core,CTT,ENGLISH,MS English Core,-,6114,251,24.4
+Bronx,MS Core,CTT,MATH,MS Math Core,-,5360,214,25
+Bronx,MS Core,CTT,MATH,Integrated Algebra,-,136,5,27.2
+Bronx,MS Core,CTT,MATH,Math A,-,102,4,25.5
+Bronx,MS Core,CTT,MATH,Other Math,-,27,1,27
+Bronx,MS Core,CTT,SCIENCE,MS Science Core,-,5179,203,25.5
+Bronx,MS Core,CTT,SCIENCE,Living Environment,-,347,13,26.7
+Bronx,MS Core,CTT,SCIENCE,Other Science,-,103,4,25.8
+Bronx,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,5056,200,25.3
+Bronx,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,255,10,25.5
+Bronx,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,70,3,23.3
+Bronx,MS Core,CTT,SOCIAL STUDIES,Economics,-,27,1,27
+Bronx,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,187,8,23.4
+Bronx,MS Core,SPEC ED,ENGLISH,MS English Core,-,2760,249,11.1
+Bronx,MS Core,SPEC ED,MATH,MS Math Core,-,2730,248,11
+Bronx,MS Core,SPEC ED,MATH,Integrated Algebra,-,30,3,10
+Bronx,MS Core,SPEC ED,MATH,Other Math,-,12,1,12
+Bronx,MS Core,SPEC ED,SCIENCE,MS Science Core,-,2492,229,10.9
+Bronx,MS Core,SPEC ED,SCIENCE,Earth Science,-,13,1,13
+Bronx,MS Core,SPEC ED,SCIENCE,Living Environment,-,123,11,11.2
+Bronx,MS Core,SPEC ED,SCIENCE,Other Science,-,34,3,11.3
+Bronx,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,2526,231,10.9
+Bronx,MS Core,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,61,5,12.2
+Bronx,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,34,3,11.3
+Bronx,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,37,3,12.3
+Bronx,09-12,GEN ED,ENGLISH,English 9,-,11836,503,23.5
+Bronx,09-12,GEN ED,ENGLISH,English 10,-,11430,446,25.6
+Bronx,09-12,GEN ED,ENGLISH,English 11,-,11056,441,25.1
+Bronx,09-12,GEN ED,ENGLISH,English 12,-,9669,396,24.4
+Bronx,09-12,GEN ED,ENGLISH,MS English Core,-,2019,90,22.4
+Bronx,09-12,GEN ED,ENGLISH,Other English,-,14491,602,24.1
+Bronx,09-12,GEN ED,MATH,Integrated Algebra,-,18256,763,23.9
+Bronx,09-12,GEN ED,MATH,Geometry,-,11224,436,25.7
+Bronx,09-12,GEN ED,MATH,Trigonometry,-,6554,263,24.9
+Bronx,09-12,GEN ED,MATH,Math A,-,1586,64,24.8
+Bronx,09-12,GEN ED,MATH,Math B,-,507,29,17.5
+Bronx,09-12,GEN ED,MATH,Other Math,-,4489,181,24.8
+Bronx,09-12,GEN ED,SCIENCE,Earth Science,-,11516,445,25.9
+Bronx,09-12,GEN ED,SCIENCE,Living Environment,-,19074,766,24.9
+Bronx,09-12,GEN ED,SCIENCE,Chemistry,-,9767,397,24.6
+Bronx,09-12,GEN ED,SCIENCE,Physics,-,3805,161,23.6
+Bronx,09-12,GEN ED,SCIENCE,Other Science,-,12085,481,25.1
+Bronx,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,27463,1082,25.4
+Bronx,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,14752,562,26.2
+Bronx,09-12,GEN ED,SOCIAL STUDIES,Economics,-,2111,93,22.7
+Bronx,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,7284,282,25.8
+Bronx,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,4509,201,22.4
+Bronx,09-12,CTT,ENGLISH,English 9,-,2215,90,24.6
+Bronx,09-12,CTT,ENGLISH,English 10,-,2158,82,26.3
+Bronx,09-12,CTT,ENGLISH,English 11,-,1735,65,26.7
+Bronx,09-12,CTT,ENGLISH,English 12,-,941,39,24.1
+Bronx,09-12,CTT,ENGLISH,MS English Core,-,404,15,26.9
+Bronx,09-12,CTT,ENGLISH,Other English,-,2939,122,24.1
+Bronx,09-12,CTT,MATH,Integrated Algebra,-,5047,199,25.4
+Bronx,09-12,CTT,MATH,Geometry,-,1410,53,26.6
+Bronx,09-12,CTT,MATH,Trigonometry,-,491,20,24.6
+Bronx,09-12,CTT,MATH,Math A,-,382,15,25.5
+Bronx,09-12,CTT,MATH,Math B,-,55,2,27.5
+Bronx,09-12,CTT,MATH,Other Math,-,146,6,24.3
+Bronx,09-12,CTT,SCIENCE,Earth Science,-,2512,92,27.3
+Bronx,09-12,CTT,SCIENCE,Living Environment,-,5027,191,26.3
+Bronx,09-12,CTT,SCIENCE,Chemistry,-,627,27,23.2
+Bronx,09-12,CTT,SCIENCE,Physics,-,512,19,26.9
+Bronx,09-12,CTT,SCIENCE,Other Science,-,2955,108,27.4
+Bronx,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,6099,231,26.4
+Bronx,09-12,CTT,SOCIAL STUDIES,US History & Government,-,2138,79,27.1
+Bronx,09-12,CTT,SOCIAL STUDIES,Economics,-,148,6,24.7
+Bronx,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,825,30,27.5
+Bronx,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,1300,47,27.7
+Bronx,09-12,SPEC ED,ENGLISH,English 9,-,977,79,12.4
+Bronx,09-12,SPEC ED,ENGLISH,English 10,-,605,49,12.3
+Bronx,09-12,SPEC ED,ENGLISH,English 11,-,516,43,12
+Bronx,09-12,SPEC ED,ENGLISH,English 12,-,291,25,11.6
+Bronx,09-12,SPEC ED,ENGLISH,MS English Core,-,394,35,11.3
+Bronx,09-12,SPEC ED,ENGLISH,Other English,-,703,57,12.3
+Bronx,09-12,SPEC ED,MATH,Integrated Algebra,-,1484,116,12.8
+Bronx,09-12,SPEC ED,MATH,Geometry,-,269,21,12.8
+Bronx,09-12,SPEC ED,MATH,Trigonometry,-,120,10,12
+Bronx,09-12,SPEC ED,MATH,Math A,-,23,2,11.5
+Bronx,09-12,SPEC ED,MATH,Other Math,-,81,8,10.1
+Bronx,09-12,SPEC ED,SCIENCE,Earth Science,-,574,44,13
+Bronx,09-12,SPEC ED,SCIENCE,Living Environment,-,1122,86,13
+Bronx,09-12,SPEC ED,SCIENCE,Chemistry,-,38,3,12.7
+Bronx,09-12,SPEC ED,SCIENCE,Other Science,-,770,58,13.3
+Bronx,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,1816,142,12.8
+Bronx,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,672,50,13.4
+Bronx,09-12,SPEC ED,SOCIAL STUDIES,Economics,-,12,1,12
+Bronx,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,199,17,11.7
+Bronx,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,59,5,11.8

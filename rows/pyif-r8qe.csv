@@ -1,0 +1,76 @@
+PROGRAM TYPE,PROGRAM,SITE NAME,BOROUGH / COMMUNITY,AGENCY,Contact Number,Grade Level / Age Group ,Location 1
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA DYCKMAN HOUSES,Manhattan,"Alianza Dominicana, Inc. @Dyckman Community Center",(212) 567-8782,6 and up,"3782 Tenth Avenue
+Manhattan, NEW YORK 10034
+(40.862021922675375, -73.92075311672906)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA PINK HOUSES,Brooklyn,East New York Development Corporation @ Louis H. Pink Community Center,(718) 964-9043,6 and up,"2702 Linden Blvd
+Brooklyn, NEW YORK 11208
+(40.6691189432547, -73.86387037434672)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA CYPRESS HILLS HOUSES,Brooklyn,Police Athletic League @Cypress Hills Community Center,(718) 277-6641,6 and up,"475 Fountain Avenue
+Brooklyn, NEW YORK 11208
+(40.668276736421866, -73.87297612321264)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA BUSHWICK/HYLAN HOUSES,Brooklyn,YMCA-Eastern District @ Bushwick/Hylan Community Center,(718) 453-8116,6 and up,"50 Humboldt Street
+Brooklyn, NEW YORK 11206
+(40.70318766484067, -73.94074566957755)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA SUMNER HOUSES,Brooklyn,YMCA-Eastern District @Sumner Community Center,(718) 919-4756,6 and up,"862 Park Avenue
+Brooklyn, NEW YORK 11206
+(40.698586012218975, -73.94052293050422)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA TAYLOR-WYTHE AVENUE HOUSES,Brooklyn,El Puente De Williamsburg @Taylor-Wythe Community Center,(718) 333-0575,6 and up,"80 Clymer Street
+Brooklyn, NEW YORK 11211
+(40.70523254766283, -73.96569241813285)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA FARRAGUT HOUSES,Brooklyn,Goodwill Industries @ David G. Farragut Community Center,(718) 852-6347,6 and up,"228 York Street
+Brooklyn, NEW YORK 11201
+(40.70131567591148, -73.98228470785611)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA INGERSOLL HOUSES,Brooklyn,Goodwill Industries @Raymond V. Ingersoll Community Center,(718) 522-5604,6 and up,"177 Myrtle Avenue
+Brooklyn, NEW YORK 11201
+(40.69364100219984, -73.98224444725803)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA BAY VIEW HOUSES,Brooklyn,Sesame Flyers  @Bayview Community Center,(718) 968-9621,6 and up,"5985 Shore Parkway
+Brooklyn, NEW YORK 11236
+(40.63131541640772, -73.88565362344808)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA CONEY ISLAND I  SURFSIDE GARDENS,Brooklyn,Heartshare @Coney Island Surfside Community Center,(718) 449-2897,6 and up,"2947 28th Street
+Brooklyn, NEW YORK 11224
+(40.574390159947775, -73.99404773969015)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA MARLBORO HOUSES,Brooklyn,Federation of Italian American Organization @Marlboro Community Center,(718) 449-1444,6 and up,"2298 8th Street
+Brooklyn, NEW YORK 11223
+(40.594230224513254, -73.9623332791175)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA EDENWALD HOUSES,Bronx,Mosholu Montefiore  @Edenwald Community Center,(718) 652-0246,6 and up,"1150 229th Street
+Bronx, NEW YORK 10466
+(40.88620097174483, -73.8451543714921)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA SOUNDVIEW HOUSES,Bronx,Directions for our Youth @Soundview Community Center,(718) 378-6246,6 and up,"1680 Seward Avenue
+Bronx, NEW YORK 10473
+(40.81834577084099, -73.86900315491694)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA BRONX RIVER HOUSES,Bronx,Phipps Community Development Corporation @Bronx River Community Center,(718) 589-0555,6 and up,"1619 174th St
+Bronx, NEW YORK 10472
+(40.83401842171687, -73.87578118908756)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA EASTCHESTER GARDENS,Bronx,Mosholu Montefiore @Eastchester Gardens Community Center,(718) 231-3894,6 and up,"3016 Yates Avenue
+Bronx, NEW YORK 10469
+(40.86968869307537, -73.8545817263335)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA BETANCES HOUSES,Bronx,Aspira of New York @Dr. Ramon E. Betances VI Community Center,(718) 585-5040,6 and up,"465 St Ann's Avenue
+Bronx, NEW YORK 10455
+(40.8123977764137, -73.9141012273064)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA POLO GROUNDS TOWERS,Manhattan,Alianza Dominicana @Polo Grounds Community Center,(212) 491-6127,6 and up,"2975 Eighth Avenue
+Manhattan, NEW YORK 10039
+(40.8313401301324, -73.93580207563807)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA JOHNSON HOUSES,Manhattan,SCAN @James Weldon Johnson Community Center,(212) 289-8819,6 and up,"1820 Lexington Avenue
+Manhattan, NEW YORK 10029
+(40.79666470774462, -73.94309362953469)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA TWO BRIDGES U.R.A (SITE 7),Manhattan,YMCA - Chinatown @Two Bridges (URA) Community Center,(212) 385-9352,6 and up,"286 South Street
+Manhattan, NEW YORK 10002
+(40.710548126272954, -73.98613263981616)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA RAVENSWOOD HOUSES,Queens,HANAC @Ravenswood Community Center,(718) 786-3131,6 and up,"35 40 21st Street
+Queens, NEW YORK 11106
+(40.761699790013324, -73.9316632529567)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA OCEAN BAY APARTMENTS,Queens,Police Athletic League @Ocean Bay Community Center,(718) 634-4493,6 and up,"57 10 Beach Channel Drive
+Queens, NEW YORK 11692
+(40.593133885620375, -73.79540208463845)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA REDFERN HOUSES,Queens,Police Athletic League @Redfern Community Center,(718) 471-0360,6 and up,"1544 Hassock Street
+Queens, NEW YORK 11691
+(40.608773916285855, -73.75307844925557)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA SOUTH JAMAICA II HOUSES,Queens,Southern Queens Park Association @South Jamaica II Community Center,(718) 297-7237,6 and up,"109 04 160th Street
+Queens, NEW YORK 11433
+(40.698104881734935, -73.7875740339145)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA LATIMER GARDENS,Queens,Child Center of New York @Lewis H. Latimer Gardens Community Center,(718) 353-0385,6 and up,"34 30 137th Street
+Queens, NEW YORK 11354
+(40.76862022064671, -73.82719028070687)"
+"After-School Programs,Beacon,NYCHA Centers",Beacon Satellite,NYCHA STAPLETON HOUSES,Staten Island,Jewish Community Center of Staten Island @Stapleton Community Center,(718) 981-0500,6 and up,"210 Broad Street
+Staten Island, NEW YORK 10304
+(40.623894137006026, -74.0815572213235)"

@@ -1,0 +1,2637 @@
+Category,Type of Business,Business,Parsed Address,City/State,Zip Code,Phone Number,Location 1
+Food and Drink,Bars and Lounges,12th Street Ale House,192,"New York, NY",10003,212-253-2323,"192 2nd Avenue
+New York, NY 10003
+(40.73115159396423, -73.98581787710589)"
+Food and Drink,Bars and Lounges,Bar 13,35,"New York, NY",10003,212-979-6677,"35 13th Street
+New York, NY 10003
+(40.73453199675884, -73.99220020738805)"
+Food and Drink,Bars and Lounges,Bar Jamon,125,"New York, NY",10003,212-253-2773,"125 17th Street
+New York, NY 10003
+(40.73587834070102, -73.98730883952659)"
+Food and Drink,Bars and Lounges,Bar None,98,"New York, NY",10003,212-777-6663,"98 3rd Avenue
+New York, NY 10003
+(40.73231171938198, -73.98790430421388)"
+Food and Drink,Bars and Lounges,Beauty Bar,231,"New York, NY",10003,212-539-1389,"231 14th Street
+New York, NY 10003
+(40.73275238717633, -73.98590780930886)"
+Food and Drink,Bars and Lounges,Belmont Lounge,117,"New York, NY",10003,212-533-0009,"117 15th Street
+New York, NY 10003
+(40.73484780750465, -73.988767653362)"
+Food and Drink,Bars and Lounges,Blatt Billiards,809,"New York, NY",10003,212-674-8855,"809 Broadway
+New York, NY 10003
+(40.732860305819884, -73.99120481606138)"
+Food and Drink,Bars and Lounges,Blind Pig,233,"New York, NY",10003,212-209-1573,"233 14th Street
+New York, NY 10003
+(40.73271641429517, -73.9858268703262)"
+Food and Drink,Bars and Lounges,Boxer's NYC,37,"New York, NY",10010,212-255-5082,"37 20th Street
+New York, NY 10010
+(40.73914078212147, -73.98289845639863)"
+Food and Drink,Bars and Lounges,Cibar Lounge ,56,"New York, NY",10003,212-460-5656,"56 Irving Place
+New York, NY 10003
+(40.73609786512537, -73.98722981269191)"
+Food and Drink,Bars and Lounges,Corkbuzz Wine Studio,13,"New York, NY",10003,646-873-6071,"13 13th Street
+New York, NY 10003
+(40.73503664915934, -73.99338885836333)"
+Food and Drink,Bars and Lounges,Crocodile Lounge,325,"New York, NY",10003,212-477-7747,"325 14th Street
+New York, NY 10003
+(40.731898031248534, -73.98386634830234)"
+Food and Drink,Bars and Lounges,Finnerty's,221,"New York, NY",10003,212-677-2655,"221 2nd Avenue
+New York, NY 10003
+(40.73203292955293, -73.98519734490566)"
+Food and Drink,Bars and Lounges,Flatiron Lounge,37,"New York, NY",10011,212-727-7741,"27 19th Street
+New York, NY 10011
+(40.739465213084046, -73.9922132276018)"
+Food and Drink,Bars and Lounges,Flute Bar,40,"New York, NY",10003,212-529-7870,"40 20th Street
+New York, NY 10003
+(40.73864294646825, -73.98853382963438)"
+Food and Drink,Bars and Lounges,Heartland Brewery,35,"New York, NY",10011,212-645-3400,"35 Union Square
+New York, NY 10011
+(40.73681732274878, -73.99057529064089)"
+Food and Drink,Bars and Lounges,Hype Lounge,243,"New York, NY",10003,212-253-2112,"243 14th Street
+New York, NY 10003
+(40.73254554310961, -73.98542217541302)"
+Food and Drink,Bars and Lounges,Karaoke One 7,29,"New York, NY",10011,212-675-3527,"29 17th Street
+New York, NY 10011
+(40.73857999392624, -73.9937948635058)"
+Food and Drink,Bars and Lounges,NEMO NYC,54,"New York, NY",10003,212-477-1177,"54 13th Street
+New York, NY 10003
+(40.734230121983956, -73.9916131764903)"
+Food and Drink,Bars and Lounges,Nightingale,213,"New York, NY",10003,212-473-9398,"213 2nd Avenue
+New York, NY 10003
+(40.73179011260498, -73.98536821609127)"
+Food and Drink,Bars and Lounges,No Idea Bar,30,"New York, NY",10003,212-777-0100,"30 20th Street
+New York, NY 10003
+(40.73875985833206, -73.98882161268375)"
+Food and Drink,Bars and Lounges,NoWhere,322,"New York, NY",10003,212-477-4744 ,"322 14th Street
+New York, NY 10003
+(40.73195199057028, -73.98400124660674)"
+Food and Drink,Bars and Lounges,O'Hanlon's Bar,349,"New York, NY",10003,212-533-7333,"349 14th Street
+New York, NY 10003
+(40.731547295657094, -73.9830209855948)"
+Food and Drink,Bars and Lounges,Old Town Bar,45,"New York, NY",10003,212-529-6732,"45 18th Street
+New York, NY 10003
+(40.737643948887325, -73.98971552537726)"
+Food and Drink,Bars and Lounges,Paddy Maguire's Ale House,237,"New York, NY",10003,212-253-0031,"237 3rd Avenue
+New York, NY 10003
+(40.73671839732555, -73.98468473134898)"
+Food and Drink,Bars and Lounges,Park Bar,15,"New York, NY",10003,212-367-9085,"15 15th Street
+New York, NY 10003
+(40.736576341549636, -73.99278643140573)"
+Food and Drink,Bars and Lounges,Pierre Loti,53,"New York, NY",10003,212-777-5684,"53 Irving Place
+New York, NY 10003
+(40.73600279540167, -73.98734440163307)"
+Food and Drink,Bars and Lounges,Professor Thom's,219,"New York, NY",10003,212-260-9480,"219 2nd Avenue
+New York, NY 10003
+(40.73197897023118, -73.98524231100714)"
+Food and Drink,Bars and Lounges,Revival,129,"New York, NY",10003,212-253-8061,"129 15th Street
+New York, NY 10003
+(40.73447908547263, -73.98787732455298)"
+Food and Drink,Bars and Lounges,Shades of Green,125,"New York, NY",10003,212-674-1394,"125 15th Street
+New York, NY 10003
+(40.73451505835379, -73.98797624997621)"
+Food and Drink,Bars and Lounges,Shoolbred's,197,"New York, NY",10003,212-529-0340,"197 2nd Avenue
+New York, NY 10003
+(40.7312505193874, -73.98574593134356)"
+Food and Drink,Bars and Lounges,Sidebar,120,"New York, NY",10003,212-677-2900,"120 15th Street
+New York, NY 10003
+(40.73463761939186, -73.98834760821919)"
+Food and Drink,Bars and Lounges,Splash Bar,50,"New York, NY",10011,212-691-0073,"50 17th Street
+New York, NY 10011
+(40.73891274307704, -73.99459526011185)"
+Food and Drink,Bars and Lounges,Still Bar & Grill,192,"New York, NY",10003,212-471-9807,"192 3rd Avenue
+New York, NY 10003
+(40.735423373603396, -73.98562901947975)"
+Food and Drink,Bars and Lounges,The Penny Farthing,103,"New York, NY",10003,212-387-7300,"103 3rd Avenue
+New York, NY 10003
+(40.73266469143512, -73.98759692996641)"
+Food and Drink,Bars and Lounges,The Watering Hole,106,"New York, NY",10003,212-674-5783,"106 19th Street
+New York, NY 10003
+(40.737410875288106, -73.98740068387747)"
+Food and Drink,Bars and Lounges,Underbar,201,"New York, NY",10003,212-358-1560,"201 Park Avenue
+New York, NY 10003
+(40.736808329528515, -73.98877664658232)"
+Food and Drink,Bars and Lounges,Union Bar,204,"New York, NY",10003,212-674-2105,"204 Park Avenue
+New York, NY 10003
+(40.7367610638196, -73.98897459203866)"
+Food and Drink,Casual Eateries,2 Brothers Pizza,601,"New York, NY",10011,212-206-8656,"601 6th Avenue
+New York, NY 10011
+(40.73954791037468, -73.99527918109105)"
+Food and Drink,Casual Eateries,71 Irving Place Coffee & Tea Bar,71,"New York, NY",10003,212-995-5252,"71 Irving Place
+New York, NY 10003
+(40.736709404105284, -73.98678914489756)"
+Food and Drink,Casual Eateries,99 Miles to Philly,94,"New York, NY",10003,212-253-2700,"94 3rd avenue
+New York, NY 10003
+(40.73222401898494, -73.98800335412427)"
+Food and Drink,Casual Eateries,Adriatic Pizzaria,321,"New York, NY",10003,212-260-2797,"321 1st Avenue
+New York, NY 10003
+(40.73423626852468, -73.98043993137071)"
+Food and Drink,Casual Eateries,Alberto's Pizza,539,"New York, NY",10011,212-989-0500,"539 6th Avenue
+New York, NY 10011
+(40.7377076515578, -73.99657376857635)"
+Food and Drink,Casual Eateries,Amore's Pizza,104,"New York, NY",10003,212-420-8287,"104 14th Street
+New York, NY 10003
+(40.73426671518677, -73.98957863750378)"
+Food and Drink,Casual Eateries,Artichoke,328,"New York, NY",10003,212-228-2004,"328 14th Street
+New York, NY 10003
+(40.73185306514705, -73.98376742287911)"
+Food and Drink,Casual Eateries,Au Bon Pain,6,"New York, NY",10003,212-475-0453,"6 Union Square
+New York, NY 10003
+(40.73596308628365, -73.98931939420669)"
+Food and Drink,Casual Eateries,Bagel Boss,263,"New York, NY",10003,,"263 1st Avenue
+New York, NY 10003
+(40.732257760060236, -73.98189683305816)"
+Food and Drink,Casual Eateries,Bagel Buffet,510,"New York, NY",10011,212-924-8875,"510 6th Avenue
+New York, NY 10011
+(40.73673689551687, -73.9972430761928)"
+Food and Drink,Casual Eateries,Baked by Melissa,7,"New York, NY",10003,212-255-5526,"7 14th Street
+New York, NY 10003
+(40.73588023182016, -73.99327322372638)"
+Food and Drink,Casual Eateries,Baohaus,238,"New York, NY",10003,212-533-8424,"238 14th Street
+New York, NY 10003
+(40.73263547531252, -73.98563801270006)"
+Food and Drink,Casual Eateries,Beecher's,900,"New York, NY",10003,212-466-3340,"900 Broadway
+New York, NY 10003
+(40.73908791889474, -73.98981185377654)"
+Food and Drink,Casual Eateries,Big Arc Chicken,233,"New York, NY",10003,212-477-0091,"233 1st Avenue
+New York, NY 10003
+(40.731106627862744, -73.98275118898601)"
+Food and Drink,Casual Eateries,Big Daddy's Diner,239,"New York, NY",10003,212-477-1500,"239 Park Avenue
+New York, NY 10003
+(40.737941475285425, -73.98794027709505)"
+Food and Drink,Casual Eateries,Birdbath Bakery,223,"New York, NY",10003,646-722-6565,"223 1st Avenue
+New York, NY 10003
+(40.73087280413512, -73.98294004661216)"
+Food and Drink,Casual Eateries,Bite,211,"New York, NY",10003,212-677-3123,"211 14th Street
+New York, NY 10003
+(40.73294124480253, -73.98635747032347)"
+Food and Drink,Casual Eateries,Blimpie,145,"New York, NY",10003,212-533-7733,"145 4th Avenue
+New York, NY 10003
+(40.733887963771586, -73.98979182138295)"
+Food and Drink,Casual Eateries,Blue 9 Burger,92,"New York, NY",10003,212-333-3042,"92 3rd Avenue
+New York, NY 10003
+(40.73215004974803, -73.98805724599687)"
+Food and Drink,Casual Eateries,Blue Valley Deli and Grocery,570,"New York, NY",10011,212-242-9118,"570 6th Avenue
+New York, NY 10011
+(40.73864718966728, -73.99585355735229)"
+Food and Drink,Casual Eateries,Boqueria,53,"New York, NY",10011,212-255-4160,"53 19th Street
+New York, NY 10011
+(40.74011783459633, -73.99384882282754)"
+Food and Drink,Casual Eateries,Bourbon Coffee,43,"New York, NY",10011,212-675-5552,"43 14th Street
+New York, NY 10011
+(40.73660554609126, -73.99498699969458)"
+Food and Drink,Casual Eateries,Bravo Pizza,115,"New York, NY",10003,212-253-2220,"115 14th Street
+New York, NY 10003
+(40.73410703918648, -73.98903278938955)"
+Food and Drink,Casual Eateries,Bravo Pizza,146,"New York, NY",10011,212-523-0300,"146 5th Avenue
+New York, NY 10011
+(40.739335424430806, -73.99120481606138)"
+Food and Drink,Casual Eateries,Bravo Pizza,257,"New York, NY",10003,212-253-6090,"257 Park Avenue
+New York, NY 10003
+(40.73826172036685, -73.98766899496006)"
+Food and Drink,Casual Eateries,Brothers Deli & Grocery,127,"New York, NY",10003,212-477-0870,"127 4th Avenue
+New York, NY 10003
+(40.73322708645454, -73.98987720687002)"
+Food and Drink,Casual Eateries,Burger House,820,"New York, NY",10003,212-677-8282,"820 Broadway
+New York, NY 10003
+(40.73324658875044, -73.99108266884785)"
+Food and Drink,Casual Eateries,Café Beyond,620,"New York, NY",10011,212-620-9752,"620 6th Avenue
+New York, NY 10011
+(40.73998098469299, -73.99488336487511)"
+Food and Drink,Casual Eateries,Café Medina,9,"New York, NY",10003,212-242-2777,"9 17th Street
+New York, NY 10003
+(40.73758174647372, -73.99142964656875)"
+Food and Drink,Casual Eateries,Café Prague,2,"New York, NY",10011,212-929-2602,"2 19th Street
+New York, NY 10011
+(40.73907073747317, -73.99142847570117)"
+Food and Drink,Casual Eateries,Café Season's,538,"New York, NY",10011,212-929-9993,"538 6th Avenue
+New York, NY 10011
+(40.737624652371046, -73.99658590520606)"
+Food and Drink,Casual Eateries,Chat 'N' Chew,10,"New York, NY",10003,212-243-1616,"10 16th Street
+New York, NY 10003
+(40.737203218009554, -73.99245960604283)"
+Food and Drink,Casual Eateries,Chickpea,210,"New York, NY",10003,212-228-3445,"210 14th Street
+New York, NY 10003
+(40.73305815666629, -73.98664525337284)"
+Food and Drink,Casual Eateries,Chipotle,117,"New York, NY",10003,212-260-0641,"117 14th Street
+New York, NY 10003
+(40.734060074609545, -73.98891725653026)"
+Food and Drink,Casual Eateries,Chipotle,510,"New York, NY",10011,646-336-6203,"510 6th Avenue
+New York, NY 10011
+(40.73673689551687, -73.9972430761928)"
+Food and Drink,Casual Eateries,Chipotle,864,"New York, NY",10003,212-253-7860,"864 Broadway
+New York, NY 10003
+(40.737347922746096, -73.99023354826977)"
+Food and Drink,Casual Eateries,Chocolat Moderne,27,"New York, NY",10011,212-229-4797,"27 20th Street
+New York, NY 10011
+(40.740477563408035, -73.99281460249387)"
+Food and Drink,Casual Eateries,Chop't,24,"New York, NY",10003,646-336-5523,"24 17th Street
+New York, NY 10003
+(40.73724304743148, -73.99068693569711)"
+Food and Drink,Casual Eateries,City Bakery,3,"New York, NY",10011,212-366-1414,"3 18th Street
+New York, NY 10011
+(40.73875985833206, -73.99247286012275)"
+Food and Drink,Casual Eateries,City Chow Café,897,"New York, NY",10003,212-529-9160,"897 Broadway
+New York, NY 10003
+(40.738929413387076, -73.9898541219119)"
+Food and Drink,Casual Eateries,City Gourmet,238,"New York, NY",10003,212-260-6040,"238 14th Street
+New York, NY 10003
+(40.73263547531252, -73.98563801270006)"
+Food and Drink,Casual Eateries,Cooper Town Diner,339,"New York, NY",10003,,"339 1st Avenue
+New York, NY 10003
+(40.734874787165495, -73.97997228391546)"
+Food and Drink,Casual Eateries,Corbet & Conley,145,"New York, NY",10003,212-982-3939,"125 17th Street
+New York, NY 10003
+(40.73587834070102, -73.98730883952659)"
+Food and Drink,Casual Eateries,Cosi,257,"New York, NY",10003,212-598-4070,"257 Park Avenue
+New York, NY 10003
+(40.73826172036685, -73.98766899496006)"
+Food and Drink,Casual Eateries,Cosi,841,"New York, NY",10003,212-614-8544,"841 Broadway
+New York, NY 10003
+(40.73396689745794, -73.99097622768353)"
+Food and Drink,Casual Eateries,Crumbs Bake Shop,124,"New York, NY",10003,212-206-8011,"124 University Place
+New York, NY 10003
+(40.73459157572197, -73.9922458683952)"
+Food and Drink,Casual Eateries,Cupcake Café,18,"New York, NY",10003,212-465-1530,"18 18th Street
+New York, NY 10003
+(40.738031407488336, -73.9907191821656)"
+Food and Drink,Casual Eateries,Curly's Vegetarian ,330,"New York, NY",10003,212-598-9998,"330 14th Street
+New York, NY 10003
+(40.73202198510755, -73.98424298823417)"
+Food and Drink,Casual Eateries,Daily Juice,331,"New York, NY",10003,212-228-2098,"331 14th Street
+New York, NY 10003
+(40.7317991058253, -73.98364151779498)"
+Food and Drink,Casual Eateries,David's Bagels,273,"New York, NY",10003,,"273 1st Avenue
+New York, NY 10003
+(40.732428631245796, -73.98177092797403)"
+Food and Drink,Casual Eateries,Di Fiore Marquet Café,15,"New York, NY",10003,212-229-9313,"15 12th Street
+New York, NY 10003
+(40.73420928886384, -73.99347110757526)"
+Food and Drink,Casual Eateries,Diet Lite Ice Cream,44,"New York, NY",10003,212-673-4420,"44 Union Square
+New York, NY 10003
+(40.73634967529358, -73.98909140929254)"
+Food and Drink,Casual Eateries,Dig Inn,17,"New York, NY",10003,212-253-7676,"17 17th Street
+New York, NY 10003
+(40.73746483460991, -73.99114186351937)"
+Food and Drink,Casual Eateries,Dogmatic,26,"New York, NY",10003,212-414-0600,"26 17th Street
+New York, NY 10003
+(40.73718712344551, -73.99055102740563)"
+Food and Drink,Casual Eateries,Donna's Deli,325,"New York, NY",10003,,"325 1st Avenue
+New York, NY 10003
+(40.734314817593834, -73.98042628116374)"
+Food and Drink,Casual Eateries,Dos Toros Taqueria,137,"New York, NY",10003,212-677-7300,"137 4th Avenue
+New York, NY 10003
+(40.73354082374494, -73.98981571892276)"
+Food and Drink,Casual Eateries,Dunkin Donuts,40,"New York, NY",10003,212-254-2055,"40 Union Square
+New York, NY 10003
+(40.7362272703127, -73.9891351371314)"
+Food and Drink,Casual Eateries,Dunkin Donuts,215,"New York, NY",10003,,"215 1st Avenue
+New York, NY 10003
+(40.730576027865425, -73.98316487711946)"
+Food and Drink,Casual Eateries,Dunkin Donuts,218,"New York, NY",10003,212-388-9992,"218 14th Street
+New York, NY 10003
+(40.73294124480253, -73.98635747032347)"
+Food and Drink,Casual Eateries,Dunkin Donuts and Baskin Robbins,536,"New York, NY",10011,212-727-0444,"536 6th Avenue
+New York, NY 10011
+(40.73765369223605, -73.9966007482372)"
+Food and Drink,Casual Eateries,Ennju,20,"New York, NY",10003,646-336-7004,"20 17th Street
+New York, NY 10003
+(40.73735489545888, -73.99095875241487)"
+Food and Drink,Casual Eateries,EO Pizza Bar,171,"New York, NY",10003,,"171 3rd Avenue
+New York, NY 10003
+(40.73481183462343, -73.98607868049442)"
+Food and Drink,Casual Eateries,Everyman Espresso,136,"New York, NY",10003,212-533-0524,"136 13th Street
+New York, NY 10003
+(40.73314860789777, -73.98906004695999)"
+Food and Drink,Casual Eateries,Flavaboom,600,"New York, NY",10011,212-414-0010,"600 6th Avenue
+New York, NY 10011
+(40.739471155967024, -73.99525162328676)"
+Food and Drink,Casual Eateries,Food Works,10,"New York, NY",10011,212-352-9333,"10 19th Street
+New York, NY 10011
+(40.73918627037213, -73.99170180963286)"
+Food and Drink,Casual Eateries,Friendhouse,99,"New York, NY",10003,212-388-1838,"99 3rd Avenue
+New York, NY 10003
+(40.732437624466115, -73.98781437201097)"
+Food and Drink,Casual Eateries,Golden Krust,47,"New York, NY",10011,212-627-0851,"47 14th Street
+New York, NY 10011
+(40.736970207493755, -73.99591726349496)"
+Food and Drink,Casual Eateries,Goodburger,870,"New York, NY",10003,212-529-9100,"870 Broadway
+New York, NY 10003
+(40.73753678037224, -73.99017958894802)"
+Food and Drink,Casual Eateries,Gramercy Café,184,"New York, NY",10003,212-982-2121,"184 3rd Avenue
+New York, NY 10003
+(40.73510861089312, -73.98585384998705)"
+Food and Drink,Casual Eateries,Green Café,213,"New York, NY",10003,212-460-0910,"213 Park Avenue
+New York, NY 10003
+(40.736889268511106, -73.98871369404026)"
+Food and Drink,Casual Eateries,Hale and Hearty,11,"New York, NY",10003,212-675-6611,"11 17th Street
+New York, NY 10003
+(40.73755476681282, -73.99135770080642)"
+Food and Drink,Casual Eateries,Hawkers,225,"New York, NY",10003,212-982-1688,"225 14th Street
+New York, NY 10003
+(40.732869299040146, -73.98617760591765)"
+Food and Drink,Casual Eateries,Hollywood Diner,574,"New York, NY",10011,212-691-8465,"574 6th Avenue
+New York, NY 10011
+(40.738744125446374, -73.99578268963093)"
+Food and Drink,Casual Eateries,Hotel Tortuga,246,"New York, NY",10003,212-228-1884,"248 14th Street
+New York, NY 10003
+(40.73280477488535, -73.9861083395686)"
+Food and Drink,Casual Eateries,IHOP,235,"New York, NY",10011,212-388-1499,"235 14th Street
+New York, NY 10011
+(40.73920951934673, -74.0012232634678)"
+Food and Drink,Casual Eateries,Il Forno Pizzeria Restaurant,343,"New York, NY",10003,212-358-8300,"343 2nd Avenue
+New York, NY 10003
+(40.736012349432755, -73.98231918195508)"
+Food and Drink,Casual Eateries,J. East Chine Takeout,175,"New York, NY",10003,,"175 3rd Avenue
+New York, NY 10003
+(40.7348673739425, -73.98599270073521)"
+Food and Drink,Casual Eateries,Jamba Juice,125,"New York, NY",10003,212-420-1179,"125 University Place
+New York, NY 10003
+(40.73457866965574, -73.99217174920021)"
+Food and Drink,Casual Eateries,Joe Junior Restaurant,167,"New York, NY",10003,212-473-5150,"167 3rd Avenue
+New York, NY 10003
+(40.73473089564084, -73.98613263981616)"
+Food and Drink,Casual Eateries,Joe the Art of Coffee,9,"New York, NY",10003,212-924-7400,"9 13th Street
+New York, NY 10003
+(40.73512963905717, -73.99360759596391)"
+Food and Drink,Casual Eateries,Johnny's Pizza and Pasta,261,"New York, NY",10003,212-254-6649,"261 1st Avenue
+New York, NY 10003
+(40.73218581429791, -73.9819507923799)"
+Food and Drink,Casual Eateries,Kambi Ramen House,351,"New York, NY",10003,212-228-1366,"351 14th Street
+New York, NY 10003
+(40.73186195313072, -73.98370975921253)"
+Food and Drink,Casual Eateries,KFC,242,"New York, NY",10003,212-533-7299,"252 14th Street
+New York, NY 10003
+(40.73276923513077, -73.98602414830532)"
+Food and Drink,Casual Eateries,Krust Pizzeria,226,"New York, NY",10003,212-510-8869,"226 14th Street
+New York, NY 10003
+(40.73282433293872, -73.9860696872741)"
+Food and Drink,Casual Eateries,Le Pain Quotidien,38,"New York, NY",10013,212-673-7900,"38 19th Street
+New York, NY 10013
+(40.5393232842816, -74.16913934362)"
+Food and Drink,Casual Eateries,Le Pain Quotidien,801,"New York, NY",10003,646-478-8871,"801 Broadway
+New York, NY 10003
+(40.73280634649814, -73.9912138092817)"
+Food and Drink,Casual Eateries,Led Zeppole,330,"New York, NY",10003,212-228-2807,"330 14th Street
+New York, NY 10003
+(40.73202198510755, -73.98424298823417)"
+Food and Drink,Casual Eateries,Little Italy Pizza III,122,"New York, NY",10003,212-989-4225,"122 University Place
+New York, NY 10003
+(40.73457510198661, -73.99225887397576)"
+Food and Drink,Casual Eateries,Little Pakistan Deli Corp,200,"New York, NY",10003,,"200 2nd Avenue
+New York, NY 10003
+(40.73122624284666, -73.98572141412383)"
+Food and Drink,Casual Eateries,Maoz,38,"New York, NY",10003,212-260-1988,"38 Union Square
+New York, NY 10003
+(40.73621105933508, -73.9891465645042)"
+Food and Drink,Casual Eateries,Mapi Expresso and Sandwich Bar,1,"New York, NY",10011,212-929-1041,"1 13th Street
+New York, NY 10011
+(40.73537973737967, -73.99419794934298)"
+Food and Drink,Casual Eateries,Mariella Pizza,180,"New York, NY",10003,212-777-1220,"180 16th Street
+New York, NY 10003
+(40.734757701861504, -73.98662176912835)"
+Food and Drink,Casual Eateries,Marquet,15,"New York, NY",10003,212-229-9313,"15 12th Street
+New York, NY 10003
+(40.73420928886384, -73.99347110757526)"
+Food and Drink,Casual Eateries,Max Brenner,841,"New York, NY",10003,212-675-2304,"841 Broadway
+New York, NY 10003
+(40.73396689745794, -73.99097622768353)"
+Food and Drink,Casual Eateries,McDonald's,39,"New York, NY",10011,212-645-9079,"39 Union Square
+New York, NY 10011
+(40.73696121427349, -73.9904673719974)"
+Food and Drink,Casual Eateries,Mikey's Burger,241,"New York, NY",10003,212-533-3335,"241 3rd Avenue
+New York, NY 10003
+(40.73688389596985, -73.98452781343042)"
+Food and Drink,Casual Eateries,Milk Bar,251,"New York, NY",10003,212-254-3500,"251 13th Street
+New York, NY 10003
+(40.73214686748006, -73.98653439915726)"
+Food and Drink,Casual Eateries,Motorino Pizzeria,349,"New York, NY",10003,212-777-2644,"349 12th Street
+New York, NY 10003
+(40.73022529227404, -73.98401923304732)"
+Food and Drink,Casual Eateries,Mr. Lee's Food Court,271,"New York, NY",10003,212-995-9261,"271 1st Avenue
+New York, NY 10003
+(40.73238366514437, -73.98180690085525)"
+Food and Drink,Casual Eateries,Murray's Bagels,500,"New York, NY",10011,212-462-2830,"500 6th Avenue
+New York, NY 10011
+(40.73649356681824, -73.99746409738532)"
+Food and Drink,Casual Eateries,Murray's Falafel,261,"New York, NY",10003,212-533-1956,"261 1st Avenue
+New York, NY 10003
+(40.73218581429791, -73.9819507923799)"
+Food and Drink,Casual Eateries,Nana's Treats,46,"New York, NY",10011,212-647-1610,"46 17th Street
+New York, NY 10011
+(40.73884079731471, -73.99441539570603)"
+Food and Drink,Casual Eateries,New Amici Pizza,88,"New York, NY",10003,212-979-9686,"88 3rd Avenue
+New York, NY 10003
+(40.73210487531526, -73.98804819573854)"
+Food and Drink,Casual Eateries,New Andy's Deli,873,"New York, NY",10003,212-477-1110,"873 Broadway
+New York, NY 10003
+(40.73808536681008, -73.99003569742331)"
+Food and Drink,Casual Eateries,New Taco Grill,211,"New York, NY",10003,212-353-3728,"211 14th Street
+New York, NY 10003
+(40.73294124480253, -73.98635747032347)"
+Food and Drink,Casual Eateries,Newsbar,107,"New York, NY",10003,212-353-1246,"107 University Place
+New York, NY 10003
+(40.73413172944021, -73.99254302576149)"
+Food and Drink,Casual Eateries,No. 1 Kitchen,265,"New York, NY",10003,212-529-0539,"265 1st Avenue
+New York, NY 10003
+(40.732329705822565, -73.98185186695667)"
+Food and Drink,Casual Eateries,Num Pang,21,"New York, NY",10003,212-255-3271,"21 12th Street
+New York, NY 10003
+(40.73415941925228, -73.99328928325086)"
+Food and Drink,Casual Eateries,Ole Kebab,49,"New York, NY",10011,212-989-1166,"49 14th Street
+New York, NY 10011
+(40.73668421656696, -73.99517177179868)"
+Food and Drink,Casual Eateries,One Lucky Duck,125,"New York, NY",10003,212-477-7151,"125 17th Street
+New York, NY 10003
+(40.73587834070102, -73.98730883952659)"
+Food and Drink,Casual Eateries,Papaya Dog,239,"New York, NY",10003,646-654-7010,"239 1st Avenue
+New York, NY 10003
+(40.73152031599619, -73.982445419496)"
+Food and Drink,Casual Eateries,Paquito's,175,"New York, NY",10003,212-477-5797,"175 3rd Avenue
+New York, NY 10003
+(40.7348673739425, -73.98599270073521)"
+Food and Drink,Casual Eateries,Peridance Café,126,"New York, NY",10003,212-505-0886,"126 13th Street
+New York, NY 10003
+(40.73323659463594, -73.9892679371943)"
+Food and Drink,Casual Eateries,Piccolo Café,157,"New York, NY",10003,212-260-1175,"157 3rd Avenue
+New York, NY 10003
+(40.734425126150825, -73.98636646354379)"
+Food and Drink,Casual Eateries,Pie,124,"New York, NY",10003,212-475-4977,"124 4th Avenue
+New York, NY 10003
+(40.73293925014889, -73.99001748560201)"
+Food and Drink,Casual Eateries,Pinkberry,523,"New York, NY",10011,212-414-8429,"523 6th Avenue
+New York, NY 10011
+(40.73713208545905, -73.9969874567098)"
+Food and Drink,Casual Eateries,Pita Joe,2,"New York, NY",10011,212-627-7877,"2 14th Street
+New York, NY 10011
+(40.73600705846937, -73.99372903824292)"
+Food and Drink,Casual Eateries,Pizza Bash NYC,42,"New York, NY",10003,212-410-2274,"42 Union Square
+New York, NY 10003
+(40.736237561680085, -73.9891277861547)"
+Food and Drink,Casual Eateries,Pizza Paradise,12,"New York, NY",10011,212-206-0500,"12 18th Street
+New York, NY 10011
+(40.73895770917852, -73.99292252113736)"
+Food and Drink,Casual Eateries,Popeye's,47,"New York, NY",10011,212-206-8405,"47 14th Street
+New York, NY 10011
+(40.736970207493755, -73.99591726349496)"
+Food and Drink,Casual Eateries,Posto,310,"New York, NY",10003,212-716-1200,"310 2nd Avenue
+New York, NY 10003
+(40.734964719368406, -73.98303897203539)"
+Food and Drink,Casual Eateries,Potbelly Sandwich,22,"New York, NY",10003,,"22 17th Street
+New York, NY 10003
+(40.737298971417445, -73.99082284398858)"
+Food and Drink,Casual Eateries,Pret A Manger,857,"New York, NY",10003,646-810-0167,"857 Broadway
+New York, NY 10003
+(40.737320943085194, -73.99024254149003)"
+Food and Drink,Casual Eateries,Qdoba,120,"New York, NY",10003,212-367-2168,"120 University Place
+New York, NY 10003
+(40.734694922759616, -73.9921221245313)"
+Food and Drink,Casual Eateries,Rainbow Falafel,26,"New York, NY",10003,212-691-8641,"26 17th Street
+New York, NY 10003
+(40.73718712344551, -73.99055102740563)"
+Food and Drink,Casual Eateries,Ray's Gourmet,201,"New York, NY",10003,212-529-5414,"201 2nd Avenue
+New York, NY 10003
+(40.73135843803095, -73.98567398558123)"
+Food and Drink,Casual Eateries,Red Mango,63,"New York, NY",10011,212-414-3009,"63 14th Street
+New York, NY 10011
+(40.73686778102659, -73.99560290674663)"
+Food and Drink,Casual Eateries,Redhouse,203,"New York, NY",10003,212-228-8288,"204 14th Street
+New York, NY 10003
+(40.733195712003116, -73.98703444303203)"
+Food and Drink,Casual Eateries,Regale Deli,75,"New York, NY",10003,646-336-7101,"75 5th Avenue
+New York, NY 10003
+(40.736889268511106, -73.99295849401852)"
+Food and Drink,Casual Eateries,Riceton,223,"New York, NY",10003,212-982-8999,"223 14th Street
+New York, NY 10003
+(40.73290527192131, -73.98626753812056)"
+Food and Drink,Casual Eateries,Robin Raj Deli,114,"New York, NY",10003,212-995-5932,"114 3rd Avenue
+New York, NY 10003
+(40.732950238022795, -73.98742766353837)"
+Food and Drink,Casual Eateries,Salt and Pepper Restaurant,239,"New York, NY",10003,212-677-0005,"239 1st Avenue
+New York, NY 10003
+(40.73152031599619, -73.982445419496)"
+Food and Drink,Casual Eateries,Sausage Inc,106,"New York, NY",10003,212-414-4344,"106 University Place
+New York, NY 10003
+(40.73413717111702, -73.99262417502284)"
+Food and Drink,Casual Eateries,Señor Pollo,221,"New York, NY",10003,212-777-0362,"221 1st Avenue
+New York, NY 10003
+(40.73082783803363, -73.98297601949332)"
+Food and Drink,Casual Eateries,Slice & Co.,527,"New York, NY",10011,212-255-6333,"527 6th Avenue
+New York, NY 10011
+(40.73723101088228, -73.99692450416774)"
+Food and Drink,Casual Eateries,S'Mac Restaurant,345,"New York, NY",10003,212-358-7912,"345 12th Street
+New York, NY 10003
+(40.730613024821835, -73.98486124979442)"
+Food and Drink,Casual Eateries,Spoon,17,"New York, NY",10011,646-230-7000,"17 20th Street
+New York, NY 10011
+(40.74025273290073, -73.99229299571687)"
+Food and Drink,Casual Eateries,Stand4,24,"New York, NY",10003,212-488-5900,"24 12th Street
+New York, NY 10003
+(40.73409797081364, -73.99329183261258)"
+Food and Drink,Casual Eateries,Starbucks,10,"New York, NY",10003,212-982-8426,"10 Union Square
+New York, NY 10003
+(40.73599408290443, -73.9892977905013)"
+Food and Drink,Casual Eateries,Starbucks,41,"New York, NY",10011,646-336-6945,"41 Union Square
+New York, NY 10011
+(40.7370241668155, -73.99042240589591)"
+Food and Drink,Casual Eateries,Starbucks,62,"New York, NY",10011,212-242-5981,"62 14th Street
+New York, NY 10011
+(40.73681015304154, -73.99561525378411)"
+Food and Drink,Casual Eateries,Starbucks,141,"New York, NY",10003,212-677-7248,"141 3rd Avenue
+New York, NY 10003
+(40.73381917784906, -73.9867688712686)"
+Food and Drink,Casual Eateries,Starbucks,240,"New York, NY",10003,212-375-1415,"240 Park Avenue
+New York, NY 10003
+(40.73799543460717, -73.98805718895886)"
+Food and Drink,Casual Eateries,Starbucks,510,"New York, NY",10011,212-242-5981,"510 6th Avenue
+New York, NY 10011
+(40.73673689551687, -73.9972430761928)"
+Food and Drink,Casual Eateries,Stromboli Pizzeria,112,"New York, NY",10003,212-255-0812,"112 University Place
+New York, NY 10003
+(40.734328786656754, -73.99246355611454)"
+Food and Drink,Casual Eateries,Subway,7,"New York, NY",10003,212-741-8798,"7 14th Street
+New York, NY 10003
+(40.73588023182016, -73.99327322372638)"
+Food and Drink,Casual Eateries,Subway,55,"New York, NY",10011,212-741-8843,"55 14th Street
+New York, NY 10011
+(40.73676288704266, -73.99535654390279)"
+Food and Drink,Casual Eateries,Subway,113,"New York, NY",10003,212-777-7088,"113 14th Street
+New York, NY 10003
+(40.73415400379568, -73.98914832232818)"
+Food and Drink,Casual Eateries,Subway,120,"New York, NY",10003,212-260-6665,"120 4th Avenue
+New York, NY 10003
+(40.73278034789236, -73.99005653177812)"
+Food and Drink,Casual Eateries,Subway,153,"New York, NY",10003,,"153 3rd Avenue
+New York, NY 10003
+(40.73418999588204, -73.98650113583761)"
+Food and Drink,Casual Eateries,Subway,227,"New York, NY",10003,,"227 1st Avenue
+New York, NY 10003
+(40.73097172955835, -73.98286810084977)"
+Food and Drink,Casual Eateries,Subway,245,"New York, NY",10003,212-677-1129,"245 14th Street
+New York, NY 10003
+(40.73288820737043, -73.98615732179584)"
+Food and Drink,Casual Eateries,Subway,317,"New York, NY",10003,,"317 1st Avenue
+New York, NY 10003
+(40.734011438017376, -73.98061080255627)"
+Food and Drink,Casual Eateries,T.G.I. Friday's,34,"New York, NY",10003,646-556-6381,"34 Union Square
+New York, NY 10003
+(40.73618006269301, -73.98916816822444)"
+Food and Drink,Casual Eateries,Taco Bell/Pizza Hut Express,18,"New York, NY",10003,212-645-8645,"18 14th Street
+New York, NY 10003
+(40.735594244788956, -73.99265272452857)"
+Food and Drink,Casual Eateries,Terriyaki Express,96,"New York, NY",10003,212-388-9855,"96 3rd Avenue
+New York, NY 10003
+(40.732230780399334, -73.98795826353563)"
+Food and Drink,Casual Eateries,Terry's Gourmet Deli,575,"New York, NY",10011,212-206-0170,"575 6th Avenue
+New York, NY 10011
+(40.738831804094445, -73.99575538552966)"
+Food and Drink,Casual Eateries,The 5th Ave Epicure,144,"New York, NY",10011,212-929-3399,"144 5th Avenue
+New York, NY 10011
+(40.73926347866848, -73.99124978216287)"
+Food and Drink,Casual Eateries,The Adoré ,17,"New York, NY",10003,212-243-8742,"17 13th Street
+New York, NY 10003
+(40.734874787165495, -73.99309339232292)"
+Food and Drink,Casual Eateries,The Lite Choice,7,"New York, NY",10003,212-243-0477,"7 14th Street
+New York, NY 10003
+(40.73588023182016, -73.99327322372638)"
+Food and Drink,Casual Eateries,The Lite Choice,145,"New York, NY",10003,212-533-7734,"145 4th Avenue
+New York, NY 10003
+(40.733887963771586, -73.98979182138295)"
+Food and Drink,Casual Eateries,The Soft Serve Fruit Co.,25,"New York, NY",10003,212-675-0550,"25 17th Street
+New York, NY 10003
+(40.737179376475275, -73.99038058969485)"
+Food and Drink,Casual Eateries,Think Coffee,123,"New York, NY",10003,212-614-6644,"123 4th Avenue
+New York, NY 10003
+(40.73309654946454, -73.98990751009984)"
+Food and Drink,Casual Eateries,Tim Hortons,34,"New York, NY",10003,646-556-6380,"34 Union Square
+New York, NY 10003
+(40.73618006269301, -73.98916816822444)"
+Food and Drink,Casual Eateries,Toasties,25,"New York, NY",10011,212-924-3331,"25 Union Square
+New York, NY 10011
+(40.73609261633676, -73.98943714911749)"
+Food and Drink,Casual Eateries,Uncle Moe's Burrito & Taco Shop,14,"New York, NY",10011,212-727-9400,"14 19th Street
+New York, NY 10011
+(40.73947931595552, -73.99231098215745)"
+Food and Drink,Casual Eateries,University Pita,21,"New York, NY",10003,917-751-0080,"21 12th Street
+New York, NY 10003
+(40.73415941925228, -73.99328928325086)"
+Food and Drink,Casual Eateries,University Place Gourmet,116,"New York, NY",10003,212-243-3139,"116 University Place
+New York, NY 10003
+(40.73439814648998, -73.9923649414792)"
+Food and Drink,Casual Eateries,University Place Restaurant,101,"New York, NY",10003,212-475-7727,"101 University Place
+New York, NY 10003
+(40.73391616194979, -73.99272372204022)"
+Food and Drink,Casual Eateries,Vanessa's Dumplings,220,"New York, NY",10003,212-529-1329,"220 14th Street
+New York, NY 10003
+(40.73291426514163, -73.98628552456114)"
+Food and Drink,Casual Eateries,Vapiano,113,"New York, NY",10003,212-777-9477,"113 University Place
+New York, NY 10003
+(40.73441613293056, -73.99234695503861)"
+Food and Drink,Casual Eateries,Village Yogurt,547,"New York, NY",10011,212-929-3752,"547 6th Avenue
+New York, NY 10011
+(40.73791449562452, -73.99642088383138)"
+Food and Drink,Casual Eateries,Vinny Pizza,231,"New York, NY",10003,212-674-0707,"231 1st Avenue
+New York, NY 10003
+(40.73106166176126, -73.98279615508744)"
+Food and Drink,Casual Eateries,Vive La Crêpe,114,"New York, NY",10003,212-242-8483,"114 University Place
+New York, NY 10003
+(40.73414633632177, -73.99257178554592)"
+Food and Drink,Casual Eateries,Wendy's,20,"New York, NY",10003,212-243-0438,"20 14th Street
+New York, NY 10003
+(40.735567265128054, -73.99258077876624)"
+Food and Drink,Casual Eateries,Xoom,244,"New York, NY",10003,212-505-9666,"244 14th Street
+New York, NY 10003
+(40.732840314606726, -73.98619253075321)"
+Food and Drink,Casual Eateries,Young Chow Restaurant,145,"New York, NY",10003,212-533-0275,"145 4th Avenue
+New York, NY 10003
+(40.733887963771586, -73.98979182138295)"
+Food and Drink,Casual Eateries,Zabb City,244,"New York, NY",10003,212-529-8770,"244 13th Street
+New York, NY 10003
+(40.73215272723941, -73.98669778743172)"
+Food and Drink,Groceries and Liquors,14 Street Food Market,67,"New York, NY",10011,212-255-4956,"67 14th Street
+New York, NY 10011
+(40.73692022804307, -73.99572608822612)"
+Food and Drink,Groceries and Liquors,14th Street Deli ,353,"New York, NY",10003,212-460-9370,"353 14th Street
+New York, NY 10003
+(40.731842328635544, -73.98366296233944)"
+Food and Drink,Groceries and Liquors,307 NY Deli,307,"New York, NY",10003,212-777-1108,"307 14th Street
+New York, NY 10003
+(40.73217682107759, -73.984531846604)"
+Food and Drink,Groceries and Liquors,Aloha Fine Wines and Spirits,333,"New York, NY",10003,,"333 2nd Avenue
+New York, NY 10003
+(40.73561382129769, -73.98260902059879)"
+Food and Drink,Groceries and Liquors,Bottle Rocket Wine & Spirit,5,"New York, NY",10011,212-929-3512,"5 19th Street
+New York, NY 10011
+(40.7391719372509, -73.99151937989899)"
+Food and Drink,Groceries and Liquors,Discount Wines & Liquors,279,"New York, NY",10003,,"279 1st Avenue
+New York, NY 10003
+(40.73258151599077, -73.98166300933053)"
+Food and Drink,Groceries and Liquors,East Way Deli Grocery,169,"New York, NY",10003,,"169 3rd Avenue
+New York, NY 10003
+(40.7346870299051, -73.98612514088767)"
+Food and Drink,Groceries and Liquors,Food Depot,138,"New York, NY",10011,212-627-0361,"138 5th Avenue
+New York, NY 10011
+(40.73888576341619, -73.99151957877166)"
+Food and Drink,Groceries and Liquors,Food Emporium,10,"New York, NY",10003,212-353-3840,"10 Union Square
+New York, NY 10003
+(40.73599408290443, -73.9892977905013)"
+Food and Drink,Groceries and Liquors,Frank's Wines & Liquors,46,"New York, NY",10003,212-473-3231,"46 Union Square
+New York, NY 10003
+(40.7362581444329, -73.9891130841884)"
+Food and Drink,Groceries and Liquors,Garden of Eden,7,"New York, NY",10003,212-255-4200,"7 14th Street
+New York, NY 10003
+(40.73588023182016, -73.99327322372638)"
+Food and Drink,Groceries and Liquors,Gramercy Wine Cellars,236,"New York, NY",10003,,"236 3rd Avenue
+New York, NY 10003
+(40.73674719719156, -73.98470737300433)"
+Food and Drink,Groceries and Liquors,Green Gourmet Market,214,"New York, NY",10003,,"214 3rd Avenue
+New York, NY 10003
+(40.736106858345636, -73.98512539914333)"
+Food and Drink,Groceries and Liquors,Hamptons Marketplace,217,"New York, NY",10003,212-432-7700,"217 1st Avenue
+New York, NY 10003
+(40.73066888142474, -73.98313882097675)"
+Food and Drink,Groceries and Liquors,Italian Wine Merchants,108,"New York, NY",10003,212-473-2323,"108 16th Street
+New York, NY 10003
+(40.735657197330966, -73.98866872793877)"
+Food and Drink,Groceries and Liquors,KMP Market,275,"New York, NY",10003,,"275 1st Avenue
+New York, NY 10003
+(40.73248259056754, -73.98173495509286)"
+Food and Drink,Groceries and Liquors,Met Food Supermarket,180,"New York, NY",10003,,"180 3rd Avenue
+New York, NY 10003
+(40.735032295227505, -73.98595438478046)"
+Food and Drink,Groceries and Liquors,MJR Wine and Liquors,161,"New York, NY",10003,,"161 3rd Avenue
+New York, NY 10003
+(40.73445675479359, -73.98629824877816)"
+Food and Drink,Groceries and Liquors,Natural Green Market,162,"New York, NY",10003,,"162 3rd Avenue
+New York, NY 10003
+(40.734524051574056, -73.9862945177814)"
+Food and Drink,Groceries and Liquors,New Valentino Market,74,"New York, NY",10011,212-989-1313,"74 5th Avenue
+New York, NY 10011
+(40.735567265128054, -73.9939297618102)"
+Food and Drink,Groceries and Liquors,One's Fruit & Grocery,315,"New York, NY",10003,,"315 1st Avenue
+New York, NY 10003
+(40.73396647191589, -73.98064677543744)"
+Food and Drink,Groceries and Liquors,PJs Grocery ,230,"New York, NY",10003,212-614-8766,"230 14th Street
+New York, NY 10003
+(40.73276138039665, -73.98592579574944)"
+Food and Drink,Groceries and Liquors,Punjab on Third,220,"New York, NY",10003,,"220 3rd Avenue
+New York, NY 10003
+(40.73625074987035, -73.98501748049983)"
+Food and Drink,Groceries and Liquors,Sunac Natural Food,4,"New York, NY",10011,212-242-0204,"4 18th Street
+New York, NY 10011
+(40.73849579418372, -73.99191612359682)"
+Food and Drink,Groceries and Liquors,The Wine Gallery,576,"New York, NY",10011,212-242-2719,"576 6th Avenue
+New York, NY 10011
+(40.73887677019587, -73.99572840586876)"
+Food and Drink,Groceries and Liquors,Trader Joe's Grocery Store,140,"New York, NY",10003,212-529-4612,"140 14th Street
+New York, NY 10003
+(40.73374030459989, -73.98830949830588)"
+Food and Drink,Groceries and Liquors,Trader Joe's Wine Store,138,"New York, NY",10003,212-529-6327,"138 14th Street
+New York, NY 10003
+(40.7337561809336, -73.98834661181326)"
+Food and Drink,Groceries and Liquors,Trevi Deli,48,"New York, NY",10003,212-473-4493,"48 Union Square
+New York, NY 10003
+(40.73626843580028, -73.9891057332117)"
+Food and Drink,Groceries and Liquors,Union Square Wines & Spirits,140,"New York, NY",10003,212-675-8100,"140 4th Avenue
+New York, NY 10003
+(40.73354717180573, -73.98988758192019)"
+Food and Drink,Groceries and Liquors,University Market Place,20,"New York, NY",10003,212-929-2281,"20 16th Street
+New York, NY 10003
+(40.73712660701184, -73.99227732470344)"
+Food and Drink,Groceries and Liquors,Village Wine and Spirit Shop,486,"New York, NY",10011,212-255-0539,"486 6th Avenue
+New York, NY 10011
+(40.73625974309061, -73.9976439617912)"
+Food and Drink,Groceries and Liquors,Whole Foods,4,"New York, NY",10003,212-673-5388,"4 Union Square
+New York, NY 10003
+(40.735947587962606, -73.9893301960668)"
+Food and Drink,Restaurants,15 East,15,"New York, NY",10003,212-647-0015,"15 15th Street
+New York, NY 10003
+(40.736576341549636, -73.99278643140573)"
+Food and Drink,Restaurants,5 Napkin Burger,150,"New York, NY",10003,,"150 14th Street
+New York, NY 10003
+(40.733660922993415, -73.98812393091413)"
+Food and Drink,Restaurants,ABC Kitchen,35,"New York, NY",10003,212-475-5829,"35 18th Street
+New York, NY 10003
+(40.73772261458611, -73.98990455787737)"
+Food and Drink,Restaurants,Aldea,31,"New York, NY",10011,212-675-7223,"31 17th Street
+New York, NY 10011
+(40.73836305785966, -73.99322483399074)"
+Food and Drink,Restaurants,Aleo,7,"New York, NY",10011,212-691-8136,"7 20th Street
+New York, NY 10011
+(40.740063875274586, -73.99183434148193)"
+Food and Drink,Restaurants,Angelo & Maxie's Steakhouse,233,"New York, NY",10003,212-220-9200,"233 Park Avenue
+New York, NY 10003
+(40.73752778715192, -73.98823705336474)"
+Food and Drink,Restaurants,Azuki,239,"New York, NY",10003,212-228-3611,"239 Park Avenue
+New York, NY 10003
+(40.737941475285425, -73.98794027709505)"
+Food and Drink,Restaurants,Bak Korean Kitchen,11,"New York, NY",10003,212-366-9299,"11 13th Street
+New York, NY 10003
+(40.73508314410826, -73.99349822716361)"
+Food and Drink,Restaurants,Bamboo Garden,216,"New York, NY",10003,212-388-9989,"216 3rd Avenue
+New York, NY 10003
+(40.7361428312268, -73.98509841948248)"
+Food and Drink,Restaurants,Bar 6,502,"New York, NY",10011,212-691-1363,"502 6th Avenue
+New York, NY 10011
+(40.73654752613999, -73.99742812450415)"
+Food and Drink,Restaurants,Barbounia,250,"New York, NY",10003,212-995-0242,"250 Park Avenue
+New York, NY 10003
+(40.738333453173844, -73.9878407889095)"
+Food and Drink,Restaurants,Basta Pasta,37,"New York, NY",10011,212-366-0888,"37 17th Street
+New York, NY 10011
+(40.738723885450895, -73.99414559909724)"
+Food and Drink,Restaurants,Blitz Brasserie,504,"New York, NY",10011,646-360-4143,"504 6th Avenue
+New York, NY 10011
+(40.73658349902115, -73.99739215162299)"
+Food and Drink,Restaurants,BLT Fish,21,"New York, NY",10011,212-691-8888,"21 17th Street
+New York, NY 10011
+(40.73844509562184, -73.99347110757526)"
+Food and Drink,Restaurants,Blue Water Grill,31,"New York, NY",10011,212-675-9500 ,"31 Union Square
+New York, NY 10011
+(40.7366644380038, -73.9906922025047)"
+Food and Drink,Restaurants,Bocca Restaurant and Bar,39,"New York, NY",10003,212-387-1200,"39 19th Street
+New York, NY 10003
+(40.7380943600304, -73.98901946353021)"
+Food and Drink,Restaurants,Brother Jimmy's BBQ,116,"New York, NY",10003,212-673-6465,"116 16th Street
+New York, NY 10003
+(40.73551330580631, -73.98834497200824)"
+Food and Drink,Restaurants,Buona Sera,94,"New York, NY",10003,212-627-9200,"94 University Place
+New York, NY 10003
+(40.73380459395065, -73.99286856181561)"
+Food and Drink,Restaurants,Capucine's Restaurant,325,"New York, NY",10003,212-460-8890,"325 2nd Avenue
+New York, NY 10003
+(40.735351588148966, -73.98279901128268)"
+Food and Drink,Restaurants,Casa Mono,52,"New York, NY",10003,212-253-2773,"52 Irving Place
+New York, NY 10003
+(40.73597196004124, -73.98731974489482)"
+Food and Drink,Restaurants,Catch De Fish,147,"New York, NY",10003,212-477-7799,"147 3rd Avenue
+New York, NY 10003
+(40.734182309202936, -73.98654632794961)"
+Food and Drink,Restaurants,Choshi,77,"New York, NY",10003,212-420-1419,"77 Irving Place
+New York, NY 10003
+(40.73696665103033, -73.98664760572923)"
+Food and Drink,Restaurants,City Crab,235,"New York, NY",10003,212-529-3800,"235 Park Avenue
+New York, NY 10003
+(40.737851543082456, -73.98800322963712)"
+Food and Drink,Restaurants,Coffee Shop,29,"New York, NY",10011,212-243-7969,"29 Union Square
+New York, NY 10011
+(40.736358668513844, -73.99090803979175)"
+Food and Drink,Restaurants,Craft,43,"New York, NY",10003,212-780-0880,"43 19th Street
+New York, NY 10003
+(40.738013421047754, -73.98882161268375)"
+Food and Drink,Restaurants,Craftbar,900,"New York, NY",10003,212-461-4300,"900 Broadway
+New York, NY 10003
+(40.73908791889474, -73.98981185377654)"
+Food and Drink,Restaurants,Da Andrea Ristorante,35,"New York, NY",10011,212-367-1979,"35 13th Street
+New York, NY 10011
+(40.73581734527472, -73.99524961992947)"
+Food and Drink,Restaurants,Danal Restaurant,59,"New York, NY",10003,212-982-6930,"59 5th Avenue
+New York, NY 10003
+(40.73511760411344, -73.99425351774073)"
+Food and Drink,Restaurants,Dang Lai Palace,180,"New York, NY",10003,212-505-2000,"180 3rd Avenue
+New York, NY 10003
+(40.735032295227505, -73.98595438478046)"
+Food and Drink,Restaurants,Dévi,8,"New York, NY",10003,212-691-1300,"8 18th Street
+New York, NY 10003
+(40.738211271894215, -73.99115085673964)"
+Food and Drink,Restaurants,Dosirak,30,"New York, NY",10003,212-366-9299,"30 13th Street
+New York, NY 10003
+(40.7347398888611, -73.99276064317212)"
+Food and Drink,Restaurants,Duke's,99,"New York, NY",10003,212-260-2922,"99 19th Street
+New York, NY 10003
+(40.73780715502422, -73.98826174890824)"
+Food and Drink,Restaurants,Edo,9,"New York, NY",10003,212-989-2938,"9 17th Street
+New York, NY 10003
+(40.73758174647372, -73.99142964656875)"
+Food and Drink,Restaurants,Forum,127,"New York, NY",10003,212-674-8713,"127 4th Avenue
+New York, NY 10003
+(40.73322708645454, -73.98987720687002)"
+Food and Drink,Restaurants,Friend of a Farmer,77,"New York, NY",10003,212-477-2188,"77 Irving Place
+New York, NY 10003
+(40.73696665103033, -73.98664760572923)"
+Food and Drink,Restaurants,Gotham Bar and Grill,12,"New York, NY",10003,212-620-4020,"12 12th Street
+New York, NY 10003
+(40.73437863125931, -73.99396812284311)"
+Food and Drink,Restaurants,Gramercy Tavern,42,"New York, NY",10003,212-477-0777,"42 20th Street
+New York, NY 10003
+(40.738562007485655, -73.98835396522855)"
+Food and Drink,Restaurants,GustOrganics,519,"New York, NY",10011,212-242-5800,"519 6th Avenue
+New York, NY 10011
+(40.73706013969672, -73.99704141603155)"
+Food and Drink,Restaurants,Hamachi,34,"New York, NY",10003,212-420-8608,"34 20th Street
+New York, NY 10003
+(40.738723885450895, -73.98873168048084)"
+Food and Drink,Restaurants,Haru,220,"New York, NY",10003,646-428-0989,"220 Park Avenue
+New York, NY 10003
+(40.73704215325614, -73.98875866014174)"
+Food and Drink,Restaurants,Incognito Bistro,30,"New York, NY",10011,212-414-1231,"30 18th Street
+New York, NY 10011
+(40.7388425086047, -73.99273310772404)"
+Food and Drink,Restaurants,Japonica,100,"New York, NY",10003,212-243-7752,"100 University Place
+New York, NY 10003
+(40.73394555557729, -73.99278479393114)"
+Food and Drink,Restaurants,Kati Restaurant,347,"New York, NY",10003,212-533-2046,"347 14th Street
+New York, NY 10003
+(40.731574275317996, -73.98309293135713)"
+Food and Drink,Restaurants,Kellari's Parea,36,"New York, NY",10003,212-777-8448,"36 20th Street
+New York, NY 10003
+(40.73867891934947, -73.98863275505761)"
+Food and Drink,Restaurants,Kibo,111,"New York, NY",10003,212-209-8903,"111 18th Street
+New York, NY 10003
+(40.736866410066625, -73.98786156869676)"
+Food and Drink,Restaurants,KO Sushi,208,"New York, NY",10003,212-677-6921,"208 3rd Avenue
+New York, NY 10003
+(40.736002817057354, -73.98523996668234)"
+Food and Drink,Restaurants,La Follia,226,"New York, NY",10003,212-477-4100,"226 3rd Avenue
+New York, NY 10003
+(40.73650256003856, -73.98483761609396)"
+Food and Drink,Restaurants,La Pizza Fresca,31,"New York, NY",10003,212-598-0141,"31 2oth Street
+New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+Food and Drink,Restaurants,Lady Mendl's Tea Salon,56,"New York, NY",10003,212-533-4466,"56 Irving Place
+New York, NY 10003
+(40.73609786512537, -73.98722981269191)"
+Food and Drink,Restaurants,L'Annam,121,"New York, NY",10003,212-420-1179,"121 University Place
+New York, NY 10003
+(40.73454654587285, -73.99219711008143)"
+Food and Drink,Restaurants,Lantern,311,"New York, NY",10003,212-777-2770,"311 2nd Avenue
+New York, NY 10003
+(40.734973712588726, -73.98302997881507)"
+Food and Drink,Restaurants,Laut,15,"New York, NY",10003,212-206-8989,"15 17th Street
+New York, NY 10003
+(40.737491814270754, -73.9912138092817)"
+Food and Drink,Restaurants,L'Express,249,"New York, NY",10003,212-254-5858,"249 Park Avenue
+New York, NY 10003
+(40.73826172036685, -73.98766899496006)"
+Food and Drink,Restaurants,Lillie's,13,"New York, NY",10003,212-337-1970,"13 17th Street
+New York, NY 10003
+(40.73752778715192, -73.99128575504403)"
+Food and Drink,Restaurants,Little Poland Restaurant,200,"New York, NY",10003,212-777-9728,"200 2nd Avenue
+New York, NY 10003
+(40.73122624284666, -73.98572141412383)"
+Food and Drink,Restaurants,Little Town NYC,108,"New York, NY",10003,212-677-6300,"108 15th Street
+New York, NY 10003
+(40.735023104786514, -73.98924538341463)"
+Food and Drink,Restaurants,Luzzo's Ristorante Italiano,211,"New York, NY",10003,212-473-7447,"211 1st Avenue
+New York, NY 10003
+(40.73048628307992, -73.98327323364724)"
+Food and Drink,Restaurants,Manna Kitchen,28,"New York, NY",10003,212-228-1044,"28 18th Street
+New York, NY 10003
+(40.7377068789146, -73.99001704503205)"
+Food and Drink,Restaurants,Mari Vanna,41,"New York, NY",10003,212-777-1955,"41 20th Street
+New York, NY 10003
+(40.73895929733928, -73.98922802298306)"
+Food and Drink,Restaurants,Maxie's Grill,233,"New York, NY",10003,212-979-7800,"233 Park Avenue
+New York, NY 10003
+(40.73752778715192, -73.98823705336474)"
+Food and Drink,Restaurants,Mesa Grill,102,"New York, NY",10011,212-807-7400,"102 5th Avenue
+New York, NY 10011
+(40.73705290078943, -73.99287768136358)"
+Food and Drink,Restaurants,Mexicana Mama Centro,47,"New York, NY",10003,212-253-7594,"47 12th Street
+New York, NY 10003
+(40.7334487909014, -73.99157777653264)"
+Food and Drink,Restaurants,Mikado Bistro,525,"New York, NY",10011,212-255-9981,"525 6th Avenue
+New York, NY 10011
+(40.7371860447808, -73.99695148382864)"
+Food and Drink,Restaurants,Mizu Sushi,29,"New York, NY",10003,212-505-6688,"29 20th Street
+New York, NY 10003
+(40.739084059203655, -73.98952553204425)"
+Food and Drink,Restaurants,Momofuko Ssam Bar,207,"New York, NY",10003,212-254-3500,"207 2nd Avenue
+New York, NY 10003
+(40.731547295657094, -73.98553908727683)"
+Food and Drink,Restaurants,Mumbles,179,"New York, NY",10003,212-477-6066,"179 3rd Avenue
+New York, NY 10003
+(40.735045658351055, -73.98589881608854)"
+Food and Drink,Restaurants,Nanoosh,111,"New York, NY",10003,212-387-0744,"111 University Place
+New York, NY 10003
+(40.73427544110049, -73.99242256157568)"
+Food and Drink,Restaurants,Nasha Rasha,4,"New York, NY",10011,212-929-4444,"4 19th Street
+New York, NY 10011
+(40.73909962069791, -73.99149680918408)"
+Food and Drink,Restaurants,NGAM,99,"New York, NY",10003,212-777-8424,"99 3rd Avenue
+New York, NY 10003
+(40.732437624466115, -73.98781437201097)"
+Food and Drink,Restaurants,OLiVES NY,201,"New York, NY",10003,212-353-8345,"201 Park Avenue
+New York, NY 10003
+(40.736808329528515, -73.98877664658232)"
+Food and Drink,Restaurants,Parea Bistro,36,"New York, NY",10003,212-777-8448,"36 20th Street
+New York, NY 10003
+(40.73867891934947, -73.98863275505761)"
+Food and Drink,Restaurants,Paul and Jimmy's,123,"New York, NY",10003,212-475-9540,"123 18th Street
+New York, NY 10003
+(40.73667343122412, -73.9874726296398)"
+Food and Drink,Restaurants,Periyali,35,"New York, NY",10011,212-463-7890,"35 20th Street
+New York, NY 10011
+(40.740199544236575, -73.9920820601945)"
+Food and Drink,Restaurants,Pete's Tavern,66,"New York, NY",10003,212-473-7676,"66 Irving Place
+New York, NY 10003
+(40.73656551258057, -73.98689706354105)"
+Food and Drink,Restaurants,Petite Abeille,107,"New York, NY",10011,212-604-9350,"107 18th Street
+New York, NY 10011
+(40.73998503235938, -73.99524965345985)"
+Food and Drink,Restaurants,Piola,48,"New York, NY",10003,212-777-7781,"48 12th Street
+New York, NY 10003
+(40.733493192724204, -73.99183522512085)"
+Food and Drink,Restaurants,Pipa,38,"New York, NY",10003,212-677-2233,"38 19th Street
+New York, NY 10003
+(40.73829314748262, -73.98956493815646)"
+Food and Drink,Restaurants,Ponty Bistro,218,"New York, NY",10003,212-777-1616,"218 3rd Avenue
+New York, NY 10003
+(40.736187797328284, -73.98506244660126)"
+Food and Drink,Restaurants,Pure Food and Wine,54,"New York, NY",10003,212-477-1010,"54 Irving Place
+New York, NY 10003
+(40.736066310297005, -73.9872149585714)"
+Food and Drink,Restaurants,Qi,31,"New York, NY",10011,212-929-9917,"31 14th Street
+New York, NY 10011
+(40.73668242444438, -73.99524277197298)"
+Food and Drink,Restaurants,Quantam Leap,203,"New York, NY",10003,212-673-9848,"203 1st Avenue
+New York, NY 10003
+(40.73029723803637, -73.98337172118619)"
+Food and Drink,Restaurants,Quigley's NY Grill,313,"New York, NY",10003,212-253-9440,"313 1st Avenue
+New York, NY 10003
+(40.733921505814465, -73.9806827483186)"
+Food and Drink,Restaurants,Republic,37,"New York, NY",10011,212-627-7172,"37 Union Square
+New York, NY 10011
+(40.736889268511106, -73.99052133131914)"
+Food and Drink,Restaurants,Restaurant I,893,"New York, NY",10003,646-398-9663,"893 Broadway
+New York, NY 10003
+(40.73881381765386, -73.98984683979717)"
+Food and Drink,Restaurants,Resto-Leon Restaurant,351,"New York, NY",10003,212-375-8483,"351 12th Street
+New York, NY 10003
+(40.73055705599047, -73.98472657479395)"
+Food and Drink,Restaurants,Rosa Mexicano,9,"New York, NY",10003,212-533-3350,"9 18th Street
+New York, NY 10003
+(40.73826427300057, -73.99120950426841)"
+Food and Drink,Restaurants,Rye House,11,"New York, NY",10011,212-255-7260,"11 17th Street
+New York, NY 10011
+(40.73826523121596, -73.99304842622149)"
+Food and Drink,Restaurants,Sa A Ming Nayan Restaurant,201,"New York, NY",10003,212-388-0152 ,"201 1st Avenue
+New York, NY 10003
+(40.73025227193489, -73.98340769406735)"
+Food and Drink,Restaurants,Sala One Nine,35,"New York, NY",10011,212-229-2300,"35 19th Street
+New York, NY 10011
+(40.739857031207805, -73.99321929740705)"
+Food and Drink,Restaurants,Souen Restaurant,28,"New York, NY",10003,212-627-7150,"28 13th Street
+New York, NY 10003
+(40.734766868522, -73.99284158215471)"
+Food and Drink,Restaurants,Spice,39,"New York, NY",10003,212-982-3758,"39 13th Street
+New York, NY 10003
+(40.73439814648998, -73.99196024656601)"
+Food and Drink,Restaurants,Steak Frites,9,"New York, NY",10003,212-675-4700,"9 16th Street
+New York, NY 10003
+(40.736979200714075, -73.99185232792252)"
+Food and Drink,Restaurants,Strip House,13,"New York, NY",10003,212-328-0000,"13 12th Street
+New York, NY 10003
+(40.73423626852468, -73.99354305333759)"
+Food and Drink,Restaurants,Sushi Choshi,77,"New York, NY",10003,212-420-1419,"77 Irving Place
+New York, NY 10003
+(40.73696665103033, -73.98664760572923)"
+Food and Drink,Restaurants,SushiSamba,245,"New York, NY",10003,212-475-9377,"245 Park Avenue
+New York, NY 10003
+(40.738103353250665, -73.98782336523124)"
+Food and Drink,Restaurants,Taralucci e Vino,15,"New York, NY",10003,212-288-5400,"15 18th Street
+New York, NY 10003
+(40.73809942727259, -73.99081218379587)"
+Food and Drink,Restaurants,Thai Terminal,349,"New York, NY",10003,212-614-0155,"349 12th Street
+New York, NY 10003
+(40.73022529227404, -73.98401923304732)"
+Food and Drink,Restaurants,The City Tavern,22,"New York, NY",10003,212-807-1313,"22 13th Street
+New York, NY 10003
+(40.73485680072491, -73.99304842622149)"
+Food and Drink,Restaurants,The Cottage,33,"New York, NY",10003,212-505-8600,"33 Irving Place
+New York, NY 10003
+(40.73529059816844, -73.9878690966715)"
+Food and Drink,Restaurants,The House,121,"New York, NY",10003,212-353-2121,"121 17th Street
+New York, NY 10003
+(40.73591754943635, -73.98740273447717)"
+Food and Drink,Restaurants,The Loop,173,"New York, NY",10003,212-598-1200,"173 3rd Avenue
+New York, NY 10003
+(40.7349017668264, -73.98600673473203)"
+Food and Drink,Restaurants,The Redhead Restaurant,349,"New York, NY",10003,212-533-6212,"349 13th Street
+New York, NY 10003
+(40.730845824474216, -73.98350661949058)"
+Food and Drink,Restaurants,Tocqueville,1,"New York, NY",10003,212-647-1515,"1 15th Street
+New York, NY 10003
+(40.73668261571757, -73.99303762489357)"
+Food and Drink,Restaurants,Union Square Café,21,"New York, NY",10003,212-243-4020,"21 16th Street
+New York, NY 10003
+(40.7371623533065, -73.99221321310647)"
+Food and Drink,Restaurants,Veritas,43,"New York, NY",10003,212-353-3700,"43 20th Street
+New York, NY 10003
+(40.73893850370949, -73.98917843817357)"
+Food and Drink,Restaurants,'wichcraft,11,"New York, NY",10003,212-780-0577,"11 20th Street
+New York, NY 10003
+(40.73796591727275, -73.98698203155526)"
+Food and Drink,Restaurants,Wildwood BBQ,225,"New York, NY",10003,212-533-2500,"225 Park Avenue
+New York, NY 10003
+(40.737320943085194, -73.98838993810972)"
+Food and Drink,Restaurants,Zen Palate,115,"New York, NY",10003,212-387-8885,"115 18th Street
+New York, NY 10003
+(40.73676214868195, -73.98761500461134)"
+Food and Drink,Restaurants,Zio Ristorante,17,"New York, NY",10011,212-352-1700,"17 19th Street
+New York, NY 10011
+(40.739331905881755, -73.99189784226954)"
+Parking,Parking,17 Street Parking Corporation,6,"New York, NY",10003,212-242-9173,"6 17th Street
+New York, NY 10003
+(40.73774636340224, -73.9919101105563)"
+Parking,Parking,6 East 17 Street Parking Corporation,6,"New York, NY",10003,212-242-9173,"6 17th Street
+New York, NY 10003
+(40.73774636340224, -73.9919101105563)"
+Parking,Parking,Central Parking System,21,"New York, NY",10003,212-741-5163,"21 15th Street
+New York, NY 10003
+(40.73653079547766, -73.9926787770538)"
+Parking,Parking,Champion Parking,101,"New York, NY",10003,212-358-1476,"101 16th Street
+New York, NY 10003
+(40.73595329332415, -73.98934469855897)"
+Parking,Parking,East 12th Street Garage,17,"New York, NY",10003,212-929-9879,"17 12th Street
+New York, NY 10003
+(40.73414633632177, -73.99333620927086)"
+Parking,Parking,Hertz Parking Garage,,"New York, NY",10003,212-486-5915,"12 16 East 13th Street
+New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+Parking,Parking,Icon Parking Systems,16,"New York, NY",10011,212-242-9635,"16 15th Street
+New York, NY 10011
+(40.73687513406374, -73.99363677261755)"
+Parking,Parking,Icon Parking Systems,55,"New York, NY",10011,212-242-9218,"55 14th Street
+New York, NY 10011
+(40.73676288704266, -73.99535654390279)"
+Parking,Parking,Icon Parking Systems,65,"New York, NY",10011,212-243-7275,"65 15th Street
+New York, NY 10011
+(40.73759539192714, -73.99518275617945)"
+Parking,Parking,Imperial Parking Garage,7,"New York, NY",10003,212-691-3070,"7 14th Street
+New York, NY 10003
+(40.73588023182016, -73.99327322372638)"
+Parking,Parking,Irving Place Garage ,100,"New York, NY",10003,212-677-2026,"100 15th Street
+New York, NY 10003
+(40.73528009504962, -73.98984390021158)"
+Parking,Parking,Kinney System Parking Garage,20,"New York, NY",10011,212-243-9327,"20 13th Street
+New York, NY 10011
+(40.73556818494954, -73.99480114193321)"
+Parking,Parking,Metropolitan Parking ,69,"New York, NY",10003,212-627-5805,"69 5th Avenue
+New York, NY 10003
+(40.736286722751515, -73.99339916181287)"
+Parking,Parking,Ronel Parking Corporation,25,"New York, NY",10011,212-229-0548,"25 13th Street
+New York, NY 10011
+(40.735688637061806, -73.99494030503068)"
+Points of Interest,Arts and Leisure,Bowlmor and Carnival,110,"New York, NY",10003,212-255-8188,"110 University Place
+New York, NY 10003
+(40.7342649148321, -73.99251709573225)"
+Points of Interest,Arts and Leisure,Collaborative Arts Project 21,18,"New York, NY",10011,212-807-0202,"18 18th Street
+New York, NY 10011
+(40.7390836142626, -73.99321030418673)"
+Points of Interest,Arts and Leisure,Dance Forum NY,20,"New York, NY",10003,212-633-7202,"20 17th Street
+New York, NY 10003
+(40.73735489545888, -73.99095875241487)"
+Points of Interest,Arts and Leisure,Forbes Galleries,62,"New York, NY",10011,212-206-5548,"62 5th Avenue
+New York, NY 10011
+(40.735102681978354, -73.99430511163888)"
+Points of Interest,Arts and Leisure,Lawrence A. Wien Center for Dance & Theatre,890,"New York, NY",10003,212-477-3030,"890 Broadway
+New York, NY 10003
+(40.738495874447906, -73.98989591520055)"
+Points of Interest,Arts and Leisure,Manhattan Art Gallery,568,"New York, NY",10011,212-366-6290,"568 6th Avenue
+New York, NY 10011
+(40.73854402104507, -73.9959712228167)"
+Points of Interest,Arts and Leisure,National Arts Club,15,"New York, NY",10003,212-475-3424,"15 Gramercy Park
+New York, NY 10003
+(40.73789650918394, -73.98673518557581)"
+Points of Interest,Arts and Leisure,Peridance Capezio Center,126,"New York, NY",10003,212-505-0886,"126 13th Street
+New York, NY 10003
+(40.73323659463594, -73.9892679371943)"
+Points of Interest,Arts and Leisure,Tenri Cultural Institute,43A,"New York, NY",10011,212-645-2800,"43 A New
+York, NY 10011
+(40.74471526669623, -74.00460000028977)"
+Points of Interest,Arts and Leisure,The New School - Aronson Gallery,2,"New York, NY",10011,212-229-8919,"2 14th Street
+New York, NY 10011
+(40.73600705846937, -73.99372903824292)"
+Points of Interest,Education,14th Street Y of the Educational Alliance,344,"New York, NY",10011,212-780-0800,"344 14th Street
+New York, NY 10011
+(40.73969805112593, -74.00245101235654)"
+Points of Interest,Education,Apex Technical School,635,"New York, NY",10011,212-645-3300,"635 6th Avenue
+New York, NY 10011
+(40.740576488831266, -73.99449633468862)"
+Points of Interest,Education,Benjamin N. Cardozo School of Law,55,"New York, NY",10003,212-790-0200,"55 5th Avenue
+New York, NY 10003
+(40.73486579394523, -73.99443338214661)"
+Points of Interest,Education,Center for Jewish History,15,"New York, NY",10011,212-294-8301,"15 16th Street
+New York, NY 10011
+(40.73756045232821, -73.99315649140466)"
+Points of Interest,Education,Creative Pier,833,"New York, NY",10003,212-674-7437,"833 Broadway
+New York, NY 10003
+(40.73390351937388, -73.99095300589323)"
+Points of Interest,Education,Lee Strasberg Institute,115,"New York, NY",10003,212-533-5500,"115 15th Street
+New York, NY 10003
+(40.73489277360608, -73.9888755720055)"
+Points of Interest,Education,Legacy School,34,"New York, NY",10011,212-645-1980,"34 14th Street
+New York, NY 10011
+(40.73677235664735, -73.9954496160397)"
+Points of Interest,Education,New School - Sheila F. Johnson Design Center,70,"New York, NY",10011,212-229-8950,"70 5th Avenue
+New York, NY 10011
+(40.735349187679645, -73.99413499662236)"
+Points of Interest,Education,New York Film Academy,100,"New York, NY",10003,212-674-4300,"100 17th Street
+New York, NY 10003
+(40.736497586442574, -73.98895543525)"
+Points of Interest,Education,New York Public Library - Andrew Heiskell Braille and Talking Book Library,40,"New York, NY",10011,212-206-5400,"40 20th Street
+New York, NY 10011
+(40.740657427813915, -73.9932462770679)"
+Points of Interest,Education,Parsons School of Constructed Environments,25,"New York, NY",10003,212-229-8950,"25 13th Street
+New York, NY 10003
+(40.73475767946585, -73.9927326455616)"
+Points of Interest,Education,"Parson's, The New School for Design",66,"New York, NY",10011,212-229-5600,"66 5th Avenue
+New York, NY 10011
+(40.735239818590124, -73.99421118245273)"
+Points of Interest,Education,Preschool of America,600,"New York, NY",10011,212-255-6911,"600 6th Avenue
+New York, NY 10011
+(40.739471155967024, -73.99525162328676)"
+Points of Interest,Education,The New School,65,"New York, NY",10003,212-229-5600,"65 5th Avenue
+New York, NY 10003
+(40.7356392027467, -73.99383532347201)"
+Points of Interest,Education,The New School - Arnold Hall,55,"New York, NY",10011,212-229-5896,"55 13th Street
+New York, NY 10011
+(40.736358668513844, -73.99660974145752)"
+Points of Interest,Education,The New School- Eugene Lang College for Liberal Arts,66,"New York, NY",10011,212-229-5600,"66 12th Street
+New York, NY 10011
+(40.73572014987303, -73.99705940247213)"
+Points of Interest,Education,Washington Irving School,40,"New York, NY",10003,212-674-5000,"40 Irving Place
+New York, NY 10003
+(40.735537114027146, -73.98760494227764)"
+Points of Interest,Education,Xavier High School,30,"New York, NY",10011,212-924-2087,"30 16th Street
+New York, NY 10011
+(40.737703807501454, -73.99364340065819)"
+Points of Interest,Landmarks,Church of Stant Francis Xavier,55,"New York, NY",10011,212-627-2100,"55 15th Street
+New York, NY 10011
+(40.73746041043439, -73.99486580443882)"
+Points of Interest,Landmarks,Con Edison,4,"New York, NY",10003,212-243-1900,"4 Irving Place
+New York, NY 10003
+(40.734106908087384, -73.98864446892128)"
+Points of Interest,Landmarks,First Presbyterian Church of the City of New York,12,"New York, NY",10011,212-675-6150,"12 12th Street
+New York, NY 10011
+(40.73484780750465, -73.99501794146562)"
+Points of Interest,Landmarks,Greenmarket,,"New York, NY",10003,212-788-7476,
+Points of Interest,Landmarks,The Village Temple,33,"New York, NY",10003,212-674-2340,"33 12th Street
+New York, NY 10003
+(40.733723654968, -73.99231098215745)"
+Points of Interest,Landmarks,Theodore Roosevelt Birthplace,28,"New York, NY",10003,212-260-1616,"28 20th Street
+New York, NY 10003
+(40.73903609296, -73.98956056963154)"
+Points of Interest,Theaters and Cinemas,13th Street Repertory Theatre,50,"New York, NY",10011,212-675-6677,"50 13th Street
+New York, NY 10011
+(40.735963450780744, -73.99574782566324)"
+Points of Interest,Theaters and Cinemas,Cinema Village,22,"New York, NY",10003,212-924-3363,"22 12th Street
+New York, NY 10003
+(40.73413734310145, -73.99331822283028)"
+Points of Interest,Theaters and Cinemas,Classic Stage Company,136,"New York, NY",10003,212-677-4210,"136 13th Street
+New York, NY 10003
+(40.73314860789777, -73.98906004695999)"
+Points of Interest,Theaters and Cinemas,Daryl Roth Theater,101,"New York, NY",10003,212-239-6200,"101 15th Street
+New York, NY 10003
+(40.73532779222617, -73.98980823070505)"
+Points of Interest,Theaters and Cinemas,Irving Plaza,17,"New York, NY",10003,212-777-6800,"17 Irving Place
+New York, NY 10003
+(40.734883780385815, -73.98811114828061)"
+Points of Interest,Theaters and Cinemas,Loews 19th Street Cinema,890,"New York, NY",10003,212-260-8000,"890 Broadway
+New York, NY 10003
+(40.738495874447906, -73.98989591520055)"
+Points of Interest,Theaters and Cinemas,Quad Cinema,34,"New York, NY",10011,212-255-8800,"34 13th Street
+New York, NY 10011
+(40.73602591936299, -73.99582733129199)"
+Points of Interest,Theaters and Cinemas,Union Square Ballroom,27,"New York, NY",10011,212-243-7969,"27 Union Square
+New York, NY 10011
+(40.73609986230614, -73.989431800902)"
+Points of Interest,Theaters and Cinemas,Union Square Theatre,100,"New York, NY",10003,212-307-4100,"100 17th Street
+New York, NY 10003
+(40.736497586442574, -73.98895543525)"
+Points of Interest,Theaters and Cinemas,Village East Cinema,181,"New York, NY",10003,212-529-6998,"181 2nd Avenue
+New York, NY 10003
+(40.73080985159305, -73.98605170083351)"
+Points of Interest,Theaters and Cinemas,Vineyard Theatre,108,"New York, NY",10003,212-353-3366,"108 15th Street
+New York, NY 10003
+(40.735023104786514, -73.98924538341463)"
+Points of Interest,Theatres and Cinemas,Uniter Artists Cinema,1,"New York, NY",10003,212-253-6266,"1 Union Square
+New York, NY 10003
+(40.735387400722175, -73.99159152453399)"
+Retail,Apparel and Footwear,7 For all Mankind,73,"New York, NY",10003,212-924-4146,"73 5th Avenue
+New York, NY 10003
+(40.736799336308195, -73.99303043978091)"
+Retail,Apparel and Footwear,Accessorize,41,"New York, NY",10003,212-243-3027,"41 14th Street
+New York, NY 10003
+(40.73525508609795, -73.99175706571043)"
+Retail,Apparel and Footwear,Aerosoles,12,"New York, NY",10003,212-627-0970,"12 14th Street
+New York, NY 10003
+(40.73574885312781, -73.99310596422853)"
+Retail,Apparel and Footwear,Aldo,97,"New York, NY",10003,212-229-9865,"97 5th Avenue
+New York, NY 10003
+(40.738013421047754, -73.99214011097189)"
+Retail,Apparel and Footwear,American Apparel,142,"New York, NY",10011,212-620-4960,"142 5th Avenue
+New York, NY 10011
+(40.73926347866848, -73.99124978216287)"
+Retail,Apparel and Footwear,American Eagle Outfitters,19,"New York, NY",10011,212-645-2086,"19 Union Square
+New York, NY 10011
+(40.73607087844216, -73.98945319375397)"
+Retail,Apparel and Footwear,Anthrolpologie ,85,"New York, NY",10003,212-627-5885,"85 5th Avenue
+New York, NY 10003
+(40.73746483460991, -73.99253581266476)"
+Retail,Apparel and Footwear,Apt 141,141,"New York, NY",10003,212- 982-4227,"141 13th Street
+New York, NY 10003
+(40.73282433293872, -73.98821906692416)"
+Retail,Apparel and Footwear,Arden B.,104,"New York, NY",10011,646-638-0361,"104 5th Avenue
+New York, NY 10011
+(40.73713743707631, -73.99281488297905)"
+Retail,Apparel and Footwear,Area Kids,55,"New York, NY",10011,212-229-1700,"55 14th Street
+New York, NY 10011
+(40.73676288704266, -73.99535654390279)"
+Retail,Apparel and Footwear,Armani Exchange,129,"New York, NY",10003,212-254-7230,"129 5th Avenue
+New York, NY 10003
+(40.73947931595552, -73.99110589063821)"
+Retail,Apparel and Footwear,Babies 'R' Us,24-30,"New York, NY",10003,212-798-9905,"24 30 Union Square
+New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+Retail,Apparel and Footwear,babyGap,122,"New York, NY",10011,917-408-5580,"122 5th Avenue
+New York, NY 10011
+(40.73822026511448, -73.99198722622691)"
+Retail,Apparel and Footwear,Banana Republic Men,114,"New York, NY",10011,212-366-4691,"114 5th Avenue
+New York, NY 10011
+(40.73771664477812, -73.99235594825893)"
+Retail,Apparel and Footwear,Banana Republic Women,89,"New York, NY",10003,212-366-4630,"89 5th Avenue
+New York, NY 10003
+(40.73763556232365, -73.99237217282291)"
+Retail,Apparel and Footwear,Beacon's Closet,10,"New York, NY",10011,917.261.4863,"10 13th Street
+New York, NY 10011
+(40.73543679532254, -73.9944853829909)"
+Retail,Apparel and Footwear,Beads of Paradise,16,"New York, NY",10003,212-620-0642,"16 17th Street
+New York, NY 10003
+(40.73753678037224, -73.9913217279252)"
+Retail,Apparel and Footwear,Bebe,100,"New York, NY",10011,212-675-2323,"100 5th Avenue
+New York, NY 10011
+(40.73696836452512, -73.99294047973135)"
+Retail,Apparel and Footwear,Brooklyn Industries,801,"New York, NY",10003,646-478-8871,"801 Broadway
+New York, NY 10003
+(40.73280634649814, -73.9912138092817)"
+Retail,Apparel and Footwear,Brooks Brothers,899,"New York, NY",10003,opening soon,"899 Broadway
+New York, NY 10003
+(40.73903508375777, -73.9898259431464)"
+Retail,Apparel and Footwear,Callalilai,827,"New York, NY",10003,212-477-7377,"827 Broadway
+New York, NY 10003
+(40.73361573632451, -73.99102495165556)"
+Retail,Apparel and Footwear,Coach,79,"New York, NY",10003,212-675-6403,"79 5th Avenue
+New York, NY 10003
+(40.73708711935757, -73.99281460249387)"
+Retail,Apparel and Footwear,Coup De Coeur,163,"New York, NY",10003,212-982-8366,"163 3rd Avenue
+New York, NY 10003
+(40.73452344449286, -73.98624752703505)"
+Retail,Apparel and Footwear,Cure Thrift Shop,111,"New York, NY",10003,212-505-7467,"111 12th Street
+New York, NY 10003
+(40.73247359734728, -73.98937019912165)"
+Retail,Apparel and Footwear,Daffy's,3,"New York, NY",10003,212-529-4477,"3 18th Street
+New York, NY 10003
+(40.73842911872225, -73.99160682472579)"
+Retail,Apparel and Footwear,Dave's Army Navy Store,581,"New York, NY",10011,212-989-6444,"581 6th Avenue
+New York, NY 10011
+(40.738993682059686, -73.99563847366585)"
+Retail,Apparel and Footwear,David Z,821-823,"New York, NY",10003,212-253-5511,"821 823
+New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+Retail,Apparel and Footwear,Diesel,1,"New York, NY",10011,646-336-8552,"1 Union Square
+New York, NY 10011
+(40.735387400722175, -73.99159152453399)"
+Retail,Apparel and Footwear,DSW Shoes,40,"New York, NY",10003,212-674-2146,"40 14th Street
+New York, NY 10003
+(40.73520693114469, -73.99179164769473)"
+Retail,Apparel and Footwear,Eisenberg & Eisenberg,16,"New York, NY",10011,212-627-1290,"16 17th Street
+New York, NY 10011
+(40.73810960810919, -73.99277584554045)"
+Retail,Apparel and Footwear,Estella,493,"New York, NY",10011,212-255-3553,"493 6th Avenue
+New York, NY 10011
+(40.73628242718051, -73.99766348506238)"
+Retail,Apparel and Footwear,Express,130,"New York, NY",10011,212-633-9414,"130 5th Avenue
+New York, NY 10011
+(40.738651939688566, -73.99168145673696)"
+Retail,Apparel and Footwear,Fabco Shoes,54,"New York, NY",10011,212-242-4196,"54 14th Street
+New York, NY 10011
+(40.73703316003582, -73.99607014823994)"
+Retail,Apparel and Footwear,Fight Club,812,"New York, NY",10003,888-937-8020,"812 Broadway
+New York, NY 10003
+(40.732689434634324, -73.9912407889426)"
+Retail,Apparel and Footwear,Filene's Basement,40,"New York, NY",10003,212-358-0169,"40 14th Street
+New York, NY 10003
+(40.73520693114469, -73.99179164769473)"
+Retail,Apparel and Footwear,Footlocker,58,"New York, NY",10011,212-243-5641,"58 14th Street
+New York, NY 10011
+(40.73712309223873, -73.99626799908634)"
+Retail,Apparel and Footwear,Forever 21,40,"New York, NY",10003,212-228-0598,"40 14th Street
+New York, NY 10003
+(40.73520693114469, -73.99179164769473)"
+Retail,Apparel and Footwear,Free People,79,"New York, NY",10003,212-647-1293,"79 5th Avenue
+New York, NY 10003
+(40.73708711935757, -73.99281460249387)"
+Retail,Apparel and Footwear,Gap,122,"New York, NY",10011,917-408-5580,"122 5th Avenue
+New York, NY 10011
+(40.73822026511448, -73.99198722622691)"
+Retail,Apparel and Footwear,GapKids,122,"New York, NY",10011,917-408-5580,"122 5th Avenue
+New York, NY 10011
+(40.73822026511448, -73.99198722622691)"
+Retail,Apparel and Footwear,Geox,862,"New York, NY",10003,212-533-2088,"862 Broadway
+New York, NY 10003
+(40.73728497020403, -73.99025153471035)"
+Retail,Apparel and Footwear,Gramercy Project,240,"New York, NY",10003,212-533-4017,"240 3rd Avenue
+New York, NY 10003
+(40.7368866820383, -73.9846080428862)"
+Retail,Apparel and Footwear,G-Star Raw,873,"New York, NY",10003,212-253-1115,"873 Broadway
+New York, NY 10003
+(40.73808536681008, -73.99003569742331)"
+Retail,Apparel and Footwear,H & M,111,"New York, NY",10003,212-539-1741,"111 5th Avenue
+New York, NY 10003
+(40.73871283686668, -73.99160380783802)"
+Retail,Apparel and Footwear,Ibiza Kidz,830,"New York, NY",10003,212-228-7990,"830 Broadway
+New York, NY 10003
+(40.73350781768096, -73.9910519313164)"
+Retail,Apparel and Footwear,Ibiza NYC,825,"New York, NY",10003,212-533-4616,"825 Broadway
+New York, NY 10003
+(40.73355278378244, -73.99104293809614)"
+Retail,Apparel and Footwear,Intermix,125,"New York, NY",10003,212-533-9720,"125 5th Avenue
+New York, NY 10003
+(40.73938039053229, -73.99116884318022)"
+Retail,Apparel and Footwear,J. Crew,91,"New York, NY",10003,212-255-4848,"91 5th Avenue
+New York, NY 10003
+(40.737689665117216, -73.99237393469951)"
+Retail,Apparel and Footwear,J. Crew Men's Shop,91,"New York, NY",10003,212-255-4848,"91 5th Avenue
+New York, NY 10003
+(40.737689665117216, -73.99237393469951)"
+Retail,Apparel and Footwear,Jack Rabbit,42,"New York, NY",10011,212-727-2980,"42 14th Street
+New York, NY 10011
+(40.736542454867156, -73.99498651530875)"
+Retail,Apparel and Footwear,Jellyfish New York,244,"New York, NY",10003,212-260-4960,"244 13th
+New York, NY 10003
+(40.73215272723941, -73.98669778743172)"
+Retail,Apparel and Footwear,Journelle,3,"New York, NY",10003,212-255-7800,"3 17th Street
+New York, NY 10003
+(40.7377076515578, -73.9917354160587)"
+Retail,Apparel and Footwear,Journey's,28,"New York, NY",10003,212-645-1213,"28 14th Street
+New York, NY 10003
+(40.73543236682366, -73.99226601605596)"
+Retail,Apparel and Footwear,Juicy Couture,103,"New York, NY",10003,212-727-8029,"103 5th Avenue
+New York, NY 10003
+(40.73822026511448, -73.99199621944717)"
+Retail,Apparel and Footwear,Kate Spade,135,"New York, NY",10003,212-358-0420,"135 5th Avenue
+New York, NY 10003
+(40.73879520659752, -73.99162796649753)"
+Retail,Apparel and Footwear,Kenneth Cole,95,"New York, NY",10003,212-675-2550,"95 5th Avenue
+New York, NY 10003
+(40.73781557020129, -73.99228400249655)"
+Retail,Apparel and Footwear,Levis Store,25,"New York, NY",10011,212-242-2128,"25 14th Street
+New York, NY 10011
+(40.73636953461515, -73.99443268326714)"
+Retail,Apparel and Footwear,LF Stores,148,"New York, NY",10011,212-645-1334,"148 5th Avenue
+New York, NY 10011
+(40.7394973023961, -73.99108790419763)"
+Retail,Apparel and Footwear,Lululemon Athletica,15,"New York, NY",10011,212-362-1559,"15 Union Square
+New York, NY 10011
+(40.73605638650679, -73.98946389018246)"
+Retail,Apparel and Footwear,Madewell,115,"New York, NY",10003,212-228-5172,"115 5th Avenue
+New York, NY 10003
+(40.73893939407228, -73.991444879649)"
+Retail,Apparel and Footwear,Mandee,48,"New York, NY",10011,212-255-2129,"48 14th Street
+New York, NY 10011
+(40.73695222105317, -73.99587229739348)"
+Retail,Apparel and Footwear,Marshalls,620,"New York, NY",10011,212-741-0621,"620 6th Avenue
+New York, NY 10011
+(40.73998098469299, -73.99488336487511)"
+Retail,Apparel and Footwear,Mavi Jeans,832,"New York, NY",10003,212-979-6128,"832 Broadway
+New York, NY 10003
+(40.73367265155502, -73.99097615314669)"
+Retail,Apparel and Footwear,Men's Warehouse,650,"New York, NY",10011,212-243-3517,"650 6th Avenue
+New York, NY 10011
+(40.741047429248916, -73.9941282956127)"
+Retail,Apparel and Footwear,Michael Kors,133,"New York, NY",10003,212-228-2043,"133 5th Avenue
+New York, NY 10003
+(40.73957824137875, -73.99103394487582)"
+Retail,Apparel and Footwear,Modell's Sporting Goods,607,"New York, NY",10011,212-989-1110,"607 6th Avenue
+New York, NY 10011
+(40.7397000756659, -73.99517082095942)"
+Retail,Apparel and Footwear,New Balance,150,"New York, NY",10003,212-727-2520,"150 5th Avenue
+New York, NY 10003
+(40.73968973484038, -73.99099785775785)"
+Retail,Apparel and Footwear,New York Costumes,808,"New York, NY",10003,212-673-4546,"808 Broadway
+New York, NY 10003
+(40.73259545605105, -73.99122717460521)"
+Retail,Apparel and Footwear,Nordstrom Rack,60,"New York, NY",10003,212.220.2080,"60 14th Street
+New York, NY 10003
+(40.734694554873066, -73.99059674763612)"
+Retail,Apparel and Footwear,O.M.G. The Jeans Store,12,"New York, NY",10003,212-366-6501,"12 14th Street
+New York, NY 10003
+(40.73574885312781, -73.99310596422853)"
+Retail,Apparel and Footwear,Old Navy,610,"New York, NY",10011,212-645-0663,"610 6th Avenue
+New York, NY 10011
+(40.739724764792825, -73.99507102306232)"
+Retail,Apparel and Footwear,Paragon Sporting Goods ,867,"New York, NY",10003,212-255-8036,"867 Broadway
+New York, NY 10003
+(40.737671678676634, -73.99014361606686)"
+Retail,Apparel and Footwear,Paul Smith,108,"New York, NY",10011,212-627-9771,"108 5th Avenue
+New York, NY 10011
+(40.73716805834022, -73.9927516499518)"
+Retail,Apparel and Footwear,Payless Shoe Source,40,"New York, NY",10011,212-242-3670,"40 14th Street
+New York, NY 10011
+(40.736515685015405, -73.99492364138064)"
+Retail,Apparel and Footwear,Payless Shoe Source,600,"New York, NY",10011,212-645-1401,"600 6th Avenue
+New York, NY 10011
+(40.739471155967024, -73.99525162328676)"
+Retail,Apparel and Footwear,Peoria Emporium,25,"New York, NY",10003,212-777-3140,"25 20th Street
+New York, NY 10003
+(40.73912564648702, -73.98962470171998)"
+Retail,Apparel and Footwear,Perfume Square,853,"New York, NY",10003,212-529-0330,"853 Broadway
+New York, NY 10003
+(40.73466560856657, -73.99083754405508)"
+Retail,Apparel and Footwear,Puma,33,"New York, NY",10011,212-206-7761,"33 Union Square
+New York, NY 10011
+(40.73673638376613, -73.99062924996264)"
+Retail,Apparel and Footwear,Remix Shoe Store,52,"New York, NY",10011,212-367-3717,"52 14th Street
+New York, NY 10011
+(40.73700618037492, -73.99598920925729)"
+Retail,Apparel and Footwear,Rothman's,200,"New York, NY",10003,212-777-7400,"200 Park Avenue
+New York, NY 10003
+(40.73677235664735, -73.98892053810698)"
+Retail,Apparel and Footwear,Rugby,99,"New York, NY",10003,212-677-1895,"99 University Place
+New York, NY 10003
+(40.73387881458761, -73.99275561743725)"
+Retail,Apparel and Footwear,Run by Footlocker,34,"New York, NY",10003,212-243-5641,"34 14th Street
+New York, NY 10003
+(40.73534243462075, -73.99203219232834)"
+Retail,Apparel and Footwear,Season Clothing,343,"New York, NY",10003,,"343 1st Avenue
+New York, NY 10003
+(40.734946732927824, -73.97991832459371)"
+Retail,Apparel and Footwear,Shoe Mania,853,"New York, NY",10003,212-253-8744,"853 Broadway
+New York, NY 10003
+(40.73466560856657, -73.99083754405508)"
+Retail,Apparel and Footwear,Skechers,15,"New York, NY",10011,212-647-8891,"15 Union Square
+New York, NY 10011
+(40.73605638650679, -73.98946389018246)"
+Retail,Apparel and Footwear,Sports Authority,636,"New York, NY",10011,212-929-8971,"636 6th Avenue
+New York, NY 10011
+(40.74056749561095, -73.99450532790894)"
+Retail,Apparel and Footwear,Steve Madden,861,"New York, NY",10003,212-206-1682,"861 Broadway
+New York, NY 10003
+(40.73742886172869, -73.99020656860887)"
+Retail,Apparel and Footwear,Stock Vintage,143,"New York, NY",10003,212-505-2505,"143 13th Street
+New York, NY 10003
+(40.732779366837235, -73.98812014150093)"
+Retail,Apparel and Footwear,Strawberry,38,"New York, NY",10003,212-353-2700,"38 14th Street
+New York, NY 10003
+(40.735245639878805, -73.99188552749817)"
+Retail,Apparel and Footwear,Strut of NY,2,"New York, NY",10011,212-255-5111,"2 14th Street
+New York, NY 10011
+(40.73600705846937, -73.99372903824292)"
+Retail,Apparel and Footwear,T.J. Maxx,620,"New York, NY",10011,212-229-0875,"620 6th Avenue
+New York, NY 10011
+(40.73998098469299, -73.99488336487511)"
+Retail,Apparel and Footwear,The Children's Place,36,"New York, NY",10003,212-529-2201,"36 Union Square
+New York, NY 10003
+(40.73612484478622, -73.98925328725784)"
+Retail,Apparel and Footwear,True Religion Brand Jeans,863,"New York, NY",10003,212-741-1401,"863 Broadway
+New York, NY 10003
+(40.73748282105049, -73.9901975753886)"
+Retail,Apparel and Footwear,Unlimited Jeans Co.,492,"New York, NY",10011,212-645-4021,"492 6th Avenue
+New York, NY 10011
+(40.736313469929826, -73.99755739814955)"
+Retail,Apparel and Footwear,Urban Outfitters,526,"New York, NY",10011,646-638-1646,"526 6th Avenue
+New York, NY 10011
+(40.73725763894471, -73.99685759079813)"
+Retail,Apparel and Footwear,Victoria's Secret,115,"New York, NY",10003,212-477-4118,"115 5th Avenue
+New York, NY 10003
+(40.73893939407228, -73.991444879649)"
+Retail,Apparel and Footwear,Walid Menswear,230,"New York, NY",10003,212-673-5638,"230 14th Street
+New York, NY 10003
+(40.73276138039665, -73.98592579574944)"
+Retail,Apparel and Footwear,Wet Seal,42B,"New York, NY",10011,646-336-6914,"42B 14th Street
+New York, NY 10011
+(40.736542454867156, -73.99498651530875)"
+Retail,Apparel and Footwear,White House Black Market,136,"New York, NY",10011,212-741-8685,"136 5th Avenue
+New York, NY 10011
+(40.738831804094445, -73.99156454487314)"
+Retail,Apparel and Footwear,Zara,101,"New York, NY",10003,212-741-0555,"101 5th Avenue
+New York, NY 10003
+(40.738112346470984, -73.99206816520956)"
+Retail,Beauty,Aveda,140,"New York, NY",10011,212-645-4797,"140 5th Avenue
+New York, NY 10011
+(40.73895770917852, -73.99146561944991)"
+Retail,Beauty,Essentials Skin Care,123,"New York, NY",10003,212-228-8141,"123 5th Avenue
+New York, NY 10003
+(40.73929945154964, -73.99123179572229)"
+Retail,Beauty,Essentials Skin Care,207,"New York, NY",10003,212-253-9693,"207 14th Street
+New York, NY 10003
+(40.733022183785124, -73.98653733472935)"
+Retail,Beauty,Fresh,872,"New York, NY",10003,212-477-1100,"872 Broadway
+New York, NY 10003
+(40.737599732914305, -73.99016160250744)"
+Retail,Beauty,GapBody,122,"New York, NY",10011,917-408-5580,"122 5th Avenue
+New York, NY 10011
+(40.73822026511448, -73.99198722622691)"
+Retail,Beauty,Kiehl's,109,"New York, NY",10003,212-677-3171,"109 3rd Avenue
+New York, NY 10003
+(40.73283991206738, -73.98746320895758)"
+Retail,Beauty,Lush,7,"New York, NY",10003,212-255-5133,"7 14th Street
+New York, NY 10003
+(40.73588023182016, -73.99327322372638)"
+Retail,Beauty,Make Up Forever,8,"New York, NY",10003,212-941-9337,"8 12th Street
+New York, NY 10003
+(40.73433519394791, -73.99377687706522)"
+Retail,Beauty,Ricky's NYC,111,"New York, NY",10003,212-674-9640,"111 3rd Avenue
+New York, NY 10003
+(40.73289831893867, -73.98741863529264)"
+Retail,Beauty,Royal Wigs,229,"New York, NY",10003,212-228-1442,"229 14th Street
+New York, NY 10003
+(40.7327883600575, -73.98599774151177)"
+Retail,Beauty,Sephora,45,"New York, NY",10003,212-995-8833,"45 17th Street
+New York, NY 10003
+(40.73692407152698, -73.98988380918901)"
+Retail,Beauty,Sephora,119,"New York, NY",10003,212-674-3570,"119 5th Avenue
+New York, NY 10003
+(40.73921851256699, -73.99128575504403)"
+Retail,Beauty,Tamago Skincare,236,"New York, NY",10003,212-505-1599,"236 13th Street
+New York, NY 10003
+(40.73196098379054, -73.98615961947701)"
+Retail,Beauty,VMV Hypoallergenics,868,"New York, NY",10003,212-217-2762,"868 Broadway
+New York, NY 10003
+(40.73746483460991, -73.9901975753886)"
+Retail,Beauty,Wigs and Plus,37,"New York, NY",10011,212-675-4129,"37 14th Street
+New York, NY 10011
+(40.73683530918936, -73.99560250078468)"
+Retail,Books and News,6th Ave News & Tobacco,488,"New York, NY",10011,----,"488 6th Avenue
+New York, NY 10011
+(40.73622243086033, -73.9976250271726)"
+Retail,Books and News,Alabaster Book Shop,122,"New York, NY",10003,212-982-3550,"122 4th Avenue
+New York, NY 10003
+(40.73285992990638, -73.99003663627462)"
+Retail,Books and News,Barnes & Noble Booksellers,33,"New York, NY",10003,212-253-0810,"33 17th Street
+New York, NY 10003
+(40.736799336308195, -73.98963999573044)"
+Retail,Books and News,Books of Wonder,18,"New York, NY",10011,212-989-3270,"18 18th Street
+New York, NY 10011
+(40.7390836142626, -73.99321030418673)"
+Retail,Books and News,C & B Convenience Store,248,"New York, NY",10003,212-295-9365,"248 14th Street
+New York, NY 10003
+(40.73280477488535, -73.9861083395686)"
+Retail,Books and News,Convenience Store,279,"New York, NY",10003,,"279 1st Avenue
+New York, NY 10003
+(40.73258151599077, -73.98166300933053)"
+Retail,Books and News,Forbidden Planet,840,"New York, NY",10003,212-473-1576,"840 Broadway
+New York, NY 10003
+(40.733813587170914, -73.99097099233381)"
+Retail,Books and News,Idlewild Books,12,"New York, NY",10011,212-414-8888,"12 19th Street
+New York, NY 10011
+(40.73945233629462, -73.99223903639512)"
+Retail,Books and News,International News and Tobacco,108,"New York, NY",10003,212-807-1540,"108 University Place
+New York, NY 10003
+(40.7342010429636, -73.99257063538674)"
+Retail,Books and News,Namaste Book Shop,2,"New York, NY",10011,212-645-0141,"2 14th Street
+New York, NY 10011
+(40.73600705846937, -73.99372903824292)"
+Retail,Books and News,Strand Bookstore,828,"New York, NY",10003,212-473-1452,"828 Broadway
+New York, NY 10003
+(40.73353063062016, -73.9910116583804)"
+Retail,Books and News,Union Square Magazine Shop,200,"New York, NY",10003,212-598-9406,"200 Park Avenue
+New York, NY 10003
+(40.73677235664735, -73.98892053810698)"
+Retail,Books and News,Union Square One Stop Tobacco News & Café ,141,"New York, NY",10003,---,"141 4th Avenue
+New York, NY 10003
+(40.733712839238855, -73.98979439361055)"
+Retail,Books and News,Universal News,11,"New York, NY",10011,212-627-5708,"11 14th Street
+New York, NY 10011
+(40.73618597014327, -73.9940015482904)"
+Retail,Electronics and Video,Sprint,234,"New York, NY",10003,,"234 3rd Avenue
+New York, NY 10003
+(40.73667745476819, -73.98475703806339)"
+Retail,Electronics and Video,Verizon Wireless,210,"New York, NY",10003,,"210 3rd Avenue
+New York, NY 10003
+(40.73604790308219, -73.985207561102)"
+Retail,Electronics and Video,14 St. Digital Corporation,44,"New York, NY",10011,212-206-9973,"44 14th Street
+New York, NY 10011
+(40.736871282070524, -73.99568343976733)"
+Retail,Electronics and Video,17th Street Photo ,33,"New York, NY",10011,212-366-9870,"33 17th Street
+New York, NY 10011
+(40.73866093290883, -73.99398372113194)"
+Retail,Electronics and Video,Adorama,42,"New York, NY",10011,800-223-2500,"42 18th Street
+New York, NY 10011
+(40.73902003477329, -73.99314522204398)"
+Retail,Electronics and Video,AT&T,4,"New York, NY",10011,212-255-5655,"4 14th Street
+New York, NY 10011
+(40.736033828287425, -73.9937919120919)"
+Retail,Electronics and Video,AT&T,31,"New York, NY",10003,212-614-2522,"31 17th Street
+New York, NY 10003
+(40.736880275290844, -73.98984683979717)"
+Retail,Electronics and Video,AT&T,245,"New York, NY",10003,212-254-2030,"245 14th Street
+New York, NY 10003
+(40.73288820737043, -73.98615732179584)"
+Retail,Electronics and Video,AT&T Wireless,484,"New York, NY",10011,212-229-1666,"484 6th Avenue
+New York, NY 10011
+(40.736131391802125, -73.99769265618727)"
+Retail,Electronics and Video,AT&T Wireless,592,"New York, NY",10011,212-645-0008,"592 6th Avenue
+New York, NY 10011
+(40.739268268919155, -73.99539610345721)"
+Retail,Electronics and Video,Best Buy,1,"New York, NY",10003,212-466-4789,"1 Union Square
+New York, NY 10003
+(40.735387400722175, -73.99159152453399)"
+Retail,Electronics and Video,Best Buy Mobile,2,"New York, NY",10003,212-254-0498,"2 Union Square
+New York, NY 10003
+(40.73593208964157, -73.98934099792693)"
+Retail,Electronics and Video,Cable Doctor,226,"New York, NY",10003,212-614-9207,"226 14th Street
+New York, NY 10003
+(40.73282433293872, -73.9860696872741)"
+Retail,Electronics and Video,Metro PCS,237,"New York, NY",10003,212-505-5400,"237 1st Avenue
+New York, NY 10003
+(40.73138294427425, -73.98257961272317)"
+Retail,Electronics and Video,Metro PCS,540,"New York, NY",10011,212-929-1899,"540 6th Avenue
+New York, NY 10011
+(40.73768974529953, -73.99653771953173)"
+Retail,Electronics and Video,P.C. Richard & Son,120,"New York, NY",10003,212-979-2600,"120 14th Street
+New York, NY 10003
+(40.73389906784387, -73.98868063316195)"
+Retail,Electronics and Video,Photo Tech,110,"New York, NY",10003,212-673-8400,"110 13th Street
+New York, NY 10003
+(40.733229027851905, -73.98917234827519)"
+Retail,Electronics and Video,Radio Shack,7,"New York, NY",10003,212-463-0143,"7 14th Street
+New York, NY 10003
+(40.73588023182016, -73.99327322372638)"
+Retail,Electronics and Video,Radio Shack,641,"New York, NY",10011,212-604-0695,"641 6th Avenue
+New York, NY 10011
+(40.74077433967773, -73.99437042960454)"
+Retail,Electronics and Video,Sprint,39,"New York, NY",10011,212-229-9900,"39 14th Street
+New York, NY 10011
+(40.73655309907478, -73.99486381821508)"
+Retail,Electronics and Video,Super Value Electronics,6,"New York, NY",10011,212-414-9697,"6 14th Street
+New York, NY 10011
+(40.73623276342977, -73.9941815719784)"
+Retail,Electronics and Video,T-Mobile,30,"New York, NY",10003,212-242-3570,"30 14th Street
+New York, NY 10003
+(40.735387400722175, -73.99214910419215)"
+Retail,Electronics and Video,T-Mobile,595,"New York, NY",10011,212-647-7062,"595 6th Avenue
+New York, NY 10011
+(40.739416363413454, -73.9953327041759)"
+Retail,Electronics and Video,Verizon Wireless,101,"New York, NY",10003,212-460-8104,"101 University Place
+New York, NY 10003
+(40.73391616194979, -73.99272372204022)"
+Retail,Electronics and Video,Verizon Wireless,319,"New York, NY",10003,212-254-4460,"319 14th Street
+New York, NY 10003
+(40.731987963451445, -73.98409117880965)"
+Retail,Electronics and Video,Verizon Wireless,859B,"New York, NY",10003,212-206-7587,"859B Broadway
+New York, NY 10003
+(40.73738389562726, -73.99022455504945)"
+Retail,Electronics and Video,Wireless Center,69,"New York, NY",10011,212-620-7766,"69 14th Street
+New York, NY 10011
+(40.736946451551304, -73.99578767896585)"
+Retail,"Entertainment, Music & Games",Academy Records and CDs,10,"New York, NY",10011,212-242-3000,"10 18th Street
+New York, NY 10011
+(40.738903749856775, -73.99279661605328)"
+Retail,"Entertainment, Music & Games",Gamestop,32,"New York, NY",10003,212-242-2567,"32 14th Street
+New York, NY 10003
+(40.735361766025065, -73.99216716677242)"
+Retail,"Entertainment, Music & Games",Gamestop,107,"New York, NY",10003,,"107 14th Street
+New York, NY 10003
+(40.734294897574884, -73.98949492102506)"
+Retail,"Entertainment, Music & Games",Guitar Center,25,"New York, NY",10011,212-463-7500,"25 14th Street
+New York, NY 10011
+(40.73636953461515, -73.99443268326714)"
+Retail,"Entertainment, Music & Games",Kidding Around Toy Store,60,"New York, NY",10011,212-645-6337,"60 15th Street
+New York, NY 10011
+(40.737860536302776, -73.99586330417316)"
+Retail,"Entertainment, Music & Games",Party City,38,"New York, NY",10011,212-271-7310,"38 14th Street
+New York, NY 10011
+(40.73648891521267, -73.99486076756764)"
+Retail,"Entertainment, Music & Games",Second Hand Rose's Music Inc,48,"New York, NY",10003,212-675-3735,"48 12th Street
+New York, NY 10003
+(40.733493192724204, -73.99183522512085)"
+Retail,Gifts and Florists,6th Avenue General Merchandise,534,"New York, NY",10011,212-691-1430,"534 6th Avenue
+New York, NY 10011
+(40.737494466514086, -73.99668227655471)"
+Retail,Gifts and Florists,Blue Meadow Flowers,336,"New York, NY",10003,212-979-8618,"336 13th Street
+New York, NY 10003
+(40.731268935755054, -73.98458794767713)"
+Retail,Gifts and Florists,Cigarville,51,"New York, NY",10011,212-488-8100,"51 14th Street
+New York, NY 10011
+(40.7370241668155, -73.99603417535877)"
+Retail,Gifts and Florists,Gramercy Park Flower Shop,236,"New York, NY",10003,212-475-4989,"236 3rd Avenue
+New York, NY 10003
+(40.73674719719156, -73.98470737300433)"
+Retail,Gifts and Florists,Petco,860,"New York, NY",10003,212-358-0692,"860 Broadway
+New York, NY 10003
+(40.73731194986493, -73.99024254149003)"
+Retail,Gifts and Florists,Russian Souvenirs,227,"New York, NY",10003,212-358-8756,"227 14th Street
+New York, NY 10003
+(40.73282433293872, -73.98608767371468)"
+Retail,Gifts and Florists,The Flower Stall,143,"New York, NY",10003,212-780-0980,"143 13th Street
+New York, NY 10003
+(40.732779366837235, -73.98812014150093)"
+Retail,Home Furnishings,145 Antiques,27,"New York, NY",10011,212-807-1149,"27 20th Street
+New York, NY 10011
+(40.740477563408035, -73.99281460249387)"
+Retail,Home Furnishings,ABC Carpet and Home,881,"New York, NY",10003,212-473-3000,"881 Broadway
+New York, NY 10003
+(40.73841811596094, -73.9899457652204)"
+Retail,Home Furnishings,ABC Carpet and Home,888,"New York, NY",10003,212-473-3000,"888 Broadway
+New York, NY 10003
+(40.73845479657408, -73.98990665486154)"
+Retail,Home Furnishings,Ace Hardware,130,"New York, NY",10003,212-673-4292,"130 4th Avenue
+New York, NY 10003
+(40.73317856795933, -73.98996192968173)"
+Retail,Home Furnishings,ACE Moving and Storage,227,"New York, NY",10003,212-316-5300,"227 14th Street
+New York, NY 10003
+(40.73282433293872, -73.98608767371468)"
+Retail,Home Furnishings,Ann Gish,4,"New York, NY",10011,212-969-9200,"4 20th Street
+New York, NY 10011
+(40.73973805247662, -73.99113015093624)"
+Retail,Home Furnishings,Ann Sacks,37,"New York, NY",10003,212-529-2800,"37 18th Street
+New York, NY 10003
+(40.73752778715192, -73.98950509742605)"
+Retail,Home Furnishings,Basics Plus,121,"New York, NY",10003,212-228-4950,"121 University Place
+New York, NY 10003
+(40.73454654587285, -73.99219711008143)"
+Retail,Home Furnishings,Basics Plus,194,"New York, NY",10003,,"194 3rd Avenue
+New York, NY 10003
+(40.73547733292514, -73.98558405337826)"
+Retail,Home Furnishings,Bed Bath & Beyond,620,"New York, NY",10011,212-225-3550,"620 6th Avenue
+New York, NY 10011
+(40.73998098469299, -73.99488336487511)"
+Retail,Home Furnishings,Big D Home,22,"New York, NY",10011,212-243-5621,"22 14th Street
+New York, NY 10011
+(40.73660148546173, -73.99504492112652)"
+Retail,Home Furnishings,Blinds and Beyond ,32,"New York, NY",10003,212-352-0033,"32 13th Street
+New York, NY 10003
+(40.73473643600275, -73.99283054272729)"
+Retail,Home Furnishings,Broadway Kitchen & Baths,819,"New York, NY",10003,212-260-7768,"819 Broadway
+New York, NY 10003
+(40.73321035135768, -73.99116468091988)"
+Retail,Home Furnishings,Charles P. Rogers Beds,55,"New York, NY",10011,212-675-4400,"55 17th Street
+New York, NY 10011
+(40.73902965494085, -73.99487404994096)"
+Retail,Home Furnishings,Complete Tile Collection,42,"New York, NY",10011,212-255-4450,"42 15th Street
+New York, NY 10011
+(40.7375457735925, -73.99514384654975)"
+Retail,Home Furnishings,Country Floor,15,"New York, NY",10003,212-627-8300,"15 16th Street
+New York, NY 10003
+(40.736880275290844, -73.99162749741515)"
+Retail,Home Furnishings,Design Within Reach,903,"New York, NY",10011,212-477-1155,"903 Broadway
+New York, NY 10011
+(40.73948830917578, -73.98966697539129)"
+Retail,Home Furnishings,Dryden Gallery and Custom Framing,129,"New York, NY",10003,212-420-1690,"129 4th Avenue
+New York, NY 10003
+(40.73329235493585, -73.98986205525829)"
+Retail,Home Furnishings,Duro Carpet,341,"New York, NY",10003,,"341 1st Avenue
+New York, NY 10003
+(40.73491076004666, -73.97994530425456)"
+Retail,Home Furnishings,Environment Furniture,876,"New York, NY",10003,212-780-0051,"876 Broadway
+New York, NY 10003
+(40.73795946172601, -73.99007167030447)"
+Retail,Home Furnishings,Excel Art & Custom Framing,489,"New York, NY",10011,212-255-2970,"489 6th Avenue
+New York, NY 10011
+(40.73617483556421, -73.99774341026306)"
+Retail,Home Furnishings,Fishs Eddy,889,"New York, NY",10003,212-420-9020,"889 Broadway
+New York, NY 10003
+(40.73867891934947, -73.98988281267833)"
+Retail,Home Furnishings,Frenchman Air Conditioning,333,"New York, NY",10003,,"333 1st Avenue
+New York, NY 10003
+(40.734703915979935, -73.98009818899953)"
+Retail,Home Furnishings,Gothic Cabinet & Craft,104,"New York, NY",10003,212-420-9556,"104 3rd Avenue
+New York, NY 10003
+(40.73248259056754, -73.98776940590949)"
+Retail,Home Furnishings,Homeland Locksmith,229,"New York, NY",10003,212 260-7487,"229 14th Street
+New York, NY 10003
+(40.7327883600575, -73.98599774151177)"
+Retail,Home Furnishings,Hyde Park Antiques,836,"New York, NY",10003,212-477-0033,"836 Broadway
+New York, NY 10003
+(40.733651709205674, -73.99101595843524)"
+Retail,Home Furnishings,I.Q. Décor,242,"New York, NY",10003,917-261-6658,"242 14th Street
+New York, NY 10003
+(40.732858084484015, -73.98623462638486)"
+Retail,Home Furnishings,Innovation Luggage,134,"New York, NY",10011,212-924-0141,"134 5th Avenue
+New York, NY 10011
+(40.73877784477264, -73.9916005177543)"
+Retail,Home Furnishings,Jennifer Convertibles & Furniture,113,"New York, NY",10003,212-260-0522,"113 3rd Avenue
+New York, NY 10003
+(40.73295672583448, -73.98737406160902)"
+Retail,Home Furnishings,Kentshire Galleries,37,"New York, NY",10003,212-673-6644,"37 12th Street
+New York, NY 10003
+(40.733651709205674, -73.99213111775157)"
+Retail,Home Furnishings,Krup's Kitchen and Bath,11,"New York, NY",10011,212-243-5787,"11 18th Street
+New York, NY 10011
+(40.738652876052356, -73.99213828551613)"
+Retail,Home Furnishings,Lighting and Beyond,35,"New York, NY",10011,212-929-2738,"35 14th Street
+New York, NY 10011
+(40.73675437020671, -73.99540464993822)"
+Retail,Home Furnishings,Ligne Roset,250,"New York, NY",10003,212-375-1036,"250 Park Avenue
+New York, NY 10003
+(40.738333453173844, -73.9878407889095)"
+Retail,Home Furnishings,Lillian August,12,"New York, NY",10011,212-206-1883,"12 20th Street
+New York, NY 10011
+(40.7398437228201, -73.99138235082269)"
+Retail,Home Furnishings,LV Wood Floors,24,"New York, NY",10011,212-627-9663,"24 20th Street
+New York, NY 10011
+(40.74035165832396, -73.99251782622417)"
+Retail,Home Furnishings,Makari,97,"New York, NY",10003,212-995-5888,"97 3rd Avenue
+New York, NY 10003
+(40.73251805532835, -73.98770648627257)"
+Retail,Home Furnishings,Manhattan Kitchen and Bath,29,"New York, NY",10003,212-995-0500,"29 19th Street
+New York, NY 10003
+(40.738202278673896, -73.98928026691868)"
+Retail,Home Furnishings,Modani,40,"New York, NY",10003,212-796-6926,"40 19th Street
+New York, NY 10003
+(40.73808536681008, -73.98899248386931)"
+Retail,Home Furnishings,Muji,16,"New York, NY",10011,212-414-9024,"16 19th Street
+New York, NY 10011
+(40.73953327527727, -73.99244588046184)"
+Retail,Home Furnishings,NY Central Framing & Furniture Annex,102,"New York, NY",10003,212-420-6060,"102 3rd Avenue
+New York, NY 10003
+(40.732428631245796, -73.98781437201097)"
+Retail,Home Furnishings,Olde Good Things Antiques,5,"New York, NY",10003,212-989-8814,"5 16th Street
+New York, NY 10003
+(40.73704215325614, -73.9920052126675)"
+Retail,Home Furnishings,Park's Upholstery,309,"New York, NY",10003,212-228-3077,"309 14th Street
+New York, NY 10003
+(40.73214984141674, -73.98446889406193)"
+Retail,Home Furnishings,Pier 1 Imports   ,71,"New York, NY",10003,212-447-1610,"71 5th Avenue
+New York, NY 10003
+(40.73649356681824, -73.9932462770679)"
+Retail,Home Furnishings,Rafael Interior Decorators,12,"New York, NY",10011,212-337-3200,"12 18th Street
+New York, NY 10011
+(40.73895770917852, -73.99292252113736)"
+Retail,Home Furnishings,Raymour & Flanigan Furniture,133,"New York, NY",10003,646-652-0372,"133 14th Street
+New York, NY 10003
+(40.73387841813797, -73.98848519225746)"
+Retail,Home Furnishings,Restoration Anitques,109,"New York, NY",10003,212-475-4396,"109 12th Street
+New York, NY 10003
+(40.732509570228444, -73.9894511381043)"
+Retail,Home Furnishings,Samson Mini Storage,35,"New York, NY",10011,917-606-0888,"35 13th Street
+New York, NY 10011
+(40.73581734527472, -73.99524961992947)"
+Retail,Home Furnishings,Savings Paradise,250,"New York, NY",10003,212-228-9938,"250 14th Street
+New York, NY 10003
+(40.73278700500806, -73.98606624393696)"
+Retail,Home Furnishings,Seidenberg Antiques,36,"New York, NY",10003,212-260-2810,"36 12th Street
+New York, NY 10003
+(40.73360674310419, -73.99203219232834)"
+Retail,Home Furnishings,Sit Down New York,873,"New York, NY",10003,212-777-7795,"873 Broadway
+New York, NY 10003
+(40.73808536681008, -73.99003569742331)"
+Retail,Home Furnishings,Sleepy's,600,"New York, NY",10011,212-991-9886,"600 6th Avenue
+New York, NY 10011
+(40.739471155967024, -73.99525162328676)"
+Retail,Home Furnishings,Sleepy's ,22,"New York, NY",10011,212-645-9891,"22 14th Street
+New York, NY 10011
+(40.73660148546173, -73.99504492112652)"
+Retail,Home Furnishings,Sleepy's ,874,"New York, NY",10003,212-995-0044,"874 Broadway
+New York, NY 10003
+(40.737869529523095, -73.99009864996538)"
+Retail,Home Furnishings,Surprise Surprise,91,"New York, NY",10003,212-777-0990,"91 3rd Avenue
+New York, NY 10003
+(40.73237011685453, -73.98781427001778)"
+Retail,Home Furnishings,Town & Village Hardware,337,"New York, NY",10003,212-673-3192,"337 1st Avenue
+New York, NY 10003
+(40.73482982106401, -73.98000825679662)"
+Retail,Home Furnishings,Universe Antiques,833,"New York, NY",10003,212-260-9292,"833 Broadway
+New York, NY 10003
+(40.73390351937388, -73.99095300589323)"
+Retail,Home Furnishings,Waterworks,7,"New York, NY",10003,212-254-6025,"7 20th Street
+New York, NY 10003
+(40.73939837697287, -73.99031448725242)"
+Retail,Office Supplies and Stationary,A.I. Friedman,44,"New York, NY",10011,212-243-9000,"44 18th Street
+New York, NY 10011
+(40.73904962246805, -73.99321390776397)"
+Retail,Office Supplies and Stationary,Comzone,25,"New York, NY",10003,212-645-6428,"25 15th Street
+New York, NY 10003
+(40.73650043142968, -73.99260700748584)"
+Retail,Office Supplies and Stationary,Container Store,629,"New York, NY",10011,212-366-4200,"629 6th Avenue
+New York, NY 10011
+(40.740308643821365, -73.9947208434821)"
+Retail,Office Supplies and Stationary,Downtown Stationers,494,"New York, NY",10011,212-807-1649,"494 6th Avenue
+New York, NY 10011
+(40.73635898945328, -73.9975235836464)"
+Retail,Office Supplies and Stationary,Eastside Copy.com,15,"New York, NY",10003,212-807-0465,"15 13th Street
+New York, NY 10003
+(40.7349017668264, -73.99315634486499)"
+Retail,Office Supplies and Stationary,FedEx,650,"New York, NY",10003,646-638-9238,"650 6th Avenue
+New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+Retail,Office Supplies and Stationary,FedEx Office,257,"New York, NY",10003,646-602-0074,"257 Park Avenue
+New York, NY 10003
+(40.73826172036685, -73.98766899496006)"
+Retail,Office Supplies and Stationary,Jam Paper and Envelope,135,"New York, NY",10003,212-473-6666,"135 3rd Avenue
+New York, NY 10003
+(40.73380459395065, -73.9868161245584)"
+Retail,Office Supplies and Stationary,Kyotoya,23,"New York, NY",10011,212-414-0720,"23 19th Street
+New York, NY 10011
+(40.73941189021371, -73.99208707349392)"
+Retail,Office Supplies and Stationary,"Mail Boxes, etc.",511,"New York, NY",10011,212-924-4002,"511 6th Avenue
+New York, NY 10011
+(40.73676371502545, -73.99730618024762)"
+Retail,Office Supplies and Stationary,Paper Presentation,23,"New York, NY",10011,212-463-7035,"23 18th Street
+New York, NY 10011
+(40.73881674636389, -73.9925245512505)"
+Retail,Office Supplies and Stationary,Papyrus,641,"New York, NY",10011,212-741-7890,"641 6th Avenue
+New York, NY 10011
+(40.74077433967773, -73.99437042960454)"
+Retail,Office Supplies and Stationary,Print Icon,7,"New York, NY",10011,212-255-4489,"7 18th Street
+New York, NY 10011
+(40.738831804094445, -73.99262574486772)"
+Retail,Office Supplies and Stationary,Staples,5,"New York, NY",10011,212-929-6323,"5 Union Square
+New York, NY 10011
+(40.73554927868747, -73.99147461267017)"
+Retail,Office Supplies and Stationary,The Container Store,629,"New York, NY",10011,212-366-4200,"629 6th Avenue
+New York, NY 10011
+(40.740308643821365, -73.9947208434821)"
+Retail,Office Supplies and Stationary,The Village Invites,20,"New York, NY",10003,212-220-6195,"20 13th Street
+New York, NY 10003
+(40.734883780385815, -73.99312037198382)"
+Retail,Office Supplies and Stationary,University Stationary,28,"New York, NY",10003,212-366-9200,"28 12th Street
+New York, NY 10003
+(40.73403841767828, -73.99308439910266)"
+Retail,Office Supplies and Stationery,FedEx Office,4,"New York, NY",10003,212-353-3860,"4 Union Square
+New York, NY 10003
+(40.735947587962606, -73.9893301960668)"
+Retail,Office Supplies and Stationery,UPS Store,111,"New York, NY",10003,212-979-8785,"111 14th Street
+New York, NY 10003
+(40.73420096837262, -73.98926385518747)"
+Retail,Optical,All About Eyes,313,"New York, NY",10003,212-388-1668,"313 14th Street
+New York, NY 10003
+(40.732086888874676, -73.98431600931696)"
+Retail,Optical,Baccus Optician,356,"New York, NY",10003,212-674-4121,"356 19th Street
+New York, NY 10003
+(40.73483319268763, -73.98136180587895)"
+Retail,Optical,Cohen's Fashion Optical,2,"New York, NY",10011,212-989-3937,"2 14th Street
+New York, NY 10011
+(40.73600705846937, -73.99372903824292)"
+Retail,Optical,Cohen's Fashion Optical,841,"New York, NY",10003,212-475-0999,"841 Broadway
+New York, NY 10003
+(40.73396689745794, -73.99097622768353)"
+Retail,Optical,General Vision,20,"New York, NY",10011,212-229-1470,"20 14th Street
+New York, NY 10011
+(40.73624798684102, -73.99429490290528)"
+Retail,Optical,HMY Vision,212,"New York, NY",10003,,"212 3rd Avenue
+New York, NY 10003
+(40.73609298908638, -73.98517515553648)"
+Retail,Optical,Lenscrafters ,150,"New York, NY",10011,212-352-1460,"150 5th Avenue
+New York, NY 10011
+(40.73968973484038, -73.99099785775785)"
+Retail,Optical,Optyx Opticians,228,"New York, NY",10003,212-375-1062,"228 2nd Avenue
+New York, NY 10003
+(40.732333813046516, -73.984947796573)"
+Retail,Optical,Petite Optique,40,"New York, NY",10003,212-477-9515,"40 Union Square
+New York, NY 10003
+(40.7362272703127, -73.9891351371314)"
+Retail,Optical,Sol Moscot Optician,69,"New York, NY",10011,212-647-1550,"69 14th Street
+New York, NY 10011
+(40.736946451551304, -73.99578767896585)"
+Retail,Optical,Sunglass Hut,510,"New York, NY",10011,212-647-0904,"510 6th Avenue
+New York, NY 10011
+(40.73673689551687, -73.9972430761928)"
+Retail,Optical,Union Square Eyecare,235,"New York, NY",10003,212-844-2020,"235 Park Avenue
+New York, NY 10003
+(40.737851543082456, -73.98800322963712)"
+Retail,Optical,Union Square Optical,9,"New York, NY",10011,212-242-0314,"9 14th Street
+New York, NY 10011
+(40.73615974664728, -73.99393995757944)"
+Retail,Pharmacies,CVS,215,"New York, NY",10003,646-602-8237,"215 Park Avenue
+New York, NY 10003
+(40.736979200714075, -73.98865074149819)"
+Retail,Pharmacies,Duane Reade,24,"New York, NY",10003,212-989-3632,"24 14th Street
+New York, NY 10003
+(40.73551660084933, -73.99254268571404)"
+Retail,Pharmacies,Duane Reade,52,"New York, NY",10003,212-358-8206,"52 14th Street
+New York, NY 10003
+(40.734533044794375, -73.99015260928712)"
+Retail,Pharmacies,Duane Reade,196,"New York, NY",10003,,"196 3rd Avenue
+New York, NY 10003
+(40.73561223122954, -73.98548512795509)"
+Retail,Pharmacies,Duane Reade,333,"New York, NY",10003,212-529-0091,"333 14th Street
+New York, NY 10003
+(40.73169118718175, -73.98336272796593)"
+Retail,Pharmacies,Duane Reade,611,"New York, NY",10011,212-691-0952,"611 6th Avenue
+New York, NY 10011
+(40.739801519179196, -73.99509858088177)"
+Retail,Pharmacies,Duane Reade,873,"New York, NY",10003,917-534-1351,"873 Broadway
+New York, NY 10003
+(40.73808536681008, -73.99003569742331)"
+Retail,Pharmacies,Duane Reade ,254,"New York, NY",10003,212-387-7340,"254 Park Avenue
+New York, NY 10003
+(40.738333453173844, -73.9878407889095)"
+Retail,Pharmacies,GNC,10,"New York, NY",10003,212-598-1121,"10 Union Square
+New York, NY 10003
+(40.73599408290443, -73.9892977905013)"
+Retail,Pharmacies,GNC,549,"New York, NY",10011,212-924-5925,"549 6th Avenue
+New York, NY 10011
+(40.73797693630967, -73.9964080817033)"
+Retail,Pharmacies,Metro Drugs,7,"New York, NY",10011,212-627-2300,"7 14th Street
+New York, NY 10011
+(40.736133523151295, -73.99387836686847)"
+Retail,Pharmacies,Rite Aid,501,"New York, NY",10011,212-727-3720,"501 6th Avenue
+New York, NY 10011
+(40.7364976104131, -73.997503634661)"
+Retail,Pharmacies,Vitamin Shoppe,509,"New York, NY",10011,212-675-3715,"509 6th Avenue
+New York, NY 10011
+(40.736871282070524, -73.99718530755626)"
+Retail,Pharmacies,Vitamin Shoppe,24-30,"New York, NY",10003,212-254-8816,"24 30 Union Square
+New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+Retail,Pharmacies,Walgreens,145,"New York, NY",10003,212-677-0214,"145 4th Avenue
+New York, NY 10003
+(40.733887963771586, -73.98979182138295)"
+Retail,Pharmacies ,Duane Reade,141,"New York, NY",10003,212-529-7140,"141 3rd Avenue
+New York, NY 10003
+(40.73381917784906, -73.9867688712686)"
+Retail,Pharmacies ,Esquire Pharmacy,277,"New York, NY",10003,,"277 1st Avenue
+New York, NY 10003
+(40.73252755666903, -73.9816989822117)"
+Retail,Pharmacies ,Vitamin Shoppe,237,"New York, NY",10003,212-533-4748,"237 1st Avenue
+New York, NY 10003
+(40.73138294427425, -73.98257961272317)"
+Services,Banks and Finances,Amalgamated Bank,10,"New York, NY",10003,212-823-8708,"10 14th Street
+New York, NY 10003
+(40.73572914309335, -73.99296748723884)"
+Services,Banks and Finances,Apple Bank,4,"New York, NY",10003,,"4 Irving Place
+New York, NY 10003
+(40.734106908087384, -73.98864446892128)"
+Services,Banks and Finances,Bank of America,36,"New York, NY",10003,212-542-1002,"36 14th Street
+New York, NY 10003
+(40.73529746851926, -73.99192427368484)"
+Services,Banks and Finances,Bank of America,110,"New York, NY",10003,,"110 3rd Avenue
+New York, NY 10003
+(40.7328423193793, -73.98750860252096)"
+Services,Banks and Finances,Bank of America,116,"New York, NY",10011,212-633-7505,"116 5th Avenue
+New York, NY 10011
+(40.73790071244934, -73.99226556817207)"
+Services,Banks and Finances,Bank of America,240,"New York, NY",10003,646-794-1060,"240 Park Avenue
+New York, NY 10003
+(40.73799543460717, -73.98805718895886)"
+Services,Banks and Finances,Capital One Bank,31,"New York, NY",10003,212-979-5255,"31 17th Street
+New York, NY 10003
+(40.736880275290844, -73.98984683979717)"
+Services,Banks and Finances,Capital One Bank,123,"New York, NY",10003,917-522-6138,"123 3rd Avenue
+New York, NY 10003
+(40.733130102428674, -73.98729276523397)"
+Services,Banks and Finances,Chase,90,"New York, NY",10011,212-255-8121,"90 5th Avenue
+New York, NY 10011
+(40.736544694020786, -73.99325285176597)"
+Services,Banks and Finances,Chase,611,"New York, NY",10011,877-682-4273,"611 6th Avenue
+New York, NY 10011
+(40.739801519179196, -73.99509858088177)"
+Services,Banks and Finances,Chase ,835,"New York, NY",10003,212-353-1930,"835 Broadway
+New York, NY 10003
+(40.73397546513621, -73.99093501945259)"
+Services,Banks and Finances,Chase ,228-230,"New York, NY",10003,877-682-4273,"228 230 Park Avenue
+New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+Services,Banks and Finances,Citibank,52,"New York, NY",10003,,"52 14th Street
+New York, NY 10003
+(40.734533044794375, -73.99015260928712)"
+Services,Banks and Finances,Citibank,79,"New York, NY",10003,800-627-3999,"79 5th Avenue
+New York, NY 10003
+(40.73708711935757, -73.99281460249387)"
+Services,Banks and Finances,Flushing Bank,33,"New York, NY",10003,212-477-9360,"33 Irving Place
+New York, NY 10003
+(40.73529059816844, -73.9878690966715)"
+Services,Banks and Finances,H & R Block,323,"New York, NY",10003,,"323 1st Avenue
+New York, NY 10003
+(40.734202102570464, -73.98050799955567)"
+Services,Banks and Finances,HSBC,15,"New York, NY",10011,212-598-4588,"15 Union Square
+New York, NY 10011
+(40.73605638650679, -73.98946389018246)"
+Services,Banks and Finances,Liberty Income Tax,226,"New York, NY",10003,212-253-8498,"226 14th Street
+New York, NY 10003
+(40.73282433293872, -73.9860696872741)"
+Services,Banks and Finances,Regina Check Cashing Corporation,228,"New York, NY",10003,212-475-0891,"228 14th Street
+New York, NY 10003
+(40.73298247357525, -73.98652929568834)"
+Services,Banks and Finances,Sovereign Bank,251,"New York, NY",10003,212-372-0033,"251 Park Avenue
+New York, NY 10003
+(40.73826172036685, -73.98766899496006)"
+Services,Banks and Finances,T.D. Bank,90,"New York, NY",10011,212-242-6681,"90 5th Avenue
+New York, NY 10011
+(40.736544694020786, -73.99325285176597)"
+Services,Banks and Finances,T.D. Bank,260,"New York, NY",10003,212-533-6036,"260 Park Avenue
+New York, NY 10003
+(40.738333453173844, -73.9878407889095)"
+Services,Banks and Finances,Ukrainian National Federal Credit Union,215,"New York, NY",10003,212-533-2980,"215 2nd Avenue
+New York, NY 10003
+(40.73185306514705, -73.98532324998979)"
+Services,Cleaners and Shoe Repair,Alpine Cleaners and Tailors,,"New York, NY",10003,,
+Services,Cleaners and Shoe Repair,Andrade Shoe Repair,103,"New York, NY",10003,212-529-3541,"103 University Place
+New York, NY 10003
+(40.73398801777993, -73.99266348994732)"
+Services,Cleaners and Shoe Repair,A's Organic Cleaner,265,"New York, NY",10003,,"265 1st Avenue
+New York, NY 10003
+(40.732329705822565, -73.98185186695667)"
+Services,Cleaners and Shoe Repair,B.C. Dry Cleaners,30,"New York, NY",10003,212-727-7239,"30 13th Street
+New York, NY 10003
+(40.7347398888611, -73.99276064317212)"
+Services,Cleaners and Shoe Repair,Berkeley Sutton Cleaners,335,"New York, NY",10003,,"335 2nd Avenue
+New York, NY 10003
+(40.735693526928955, -73.98255105286695)"
+Services,Cleaners and Shoe Repair,Chips Cleaners,159,"New York, NY",10003,,"159 3rd Avenue
+New York, NY 10003
+(40.73439006504853, -73.98634897055608)"
+Services,Cleaners and Shoe Repair,Crystal Laundromat,350,"New York, NY",10003,,"350 20th Street
+New York, NY 10003
+(40.735165530416886, -73.98030447748434)"
+Services,Cleaners and Shoe Repair,Dan Laundry,352,"New York, NY",10003,,"352 20th Street
+New York, NY 10003
+(40.73517156343519, -73.98026006696483)"
+Services,Cleaners and Shoe Repair,Danny 2 Cleaners,188,"New York, NY",10003,,"188 3rd Avenue
+New York, NY 10003
+(40.73530646173958, -73.9857099584624)"
+Services,Cleaners and Shoe Repair,Discount Cleaners,155,"New York, NY",10003,,"155 3rd Avenue
+New York, NY 10003
+(40.73425668560421, -73.98645041407711)"
+Services,Cleaners and Shoe Repair,Discount French Dry Cleaners,230,"New York, NY",10003,212-254-0950,"230 14th Street
+New York, NY 10003
+(40.73276138039665, -73.98592579574944)"
+Services,Cleaners and Shoe Repair,Flormont Tailors,857,"New York, NY",10003,212-255-2549,"857 Broadway
+New York, NY 10003
+(40.737320943085194, -73.99024254149003)"
+Services,Cleaners and Shoe Repair,French Cleaners,335,"New York, NY",10003,,"335 1st Avenue
+New York, NY 10003
+(40.734775861742264, -73.9800532228981)"
+Services,Cleaners and Shoe Repair,French Dry Cleaners,230,"New York, NY",10003,212-254-0950,"230 14th Street
+New York, NY 10003
+(40.73276138039665, -73.98592579574944)"
+Services,Cleaners and Shoe Repair,G & M Laundromat,336,"New York, NY",10003,,"336 13th Street
+New York, NY 10003
+(40.731268935755054, -73.98458794767713)"
+Services,Cleaners and Shoe Repair,Hattan Cleaners,141,"New York, NY",10003,212-477-1740,"141 3rd Avenue
+New York, NY 10003
+(40.73381917784906, -73.9867688712686)"
+Services,Cleaners and Shoe Repair,Irving Cleaners,77,"New York, NY",10003,212-777-1237,"77 Irving Place
+New York, NY 10003
+(40.73696665103033, -73.98664760572923)"
+Services,Cleaners and Shoe Repair,Jan Sun Dry Cleaning,125,"New York, NY",10003,,"125 17th Street
+New York, NY 10003
+(40.73587834070102, -73.98730883952659)"
+Services,Cleaners and Shoe Repair,Joe's Custom Tailors,317,"New York, NY",10003,212-533-0087,"317 14th Street
+New York, NY 10003
+(40.73202393633261, -73.9841721177923)"
+Services,Cleaners and Shoe Repair,John's Shoe Repair,32,"New York, NY",10003,212-533-4110,"32 Irving Place
+New York, NY 10003
+(40.73526494856521, -73.98780515304507)"
+Services,Cleaners and Shoe Repair,Joy Dry Cleaners,53,"New York, NY",10011,212-243-3225,"53 16th Street
+New York, NY 10011
+(40.738454088842104, -73.99535069061648)"
+Services,Cleaners and Shoe Repair,Laundromat,201,"New York, NY",10003,,"201 1st Avenue
+New York, NY 10003
+(40.73025227193489, -73.98340769406735)"
+Services,Cleaners and Shoe Repair,Laundromat by Dexter,325,"New York, NY",10003,,"325 1st Avenue
+New York, NY 10003
+(40.734314817593834, -73.98042628116374)"
+Services,Cleaners and Shoe Repair,M & N Cleaners,207,"New York, NY",10003,212-529-1777,"207 14th Street
+New York, NY 10003
+(40.733022183785124, -73.98653733472935)"
+Services,Cleaners and Shoe Repair,Michael Parisian Tailor,212,"New York, NY",10003,,"212 3rd Avenue
+New York, NY 10003
+(40.73609298908638, -73.98517515553648)"
+Services,Cleaners and Shoe Repair,New Cleaners,134,"New York, NY",10003,,"134 17th Street
+New York, NY 10003
+(40.73554927868747, -73.9865912940511)"
+Services,Cleaners and Shoe Repair,New Village Cleaners,511,"New York, NY",10011,212-675-9005,"511 6th Avenue
+New York, NY 10011
+(40.73676371502545, -73.99730618024762)"
+Services,Cleaners and Shoe Repair,Next Cleaners,20,"New York, NY",10003,646-476-2525,"20 12th Street
+New York, NY 10003
+(40.73419152430446, -73.99351726271092)"
+Services,Cleaners and Shoe Repair,Prestige II Laundromat,351,"New York, NY",10003,,"351 18th Street
+New York, NY 10003
+(40.734002444797056, -73.98115039577385)"
+Services,Cleaners and Shoe Repair,Rainbow Cleaners,36,"New York, NY",10011,212-627-4677,"36 15th Street
+New York, NY 10011
+(40.73744684816933, -73.99491002282213)"
+Services,Cleaners and Shoe Repair,Sharon's Laundry Service,240,"New York, NY",10003,212-477-5509,"240 13th Street
+New York, NY 10003
+(40.732188612040154, -73.98678335887966)"
+Services,Cleaners and Shoe Repair,Shoe Repair,23,"New York, NY",10003,212-929-5422,"23 17th Street
+New York, NY 10003
+(40.73736590918668, -73.99090803979175)"
+Services,Cleaners and Shoe Repair,Shoe Repair,132,"New York, NY",10003,,"132 17th Street
+New York, NY 10003
+(40.73558525156864, -73.986681226254)"
+Services,Cleaners and Shoe Repair,Step by Step Shoe Repair,323,"New York, NY",10003,,"323 2nd Avenue
+New York, NY 10003
+(40.73527048885842, -73.98281414152802)"
+Services,Cleaners and Shoe Repair,Steve's Express Shoe Repair,311,"New York, NY",10003,212-228-9368,"311 14th Street
+New York, NY 10003
+(40.73211386853558, -73.9843969482996)"
+Services,Cleaners and Shoe Repair,Symphony Cleaners,40,"New York, NY",10003,212-228-3003,"40 12th Street
+New York, NY 10003
+(40.733561777002706, -73.99192427368484)"
+Services,Cleaners and Shoe Repair,Tower Cleaners,106,"New York, NY",10003,212-254-0015,"106 15th Street
+New York, NY 10003
+(40.73508735235229, -73.98939501261385)"
+Services,Cleaners and Shoe Repair,Triple A Cleaners,128,"New York, NY",10003,212-477-0155,"128 4th Avenue
+New York, NY 10003
+(40.73309879533759, -73.98998044832607)"
+Services,Cleaners and Shoe Repair,Union Cleaners,20,"New York, NY",10011,212-337-9987,"20 15th Street
+New York, NY 10011
+(40.737177051560536, -73.99428049740163)"
+Services,Cleaners and Shoe Repair,Victor's Cleaners,495,"New York, NY",10011,212-243-5370,"495 6th Avenue
+New York, NY 10011
+(40.73633622298301, -73.99762352246623)"
+Services,Cleaners and Shoe Repair,WV Cleaners,356,"New York, NY",10003,,"356 19th Street
+New York, NY 10003
+(40.73483319268763, -73.98136180587895)"
+Services,Cleaners and Shoe Repair,Young's Cleaner,22,"New York, NY",10003,212-627-3624,"22 14th Street
+New York, NY 10003
+(40.735555309555394, -73.99263656544944)"
+Services,Health and Fitness,19th Street Gym,22,"New York, NY",10011,212-414-5800,"22 19th Street
+New York, NY 10011
+(40.7393595697404, -73.9921118105773)"
+Services,Health and Fitness,Atmananda Yoga Sequence,67,"New York, NY",10003,212-625-1511,"67 Irving Place
+New York, NY 10003
+(40.736628465122635, -73.98685209743962)"
+Services,Health and Fitness,Bally's Total Fitness,641,"New York, NY",10011,212-645-4565,"641 6th Avenue
+New York, NY 10011
+(40.74077433967773, -73.99437042960454)"
+Services,Health and Fitness,Bikram Yoga,841,"New York, NY",10003,212-929-8926,"841 Broadway
+New York, NY 10003
+(40.73396689745794, -73.99097622768353)"
+Services,Health and Fitness,Clay Health Club and Spa,25,"New York, NY",10011,212-206-9200,"25 14th Street
+New York, NY 10011
+(40.73636953461515, -73.99443268326714)"
+Services,Health and Fitness,Crunch,113,"New York, NY",10003,212-533-0001,"113 4th Avenue
+New York, NY 10003
+(40.7328423193793, -73.98999972454214)"
+Services,Health and Fitness,Definitions Gym,19,"New York, NY",10003,212-367-7272,"19 Union Square
+New York, NY 10003
+(40.73607087844216, -73.98945319375397)"
+Services,Health and Fitness,Equinox,897,"New York, NY",10003,212-774-6363,"897 Broadway
+New York, NY 10003
+(40.738929413387076, -73.9898541219119)"
+Services,Health and Fitness,International Martial Arts Center,4,"New York, NY",10011,212-242-5759,"4 18th Street
+New York, NY 10011
+(40.73849579418372, -73.99191612359682)"
+Services,Health and Fitness,Jenny Craig,545,"New York, NY",10011,212-590-3676,"545 6th Avenue
+New York, NY 10011
+(40.737851543082456, -73.9964658499328)"
+Services,Health and Fitness,Jivamukti Yoga ,841,"New York, NY",10003,212-353-0214,"841 Broadway
+New York, NY 10003
+(40.73396689745794, -73.99097622768353)"
+Services,Health and Fitness,Kundalini Yoga East,873,"New York, NY",10003,212-982-5959,"873 Broadway
+New York, NY 10003
+(40.73808536681008, -73.99003569742331)"
+Services,Health and Fitness,Laughing Lotus Yoga,59,"New York, NY",10011,212-414-2903,"59 19th Street
+New York, NY 10011
+(40.73989827029378, -73.99322934048593)"
+Services,Health and Fitness,Lucille Roberts,80,"New York, NY",10003,212-255-3999,"80 5th Avenue
+New York, NY 10003
+(40.7359832097103, -73.99366159350612)"
+Services,Health and Fitness,Manhattan Velo,141,"New York, NY",10003,212-253-6788,"141 17th Street
+New York, NY 10003
+(40.73547733292514, -73.98642042286554)"
+Services,Health and Fitness,Metro Bicycles,332,"New York, NY",10003,212-228-4344,"332 14th Street
+New York, NY 10003
+(40.731808099045566, -73.9836505110153)"
+Services,Health and Fitness,Metro Bicycles,546,"New York, NY",10011,212-255-5100,"546 6th Avenue
+New York, NY 10011
+(40.73788751596368, -73.99642987705164)"
+Services,Health and Fitness,Moonheart Healing Arts Center,59,"New York, NY ",10011,917-843-2555,"59 19th Street
+New York, NY 10011
+(40.73989827029378, -73.99322934048593)"
+Services,Health and Fitness,Movement Salon,190,"New York, NY",10003,212-420-7242,"190 3rd Avenue
+New York, NY 10003
+(40.73536042106133, -73.98567398558123)"
+Services,Health and Fitness,New York Health and Raquet Club,24,"New York, NY",10003,212-924-4600,"24 13th Street
+New York, NY 10003
+(40.734802841403166, -73.99292252113736)"
+Services,Health and Fitness,New York Sports Club,10,"New York, NY",10003,212-477-1800,"10 Irving Place
+New York, NY 10003
+(40.73448224912951, -73.98836042705153)"
+Services,Health and Fitness,New York Sports Club,34A,"New York, NY",10011,212-337-9900,"34A 14th Street
+New York, NY 10011
+(40.73643537555819, -73.99473501982652)"
+Services,Health and Fitness,Nimble Fitness,42,"New York, NY",10003,212-633-9030,"42 12th Street
+New York, NY 10003
+(40.73352580412154, -73.9918433347022)"
+Services,Health and Fitness,OM Yoga Center,826,"New York, NY",10003,212-254-9642,"826 Broadway
+New York, NY 10003
+(40.733291980393915, -73.99110589063821)"
+Services,Health and Fitness,Prana Power Yoga,862,"New York, NY",10003,212-460-YOGA,"862 Broadway
+New York, NY 10003
+(40.73728497020403, -73.99025153471035)"
+Services,Health and Fitness,Pure Fitness,244,"New York, NY",10003,212-598-9800,"244 14th Street
+New York, NY 10003
+(40.732840314606726, -73.98619253075321)"
+Services,Health and Fitness,Rinaldi Pilates,327,"New York, NY",10003,212-228-5532,"327 12th Street
+New York, NY 10003
+(40.730531061764, -73.98474768389104)"
+Services,Health and Fitness,Soulcycle,12,"New York, NY",10003,212-208-1300,"12 18th Street
+New York, NY 10003
+(40.73814831935215, -73.99099797199466)"
+Services,Health and Fitness,Spokesman Cycles NYC,34,"New York, NY",10003,212-995-0450,"34 Irving Place
+New York, NY 10003
+(40.735301620127046, -73.98777884546539)"
+Services,Health and Fitness,Tao Yoga,37,"New York, NY",10011,212-691-7799,"37 Union Square
+New York, NY 10011
+(40.736889268511106, -73.99052133131914)"
+Services,Health and Fitness,The Shala House,815,"New York, NY",10003,212-979-9988,"815 Broadway
+New York, NY 10003
+(40.733040170225706, -73.99115984995996)"
+Services,Health and Fitness,Tiger Schulmann's Mixed Martial Arts,39,"New York, NY",10011,800-620-3971,"39 19th Street
+New York, NY 10011
+(40.73997394307162, -73.9934980872361)"
+Services,Health and Fitness,Wet Nose Gym,34,"New York, NY",10003,212-463-7140,"34 13th Street
+New York, NY 10003
+(40.73470101130139, -73.99274721416842)"
+Services,Health and Fitness,World Martial Arts Center,69,"New York, NY",10011,212-941-8771,"69 14th Street
+New York, NY 10011
+(40.736946451551304, -73.99578767896585)"
+Services,Health and Fitness,YogaWorks,138,"New York, NY",10011,212-647-9642,"138 5th Avenue
+New York, NY 10011
+(40.73888576341619, -73.99151957877166)"
+Services,Lodging,Chelsea Inn,46,"New York, NY",10011,212-645-8989,"46 17th Street
+New York, NY 10011
+(40.73884079731471, -73.99441539570603)"
+Services,Lodging,Hotel Seventeen,225,"New York, NY",10003,212-475-2845,"225 17th Street
+New York, NY 10003
+(40.734804686306944, -73.98476931626564)"
+Services,Lodging,Hotel Verite,893,"New York, NY",10003,646-398-9664,"893 Broadway
+New York, NY 10003
+(40.73881381765386, -73.98984683979717)"
+Services,Lodging,The Inn at Irving Place,56,"New York, NY",10003,212-533-4600,"56 Irving Place
+New York, NY 10003
+(40.73609786512537, -73.98722981269191)"
+Services,Lodging,Union Square Inn,209,"New York, NY",10003,212-614-0500,"209 14th Street
+New York, NY 10003
+(40.7329772176837, -73.98644740252644)"
+Services,Lodging,W Hotel,201,"New York, NY",10003,212-253-9119,"201 Park Avenue
+New York, NY 10003
+(40.736808329528515, -73.98877664658232)"
+Services,Medical and Veterinary,Beth Israel Medical Center,285,"New York, NY ",10003,212-420-2000,"285 1st Avenue
+New York, NY 10003
+(40.73281066791205, -73.9815327514761)"
+Services,Medical and Veterinary,Canis Minor,238,"New York, NY",10003,,"238 3rd Avenue
+New York, NY 10003
+(40.73681693961493, -73.98465770794526)"
+Services,Medical and Veterinary,Fifth Avenue Veterinary Specialists,1,"New York, NY",10011,212-924-3311,"1 15th Street
+New York, NY 10011
+(40.736723576422094, -73.99313409802758)"
+Services,Medical and Veterinary,Gotham Animal Clinic,329,"New York, NY",10003,,"329 2nd Avenue
+New York, NY 10003
+(40.73572914309335, -73.98248139237722)"
+Services,Medical and Veterinary,Gramercy Animal Hospital,37,"New York, NY",10003,212-477-4080,"37 19th Street
+New York, NY 10003
+(40.73813033291157, -73.98909140929254)"
+Services,Medical and Veterinary,Hospital for Joint Diseases,301,"New York, NY",10003,212-598-6000,"301 17th Street
+New York, NY 10003
+(40.73427985830472, -73.98352488478935)"
+Services,Medical and Veterinary,New York Foundling Hospital,590,"New York, NY",10011,212-633-9300,"590 6th Avenue
+New York, NY 10011
+(40.73923255723525, -73.99542200154063)"
+Services,Medical and Veterinary,Sidney Hillman Health Center,16,"New York, NY",10003,212-924-7744,"16 16th Street
+New York, NY 10003
+(40.73715725141233, -73.99235023724253)"
+Services,Medical and Veterinary,The New York Eye & Ear Infirmary,310,"New York, NY",10003,212-979-4000,"310 14th Street
+New York, NY 10003
+(40.732220645343816, -73.98472061816392)"
+Services,Medical and Veterinary,Union Square Dental,29,"New York, NY",10011,212-675-7877,"29 19th Street
+New York, NY 10011
+(40.739767099004894, -73.99300346012001)"
+Services,Spas and Salons,A Spa & Nails,53,"New York, NY",10003,212-505-0146,"53 Irving Place
+New York, NY 10003
+(40.73600279540167, -73.98734440163307)"
+Services,Spas and Salons,Acqua Beauty Bar,7,"New York, NY",10003,212-620-4329,"7 14th Street
+New York, NY 10003
+(40.73588023182016, -73.99327322372638)"
+Services,Spas and Salons,Albert's Hair Salon,201,"New York, NY",10003,,"201 16th Street
+New York, NY 10003
+(40.734628220570805, -73.98615233249988)"
+Services,Spas and Salons,Angel's Nails,174,"New York, NY",10003,,"174 3rd Avenue
+New York, NY 10003
+(40.73486998558766, -73.98607358092222)"
+Services,Spas and Salons,Aroma Nails and Spa,211,"New York, NY",10003,,"211 1st Avenue
+New York, NY 10003
+(40.73048628307992, -73.98327323364724)"
+Services,Spas and Salons,Beach Bum Tanning,25,"New York, NY",10011,212-645-8261,"25 14th Street
+New York, NY 10011
+(40.73636953461515, -73.99443268326714)"
+Services,Spas and Salons,Bellissimo Nails and Spa,125,"New York, NY",10003,212-677-2392,"125 4th Avenue
+New York, NY 10003
+(40.73316181797323, -73.98989235848174)"
+Services,Spas and Salons,Besu,234,"New York, NY",10003,,"234 3rd Avenue
+New York, NY 10003
+(40.73667745476819, -73.98475703806339)"
+Services,Spas and Salons,Biscuits and Bath,41,"New York, NY",10011,212-419-2500,"41 13th Street
+New York, NY 10011
+(40.73589457018323, -73.99543520882249)"
+Services,Spas and Salons,Blooming Nails & Spa,260,"New York, NY",10003,212-505-6245,"260 Park Avenue
+New York, NY 10003
+(40.738333453173844, -73.9878407889095)"
+Services,Spas and Salons,Brows Zone,22,"New York, NY",10003,212-414-9663,"22 14th Street
+New York, NY 10003
+(40.735555309555394, -73.99263656544944)"
+Services,Spas and Salons,Buddha Nails and Spa,517,"New York, NY",10011,646-669-9717,"517 6th Avenue
+New York, NY 10011
+(40.73698819393434, -73.9970953753533)"
+Services,Spas and Salons,C Li A Tenga Hair Salon,351,"New York, NY",10003,,"351 19th Street
+New York, NY 10003
+(40.73472190242052, -73.98101549746946)"
+Services,Spas and Salons,Chinese Qi Gung Spa,192,"New York, NY",10003,,"192 2nd Avenue
+New York, NY 10003
+(40.73115159396423, -73.98581787710589)"
+Services,Spas and Salons,City Sun Tanning,50,"New York, NY",10003,212-353-9700,"50 13th Street
+New York, NY 10003
+(40.734356926390085, -73.99192384728534)"
+Services,Spas and Salons,Complete Body and Spa,22,"New York, NY",10011,212-777-7719,"22 19th Street
+New York, NY 10011
+(40.7393595697404, -73.9921118105773)"
+Services,Spas and Salons,Dashing Diva Salon,149,"New York, NY",10003,,"149 3rd Avenue
+New York, NY 10003
+(40.73405661643772, -73.98660257935865)"
+Services,Spas and Salons,Dramatics NYC,77,"New York, NY",10003,212-243-0068,"77 5th Avenue
+New York, NY 10003
+(40.73708236728621, -73.99277276476754)"
+Services,Spas and Salons,Floris Spa,74,"New York, NY",10011,212-414-9533,"74 5th Avenue
+New York, NY 10011
+(40.735567265128054, -73.9939297618102)"
+Services,Spas and Salons,Fresh Nail,27,"New York, NY",10011,212-206-6988,"27 15th Street
+New York, NY 10011
+(40.73726698376345, -73.99448734146836)"
+Services,Spas and Salons,Gigi Nail Spa,207,"New York, NY",10003,212-673-7628,"207 14th Street
+New York, NY 10003
+(40.733022183785124, -73.98653733472935)"
+Services,Spas and Salons,Groom-O-Rama Inc.,496,"New York, NY",10011,212-627-2899,"496 6th Avenue
+New York, NY 10011
+(40.73640363461533, -73.99752704992738)"
+Services,Spas and Salons,Hair Salon,132,"New York, NY",10003,,"132 17th Street
+New York, NY 10003
+(40.73558525156864, -73.986681226254)"
+Services,Spas and Salons,Hair Trendz,329,"New York, NY",10003,212-982-0362,"329 14th Street
+New York, NY 10003
+(40.73183507870647, -73.98372245677763)"
+Services,Spas and Salons,Hairmates,23,"New York, NY",10003,646-692-4750,"23 17th Street
+New York, NY 10003
+(40.73736590918668, -73.99090803979175)"
+Services,Spas and Salons,Heaven Spa,15,"New York, NY",10011,212-206-1884,"15 17th Street
+New York, NY 10011
+(40.73833717697829, -73.99321929740705)"
+Services,Spas and Salons,Ibiza Salon,139,"New York, NY",10003,212-477-4057,"139 4th Avenue
+New York, NY 10003
+(40.733626009283654, -73.98980261345521)"
+Services,Spas and Salons,Insitu Salon,77,"New York, NY",10003,212-533-1130,"77 Irving Place
+New York, NY 10003
+(40.73696665103033, -73.98664760572923)"
+Services,Spas and Salons,International Haircutters,320,"New York, NY",10003,212-529-1457,"320 14th Street
+New York, NY 10003
+(40.731987963451445, -73.98409117880965)"
+Services,Spas and Salons,Jean Ferrè Hair Salon,4,"New York, NY",10011,212-293-0752,"4 14th Street
+New York, NY 10011
+(40.736033828287425, -73.9937919120919)"
+Services,Spas and Salons,Jeniette New York Day Spa,60,"New York, NY",10003,212-529-1616,"60 13th Street
+New York, NY 10003
+(40.73403991537476, -73.99114717029777)"
+Services,Spas and Salons,Kings Hairstyling ,225,"New York, NY",10003,212-475-3939,"225 14th Street
+New York, NY 10003
+(40.732869299040146, -73.98617760591765)"
+Services,Spas and Salons,Kiyora Salon,15,"New York, NY",10003,212-414-4488,"15 12th Street
+New York, NY 10003
+(40.73420928886384, -73.99347110757526)"
+Services,Spas and Salons,Lan's Spa,143,"New York, NY",10003,212-777-6388,"143 4th Avenue
+New York, NY 10003
+(40.73379790422486, -73.98978529986576)"
+Services,Spas and Salons,Lifestyle Salon,822,"New York, NY",10003,212-228-5577,"822 Broadway
+New York, NY 10003
+(40.73331759921787, -73.991064916231)"
+Services,Spas and Salons,Ling Skin Care,12,"New York, NY",10003,212-989-8833,"12 16th Street
+New York, NY 10003
+(40.7371878958058, -73.99242314976493)"
+Services,Spas and Salons,Looks Threading Salon,240,"New York, NY",10003,212-228-8575,"238 14th Street
+New York, NY 10003
+(40.73263547531252, -73.98563801270006)"
+Services,Spas and Salons,Lugo's Mecca of Hair,205,"New York, NY",10003,,"205 1st Avenue
+New York, NY 10003
+(40.73035119735812, -73.98333574830502)"
+Services,Spas and Salons,Luxe Beauty Nail Salon,544,"New York, NY",10011,212-206-7973,"544 6th Avenue
+New York, NY 10011
+(40.73779758376071, -73.99650182281397)"
+Services,Spas and Salons,Marc's Barber Shop,329,"New York, NY",10003,,"329 14th Street
+New York, NY 10003
+(40.73183507870647, -73.98372245677763)"
+Services,Spas and Salons,Nail 22 II,344,"New York, NY",10003,,"344 16th Street
+New York, NY 10003
+(40.732997418482974, -73.98244239657969)"
+Services,Spas and Salons,Nancy Nail and Spas,212,"New York, NY",10003,,"212 3rd Avenue
+New York, NY 10003
+(40.73609298908638, -73.98517515553648)"
+Services,Spas and Salons,Novella Salon,108,"New York, NY",10003,,"108 3rd Avenue
+New York, NY 10003
+(40.73276138039665, -73.98757155506303)"
+Services,Spas and Salons,Pangea Spa and Salon,13,"New York, NY",10011,212-337-9600,"13 17th Street
+New York, NY 10011
+(40.73830120409713, -73.9931383584244)"
+Services,Spas and Salons,Pastel Nail & Spa,193,"New York, NY",10003,212-477-0002,"193 2nd Avenue
+New York, NY 10003
+(40.73115159396423, -73.98581787710589)"
+Services,Spas and Salons,Perfect Glow Beauty Salon,338,"New York, NY",10003,212-539-1436,"338 14th Street
+New York, NY 10003
+(40.73170018040207, -73.98339870084709)"
+Services,Spas and Salons,Pet Central,55,"New York, NY",10011,212-929-7699,"55 16th Street
+New York, NY 10011
+(40.73849006172327, -73.99543162959912)"
+Services,Spas and Salons,Queen Jane's Beauty Salon,323,"New York, NY",10003,,"323 2nd Avenue
+New York, NY 10003
+(40.73527048885842, -73.98281414152802)"
+Services,Spas and Salons,Rehoboth Spa,55,"New York, NY",10011,212-462-4957,"55 14th Street
+New York, NY 10011
+(40.73676288704266, -73.99535654390279)"
+Services,Spas and Salons,Rehoboth Spa,126,"New York, NY",10003,212-255-9303,"126 University Place
+New York, NY 10003
+(40.73481183462343, -73.99203219232834)"
+Services,Spas and Salons,Ricky's NYC ,7,"New York, NY",10003,212-691-7930,"7 14th Street
+New York, NY 10003
+(40.73588023182016, -73.99327322372638)"
+Services,Spas and Salons,Ryan Darius Salon,82,"New York, NY",10011,212-255-3579,"82 12th Street
+New York, NY 10011
+(40.73585504817743, -73.99738315840273)"
+Services,Spas and Salons,Sacha & Olivier,6,"New York, NY",10011,212-255-1100,"6 18th Street
+New York, NY 10011
+(40.73884979053503, -73.99267071096915)"
+Services,Spas and Salons,Sally Spa,165,"New York, NY",10003,,"165 3rd Avenue
+New York, NY 10003
+(40.73459013423792, -73.98619680525712)"
+Services,Spas and Salons,Sally's Nail Spa,2,"New York, NY",10011,212-989-8866,"2 14th Street
+New York, NY 10011
+(40.73600705846937, -73.99372903824292)"
+Services,Spas and Salons,Sassoon Salon,32,"New York, NY",10011,212-229-2200,"32 18th Street
+New York, NY 10011
+(40.73928146510906, -73.9936869448623)"
+Services,Spas and Salons,Sei Tomoko Salon,240,"New York, NY",10003,212-533-6613,"240 13th Street
+New York, NY 10003
+(40.732188612040154, -73.98678335887966)"
+Services,Spas and Salons,Silk Day Spa,47,"New York, NY",10011,212-255-6457,"47 13th Street
+New York, NY 10011
+(40.735972408383915, -73.99562014393723)"
+Services,Spas and Salons,Spa Ology,241,"New York, NY",10003,212-460-9662,"241 14th Street
+New York, NY 10003
+(40.73258151599077, -73.98550311439567)"
+Services,Spas and Salons,Spring Star Nail Inc.,490,"New York, NY",10011,212-929-2333,"490 6th Avenue
+New York, NY 10011
+(40.736267950406365, -73.9975912126527)"
+Services,Spas and Salons,Stella Nail and Spa,209,"New York, NY",10003,,"209 1st Avenue
+New York, NY 10003
+(40.73044112956103, -73.9832638025427)"
+Services,Spas and Salons,Studio Mo' Hair,243,"New York, NY",10003,212-353-1300,"243 13th Street
+New York, NY 10003
+(40.73195199057028, -73.98614163303642)"
+Services,Spas and Salons,Sunny Nails,44A,"New York, NY",10003,212-254-1513,"44A Union Square
+New York, NY 10003
+(40.73624785304746, -73.989120435178)"
+Services,Spas and Salons,Supple Spa,55,"New York, NY",10011,212-929-5948,"55 19th Street
+New York, NY 10011
+(40.7401538074775, -73.99392076858987)"
+Services,Spas and Salons,The Dry Bar,4,"New York, NY",10011,212-561-5392,"4 16th Street
+New York, NY 10011
+(40.737355799860666, -73.99282146155922)"
+Services,Spas and Salons,Threading Salon,209,"New York, NY",10003,,"209 1st Avenue
+New York, NY 10003
+(40.73044112956103, -73.9832638025427)"
+Services,Spas and Salons,Top Beauty Spa,192,"New York, NY",10003,,"192 2nd Avenue
+New York, NY 10003
+(40.73115159396423, -73.98581787710589)"
+Services,Spas and Salons,Tui-Na Center Inc,498,"New York, NY",10011,212-675-0728,"498 6th Avenue
+New York, NY 10011
+(40.736448600716756, -73.99750007026648)"
+Services,Spas and Salons,Venetian Salon,157,"New York, NY",10003,212-533-7700,"157 3rd Avenue
+New York, NY 10003
+(40.734425126150825, -73.98636646354379)"
+Services,Spas and Salons,Vogue Nail Salon,491,"New York, NY",10011,212-989-4106,"491 6th Avenue
+New York, NY 10011
+(40.736228631378005, -73.99770344765852)"

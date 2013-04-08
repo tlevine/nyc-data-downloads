@@ -1,0 +1,1194 @@
+ELECTION,OFFICECD,CANDID,CANCLASS,CANDLAST,CANDFIRST,CANDMI,COMMITTEE,FILING,SCHEDULE,PAGENO,SEQUENCENO,REFNO,INV_DATE,DATE,NAME,C_CODE,ORG_IND,STRNO,STRNAME,APARTMENT,PAY_METHOD,AMNT,PURPOSECD,PURPOSE,EXPLAIN,EXEMPTCD,RR_IND,SEG_IND,Location 1
+ELECTION,OFFICECD,CANDID,CANCLASS,CANDLAST,CANDFIRST,CANDMI,COMMITTEE,FILING,SCHEDULE,PAGENO,SEQUENCENO,REFNO,INV_DATE,DATE,NAME,C_CODE,ORG_IND,STRNO,STRNAME,APARTMENT,PAY_METHOD,AMNT,PURPOSECD,PURPOSE,EXPLAIN,EXEMPTCD,RR_IND,SEG_IND,
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008013,02/23/2010 08:00:00 AM +0000,02/25/2010 08:00:00 AM +0000,17 Murray Street Restaurant,OTHR,Y,17,Murray Street,,Full,26.7,FUNDR,Fundraising,meeting,,N,Y,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,LW,UN,Recchia,Domenic,M,K,1,F,,,R0001368,04/01/2010 07:00:00 AM +0000,04/09/2010 07:00:00 AM +0000,3 Star Restaurant,OTHR,Y,1611,Avenue U,,Full,450,OTHER,Other: explntion,Breakfast Catering,,N,N,"Brooklyn, NY 11229
+(40.60123350732056, -73.94436854117521)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008189,04/05/2010 07:00:00 AM +0000,06/02/2010 07:00:00 AM +0000,"40 Worth Associates, LLC",OTHR,Y,125,Park Avenue,11,Full,1300,RENTO,Office Rent,July Rent,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008191,04/05/2010 07:00:00 AM +0000,06/02/2010 07:00:00 AM +0000,"40 Worth Associates, LLC",OTHR,Y,125,Park Avenue,11,Full,1300,RENTO,Office Rent,August rent,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007530,05/25/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,"40 Worth Associates, LLC",OTHR,Y,125,Park Avenue,11,Full,1300,RENTO,Office Rent,office rent june,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007904,01/26/2010 08:00:00 AM +0000,02/07/2010 08:00:00 AM +0000,"40 Worth Associates, LLC",OTHR,Y,125,Park Avenue,11,Full,2405,RENTO,Office Rent,Office Rent,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007899,03/01/2010 08:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,"40 Worth Associates, LLC",OTHR,Y,125,Park Avenue,11,Full,1300,RENTO,Office Rent,rent,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007895,05/01/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,"40 Worth Associates, LLC",OTHR,Y,125,Park Avenue,11,Full,1300,RENTO,Office Rent,rent,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007387,02/24/2010 08:00:00 AM +0000,03/11/2010 08:00:00 AM +0000,"40 Worth Associates, LLC",OTHR,Y,125,Park Avenue,11,Full,1300,RENTO,Office Rent,Office Rent,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001826,03/31/2010 07:00:00 AM +0000,03/31/2010 07:00:00 AM +0000,504 Democratic Club,PCOMP,Y,332,"East 29th Street, 5A",,Full,75,OTHER,Other: explntion,dinner ticket,,N,N,"New York, NY 10016
+(40.745242969987146, -73.97823298586354)"
+2013,6,LW,UN,Recchia,Domenic,M,K,1,F,,,R0001365,03/17/2010 07:00:00 AM +0000,03/17/2010 07:00:00 AM +0000,A&S Pork Stores,CORP,Y,361,Avenue X,,Full,1385,OTHER,Other: explntion,Catering,,N,N,"Brooklyn, NY 11223
+(40.596939623165156, -73.97331147204676)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007447,04/21/2010 07:00:00 AM +0000,04/23/2010 07:00:00 AM +0000,ACE Hardware,CORP,Y,160,West Broadway,,Full,5.44,OTHER,Other: explntion,Misc.,,N,N,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007866,06/29/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,1106.76,OFFCE,Office Expenses,Payrl tax & benefit,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007867,06/29/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,19.69,OFFCE,Office Expenses,payrol tax & benefit,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007862,06/14/2010 07:00:00 AM +0000,06/14/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,1272.97,OFFCE,Office Expenses,payroll liabilities,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007864,06/25/2010 07:00:00 AM +0000,06/25/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,84.5,OFFCE,Office Expenses,Payrll Tax & benefit,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007855,05/21/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,84.5,OFFCE,Office Expenses,Payrl tax & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007858,05/27/2010 07:00:00 AM +0000,05/27/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,965.96,OFFCE,Office Expenses,payrl tax & benefit,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007844,04/23/2010 07:00:00 AM +0000,04/23/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,80,OFFCE,Office Expenses,Payrl tax & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007845,04/29/2010 07:00:00 AM +0000,04/29/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,965.96,OFFCE,Office Expenses,Payrl tax & benefit,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007846,04/29/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,18.57,OFFCE,Office Expenses,Payrl Tax & Benefit,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007851,05/07/2010 07:00:00 AM +0000,05/07/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,84.5,OFFCE,Office Expenses,payrl tax & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007852,05/13/2010 07:00:00 AM +0000,05/13/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,1272.97,OFFCE,Office Expenses,Payrl tax & benefit,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007853,05/13/2010 07:00:00 AM +0000,05/13/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,20.81,OFFCE,Office Expenses,Payrl tax & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007822,01/15/2010 08:00:00 AM +0000,01/15/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,3068.81,OFFCE,Office Expenses,Payroll liabilities,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007824,01/29/2010 08:00:00 AM +0000,01/29/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,3068.82,OFFCE,Office Expenses,Payroll Liabilities,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007825,02/01/2010 08:00:00 AM +0000,02/01/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,44.49,OFFCE,Office Expenses,"payroll tax, benefit",,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007826,02/11/2010 08:00:00 AM +0000,02/11/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,3068.81,OFFCE,Office Expenses,payroll liabilities,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007828,02/25/2010 08:00:00 AM +0000,02/25/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,943.17,OFFCE,Office Expenses,Payroll tax,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007829,02/25/2010 08:00:00 AM +0000,02/25/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,17.29,OFFCE,Office Expenses,Payroll tx and benef,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007830,03/05/2010 08:00:00 AM +0000,03/05/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,80,OFFCE,Office Expenses,Payrl tax & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007831,03/08/2010 08:00:00 AM +0000,03/08/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,692.9,OFFCE,Office Expenses,Payrl tx & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007833,03/12/2010 08:00:00 AM +0000,03/12/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,943.17,OFFCE,Office Expenses,"payrl, tax, benefit",,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007834,03/12/2010 08:00:00 AM +0000,03/12/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,17.29,OFFCE,Office Expenses,Payrl Tx & Benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007835,03/19/2010 07:00:00 AM +0000,03/19/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,80,OFFCE,Office Expenses,Payrl Tax & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007837,03/30/2010 07:00:00 AM +0000,03/30/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,591.58,OFFCE,Office Expenses,Payrl Tax & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007838,03/30/2010 07:00:00 AM +0000,03/30/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,14.6,OFFCE,Office Expenses,Payrl Tax & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007840,04/09/2010 07:00:00 AM +0000,04/09/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,80,OFFCE,Office Expenses,Payrl Tax & Benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007841,04/14/2010 07:00:00 AM +0000,04/14/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,538.28,OFFCE,Office Expenses,Payrl tax & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007842,04/14/2010 07:00:00 AM +0000,04/14/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,14.6,OFFCE,Office Expenses,Payrl tax & benefits,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008076,06/04/2010 07:00:00 AM +0000,06/04/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,84.5,OFFCE,Office Expenses,adp fees,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008078,06/14/2010 07:00:00 AM +0000,06/14/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,20.81,OFFCE,Office Expenses,adp fee,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007988,07/09/2010 07:00:00 AM +0000,07/09/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,84.5,OFFCE,Office Expenses,payrl tx & benefit,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007860,05/27/2010 07:00:00 AM +0000,05/27/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,18.57,OFFCE,Office Expenses,Payrl tax & benefit,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008054,01/29/2010 08:00:00 AM +0000,01/29/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,125,OFFCE,Office Expenses,adp payroll fees,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007363,02/11/2010 08:00:00 AM +0000,02/11/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,1966.79,WAGES,Campgn Wrkrs $$,payroll tax,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007331,01/15/2010 08:00:00 AM +0000,01/15/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,1979.19,OFFCE,Office Expenses,Payroll Liabilities,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007905,02/12/2010 08:00:00 AM +0000,02/12/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,26.41,WAGES,Campgn Wrkrs $$,payrl tx and benefit,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007902,01/29/2010 08:00:00 AM +0000,01/29/2010 08:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,1979.18,WAGES,Campgn Wrkrs $$,payroll tax,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007859,05/27/2010 07:00:00 AM +0000,05/27/2010 07:00:00 AM +0000,ADP-Tax Payments,CORP,Y,99,Jefferson Road,,Full,776.43,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"Parsippany, NJ 07054
+(40.85602774588381, -74.40356695545057)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001798,02/26/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,Allerton Avenue Homeowners & T,OTHR,Y,1415,Allerton Avenue,,Full,85,OTHER,Other: explntion,dinner ticket,,N,N,"Bronx, NY 10469
+(40.86818180274804, -73.84656868779467)"
+2013,6,361,UN,Rivera,Joel,,L,1,N,,,R0000042,,,"Alvarez, Albert",IND,N,427,Bronx Park Avenue,,,534.7,ADVAN,Advance Repaymnt,Outstanding Advance,,N,N,"Bronx, NY 10460
+(40.84309034804119, -73.87860282506028)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006242,05/26/2010 07:00:00 AM +0000,05/26/2010 07:00:00 AM +0000,Amazon Mktplace,OTHR,Y,,,,Full,464.97,OFFCE,Office Expenses,Window 7 Purchase,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006211,03/03/2010 08:00:00 AM +0000,03/03/2010 08:00:00 AM +0000,American Express,CORP,Y,,PO Box 53852,,Full,7.95,OTHER,Other: explntion,CC Process Fee,,N,N,"Phoenix, AZ 85072
+(33.45103900004989, -111.97486600016572)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006213,04/05/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,American Express,CORP,Y,,PO Box 53852,,Full,7.95,OTHER,Other: explntion,CC Process Fee,,N,N,"Phoenix, AZ 85072
+(33.45103900004989, -111.97486600016572)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006215,05/04/2010 07:00:00 AM +0000,05/04/2010 07:00:00 AM +0000,American Express,CORP,Y,,PO Box 53852,,Full,7.95,OTHER,Other: explntion,CC Process Fee,,N,N,"Phoenix, AZ 85072
+(33.45103900004989, -111.97486600016572)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006217,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,American Express,CORP,Y,,PO Box 53852,,Full,7.95,OTHER,Other: explntion,CC Process Fee,,N,N,"Phoenix, AZ 85072
+(33.45103900004989, -111.97486600016572)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006219,06/08/2010 07:00:00 AM +0000,06/08/2010 07:00:00 AM +0000,American Express,CORP,Y,,PO Box 53852,,Full,63.52,OTHER,Other: explntion,CC Processing Fee,,N,N,"Phoenix, AZ 85072
+(33.45103900004989, -111.97486600016572)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007948,05/04/2010 07:00:00 AM +0000,05/04/2010 07:00:00 AM +0000,American Express,CORP,Y,,PO Box 53773,,Full,7.95,OTHER,Other: explntion,Fee,,N,N,"Phoenix, AZ 85072
+(33.45103900004989, -111.97486600016572)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007950,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,American Express,CORP,Y,,PO Box 53773,,Full,7.95,OTHER,Other: explntion,Fee,,N,N,"Phoenix, AZ 85072
+(33.45103900004989, -111.97486600016572)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003067,02/18/2010 08:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,American Movie Co.,LLC,Y,808,Broadway,,Full,1745.85,OTHER,Other: explntion,equipment,,N,N,"New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+2013,6,361,UN,Rivera,Joel,,L,1,F,,,R0001632,02/26/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,AT&T,CORP,Y,,,,Full,296.74,OFFCE,Office Expenses,Phone Service,,N,N,
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007405,03/22/2010 07:00:00 AM +0000,03/24/2010 07:00:00 AM +0000,Aureole,CORP,Y,135,West 42nd Street,,Full,68.35,FUNDR,Fundraising,Meeting,,N,N,"New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000449,04/30/2010 07:00:00 AM +0000,05/04/2010 07:00:00 AM +0000,AUTHIRIZE.NET,CORP,Y,,,,Full,5,OFFCE,Office Expenses,monthly fee,,N,N,
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000451,05/31/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,AUTHIRIZE.NET,CORP,Y,,,,Full,5,OFFCE,Office Expenses,monthly fee,,N,N,
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000453,06/30/2010 07:00:00 AM +0000,07/06/2010 07:00:00 AM +0000,AUTHIRIZE.NET,CORP,Y,,,,Full,5,OFFCE,Office Expenses,monthly fee,,N,N,
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000468,03/31/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,AUTHIRIZE.NET,CORP,Y,,,,Full,5,OFFCE,Office Expenses,monthly fee,,N,N,
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000470,01/31/2010 08:00:00 AM +0000,02/03/2010 08:00:00 AM +0000,AUTHIRIZE.NET,CORP,Y,,,,Full,5,OFFCE,Office Expenses,monthly fee,,N,N,
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000472,02/28/2010 08:00:00 AM +0000,03/02/2010 08:00:00 AM +0000,AUTHIRIZE.NET,CORP,Y,,,,Full,5,OFFCE,Office Expenses,monthly fee,,N,N,
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0007482,,07/10/2008 07:00:00 AM +0000,"Autones, Isabelle",IND,N,107,Waverly Place,,,2215.95,FUNDR,Fundraising,Event refreshments,,N,,"New York, NY 10011
+(40.74471526669623, -74.00460000028977)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0007483,,07/10/2008 07:00:00 AM +0000,"Autones, Isabelle",IND,N,107,Waverly Place,,,450,FUNDR,Fundraising,event service,,N,,"New York, NY 10011
+(40.74471526669623, -74.00460000028977)"
+2013,6,361,UN,Rivera,Joel,,L,1,N,,,R0001611,,11/29/2009 08:00:00 AM +0000,"Basci, Robert",IND,N,15,Mackay Place,,,3500,PROFL,Prof. Srvcs.,Data Services,,N,N,"Brooklyn, NY 11209
+(40.62338709723679, -74.03065295347096)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003389,,03/14/2007 07:00:00 AM +0000,"Bastianich, Joe",IND,N,122,Butternut Hollow,,,200,FUNDR,Fundraising,House party expenses,,N,,"Greenwich, CT
+(41.0284719999828, -73.62916900004927)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0007192,,06/04/2008 07:00:00 AM +0000,"Bendit, Karyn K",IND,N,40,West 74th St,,,558.04,FUNDR,Fundraising,Event refreshments,,N,,"New York, NY 10023
+(40.774536138232236, -73.97994335610099)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003175,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Benedetto for Assembly,PCOMC,Y,3280,Giegerich Place,,Full,500,CNTRB,Polit Contribs.,contribution,,N,N,"Bronx, NY 10465
+(40.827628067581315, -73.82241314135337)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003059,04/18/2010 07:00:00 AM +0000,05/10/2010 07:00:00 AM +0000,Benjamin Franklin Reform Dem C,OTHR,Y,304,West 231st Street,,Full,325,PRINT,Print Ads,ad,,N,N,"Bronx, NY 10463
+(40.88187196282087, -73.91120748054078)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007555,06/24/2010 07:00:00 AM +0000,06/24/2010 07:00:00 AM +0000,Benjamin's Steakhouse,CORP,Y,52,East 41st Street,,Full,45.38,FUNDR,Fundraising,Meeting,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,D,,,R0003284,,06/22/2010 07:00:00 AM +0000,"Betancourt, Jose",IND,N,127,Ramsey Avenue,,,2537,FUNDR,Fundraising,fundraising,,N,,"Yonkers, NY 10701
+(40.94528838265279, -73.86673124974732)"
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001476,05/19/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,Beyond Dance,OTHR,Y,150,91st Street,,Full,100,PRINT,Print Ads,Juurnal Ad,,N,N,"Brooklyn, NY 11209
+(40.62338709723679, -74.03065295347096)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006222,03/10/2010 08:00:00 AM +0000,03/10/2010 08:00:00 AM +0000,Bistro,OTHR,Y,,,,Full,44.51,OTHER,Other: explntion,Campaign Lunch,,N,N,
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0005485,,11/07/2007 08:00:00 AM +0000,"Blau, Jeff",IND,N,181,East 65th Street,PH,,204.53,FUNDR,Fundraising,Event refreshments,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007884,03/17/2010 07:00:00 AM +0000,03/18/2010 07:00:00 AM +0000,BLVD/Crash mansion,CORP,Y,199,Bowery,,Full,500,FUNDR,Fundraising,Fundraising Event,,N,N,"New York, NY 10002
+(40.71612146793143, -73.98583147024613)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006239,05/24/2010 07:00:00 AM +0000,05/24/2010 07:00:00 AM +0000,Bohemian Hall & Beer Garden,OTHR,Y,29-19,24th Avenue,,Full,2453.5,FUNDR,Fundraising,May 20th Fundr Event,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003052,04/14/2010 07:00:00 AM +0000,04/28/2010 07:00:00 AM +0000,Branford Communications Inc.,CORP,Y,611,Broadway,627,Full,3090.32,FUNDR,Fundraising,invitations,,N,N,"New York, NY 10012
+(40.72553802086304, -73.99789641059084)"
+2013,5,1335,UN,Weprin,Mark,S,L,1,F,,,R0000725,06/30/2010 07:00:00 AM +0000,07/10/2010 07:00:00 AM +0000,Bridge Cafe,CORP,Y,279,Water Street,,Full,644.35,FUNDR,Fundraising,Food/service for fun,,N,N,"New York, NY 10038
+(40.70935929189784, -74.00307186237649)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003298,04/21/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,Broadway Wireless,OTHR,Y,5625,Broadway,,Full,14.15,OFFCE,Office Expenses,office expense,,N,N,"Bronx, NY 10463
+(40.88187196282087, -73.91120748054078)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003166,05/12/2010 07:00:00 AM +0000,05/12/2010 07:00:00 AM +0000,Bronx Bar Endowment Fund,OTHR,Y,851,Grand Concourse,,Full,200,OTHER,Other: explntion,program listing,,N,N,"Bronx, NY 10451
+(40.82069640711353, -73.92384136798472)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003042,04/14/2010 07:00:00 AM +0000,04/14/2010 07:00:00 AM +0000,Bronx Conservative Committee,PCOMZ,Y,188 D,Edgewater Park,,Full,150,PRINT,Print Ads,ad,,N,N,"Bronx, NY 10465
+(40.827628067581315, -73.82241314135337)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001839,04/01/2010 07:00:00 AM +0000,04/26/2010 07:00:00 AM +0000,Bronx News,OTHR,Y,662,Main Street,,Full,166,PRINT,Print Ads,holiday ad,,N,N,"New Rochelle, NY 10801
+(40.917986535550256, -73.78529555654467)"
+2013,5,421,UN,Gotlieb,Brian,L,I,1,F,,,R0000944,02/21/2010 08:00:00 AM +0000,02/21/2010 08:00:00 AM +0000,Brook-Krasny for Assembly,PCOMC,Y,4006,Highland Avenue,,Full,30,CNTRB,Polit Contribs.,1 tix for 3/4 event,,N,N,"Brooklyn, NY 11224
+(40.576304656334855, -73.99953200040147)"
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001473,,07/01/2010 07:00:00 AM +0000,"Buonpane, Rocco",IND,N,2311,83rd Street,,Advance,43.54,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Brooklyn, NY 11214
+(40.604011809897145, -74.0009690001192)"
+2013,5,1183,UN,Simmons-Oliver,Cheryl,,H,1,D,,,R0000444,,04/17/2009 07:00:00 AM +0000,"Burgess, William R",IND,N,4029,Sexton Avenue,,,50,FUNDR,Fundraising,duplication of contr,,N,,"Bronx, NY 10466
+(40.89080973018497, -73.84600906306775)"
+2013,6,LW,UN,Recchia,Domenic,M,K,1,D,,,R0000871,,06/13/2006 07:00:00 AM +0000,"Burke, Nina",IND,N,,,,,281,FUNDR,Fundraising,Laid out money,,N,,
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007436,04/15/2010 07:00:00 AM +0000,04/15/2010 07:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1094.74,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007496,05/14/2010 07:00:00 AM +0000,05/14/2010 07:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1543.66,WAGES,Campgn Wrkrs $$,payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007454,04/30/2010 07:00:00 AM +0000,04/30/2010 07:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1094.74,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007419,03/31/2010 07:00:00 AM +0000,03/31/2010 07:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1094.74,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007333,01/19/2010 08:00:00 AM +0000,01/19/2010 08:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1094.74,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007344,01/29/2010 08:00:00 AM +0000,01/29/2010 08:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1094.74,WAGES,Campgn Wrkrs $$,Payroll-wages,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007389,03/11/2010 08:00:00 AM +0000,03/11/2010 08:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1094.74,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007370,02/22/2010 08:00:00 AM +0000,02/22/2010 08:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1094.74,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007378,,02/24/2010 08:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Advance,172.26,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007352,,02/07/2010 08:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Advance,129.02,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007539,06/14/2010 07:00:00 AM +0000,06/14/2010 07:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1543.66,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007906,02/26/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1094.74,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007521,05/28/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1094.74,WAGES,Campgn Wrkrs $$,payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007567,06/29/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Full,1331.91,WAGES,Campgn Wrkrs $$,payroll,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007337,,01/20/2010 08:00:00 AM +0000,"Butler, S Catherine",IND,N,193,East 4th Street,2 F,Advance,30.47,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,5,421,UN,Gotlieb,Brian,L,I,1,F,,,R0000947,02/22/2010 08:00:00 AM +0000,02/22/2010 08:00:00 AM +0000,BWECC c/o Carmine Santa Maria,CORP,Y,2483,West 16th Street,7H,Full,85,OTHER,Other: explntion,1 tix for 3/10 event,,N,N,"Brooklyn, NY 11214
+(40.604011809897145, -74.0009690001192)"
+2013,5,421,UN,Gotlieb,Brian,L,I,1,F,,,R0000949,02/22/2010 08:00:00 AM +0000,02/22/2010 08:00:00 AM +0000,BWECC c/o Carmine Santa Maria,CORP,Y,2483,West 16th Street,7H,Full,25,OTHER,Other: explntion,ad for 3/10 event,,N,N,"Brooklyn, NY 11214
+(40.604011809897145, -74.0009690001192)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005342,,07/09/2010 07:00:00 AM +0000,"Canfield, Ellyn",IND,N,221,East 23rd Street,,Advance,93.74,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"New York, NY 10010
+(40.73914078212147, -73.98289845639863)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001556,,02/01/2008 08:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OFFCE,Office Expenses,Desk space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001557,,03/01/2008 08:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OFFCE,Office Expenses,desk space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001365,,01/01/2008 08:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,Desk Space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001362,,10/01/2007 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,Desk Space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001363,,11/01/2007 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,Desk Space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001364,,12/01/2007 08:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,Desk Space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001859,,01/01/2009 08:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,desk space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001360,,08/01/2007 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,Desk Space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001361,,09/01/2007 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,Desk Space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001856,,10/01/2008 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,Desk space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001857,,11/01/2008 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,desk space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001858,,12/01/2008 08:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,desk space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001561,,07/01/2008 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OFFCE,Office Expenses,desk space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001854,,08/01/2008 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,Desk Space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001855,,09/01/2008 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OTHER,Other: explntion,Desk Space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001558,,04/01/2008 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OFFCE,Office Expenses,desk space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001559,,05/01/2008 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OFFCE,Office Expenses,desk space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001560,,06/01/2008 07:00:00 AM +0000,"Carmody-Lafrancesca, Marie",IND,N,270,Bryant Avenue,,,25,OFFCE,Office Expenses,desk space,,N,,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002178,05/28/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,Chase Bank,CORP,Y,,,,Full,18,OTHER,Other: explntion,bank fees,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002182,06/23/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,Chase Bank,CORP,Y,,,,Full,25,OTHER,Other: explntion,stop check fee,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002184,06/23/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,Chase Bank,CORP,Y,,,,Full,25,OTHER,Other: explntion,stop check fee,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002199,04/01/2010 07:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,Chase Bank,CORP,Y,,,,Full,15,OTHER,Other: explntion,overdraft fee,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002161,02/23/2010 08:00:00 AM +0000,02/23/2010 08:00:00 AM +0000,Chase Bank,CORP,Y,,,,Full,122,OTHER,Other: explntion,bank fees,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003224,04/05/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,Chase Merchant Services,CORP,Y,,,,Full,54.9,FUNDR,Fundraising,merchant fees,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003227,05/04/2010 07:00:00 AM +0000,05/04/2010 07:00:00 AM +0000,Chase Merchant Services,CORP,Y,,,,Full,41.75,FUNDR,Fundraising,merchant fees,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003243,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Chase Merchant Services,CORP,Y,,,,Full,46.47,FUNDR,Fundraising,merchant fees,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003245,07/06/2010 07:00:00 AM +0000,07/06/2010 07:00:00 AM +0000,Chase Merchant Services,CORP,Y,,,,Full,34.95,FUNDR,Fundraising,merchant fees,,N,N,
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007850,05/05/2010 07:00:00 AM +0000,05/05/2010 07:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,20,OFFCE,Office Expenses,bank charges,,N,N,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007856,05/24/2010 07:00:00 AM +0000,05/24/2010 07:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,8,OFFCE,Office Expenses,bank charges,,N,N,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007823,01/20/2010 08:00:00 AM +0000,01/20/2010 08:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,75,OFFCE,Office Expenses,Checking Supplies,,N,N,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008002,01/06/2010 08:00:00 AM +0000,01/06/2010 08:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,1.1,OFFCE,Office Expenses,Bank service charge,,N,Y,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008004,01/12/2010 08:00:00 AM +0000,01/12/2010 08:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,75,OFFCE,Office Expenses,Check or order suppl,,N,Y,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008006,01/27/2010 08:00:00 AM +0000,01/27/2010 08:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,25,OFFCE,Office Expenses,Bnk Leisure rwrd fee,,N,Y,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008008,01/27/2010 08:00:00 AM +0000,01/27/2010 08:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,25,OFFCE,Office Expenses,Bnk Leisure rwrd fee,,N,Y,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008083,06/30/2010 07:00:00 AM +0000,06/30/2010 07:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,8,OFFCE,Office Expenses,bank check charge,,N,N,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008034,05/05/2010 07:00:00 AM +0000,05/05/2010 07:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,96,OFFCE,Office Expenses,service charges,,N,Y,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008036,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,145.37,OFFCE,Office Expenses,service charges May,,N,Y,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008046,03/03/2010 08:00:00 AM +0000,03/03/2010 08:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,0.46,OFFCE,Office Expenses,Bank service fee,,N,Y,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008049,04/05/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,37.88,OFFCE,Office Expenses,Bank Service Charge,,N,Y,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008051,07/06/2010 07:00:00 AM +0000,07/06/2010 07:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,173.71,OFFCE,Office Expenses,Bank service charge,,N,Y,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007836,03/23/2010 07:00:00 AM +0000,03/23/2010 07:00:00 AM +0000,Chase Merchant Services LLC,LLC,Y,5660,New Northside Drive,640,Full,25,OFFCE,Office Expenses,Chase Leisure fee,,N,N,"Atlanta, GA 30328
+(33.93256555635537, -84.38544160234801)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008074,06/02/2010 07:00:00 AM +0000,06/02/2010 07:00:00 AM +0000,Chase Paymentech,OTHR,Y,,P O Box 6600,,Full,186.42,OFFCE,Office Expenses,Paymentech fees,,N,N,"Hagerstown, MD 21741
+(39.64363000032432, -77.72020100007603)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007983,07/02/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,Chase Paymentech,OTHR,Y,,P O Box 6600,,Full,476.62,OFFCE,Office Expenses,chase paymentech,,N,N,"Hagerstown, MD 21741
+(39.64363000032432, -77.72020100007603)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007848,05/03/2010 07:00:00 AM +0000,05/03/2010 07:00:00 AM +0000,Chase Paymentech,OTHR,Y,,P O Box 6600,,Full,399.35,OFFCE,Office Expenses,Credit card discount,,N,N,"Hagerstown, MD 21741
+(39.64363000032432, -77.72020100007603)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007431,04/13/2010 07:00:00 AM +0000,04/13/2010 07:00:00 AM +0000,Chase Paymentech,OTHR,Y,,P O Box 6600,,Full,100,OFFCE,Office Expenses,online payment fee,,N,N,"Hagerstown, MD 21741
+(39.64363000032432, -77.72020100007603)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,F,,,R0008203,02/01/2010 08:00:00 AM +0000,04/14/2010 07:00:00 AM +0000,"Cheeseman, Alison",IND,N,639,W. 204 Street,,Full,120,PROFL,Prof. Srvcs.,Website Maintenence,,N,N,"New York, NY 10034
+(40.8706171092922, -73.9242232587963)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,F,,,R0008205,03/01/2010 08:00:00 AM +0000,04/14/2010 07:00:00 AM +0000,"Cheeseman, Alison",IND,N,639,W. 204 Street,,Full,120,PROFL,Prof. Srvcs.,Website Maintenence,,N,N,"New York, NY 10034
+(40.8706171092922, -73.9242232587963)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,F,,,R0008207,04/01/2010 07:00:00 AM +0000,04/14/2010 07:00:00 AM +0000,"Cheeseman, Alison",IND,N,639,W. 204 Street,,Full,120,PROFL,Prof. Srvcs.,Website Maintenence,,N,N,"New York, NY 10034
+(40.8706171092922, -73.9242232587963)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,F,,,R0008209,04/14/2010 07:00:00 AM +0000,04/14/2010 07:00:00 AM +0000,"Cheeseman, Alison",IND,N,639,W. 204 Street,,Full,120,PROFL,Prof. Srvcs.,Website Maintenence,,N,N,"New York, NY 10034
+(40.8706171092922, -73.9242232587963)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,F,,,R0008211,06/01/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,"Cheeseman, Alison",IND,N,639,W. 204 Street,,Full,120,PROFL,Prof. Srvcs.,Website Maintenence,,N,N,"New York, NY 10034
+(40.8706171092922, -73.9242232587963)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,F,,,R0008213,07/01/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,"Cheeseman, Alison",IND,N,639,W. 204 Street,,Full,120,PROFL,Prof. Srvcs.,Website Maintenence,,N,N,"New York, NY 10034
+(40.8706171092922, -73.9242232587963)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007935,03/15/2010 07:00:00 AM +0000,05/08/2010 07:00:00 AM +0000,Chelsea Reform Democratic Club,PCOMZ,Y,,PO Box 1120,,Full,500,CNTRB,Polit Contribs.,Event sponsorship,,N,N,"New York, NY 10113
+(40.741242999564804, -73.99834000029074)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006366,06/04/2010 07:00:00 AM +0000,06/04/2010 07:00:00 AM +0000,Chris Santora Scholarship,CORP,Y,21-25,34th Avenue,,Full,150,OTHER,Other: explntion,Scholarship Fund,,N,N,"Queens, NY 11106
+(40.761699790013324, -73.9316632529567)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006320,05/20/2010 07:00:00 AM +0000,05/20/2010 07:00:00 AM +0000,"Chung, Jonathan",IND,N,87 - 13,Jamaica Avenue,,Full,14,OTHER,Other: explntion,Reimbursement,,N,N,"Woodhaven, NY 11421
+(40.69176458756573, -73.85702228584978)"
+2013,6,1259,UN,Krongold,Martin,S,H,1,F,,,R0000244,02/09/2010 08:00:00 AM +0000,02/09/2010 08:00:00 AM +0000,Citibank,CORP,Y,,POB 5870 Grand Central Station,,Full,19,OTHER,Other: explntion,Bank fee,,N,N,"New York, NY 10163
+(40.75296200039605, -73.97494000038068)"
+2013,6,1259,UN,Krongold,Martin,S,H,1,F,,,R0000246,03/09/2010 08:00:00 AM +0000,03/09/2010 08:00:00 AM +0000,Citibank,CORP,Y,,POB 5870 Grand Central Station,,Full,19,OTHER,Other: explntion,Bank fee,,N,N,"New York, NY 10163
+(40.75296200039605, -73.97494000038068)"
+2013,6,1259,UN,Krongold,Martin,S,H,1,F,,,R0000248,04/08/2010 07:00:00 AM +0000,04/08/2010 07:00:00 AM +0000,Citibank,CORP,Y,,POB 5870 Grand Central Station,,Full,19,OTHER,Other: explntion,Bank fee,,N,N,"New York, NY 10163
+(40.75296200039605, -73.97494000038068)"
+2013,6,1259,UN,Krongold,Martin,S,H,1,F,,,R0000250,05/10/2010 07:00:00 AM +0000,05/10/2010 07:00:00 AM +0000,Citibank,CORP,Y,,POB 5870 Grand Central Station,,Full,19,OTHER,Other: explntion,Bank fee,,N,N,"New York, NY 10163
+(40.75296200039605, -73.97494000038068)"
+2013,6,1259,UN,Krongold,Martin,S,H,1,F,,,R0000252,06/08/2010 07:00:00 AM +0000,06/08/2010 07:00:00 AM +0000,Citibank,CORP,Y,,POB 5870 Grand Central Station,,Full,19,OTHER,Other: explntion,Bank fee,,N,N,"New York, NY 10163
+(40.75296200039605, -73.97494000038068)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008027,03/17/2010 07:00:00 AM +0000,03/19/2010 07:00:00 AM +0000,City Hall Restaurant,CORP,Y,131,Duane Street,,Full,46.69,FUNDR,Fundraising,meeting,,N,Y,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008029,03/17/2010 07:00:00 AM +0000,03/19/2010 07:00:00 AM +0000,City Hall Restaurant,CORP,Y,131,Duane Street,,Full,31.04,FUNDR,Fundraising,Meeting,,N,Y,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007986,07/02/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,City Hall Restaurant,CORP,Y,131,Duane Street,,Full,30.58,FUNDR,Fundraising,Meetinging,,N,N,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008010,02/22/2010 08:00:00 AM +0000,02/24/2010 08:00:00 AM +0000,City Hall Restaurant,CORP,Y,131,Duane Street,,Full,63.35,FUNDR,Fundraising,meeting,,N,Y,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003319,05/12/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,Coals,CORP,Y,1888,Eastchester Road,,Full,45.2,OTHER,Other: explntion,meeting,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001804,03/17/2010 07:00:00 AM +0000,03/17/2010 07:00:00 AM +0000,Committe for Effective Leaders,OTHR,Y,63,Carriage Place,,Full,250,OTHER,Other: explntion,journal ad,,N,N,"Edison, NJ 08820
+(40.57730136686462, -74.36578802719566)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003200,06/21/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,Community Media LLC,LLC,Y,145,Sixth Avenue,1st Fl,Full,500,PRINT,Print Ads,ad,,N,N,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,1075,UN,Dromm,Daniel,P,K,1,F,,,R0001034,06/22/2010 07:00:00 AM +0000,06/22/2010 07:00:00 AM +0000,Community Media LLC,CORP,Y,145,Sixth Avenue,1st Fl,Full,590,PRINT,Print Ads,Gay City News 1/4 pg,,N,N,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006268,03/18/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,Cono J Gallo & Co,CORP,Y,233,Seventh Street,,Full,575,CONSL,Campgn Consuls.,Tax Preparation Fee,,N,N,"Garden City, NY 11530
+(40.72480786579041, -73.63507100062611)"
+2013,4,214,UN,Oddo,James,S,N,1,H,,,R0002007,,06/15/2010 07:00:00 AM +0000,Conservative Pty of Richmond,PCOMZ,Y,32,Cunard Pl.,,,1250,,,,,N,N,"Staten Island, NY 10304
+(40.59122944258473, -74.1113280000871)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003330,05/31/2010 07:00:00 AM +0000,05/31/2010 07:00:00 AM +0000,Constant Contact,OTHR,Y,,,,Full,32.1,OFFCE,Office Expenses,web,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003313,05/01/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,Constant Contact,OTHR,Y,,,,Full,32.1,OFFCE,Office Expenses,web,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003087,03/31/2010 07:00:00 AM +0000,04/29/2010 07:00:00 AM +0000,Constant Contact,OTHR,Y,,,,Full,32.1,OFFCE,Office Expenses,web,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003079,03/01/2010 08:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,Constant Contact,OTHR,Y,,,,Full,32.1,OFFCE,Office Expenses,web,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,D,,,R0001330,,01/15/2006 08:00:00 AM +0000,Constantinople Consulting,PART,Y,123,William Street,22 Fl,,100,OFFCE,Office Expenses,"C-Smart, files",C,N,,"New York, NY 10038
+(40.70935929189784, -74.00307186237649)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,D,,,R0001331,,02/15/2006 08:00:00 AM +0000,Constantinople Consulting,PART,Y,123,William Street,22 Fl,,100,OFFCE,Office Expenses,"C-Smart, files",C,N,,"New York, NY 10038
+(40.70935929189784, -74.00307186237649)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,D,,,R0001332,,03/15/2006 08:00:00 AM +0000,Constantinople Consulting,PART,Y,123,William Street,22 Fl,,100,OFFCE,Office Expenses,"C-Smart, files",C,N,,"New York, NY 10038
+(40.70935929189784, -74.00307186237649)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000278,05/31/2010 07:00:00 AM +0000,05/31/2010 07:00:00 AM +0000,Cross County Federal Savings,CORP,Y,,Metropolitan Avenue,,Full,15,OTHER,Other: explntion,maintenance fee,,N,N,"Middle Village, NY 11379
+(40.71679766547993, -73.87933421310339)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000280,06/30/2010 07:00:00 AM +0000,06/30/2010 07:00:00 AM +0000,Cross County Federal Savings,CORP,Y,,Metropolitan Avenue,,Full,15,OTHER,Other: explntion,maintanence fee,,N,N,"Middle Village, NY 11379
+(40.71679766547993, -73.87933421310339)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000258,,06/30/2010 07:00:00 AM +0000,"Crowley, Elizabeth",CAN,N,77-24,83 Street,,Advance,139,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Ridgewood, NY 11385
+(40.70122489161548, -73.88334858436963)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,N,,,R0000252,,,"Crowley, Elizabeth",CAN,N,77-24,83 Street,,,0.71,ADVAN,Advance Repaymnt,Outstanding Advance,,N,N,"Ridgewood, NY 11385
+(40.70122489161548, -73.88334858436963)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003815,,07/11/2007 07:00:00 AM +0000,"Cullman, Lewis B",IND,N,555,Park Avenue,,,3169.72,FUNDR,Fundraising,House party,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001331,,01/11/2008 08:00:00 AM +0000,"D'Angelo, Jack",IND,N,3,Carpenter Road,,,1263,FUNDR,Fundraising,Fubdraiser Dinner,,N,,"New Brunswick, NJ 08901
+(40.485414431830634, -74.44342804087137)"
+2013,5,1209,UN,Waterman,Robert,M,H,1,D,,,R0000449,,05/06/2008 07:00:00 AM +0000,"Davis, Katie",IND,N,185,Hall Street,,,250,FUNDR,Fundraising,rental Space,,N,,"Brooklyn, NY 11205
+(40.693882095282504, -73.96433450773128)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0005487,,12/17/2007 08:00:00 AM +0000,"Davis, Richard J",IND,N,155,West 12th Street,,,236.05,FUNDR,Fundraising,Event refreshments,,N,,"New York, NY 10011
+(40.74471526669623, -74.00460000028977)"
+2013,4,214,UN,Oddo,James,S,N,1,F,,,R0002017,,01/25/2010 08:00:00 AM +0000,"Decicco, Christopher",IND,N,1,Duncan Street,1st Fl,Advance,1432,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Staten Island, NY 10304
+(40.59122944258473, -74.1113280000871)"
+2013,4,214,UN,Oddo,James,S,N,1,F,,,R0002020,,04/13/2010 07:00:00 AM +0000,"Decicco, Christopher",IND,N,1,Duncan Street,1st Fl,Advance,157,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Staten Island, NY 10304
+(40.59122944258473, -74.1113280000871)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006282,04/06/2010 07:00:00 AM +0000,04/06/2010 07:00:00 AM +0000,"Deligranakis, Tatiana",IND,N,,,,Full,25,OTHER,Other: explntion,Reimbursement,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003287,04/21/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,Delta,CORP,Y,,,,Full,423.4,OTHER,Other: explntion,travel,,N,N,
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000246,02/19/2010 08:00:00 AM +0000,02/19/2010 08:00:00 AM +0000,Deluxe,CORP,Y,,P.O. Box 1186,,Full,94.46,OFFCE,Office Expenses,banking materials,,N,N,"Lancaster, CA 93584
+(34.69817000014547, -118.13881599985848)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005501,02/04/2010 08:00:00 AM +0000,02/04/2010 08:00:00 AM +0000,Democratic Org of Queens,CORP,Y,72-50,Austin Street,,Full,300,OTHER,Other: explntion,Ad?,,N,N,"Queens, NY 11375
+(40.720707263029794, -73.84628429608335)"
+2013,6,148,UN,Stringer,Scott,M,M,1,D,,,R0007971,,06/13/2010 07:00:00 AM +0000,"DeStefano, Charles",IND,N,1082,Victory Blvd,,,389.09,FUNDR,Fundraising,fundraising,,N,,"Staten Island, NY 10301
+(40.62678550844453, -74.09611291088208)"
+2013,6,148,UN,Stringer,Scott,M,M,1,D,,,R0007972,,06/13/2010 07:00:00 AM +0000,"DeStefano, Charles",IND,N,1082,Victory Blvd,,,101.21,FUNDR,Fundraising,fundraising,,N,,"Staten Island, NY 10301
+(40.62678550844453, -74.09611291088208)"
+2013,6,148,UN,Stringer,Scott,M,M,1,D,,,R0007973,,06/15/2010 07:00:00 AM +0000,"DeStefano, Charles",IND,N,1082,Victory Blvd,,,14.72,FUNDR,Fundraising,fundraising,,N,,"Staten Island, NY 10301
+(40.62678550844453, -74.09611291088208)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0007127,,01/28/2008 08:00:00 AM +0000,"Diamonstein, Barbaralee",IND,N,720,Park Avenue,,,1303.9,FUNDR,Fundraising,Event food,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006245,06/02/2010 07:00:00 AM +0000,06/02/2010 07:00:00 AM +0000,DOI CAMERA,OTHR,Y,,,,Full,21.72,FUNDR,Fundraising,Burn DVD Fundr Event,,N,N,
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0005486,,12/17/2007 08:00:00 AM +0000,"Dokos, Daniel S",IND,N,1930,Broadway,26H,,236.05,FUNDR,Fundraising,Event refreshments,,N,,"New York, NY 10023
+(40.774536138232236, -73.97994335610099)"
+2013,6,1075,UN,Dromm,Daniel,P,K,1,F,,,R0001044,,06/24/2010 07:00:00 AM +0000,"Dromm, Daniel",CAN,N,35-24,78th Street,B28,Advance,658.39,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0006168,,11/02/2007 07:00:00 AM +0000,"Effron, Blair W",IND,N,830,Park Avenue,,,950,FUNDR,Fundraising,Event refreshments,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007544,06/16/2010 07:00:00 AM +0000,06/16/2010 07:00:00 AM +0000,Elaine's Restaurant,CORP,Y,1703,Second Avenue,,Full,112.5,FUNDR,Fundraising,Meeting,,N,N,"New York, NY 10128
+(40.781770000585084, -73.95062814906976)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003303,04/28/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,Elegant Gallery,OTHR,Y,4028,East Tremont Avenue,,Full,52.77,FUNDR,Fundraising,decorations,,N,N,"Bronx, NY 10465
+(40.827628067581315, -73.82241314135337)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003204,05/31/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,"Emrick, Matthew",IND,N,3880,Orloff Avenue,,Full,3350,WAGES,Campgn Wrkrs $$,staff,,N,N,"Bronx, NY 10463
+(40.88187196282087, -73.91120748054078)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003168,04/30/2010 07:00:00 AM +0000,05/12/2010 07:00:00 AM +0000,"Emrick, Matthew",IND,N,3880,Orloff Avenue,,Full,3350,WAGES,Campgn Wrkrs $$,staff,,N,N,"Bronx, NY 10463
+(40.88187196282087, -73.91120748054078)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003045,02/28/2010 08:00:00 AM +0000,04/15/2010 07:00:00 AM +0000,"Emrick, Matthew",IND,N,3880,Orloff Avenue,,Full,3350,WAGES,Campgn Wrkrs $$,staff,,N,N,"Bronx, NY 10463
+(40.88187196282087, -73.91120748054078)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003047,03/31/2010 07:00:00 AM +0000,04/28/2010 07:00:00 AM +0000,"Emrick, Matthew",IND,N,3880,Orloff Avenue,,Full,3350,WAGES,Campgn Wrkrs $$,staff,,N,N,"Bronx, NY 10463
+(40.88187196282087, -73.91120748054078)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001029,,01/10/2008 08:00:00 AM +0000,"Fauci, Anthony",IND,N,142,Radigan Avenue,,,700,FUNDR,Fundraising,Fundraiser Dinner,,N,,"SI, NY 10309
+(40.530393118347774, -74.21893861432557)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005512,02/15/2010 08:00:00 AM +0000,02/22/2010 08:00:00 AM +0000,Federal Express,CORP,Y,2650,Thousand Oaks Boulevard,3100,Full,25.26,POSTA,Postage,Fedex,,N,N,"Memphis, TN 38118
+(35.03564726281098, -89.9347560812281)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006157,01/29/2010 08:00:00 AM +0000,01/29/2010 08:00:00 AM +0000,Federal Withheld Interest,OTHR,Y,,,,Full,13.84,OTHER,Other: explntion,Wihheld Interest,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006159,02/26/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,Federal Withheld Interest,OTHR,Y,,,,Full,7.74,OTHER,Other: explntion,Wihheld Interest,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006161,03/31/2010 07:00:00 AM +0000,03/31/2010 07:00:00 AM +0000,Federal Withheld Interest,OTHR,Y,,,,Full,9.13,OTHER,Other: explntion,Wihheld Interest,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006163,04/30/2010 07:00:00 AM +0000,04/30/2010 07:00:00 AM +0000,Federal Withheld Interest,OTHR,Y,,,,Full,8.3,OTHER,Other: explntion,Wihheld Interest,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006165,05/28/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,Federal Withheld Interest,OTHR,Y,,,,Full,7.75,OTHER,Other: explntion,Wihheld Interest,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006167,06/30/2010 07:00:00 AM +0000,06/30/2010 07:00:00 AM +0000,Federal Withheld Interest,OTHR,Y,,,,Full,9.13,OTHER,Other: explntion,Wihheld Interest,,N,N,
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007426,04/12/2010 07:00:00 AM +0000,04/13/2010 07:00:00 AM +0000,FedEx Kinkos,CORP,Y,105,Duane Street,,Full,21.76,OFFCE,Office Expenses,Office Supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007445,04/20/2010 07:00:00 AM +0000,04/21/2010 07:00:00 AM +0000,FedEx Kinkos,CORP,Y,105,Duane Street,,Full,21.76,OFFCE,Office Expenses,Office SUpplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007438,04/15/2010 07:00:00 AM +0000,04/16/2010 07:00:00 AM +0000,FedEx Kinkos,CORP,Y,105,Duane Street,,Full,43.52,OFFCE,Office Expenses,Office supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003395,,06/11/2007 07:00:00 AM +0000,"Field, Michael",IND,N,50,Central Park West,,,600,FUNDR,Fundraising,House party expenses,,N,,"New York, NY 10023
+(40.774536138232236, -73.97994335610099)"
+2013,4,214,UN,Oddo,James,S,N,1,F,,,R0002001,02/19/2010 08:00:00 AM +0000,03/01/2010 08:00:00 AM +0000,"Floridia, Frank",IND,N,249,Loretto Street,,Full,415,PROFL,Prof. Srvcs.,websire design,,N,N,"Staten Island, NY 10307
+(40.508004527487, -74.24211428194849)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007466,05/04/2010 07:00:00 AM +0000,05/05/2010 07:00:00 AM +0000,Food Emporium,CORP,Y,316,Greenwhich Street,,Full,7.82,FUNDR,Fundraising,supplies for event,,N,N,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007548,06/21/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,Food Trends,CORP,Y,56,East 41st Street,,Full,719.94,FUNDR,Fundraising,fundraising costs,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007368,,02/15/2010 08:00:00 AM +0000,"Frank, Peter H",IND,N,412,West End Avenue,3A,Advance,226.48,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"New York, NY 10024
+(40.78362556816552, -73.96653900057436)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006250,06/23/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,Frankie's Pizza,OTHR,Y,,,,Full,18.5,OTHER,Other: explntion,Pizza for Volunteers,,N,N,
+2013,5,1335,UN,Weprin,Mark,S,L,1,F,,,R0000739,,07/10/2010 07:00:00 AM +0000,"Friedman, Jack",IND,N,80-15,233rd Street,,Advance,65.87,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Queens Village, NY 11427
+(40.72931057432362, -73.75067602128132)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000270,07/08/2010 07:00:00 AM +0000,07/08/2010 07:00:00 AM +0000,Friends of Francisco Moya,PCOMZ,Y,,,,Full,250,OTHER,Other: explntion,ticket to fundraiser,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006325,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Frineds of Aravella,OTHR,Y,,,,Full,500,OTHER,Other: explntion,Other Campiagn Suppo,,N,N,
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,F,,,R0001825,07/02/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,6738.91,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,5,1093,UN,Dobrin,Todd,A,H,1,F,,,R0001041,07/02/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,3957.37,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,5,1152,UN,Matteo,Steven,,H,1,F,,,R0000235,05/25/2010 07:00:00 AM +0000,05/25/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,443.66,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,5,1159,UN,Narcisse,Mercedes,,H,1,F,,,R0000610,07/11/2010 07:00:00 AM +0000,07/11/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,2285.27,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,6,1194,UN,Taylor,Martha,,H,1,F,,,R0000601,07/07/2010 07:00:00 AM +0000,07/07/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,3737.89,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,5,1209,UN,Waterman,Robert,M,H,1,F,,,R0000925,07/06/2010 07:00:00 AM +0000,07/06/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,1922.4,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,5,1233,UN,Rosenthal,Helen,K,H,1,F,,,R0000263,07/02/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,1234.87,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,6,1259,UN,Krongold,Martin,S,H,1,F,,,R0000240,07/02/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,19,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000439,06/15/2010 07:00:00 AM +0000,06/15/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,6515.58,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,5,1183,UN,Simmons-Oliver,Cheryl,,H,1,F,,,R0000508,07/07/2010 07:00:00 AM +0000,07/07/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,984.8,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007912,06/28/2010 07:00:00 AM +0000,06/28/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,400243,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,4,214,UN,Oddo,James,S,N,1,F,,,R0001996,07/09/2010 07:00:00 AM +0000,07/09/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,10938,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005529,04/15/2010 07:00:00 AM +0000,04/15/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,88870,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,6,LW,UN,Recchia,Domenic,M,K,1,F,,,R0001381,07/09/2010 07:00:00 AM +0000,07/09/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,7395,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,5,825,UN,Hoffnung,Ari,M,I,1,F,,,R0001061,06/15/2010 07:00:00 AM +0000,06/15/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,5019.82,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,1,BB,UN,Weiner,Anthony,D,J,1,F,,,R0008188,07/02/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,585380.36,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,6,361,UN,Rivera,Joel,,L,1,F,,,R0001584,07/08/2010 07:00:00 AM +0000,07/08/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,8175,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,4,403,UN,Pheffer,Audrey,I,I,1,F,,,R0003276,07/06/2010 07:00:00 AM +0000,07/06/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,37139.97,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,5,421,UN,Gotlieb,Brian,L,I,1,F,,,R0000937,07/06/2010 07:00:00 AM +0000,07/06/2010 07:00:00 AM +0000,Fundraising Allocation,OTHR,Y,,,,Full,1869.6,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,5,1173,UN,Simanowitz,Michael,,H,1,F,,,R0000458,07/02/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,Fundrasing Allocation,OTHR,Y,,,,Full,6513.17,EXALOC,Expnd Allocation,Fundraising Alloc,,N,N,
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008032,03/18/2010 07:00:00 AM +0000,03/22/2010 07:00:00 AM +0000,Gee Whiz Diner,CORP,Y,295,Greenwhich Street,,Full,27.37,FUNDR,Fundraising,meeting,,N,Y,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005268,06/17/2010 07:00:00 AM +0000,06/17/2010 07:00:00 AM +0000,Genova Burns & Giantomasi,CORP,Y,115,Broadway,,Full,5000,PROFL,Prof. Srvcs.,lawyer,,N,N,"New York, NY
+(40.756053999992105, -73.9869510002884)"
+2013,6,326,UN,de Blasio,Bill,,N,1,N,,,R0005395,,04/30/2010 07:00:00 AM +0000,Genova Burns & Giantomasi,CORP,Y,115,Broadway,,,2475,CONSL,Campgn Consuls.,Complience,,N,N,"New York, NY
+(40.756053999992105, -73.9869510002884)"
+2013,6,326,UN,de Blasio,Bill,,N,1,N,,,R0005396,,05/31/2010 07:00:00 AM +0000,Genova Burns & Giantomasi,CORP,Y,115,Broadway,,,637.5,CONSL,Campgn Consuls.,Complience,,N,N,"New York, NY
+(40.756053999992105, -73.9869510002884)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002171,03/31/2010 07:00:00 AM +0000,05/03/2010 07:00:00 AM +0000,"Genova, Burns & Giantomasi",CORP,Y,115,Broadway,15th,Full,450,CONSL,Campgn Consuls.,consulting fee,,N,N,"New York, NY 10006
+(40.70825614030866, -74.01355356964149)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007395,02/28/2010 08:00:00 AM +0000,03/18/2010 07:00:00 AM +0000,"Genova, Burns & Vernoia",PART,Y,115,Broadway,15,Full,1762.5,PROFL,Prof. Srvcs.,Legal,,N,N,"New York, NY 10006
+(40.70825614030866, -74.01355356964149)"
+2013,5,1335,UN,Weprin,Mark,S,L,1,F,,,R0000718,,07/10/2010 07:00:00 AM +0000,"Gershman, Ari",IND,N,170-40,Highland Avenue,507,Advance,75.41,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jamaica, NY 11432
+(40.71311535449007, -73.79282099978928)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003196,06/17/2010 07:00:00 AM +0000,06/17/2010 07:00:00 AM +0000,Gibson for Assembly,PCOMC,Y,,P.O.Box 6306,,Full,800,CNTRB,Polit Contribs.,contribution,,N,N,"Bronx, NY 10451
+(40.82069640711353, -73.92384136798472)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003291,05/01/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,Giovanni's,OTHR,Y,,,,Full,32,OTHER,Other: explntion,meeting,,N,N,
+2013,5,1093,UN,Dobrin,Todd,A,H,1,F,,,R0001028,02/22/2010 08:00:00 AM +0000,02/22/2010 08:00:00 AM +0000,Godaddy,CORP,Y,14455,North Hayden Rd,219,Full,43.48,PROFL,Prof. Srvcs.,website,,N,N,"Scottsdale, AZ 85260
+(33.609992305600485, -111.89227339839857)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001844,,06/01/2010 07:00:00 AM +0000,"Godliewicz, Rebecca",IND,N,3967,Sedgwick Avenue,,Advance,30.46,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10463
+(40.88187196282087, -73.91120748054078)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001812,,03/31/2010 07:00:00 AM +0000,"Godliewicz, Rebecca",IND,N,3967,Sedgwick Avenue,,Advance,30.46,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10463
+(40.88187196282087, -73.91120748054078)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001832,,04/26/2010 07:00:00 AM +0000,"Godliewicz, Rebecca",IND,N,3967,Sedgwick Avenue,,Advance,60.93,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10463
+(40.88187196282087, -73.91120748054078)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0007062,,02/21/2008 08:00:00 AM +0000,"Goldstein, Samuel D",IND,N,1145,Garden Street,1,,1500,FUNDR,Fundraising,event refreshments,,N,,"Hoboken, NJ 07030
+(40.74522727052215, -74.02797188109741)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000185,,06/29/2007 07:00:00 AM +0000,"Gonzalez, Nelly",IND,N,108-12,38th Avenue,2F,,68,FUNDR,Fundraising,Wine & Cheese,,N,,"Queens, NY 11368
+(40.749678220373596, -73.85304068857687)"
+2013,5,421,UN,Gotlieb,Brian,L,I,1,F,,,R0000957,06/28/2010 07:00:00 AM +0000,06/28/2010 07:00:00 AM +0000,"Gotlieb, Brian L",CAN,N,2930,West 5th Street,12G,Full,19.86,POSTA,Postage,Fed Ex to CFB,,N,N,"Brooklyn, NY 11224
+(40.576304656334855, -73.99953200040147)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006295,03/23/2010 07:00:00 AM +0000,04/28/2010 07:00:00 AM +0000,Greek News,CORP,Y,35-05,23rd Avenue,,Full,175,PRINT,Print Ads,Print ads,,N,N,"Queens, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002203,04/08/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,"Greenberg Traurig, LLP",PART,Y,200,Park Avenue,,Full,250,FUNDR,Fundraising,fundraiser,,N,N,"New York, NY 10166
+(40.75399200023065, -73.97704700041868)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001863,,11/15/2008 08:00:00 AM +0000,"Guinta, Fred",IND,N,35,Fairview Place,,,1575,FUNDR,Fundraising,Funraiser Dinner,,N,,"Staten Island, NY 10304
+(40.59122944258473, -74.1113280000871)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0002317,,05/23/2007 07:00:00 AM +0000,"Hamilton, Jo L",IND,N,71,Jane Street,,,605,FUNDR,Fundraising,Event expenses,,N,,"New York, NY 10014
+(40.73358645135369, -74.01019960472792)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003720,,03/13/2007 07:00:00 AM +0000,"Hatkoff, Craig",IND,N,1,West 72nd Street,,,3440,FUNDR,Fundraising,Event expenses,,N,,"New York, NY 10023
+(40.774536138232236, -73.97994335610099)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006340,04/15/2010 07:00:00 AM +0000,04/15/2010 07:00:00 AM +0000,"Haxhia, Albana",IND,N,2448,29th Street,,Full,500,CONSL,Campgn Consuls.,Treasurer,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006342,05/15/2010 07:00:00 AM +0000,05/15/2010 07:00:00 AM +0000,"Haxhia, Albana",IND,N,2448,29th Street,,Full,500,CONSL,Campgn Consuls.,Treasurer,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006344,06/15/2010 07:00:00 AM +0000,06/15/2010 07:00:00 AM +0000,"Haxhia, Albana",IND,N,2448,29th Street,,Full,500,CONSL,Campgn Consuls.,Treasurer,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005514,02/25/2010 08:00:00 AM +0000,03/02/2010 08:00:00 AM +0000,"Haxhia, Albana",IND,N,2448,29th Street,,Full,9.68,POSTA,Postage,Poststamps,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005505,02/15/2010 08:00:00 AM +0000,02/16/2010 08:00:00 AM +0000,"Haxhia, Albana",IND,N,2448,29th Street,,Full,500,WAGES,Campgn Wrkrs $$,Treasurer,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005524,03/15/2010 07:00:00 AM +0000,03/16/2010 07:00:00 AM +0000,"Haxhia, Albana",IND,N,2448,29th Street,,Full,500,WAGES,Campgn Wrkrs $$,Treasurer,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0007288,,06/09/2008 07:00:00 AM +0000,"Hazan, Cheryl",IND,N,35,North Moore Street,,,150,FUNDR,Fundraising,Food for event,,N,,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006198,03/01/2010 08:00:00 AM +0000,03/01/2010 08:00:00 AM +0000,Heartland Payment Systems,CORP,Y,1437,"Youngstown Center, Hwy 62",,Full,55,OTHER,Other: explntion,CC Process Fee,,N,N,"Jeffersonville, IN 47130
+(38.33297739209303, -85.69918734871715)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006200,03/25/2010 07:00:00 AM +0000,03/25/2010 07:00:00 AM +0000,Heartland Payment Systems,CORP,Y,1437,"Youngstown Center, Hwy 62",,Full,103.43,OTHER,Other: explntion,CC Process Fee,,N,N,"Jeffersonville, IN 47130
+(38.33297739209303, -85.69918734871715)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006202,05/03/2010 07:00:00 AM +0000,05/03/2010 07:00:00 AM +0000,Heartland Payment Systems,CORP,Y,1437,"Youngstown Center, Hwy 62",,Full,10.97,OTHER,Other: explntion,CC Process Fee,,N,N,"Jeffersonville, IN 47130
+(38.33297739209303, -85.69918734871715)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006204,06/01/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,Heartland Payment Systems,CORP,Y,1437,"Youngstown Center, Hwy 62",,Full,98.26,OTHER,Other: explntion,CC Process Fee,,N,N,"Jeffersonville, IN 47130
+(38.33297739209303, -85.69918734871715)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006206,06/30/2010 07:00:00 AM +0000,06/30/2010 07:00:00 AM +0000,Heartland Payment Systems,CORP,Y,1437,"Youngstown Center, Hwy 62",,Full,8.61,OTHER,Other: explntion,CC Process Fee,,N,N,"Jeffersonville, IN 47130
+(38.33297739209303, -85.69918734871715)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006208,07/01/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,Heartland Payment Systems,CORP,Y,1437,"Youngstown Center, Hwy 62",,Full,98.4,OTHER,Other: explntion,CC Processing Fee,,N,N,"Jeffersonville, IN 47130
+(38.33297739209303, -85.69918734871715)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003717,,05/10/2007 07:00:00 AM +0000,"Helfgott, Scott",IND,N,219,West 14th Street,,,245,FUNDR,Fundraising,house party,,N,,"New York, NY 10011
+(40.74471526669623, -74.00460000028977)"
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001479,06/16/2010 07:00:00 AM +0000,06/19/2010 07:00:00 AM +0000,Henry's Florist,OTHR,Y,8103,5th Ave,,Full,899.27,OTHER,Other: explntion,Flowers for many rea,,N,N,"Brooklyn, NY 11209
+(40.62338709723679, -74.03065295347096)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0006005,,01/07/2007 08:00:00 AM +0000,"Herlinsky, Victor J",IND,N,275,Highwood Avenue,,,2600.1,FUNDR,Fundraising,event refreshments,,N,,"Ridgewood, NJ 07450
+(40.982205063413005, -74.11251658457269)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007515,05/27/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,Hilton Hotels,CORP,Y,699,Westchester Ave,,Full,164.47,OTHER,Other: explntion,State Convention,,N,N,"Rye Brook, NY 10573
+(41.01715819409543, -73.67743213028854)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007517,05/27/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,Hilton Hotels,CORP,Y,699,Westchester Ave,,Full,164.47,OTHER,Other: explntion,State Convention,,N,N,"Rye Brook, NY 10573
+(41.01715819409543, -73.67743213028854)"
+2013,6,361,UN,Rivera,Joel,,L,1,F,,,R0001594,04/06/2010 07:00:00 AM +0000,04/06/2010 07:00:00 AM +0000,"Horcasitas, Juan Pablo",IND,N,570,West 240th Street,1 B,Full,150,OTHER,Other: explntion,Constituant Services,,N,N,"New York, NY 10034
+(40.8706171092922, -73.9242232587963)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001862,01/28/2010 08:00:00 AM +0000,01/28/2010 08:00:00 AM +0000,Hudson Valley Bank,OTHR,Y,3130,East Tremont Ave,,Full,92.81,OFFCE,Office Expenses,checks,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003397,,06/28/2007 07:00:00 AM +0000,"Inderwies, June M",IND,N,9,Wendy Ct.,,,1000,FUNDR,Fundraising,Event expenses,,N,,"Jackson, NJ 08527
+(40.10550917490855, -74.35352968314834)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003846,,06/28/2007 07:00:00 AM +0000,"Inderwies, June M",IND,N,9,Wendy Ct.,,,491,FUNDR,Fundraising,Event expenses,,N,,"Jackson, NJ 08527
+(40.10550917490855, -74.35352968314834)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008206,04/01/2010 07:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,Inner Circle,OTHR,Y,,,,Full,1000,CNTRB,Polit Contribs.,Contribution,,N,Y,
+2013,6,148,UN,Stringer,Scott,M,M,1,L,,,R0008207,04/01/2010 07:00:00 AM +0000,04/27/2010 07:00:00 AM +0000,Inner Circle,OTHR,Y,,,,,-1000,,,,,N,Y,
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003386,,03/05/2007 08:00:00 AM +0000,"Iscol, Jill",IND,N,955,5th Avenue,,,1408,FUNDR,Fundraising,House party expenses,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,4,403,UN,Pheffer,Audrey,I,I,1,D,,,R0003071,,06/20/2008 07:00:00 AM +0000,"Jamoona, Chan",IND,N,107-06,123rd Street,,,125,FUNDR,Fundraising,catering,,N,,"Richmond Hill, NY 11419
+(40.68871379040917, -73.82288833053201)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007534,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Jerry's Cafe,CORP,Y,90,Chambers Street,,Full,11.8,FUNDR,Fundraising,meeting,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000225,04/30/2010 07:00:00 AM +0000,05/26/2010 07:00:00 AM +0000,jewish center of forest hills,EMPO,Y,,,,Full,150,OTHER,Other: explntion,journal ad,,N,N,
+2013,5,1209,UN,Waterman,Robert,M,H,1,D,,,R0000285,,05/16/2008 07:00:00 AM +0000,"Jones, Avis",IND,N,393,Dumont Ave,1b,,359.17,OTHER,Other: explntion,Flyers contibution,,N,,"Brooklyn, NY 11212
+(40.66279716995348, -73.91298489433734)"
+2013,6,805,UN,Lappin,Jessica,S,J,1,F,,,R0001439,05/25/2010 07:00:00 AM +0000,05/25/2010 07:00:00 AM +0000,JPMorgan Chase Bank,CORP,Y,360,E. 72nd Street,,Full,25,OTHER,Other: explntion,Bank Fee,,N,N,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,805,UN,Lappin,Jessica,S,J,1,L,,,R0001440,05/25/2010 07:00:00 AM +0000,06/21/2010 07:00:00 AM +0000,JPMorgan Chase Bank,CORP,Y,360,E. 72nd Street,,,-25,,,,,N,N,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,5,1183,UN,Simmons-Oliver,Cheryl,,H,1,F,,,R0000510,01/01/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,"JPMorgan Chase Bank, N.A.",CORP,Y,601,East Tremont Avenue,,Full,16,OTHER,Other: explntion,banking fees,,N,N,"Bronx, NY 10457
+(40.84579837129786, -73.89832418681175)"
+2013,5,1183,UN,Simmons-Oliver,Cheryl,,H,1,F,,,R0000512,02/27/2010 08:00:00 AM +0000,03/31/2010 07:00:00 AM +0000,"JPMorgan Chase Bank, N.A.",CORP,Y,601,East Tremont Avenue,,Full,16,OTHER,Other: explntion,banking fees,,N,N,"Bronx, NY 10457
+(40.84579837129786, -73.89832418681175)"
+2013,5,1183,UN,Simmons-Oliver,Cheryl,,H,1,F,,,R0000515,04/01/2010 07:00:00 AM +0000,04/30/2010 07:00:00 AM +0000,"JPMorgan Chase Bank, N.A.",CORP,Y,601,East Tremont Avenue,,Full,16,OTHER,Other: explntion,banking fees,,N,N,"Bronx, NY 10457
+(40.84579837129786, -73.89832418681175)"
+2013,5,1183,UN,Simmons-Oliver,Cheryl,,H,1,F,,,R0000517,05/01/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,"JPMorgan Chase Bank, N.A.",CORP,Y,601,East Tremont Avenue,,Full,16,OTHER,Other: explntion,banking fees,,N,N,"Bronx, NY 10457
+(40.84579837129786, -73.89832418681175)"
+2013,5,1183,UN,Simmons-Oliver,Cheryl,,H,1,F,,,R0000519,05/29/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,"JPMorgan Chase Bank, N.A.",CORP,Y,601,East Tremont Avenue,,Full,16,OTHER,Other: explntion,banking fees,,N,N,"Bronx, NY 10457
+(40.84579837129786, -73.89832418681175)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006288,04/14/2010 07:00:00 AM +0000,04/14/2010 07:00:00 AM +0000,Judge Chas J Vallone Scholarsh,OTHR,Y,2245,31 st,,Full,325,OTHER,Other: explntion,Dinner Tickets,,N,N,"Queens, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006286,04/14/2010 07:00:00 AM +0000,04/14/2010 07:00:00 AM +0000,Judge Chas J Vallone Scholarsh,OTHR,Y,2245,31 st,,Full,150,PRINT,Print Ads,Print Ads,,N,N,"Queens, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001787,02/24/2010 08:00:00 AM +0000,02/24/2010 08:00:00 AM +0000,Kalish Consulting LLC,OTHR,Y,,PO Box  170158,,Full,2250,CONSL,Campgn Consuls.,fundraising,,N,N,"Brooklyn, NY 11217
+(40.68231210132245, -73.97956718857483)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001807,03/15/2010 07:00:00 AM +0000,03/17/2010 07:00:00 AM +0000,Kalish Consulting LLC,OTHR,Y,,PO Box  170158,,Full,1192.04,CONSL,Campgn Consuls.,fundraising,,N,N,"Brooklyn, NY 11217
+(40.68231210132245, -73.97956718857483)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003840,,07/11/2007 07:00:00 AM +0000,"Kean, Edie",IND,N,130,East End Avenue,,,704,FUNDR,Fundraising,Cullman invites,,N,,"New York, NY 10028
+(40.776344978837756, -73.95296667956859)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007463,05/03/2010 07:00:00 AM +0000,05/04/2010 07:00:00 AM +0000,Key Food,OTHR,Y,52,Avenue A,,Full,43.17,FUNDR,Fundraising,supplies for event,,N,N,"New York, NY 10009
+(40.72664935898081, -73.97911148500697)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006231,05/14/2010 07:00:00 AM +0000,05/14/2010 07:00:00 AM +0000,Key Food Store,OTHR,Y,,,,Full,30.89,OTHER,Other: explntion,Water for volunteers,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006233,05/14/2010 07:00:00 AM +0000,05/14/2010 07:00:00 AM +0000,Key Food Store,OTHR,Y,,,,Full,30.89,OTHER,Other: explntion,Water for Volunteers,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006235,07/01/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,Key Food Store,OTHR,Y,,,,Full,2.81,OTHER,Other: explntion,Water for Volunteers,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006237,07/01/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,Key Food Store,OTHR,Y,,,,Full,98.4,OTHER,Other: explntion,Water for Volunteers,,N,N,
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001493,04/05/2010 07:00:00 AM +0000,06/19/2010 07:00:00 AM +0000,Kings County Dem. County Comm.,OTHR,Y,16,Court Street,1207,Full,400,FUNDR,Fundraising,Kings County Dem,,N,N,"Brooklyn, NY 11241
+(40.69328899958771, -73.99062699983614)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007408,03/23/2010 07:00:00 AM +0000,03/25/2010 07:00:00 AM +0000,Kitchenette Restaurant,CORP,Y,156,Chambers Street,,Full,25.78,FUNDR,Fundraising,Meeting,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007339,,01/20/2010 08:00:00 AM +0000,"Kramer, Thomas",IND,N,19,Wisteria Street,1st fl,Advance,55.27,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Edison, NJ 08817
+(40.51720912909809, -74.39413251050689)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008080,04/12/2010 07:00:00 AM +0000,04/12/2010 07:00:00 AM +0000,Lambda Ind. Dems of Brooklyn,PCOMP,Y,,PO Box 150614,,Full,75,CNTRB,Polit Contribs.,political contributi,,N,Y,"Brooklyn, NY 11215
+(40.665557251366124, -73.97968153557434)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0005936,,01/09/2008 08:00:00 AM +0000,"Lauder, Leonard A",IND,N,2,East 67th Street,,,2272.83,FUNDR,Fundraising,Lunch event,,N,,"New York, NY 10065
+(40.76430121303059, -73.96303993544461)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003391,,04/26/2007 07:00:00 AM +0000,"Lavine, Rachel",IND,N,37,West 12th Street,6C,,950,FUNDR,Fundraising,House party expenses,,N,,"New York, NY 10011
+(40.74471526669623, -74.00460000028977)"
+2013,6,148,UN,Stringer,Scott,M,M,1,D,,,R0007970,,05/20/2010 07:00:00 AM +0000,"Lekic, Mirso",IND,N,,,,,450,FUNDR,Fundraising,fundraising,,N,,
+2013,4,403,UN,Pheffer,Audrey,I,I,1,D,,,R0001039,,01/10/2001 08:00:00 AM +0000,"Levine, Jeffrey E",IND,N,88,Wheatley Road,,,1578,FUNDR,Fundraising,CATERING EXPENSE,,N,,"Woodbury, NY 11567
+(41.36650520015485, -74.10349150023256)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006257,02/28/2010 08:00:00 AM +0000,02/28/2010 08:00:00 AM +0000,LIN Consulting LLC,LLC,Y,14,Penn Plaza,,Full,1500,FUNDR,Fundraising,Fundraiser,,N,N,"New York, NY 10122
+(40.75122300024134, -73.9912030003182)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006322,05/30/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,LIN Consulting LLC,LLC,Y,14,Penn Plaza,,Full,1500,FUNDR,Fundraising,Fundraiser,,N,N,"New York, NY 10122
+(40.75122300024134, -73.9912030003182)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006352,07/01/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,LIN Consulting LLC,LLC,Y,14,Penn Plaza,,Full,1500,FUNDR,Fundraising,Fundraiser,,N,N,"New York, NY 10122
+(40.75122300024134, -73.9912030003182)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006299,04/30/2010 07:00:00 AM +0000,04/30/2010 07:00:00 AM +0000,LIN Consulting LLC,LLC,Y,14,Penn Plaza,,Full,1500,FUNDR,Fundraising,Fundraiser,,N,N,"New York, NY 10122
+(40.75122300024134, -73.9912030003182)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005526,03/31/2010 07:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,LIN Consulting LLC,LLC,Y,14,Penn Plaza,,Full,1500,WAGES,Campgn Wrkrs $$,Fundraiser,,N,N,"New York, NY 10122
+(40.75122300024134, -73.9912030003182)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005499,01/31/2010 08:00:00 AM +0000,02/01/2010 08:00:00 AM +0000,LIN Consulting LLC,LLC,Y,14,Penn Plaza,,Full,1500,WAGES,Campgn Wrkrs $$,Fundraiser,,N,N,"New York, NY 10122
+(40.75122300024134, -73.9912030003182)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001848,06/01/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,"Local 372 NYC, BD of Ed Emplo",PCOMP,Y,125,Barclay Street,6,Full,150,OTHER,Other: explntion,journal ad,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007410,03/24/2010 07:00:00 AM +0000,03/26/2010 07:00:00 AM +0000,Loews Hotels,OTHR,Y,540,Park Avenue,,Full,41.3,FUNDR,Fundraising,meeting,,N,N,"New York, NY
+(40.756053999992105, -73.9869510002884)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007423,04/05/2010 07:00:00 AM +0000,04/07/2010 07:00:00 AM +0000,Loews Hotels,OTHR,Y,540,Park Avenue,,Full,71.88,FUNDR,Fundraising,Meeting,,N,N,"New York, NY
+(40.756053999992105, -73.9869510002884)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006332,05/28/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,Long Island City Florist Inc,CORP,Y,38-02,Ditmars Blvd,,Full,50,OTHER,Other: explntion,Funeral Basket,,N,N,"Astoria, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008213,06/29/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,"Lowenstein, Dan",IND,N,22,Cortlandt St,,Full,175,OTHER,Other: explntion,contribution refund,,N,N,"New York, NY 10027
+(40.811549564460904, -73.95290033568193)"
+2013,6,148,UN,Stringer,Scott,M,M,1,L,,,R0008214,06/29/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,"Lowenstein, Dan",IND,N,22,Cortlandt St,,,-175,,,,,N,N,"New York, NY 10027
+(40.811549564460904, -73.95290033568193)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005372,05/24/2010 07:00:00 AM +0000,07/09/2010 07:00:00 AM +0000,Luzees,CORP,Y,5421,New Utrecht,,Full,42,FUNDR,Fundraising,Kosher food,,N,N,"Brooklyn, NY 11219
+(40.63277295540763, -73.99667681118586)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001784,,02/20/2010 08:00:00 AM +0000,"Lynch, Jeff",IND,N,3707,E Tremont Ave,,Advance,440,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10465
+(40.827628067581315, -73.82241314135337)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001817,,03/31/2010 07:00:00 AM +0000,"Marks, Lester",IND,N,1578,Haight Avenue,,Advance,354.1,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001819,,03/31/2010 07:00:00 AM +0000,"Marks, Lester",IND,N,1578,Haight Avenue,,Advance,27.99,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001834,,04/26/2010 07:00:00 AM +0000,"Marks, Lester",IND,N,1578,Haight Avenue,,Advance,88,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001835,,03/17/2010 07:00:00 AM +0000,"Marks, Lester",IND,N,1578,Haight Avenue,,Advance,38.1,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001842,,05/18/2010 07:00:00 AM +0000,"Marks, Lester",IND,N,1578,Haight Avenue,,Advance,1087.64,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001870,,07/11/2010 07:00:00 AM +0000,"Marks, Lester",IND,N,1578,Haight Avenue,,Advance,415.76,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001872,03/08/2010 08:00:00 AM +0000,03/08/2010 08:00:00 AM +0000,"Marks, Lester",IND,N,1578,Haight Avenue,,Full,2000,CONSL,Campgn Consuls.,compliance,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003818,,03/07/2007 08:00:00 AM +0000,"Marron, Donald B",IND,N,720,Park Avenue,,,2844,FUNDR,Fundraising,House party,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003081,03/18/2010 07:00:00 AM +0000,04/29/2010 07:00:00 AM +0000,Media Temple,CORP,Y,,,,Full,15,OFFCE,Office Expenses,web,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003083,03/24/2010 07:00:00 AM +0000,04/29/2010 07:00:00 AM +0000,Media Temple,CORP,Y,,,,Full,20,OFFCE,Office Expenses,web,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003328,05/24/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,Media Temple,CORP,Y,,,,Full,20,OFFCE,Office Expenses,web,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003289,04/24/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,Media Temple,CORP,Y,,,,Full,20,OFFCE,Office Expenses,web,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003063,03/01/2010 08:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,Media Temple,CORP,Y,,,,Full,30,OFFCE,Office Expenses,web,,N,N,
+2013,6,326,UN,de Blasio,Bill,,N,1,N,,,R0005384,,04/30/2010 07:00:00 AM +0000,"Meikle, Mollie",IND,N,642,President St,,,55,CONSL,Campgn Consuls.,Pay check,,N,N,"Brooklyn, NY 11215
+(40.665557251366124, -73.97968153557434)"
+2013,6,326,UN,de Blasio,Bill,,N,1,N,,,R0005385,,05/31/2010 07:00:00 AM +0000,"Meikle, Mollie",IND,N,642,President St,,,55,CONSL,Campgn Consuls.,Pay check,,N,N,"Brooklyn, NY 11215
+(40.665557251366124, -73.97968153557434)"
+2013,6,326,UN,de Blasio,Bill,,N,1,N,,,R0005383,,06/30/2010 07:00:00 AM +0000,"Meikle, Mollie",IND,N,642,President St,,,220,CONSL,Campgn Consuls.,Pay check,,N,N,"Brooklyn, NY 11215
+(40.665557251366124, -73.97968153557434)"
+2013,4,214,UN,Oddo,James,S,N,1,D,,,R0001862,,09/24/2008 07:00:00 AM +0000,"Menicucci, Michael",IND,N,125,Shore Hill Rd,,,2725,FUNDR,Fundraising,Fundraising Dinner,,N,,"Colts Neck, NJ 07722
+(40.29037859729448, -74.16790211698907)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005274,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Merchant Bank,CORP,Y,,,,Full,591.5,OTHER,Other: explntion,credit card fees,,N,N,
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005276,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Merchant Bank,CORP,Y,,,,Full,171.6,OTHER,Other: explntion,credit card fees,,N,N,
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005278,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Merchant Bank,CORP,Y,,,,Full,6.8,OTHER,Other: explntion,credit card fees,,N,N,
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005361,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Merchant Bank,CORP,Y,,,,Full,591.5,OTHER,Other: explntion,Bank fee,,N,N,
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005363,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Merchant Bank,CORP,Y,,,,Full,171.6,OTHER,Other: explntion,Bank fee,,N,N,
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005365,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Merchant Bank,CORP,Y,,,,Full,6.8,OTHER,Other: explntion,Bank fee,,N,N,
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005367,07/06/2010 07:00:00 AM +0000,07/06/2010 07:00:00 AM +0000,Merchant Bank,CORP,Y,,,,Full,270.66,OTHER,Other: explntion,Bank fee,,N,N,
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005369,07/06/2010 07:00:00 AM +0000,07/06/2010 07:00:00 AM +0000,Merchant Bank,CORP,Y,,,,Full,25,OTHER,Other: explntion,Bank fee,,N,N,
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000456,01/31/2010 08:00:00 AM +0000,02/03/2010 08:00:00 AM +0000,MERCHANT WAREHOUSE,CORP,Y,6600,P.O. BOX,,Full,33.95,OFFCE,Office Expenses,monthly fee,,N,N,"HAGERSTOWN, MD 21740
+(39.63270331300754, -77.73809346274305)"
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000458,02/28/2010 08:00:00 AM +0000,03/03/2010 08:00:00 AM +0000,MERCHANT WAREHOUSE,CORP,Y,6600,P.O. BOX,,Full,33.95,OFFCE,Office Expenses,monthly fee,,N,N,"HAGERSTOWN, MD 21740
+(39.63270331300754, -77.73809346274305)"
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000460,03/31/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,MERCHANT WAREHOUSE,CORP,Y,6600,P.O. BOX,,Full,33.95,OFFCE,Office Expenses,monthly fee,,N,N,"HAGERSTOWN, MD 21740
+(39.63270331300754, -77.73809346274305)"
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000462,04/30/2010 07:00:00 AM +0000,05/03/2010 07:00:00 AM +0000,MERCHANT WAREHOUSE,CORP,Y,6600,P.O. BOX,,Full,33.95,OFFCE,Office Expenses,monthly fee,,N,N,"HAGERSTOWN, MD 21740
+(39.63270331300754, -77.73809346274305)"
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000464,05/31/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,MERCHANT WAREHOUSE,CORP,Y,6600,P.O. BOX,,Full,33.95,OFFCE,Office Expenses,monthly fee,,N,N,"HAGERSTOWN, MD 21740
+(39.63270331300754, -77.73809346274305)"
+2013,5,1163,UN,Lisyanskiy,John,,H,1,F,,,R0000466,06/30/2010 07:00:00 AM +0000,07/06/2010 07:00:00 AM +0000,MERCHANT WAREHOUSE,CORP,Y,6600,P.O. BOX,,Full,33.95,OFFCE,Office Expenses,monthly fee,,N,N,"HAGERSTOWN, MD 21740
+(39.63270331300754, -77.73809346274305)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007475,05/04/2010 07:00:00 AM +0000,05/05/2010 07:00:00 AM +0000,Met Food,CORP,Y,251,Mulberry Street,,Full,3.79,FUNDR,Fundraising,supplies,,N,N,"New York, NY 10012
+(40.72553802086304, -73.99789641059084)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001853,04/30/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,MHANYS,OTHR,Y,149,Washington Avenue,415,Full,100,OTHER,Other: explntion,journal ad,,N,N,"Albany, NY 12210
+(42.658512550214084, -73.75781913934179)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006196,01/25/2010 08:00:00 AM +0000,01/25/2010 08:00:00 AM +0000,Microsof Store,OTHR,Y,,,,Full,353.82,OFFCE,Office Expenses,Micr Off Software,,N,N,
+2013,5,1209,UN,Waterman,Robert,M,H,1,D,,,R0000326,,05/30/2008 07:00:00 AM +0000,"Miller, Sharyn",IND,N,625,Lexington Ave,,,86.7,OTHER,Other: explntion,banner Purchased,,N,,"Brooklyn, NY 11221
+(40.69128803951145, -73.92761792792498)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007355,,02/07/2010 08:00:00 AM +0000,"Mlotek, Marissa",IND,N,160,Mildred Parkway,,Advance,22.86,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"New Rochelle, NY 10804
+(40.94937293161553, -73.78604718652838)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007399,,03/18/2010 07:00:00 AM +0000,"Mlotek, Marissa",IND,N,160,Mildred Parkway,,Advance,52.8,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"New Rochelle, NY 10804
+(40.94937293161553, -73.78604718652838)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007417,,03/31/2010 07:00:00 AM +0000,"Mlotek, Marissa",IND,N,160,Mildred Parkway,,Advance,125.99,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"New Rochelle, NY 10804
+(40.94937293161553, -73.78604718652838)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007843,04/15/2010 07:00:00 AM +0000,04/15/2010 07:00:00 AM +0000,"Mlotek, Marissa",IND,N,160,Mildred Parkway,,Full,508.04,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New Rochelle, NY 10804
+(40.94937293161553, -73.78604718652838)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007839,03/31/2010 07:00:00 AM +0000,03/31/2010 07:00:00 AM +0000,"Mlotek, Marissa",IND,N,160,Mildred Parkway,,Full,508.04,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New Rochelle, NY 10804
+(40.94937293161553, -73.78604718652838)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007832,03/12/2010 08:00:00 AM +0000,03/12/2010 08:00:00 AM +0000,"Mlotek, Marissa",IND,N,160,Mildred Parkway,,Full,1120.41,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New Rochelle, NY 10804
+(40.94937293161553, -73.78604718652838)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007827,02/25/2010 08:00:00 AM +0000,02/25/2010 08:00:00 AM +0000,"Mlotek, Marissa",IND,N,160,Mildred Parkway,,Full,1120.41,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New Rochelle, NY 10804
+(40.94937293161553, -73.78604718652838)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007443,04/19/2010 07:00:00 AM +0000,04/21/2010 07:00:00 AM +0000,Morandi,CORP,Y,211,Waverly Place,,Full,124.52,FUNDR,Fundraising,Meeting,,N,N,"New York, NY 10014
+(40.73358645135369, -74.01019960472792)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001789,02/26/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,Morris Park Community Asscocia,CORP,Y,1824,Bronxdale Avenue,,Full,85,OTHER,Other: explntion,dinner ticket,,N,N,"Bronx, NY 10462
+(40.84225833665295, -73.85799663293824)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001791,02/26/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,Morris Park Community Asscocia,CORP,Y,1824,Bronxdale Avenue,,Full,100,OTHER,Other: explntion,journal ad,,N,N,"Bronx, NY 10462
+(40.84225833665295, -73.85799663293824)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003295,04/16/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,MTA,OTHR,Y,,,,Full,89,OTHER,Other: explntion,travel,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003305,04/30/2010 07:00:00 AM +0000,04/30/2010 07:00:00 AM +0000,MTA,OTHR,Y,,,,Full,6.75,OTHER,Other: explntion,travel,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003326,05/17/2010 07:00:00 AM +0000,05/17/2010 07:00:00 AM +0000,MTA,OTHR,Y,,,,Full,89,OTHER,Other: explntion,travel,,N,N,
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007941,06/21/2010 07:00:00 AM +0000,06/25/2010 07:00:00 AM +0000,"Mullaly, Anne",IND,N,10,East 29th Street,39D,Full,10500,FUNDR,Fundraising,Retainer - Apr-June,,N,N,"New York, NY 10016
+(40.745242969987146, -73.97823298586354)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007932,03/15/2010 07:00:00 AM +0000,03/29/2010 07:00:00 AM +0000,"Mullaly, Anne",IND,N,10,East 29th Street,39D,Full,3500,FUNDR,Fundraising,Retainer - February,,N,N,"New York, NY 10016
+(40.745242969987146, -73.97823298586354)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006303,04/30/2010 07:00:00 AM +0000,05/11/2010 07:00:00 AM +0000,Multi Media Advertising,CORP,Y,174-15,Horace Harding Expy,,Full,3024.74,LITER,Campgn Lit.,"Invitations, envelop",,N,N,"Queens, NY 11365
+(40.73987184371066, -73.79462153515567)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006225,03/03/2010 08:00:00 AM +0000,03/03/2010 08:00:00 AM +0000,Neptune Diner,OTHR,Y,,,,Full,52.25,OTHER,Other: explntion,Campiagn Lunch,,N,N,
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002204,04/12/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,Neuman's Catering,CORP,Y,203,Chrystie Street,,Full,615.14,FUNDR,Fundraising,fundraiser,,N,N,"New York, NY 10002
+(40.71612146793143, -73.98583147024613)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006253,07/02/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,New Astoria Park Pizzeria,OTHR,Y,,,,Full,38,OTHER,Other: explntion,Pizza for Volunteers,,N,N,
+2013,6,805,UN,Lappin,Jessica,S,J,1,F,,,R0001452,07/06/2010 07:00:00 AM +0000,07/09/2010 07:00:00 AM +0000,"NGP Software, Inc.",CORP,Y,1225,"Eye Street, NW",1225,Full,610,PROFL,Prof. Srvcs.,Service Fee,,N,N,"Washington, DC 20005
+(38.904588406429866, -77.03157480383408)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008025,03/16/2010 07:00:00 AM +0000,03/18/2010 07:00:00 AM +0000,Noho Star,CORP,Y,330,Lafayette Street,,Full,33.76,FUNDR,Fundraising,meeting,,N,Y,"New York, NY 10012
+(40.72553802086304, -73.99789641059084)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006315,05/14/2010 07:00:00 AM +0000,05/14/2010 07:00:00 AM +0000,"Noor, Leila",IND,N,42,Fairview Avenue,,Full,12,OTHER,Other: explntion,Cab Reimbursement,,N,N,"Great Neck, NY 11023
+(40.8000656500098, -73.74286100083447)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006293,04/05/2010 07:00:00 AM +0000,04/26/2010 07:00:00 AM +0000,"Noor, Leila",IND,N,42,Fairview Avenue,,Full,5.6,POSTA,Postage,Reimbursement,,N,N,"Great Neck, NY 11023
+(40.8000656500098, -73.74286100083447)"
+2013,6,1078,UN,Ignizio,Vincent,M,L,1,F,,,R0000601,05/28/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,Northfield Bank,CORP,Y,3227,Richmond Avenue,,Full,20,OTHER,Other: explntion,Bank fee,,N,N,"Staten Island, NY 10312
+(40.54295597733653, -74.18037681723627)"
+2013,6,1078,UN,Ignizio,Vincent,M,L,1,F,,,R0000603,06/30/2010 07:00:00 AM +0000,06/30/2010 07:00:00 AM +0000,Northfield Bank,CORP,Y,3227,Richmond Avenue,,Full,20,OTHER,Other: explntion,Bank fee,,N,N,"Staten Island, NY 10312
+(40.54295597733653, -74.18037681723627)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003324,05/14/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,NY Yank Steakhouse,OTHR,Y,,,,Full,97.4,OTHER,Other: explntion,meeting,,N,N,
+2013,5,1183,UN,Simmons-Oliver,Cheryl,,H,1,F,,,R0000523,03/09/2010 08:00:00 AM +0000,03/09/2010 08:00:00 AM +0000,NYS BOE,OTHR,Y,40,Steuben street,,Full,60,OTHER,Other: explntion,LATE FILING FEE,,N,N,"ALBANY, NY 12207
+(42.648872548129646, -73.75064130025578)"
+2013,4,214,UN,Oddo,James,S,N,1,F,,,R0002013,,04/27/2010 07:00:00 AM +0000,"Oddo, James",IND,N,175,Zoe St,,Advance,1523,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Staten Island, NY 10305
+(40.596184688172855, -74.07507238488262)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002174,05/06/2010 07:00:00 AM +0000,05/06/2010 07:00:00 AM +0000,Office Max,CORP,Y,1730,Hempstead Turnpike,,Full,141.19,OFFCE,Office Expenses,envelopes,,N,N,"Elmont, NY 11003
+(40.69928860358624, -73.70558101105479)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006355,05/24/2010 07:00:00 AM +0000,05/24/2010 07:00:00 AM +0000,"Orton, Lance",IND,N,,,,Full,82,OTHER,Other: explntion,Other,,N,N,
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005346,06/28/2010 07:00:00 AM +0000,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Full,5760,CONSL,Campgn Consuls.,Finance Director,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005348,06/28/2010 07:00:00 AM +0000,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Full,5360,CONSL,Campgn Consuls.,Finance Director,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005350,06/28/2010 07:00:00 AM +0000,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Full,5600,CONSL,Campgn Consuls.,Finance Director,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005375,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,8048.15,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005319,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,35.18,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005320,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,70,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,N,,,R0003492,,,"Padgett, Rachel",IND,N,7711,35 Ave,6N,,108,ADVAN,Advance Repaymnt,Outstanding Advance,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,N,,,R0005344,,06/28/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,,4320,CONSL,Campgn Consuls.,Finance Director,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005286,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,600,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005289,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,324,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005292,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,55.42,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005296,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,16.5,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005299,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,16.22,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005301,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,111.6,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005304,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,14.7,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005307,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,30.49,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005311,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,10.88,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005313,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,59.08,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005318,,07/09/2010 07:00:00 AM +0000,"Padgett, Rachel",IND,N,7711,35 Ave,6N,Advance,81.54,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006334,06/23/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,Pavilion Floral & Gifts,CORP,Y,21-19,30th Avenue,,Full,108.75,OTHER,Other: explntion,Flowers L. Lewis,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,6,LW,UN,Recchia,Domenic,M,K,1,F,,,R0001355,02/05/2010 08:00:00 AM +0000,02/05/2010 08:00:00 AM +0000,"Pavlounis, Theodore",IND,N,166,Pinewood Avenue,,Full,7000,CONSL,Campgn Consuls.,Consulting,,N,N,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,6,LW,UN,Recchia,Domenic,M,K,1,F,,,R0001357,02/05/2010 08:00:00 AM +0000,02/05/2010 08:00:00 AM +0000,"Pavlounis, Theodore",IND,N,166,Pinewood Avenue,,Full,8000,CONSL,Campgn Consuls.,Consulting,,N,N,"Staten Island, NY 10306
+(40.56602048965391, -74.11994566905736)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,F,,,R0008199,02/10/2010 08:00:00 AM +0000,02/10/2010 08:00:00 AM +0000,Paychex,CORP,Y,1551,So. Washington Avenue,,Full,117.95,PROFL,Prof. Srvcs.,2009 Payroll Tax,,N,N,"Piscataway, NJ 08854
+(40.54624165133117, -74.46343736464263)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008017,03/10/2010 08:00:00 AM +0000,03/12/2010 08:00:00 AM +0000,Pershing Square cafe,CORP,Y,90,East 42nd Street,,Full,40.48,FUNDR,Fundraising,meeting,,N,Y,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008022,03/12/2010 08:00:00 AM +0000,03/15/2010 07:00:00 AM +0000,Peter's Restaurant,CORP,Y,182,Columbus Avenue,,Full,38.5,FUNDR,Fundraising,meeting,,N,Y,"New York, NY 10023
+(40.774536138232236, -73.97994335610099)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007854,05/14/2010 07:00:00 AM +0000,05/14/2010 07:00:00 AM +0000,"Phillips-Horst, Steven",IND,N,289,Harman Street,2 L,Full,776.43,WAGES,Campgn Wrkrs $$,payroll,,N,N,"Brooklyn, NY 11237
+(40.704095739826585, -73.92099423399668)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007847,04/30/2010 07:00:00 AM +0000,04/30/2010 07:00:00 AM +0000,"Phillips-Horst, Steven",IND,N,289,Harman Street,2 L,Full,776.43,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"Brooklyn, NY 11237
+(40.704095739826585, -73.92099423399668)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007865,06/29/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,"Phillips-Horst, Steven",IND,N,289,Harman Street,2 L,Full,776.43,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"Brooklyn, NY 11237
+(40.704095739826585, -73.92099423399668)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007863,06/14/2010 07:00:00 AM +0000,06/14/2010 07:00:00 AM +0000,"Phillips-Horst, Steven",IND,N,289,Harman Street,2 L,Full,776.43,WAGES,Campgn Wrkrs $$,payroll,,N,N,"Brooklyn, NY 11237
+(40.704095739826585, -73.92099423399668)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0007290,,06/09/2008 07:00:00 AM +0000,"Polak, Vivian L",IND,N,31,West 16th Street,5,,400,FUNDR,Fundraising,Wine for event,,N,,"New York, NY 10011
+(40.74471526669623, -74.00460000028977)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0007060,,01/03/2008 08:00:00 AM +0000,"Pratt, Alison H",IND,N,285,Lafayette Street,7A,,91,FUNDR,Fundraising,Event invites,,N,,"New York, NY 10012
+(40.72553802086304, -73.99789641059084)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003356,,06/19/2007 07:00:00 AM +0000,"Pratt, Alison H",IND,N,285,Lafayette Street,7A,,224,FUNDR,Fundraising,Food for Pride Event,,N,,"New York, NY 10012
+(40.72553802086304, -73.99789641059084)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0005910,,07/24/2007 07:00:00 AM +0000,"Pratt, Alison H",IND,N,285,Lafayette Street,7A,,59.55,FUNDR,Fundraising,Refreshments,,N,,"New York, NY 10012
+(40.72553802086304, -73.99789641059084)"
+2013,4,214,UN,Oddo,James,S,N,1,F,,,R0002003,02/22/2010 08:00:00 AM +0000,03/01/2010 08:00:00 AM +0000,Prime New York,CORP,Y,233,Broadway,3612,Full,697,OTHER,Other: explntion,voter list,,N,N,"New York, NY 10279
+(40.712407999929326, -74.00779500013908)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007561,06/01/2010 07:00:00 AM +0000,06/25/2010 07:00:00 AM +0000,Principal Building Service LLC,CORP,Y,1501,Broadway,,Full,85,OFFCE,Office Expenses,Office Cleaning,,N,N,"New York, NY 10036
+(40.75934682719435, -73.989860554421)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000219,05/25/2010 07:00:00 AM +0000,05/25/2010 07:00:00 AM +0000,PS 49 PTA,OTHR,Y,,Penelope Avenue,,Full,150,OTHER,Other: explntion,school picnic,,N,N,"Middle Village, NY 11379
+(40.71679766547993, -73.87933421310339)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006264,04/01/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,Queens Chronicle,CORP,Y,62-33,Woodhaven Blvd,,Full,115,PRINT,Print Ads,Print ads,,N,N,"Queens, NY 11374
+(40.72646491702238, -73.86148084756303)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000214,03/06/2010 08:00:00 AM +0000,05/13/2010 07:00:00 AM +0000,Queens democratic Organization,PCOMZ,Y,,,,Full,240,CNTRB,Polit Contribs.,lunch tickets,,N,N,
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000216,05/06/2010 07:00:00 AM +0000,05/13/2010 07:00:00 AM +0000,Queens democratic Organization,PCOMZ,Y,,,,Full,600,CNTRB,Polit Contribs.,dinner dance tickets,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006279,03/25/2010 07:00:00 AM +0000,04/13/2010 07:00:00 AM +0000,Queens Ledger Greenpoint star,OTHR,Y,,780-376,,Full,100,PRINT,Print Ads,Print Ads,,N,N,"Maspeth, NY 11378
+(40.72145310497689, -73.90854350068196)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005503,01/28/2010 08:00:00 AM +0000,02/01/2010 08:00:00 AM +0000,Queens Tribune,CORP,Y,174-15,Horace Harding Expwy,,Full,186,PRINT,Print Ads,Ad,,N,N,"Queens, NY 11365
+(40.73987184371066, -73.79462153515567)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006275,03/25/2010 07:00:00 AM +0000,04/13/2010 07:00:00 AM +0000,Queens Tribune,CORP,Y,174-15,Horace Harding Expwy,,Full,254,PRINT,Print Ads,Print Ad,,N,N,"Queens, NY 11365
+(40.73987184371066, -73.79462153515567)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006364,04/05/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,Queens Tribune,CORP,Y,174-15,Horace Harding Expwy,,Full,2167.98,CMAIL,Campgn Mlngs,Mailing,,N,N,"Queens, NY 11365
+(40.73987184371066, -73.79462153515567)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0001782,,04/30/2009 07:00:00 AM +0000,"Quiroz, Alfonso",CAN,N,76-10,34th Avenue,2P,,22.61,FUNDR,Fundraising,Food for Fundraiser,,N,,"Queens, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000156,,06/02/2007 07:00:00 AM +0000,"Quiroz, Alfonso",CAN,N,76-10,34th Avenue,2P,,15,FUNDR,Fundraising,Stamps,,N,,"Queens, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000157,,05/07/2007 07:00:00 AM +0000,"Quiroz, Alfonso",CAN,N,76-10,34th Avenue,2P,,21,FUNDR,Fundraising,Stamps,,N,,"Queens, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000158,,05/06/2007 07:00:00 AM +0000,"Quiroz, Alfonso",CAN,N,76-10,34th Avenue,2P,,2,FUNDR,Fundraising,Envelopes,,N,,"Queens, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000159,,02/01/2007 08:00:00 AM +0000,"Quiroz, Alfonso",CAN,N,76-10,34th Avenue,2P,,100,FUNDR,Fundraising,Annual Mailbox Rent,,N,,"Queens, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000088,,05/26/2007 07:00:00 AM +0000,"Quiroz, Marilyn C",FAM,N,11342,South Forrestville Avenue,,,222,FUNDR,Fundraising,Food/Drink,,N,,"Chicago, IL 60628
+(41.69215270058669, -87.61771341594135)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0001153,,06/21/2008 07:00:00 AM +0000,"Quiroz, Marilyn C",FAM,N,11342,South Forrestville Avenue,,,44.19,FUNDR,Fundraising,Liquor for fundraise,,N,,"Chicago, IL 60628
+(41.69215270058669, -87.61771341594135)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007485,05/06/2010 07:00:00 AM +0000,05/07/2010 07:00:00 AM +0000,Radio Shack,CORP,Y,114,Fulton Street,,Full,43.53,OFFCE,Office Expenses,Office Supplies,,N,N,"New York, NY 10038
+(40.70935929189784, -74.00307186237649)"
+2013,6,LW,UN,Recchia,Domenic,M,K,1,F,,,R0001361,02/01/2010 08:00:00 AM +0000,02/24/2010 08:00:00 AM +0000,"Recchia, Kimberly",IND,N,498,Avenue Y,,Full,6000,RENTO,Office Rent,Rent,,N,N,"Brooklyn, NY 11223
+(40.596939623165156, -73.97331147204676)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0006167,,11/13/2007 08:00:00 AM +0000,"Redwood, Irma B",IND,N,1,Tournament Drive,,,364.06,FUNDR,Fundraising,Event refreshments,,N,,"White Plains, NY 10605
+(41.00987253349069, -73.7449758051892)"
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001489,03/01/2010 08:00:00 AM +0000,06/18/2010 07:00:00 AM +0000,Relay For Life,OTHR,Y,,,,Full,150,FUNDR,Fundraising,Support Cancer Socie,,N,N,
+2013,6,1194,UN,Taylor,Martha,,H,1,D,,,R0000552,,10/14/2008 07:00:00 AM +0000,"Renfroe, Christopher",IND,N,84-26,Wareham Pl.,,,1000,FUNDR,Fundraising,Vino Ristorante,,N,,"Jamaica, NY 11432
+(40.71311535449007, -73.79282099978928)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0001157,,07/08/2008 07:00:00 AM +0000,"Resheske, Frances A",IND,N,19,Pierrepont Street,11201,,25,FUNDR,Fundraising,Soda for Fundraiser,,N,,"Brooklyn, NY 11201
+(40.69467825879468, -73.98992086835335)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002180,06/14/2010 07:00:00 AM +0000,06/15/2010 07:00:00 AM +0000,Rib Shack,CORP,Y,157-38,Linden Blvd.,,Full,484.5,FUNDR,Fundraising,meeting,,N,N,"Queens, NY 11434
+(40.6769452621142, -73.77530690169215)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000228,06/06/2010 07:00:00 AM +0000,06/06/2010 07:00:00 AM +0000,Ridgewood Democratic Club,PCOMZ,Y,,,,Full,450,OTHER,Other: explntion,dinner tix and ad,,N,N,
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001851,,06/01/2010 07:00:00 AM +0000,"Rivera, Jennifer",IND,N,2015,St Paul Ave,,Advance,33,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,
+2013,6,361,UN,Rivera,Joel,,L,1,F,,,R0001588,,04/06/2010 07:00:00 AM +0000,"Rivera, Joel",IND,N,601,Pelham Parkway North,501,Advance,454,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Bronx, NY 10467
+(40.8770479121315, -73.87153250082423)"
+2013,6,361,UN,Rivera,Joel,,L,1,N,,,R0000213,,,"Rivera, Joel",IND,N,601,Pelham Parkway North,501,,49.92,ADVAN,Advance Repaymnt,Outstanding Advance,,N,N,"Bronx, NY 10467
+(40.8770479121315, -73.87153250082423)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0006165,,09/19/2007 07:00:00 AM +0000,"Romanelli, Candida",IND,N,300,Edward Street,4G-E,,299.12,FUNDR,Fundraising,Event Refreshments,,N,,"Roslyn Heights, NY 11577
+(40.78299056046603, -73.63663068405879)"
+2013,6,1075,UN,Dromm,Daniel,P,K,1,F,,,R0001036,06/24/2010 07:00:00 AM +0000,06/24/2010 07:00:00 AM +0000,"Ronan, Andrew",IND,N,73-12,35th Ave.,#C53,Full,1000,WAGES,Campgn Wrkrs $$,2 Mos. Treasurer Fee,,N,N,"Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003719,,03/13/2007 07:00:00 AM +0000,"Rosenthal, Jane",IND,N,1,West 72nd Street,,,2940,FUNDR,Fundraising,Event Expenses,,N,,"New York, NY 10023
+(40.774536138232236, -73.97994335610099)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000232,06/10/2010 07:00:00 AM +0000,06/10/2010 07:00:00 AM +0000,Sacred Heart of glendale,OTHR,Y,,,,Full,200,OTHER,Other: explntion,sponsor golf outing,,N,N,"Ridgewood, NY 11385
+(40.70122489161548, -73.88334858436963)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001793,02/26/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,Santa Maria Lodge,OTHR,Y,2419,Dorsey,,Full,100,OTHER,Other: explntion,journal ad,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006291,04/21/2010 07:00:00 AM +0000,04/21/2010 07:00:00 AM +0000,Savitri Lopez-Negrete,OTHR,Y,,,,Full,800,OFFCE,Office Expenses,Vector Files,,N,N,
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007457,04/30/2010 07:00:00 AM +0000,04/30/2010 07:00:00 AM +0000,"Schachter, Ben",IND,N,317,East 92nd Street,,Full,696.73,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10128
+(40.781770000585084, -73.95062814906976)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007498,05/14/2010 07:00:00 AM +0000,05/14/2010 07:00:00 AM +0000,"Schachter, Ben",IND,N,317,East 92nd Street,,Full,696.73,WAGES,Campgn Wrkrs $$,payroll,,N,N,"New York, NY 10128
+(40.781770000585084, -73.95062814906976)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007541,06/14/2010 07:00:00 AM +0000,06/14/2010 07:00:00 AM +0000,"Schachter, Ben",IND,N,317,East 92nd Street,,Full,696.73,WAGES,Campgn Wrkrs $$,payroll,,N,N,"New York, NY 10128
+(40.781770000585084, -73.95062814906976)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007569,06/29/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,"Schachter, Ben",IND,N,317,East 92nd Street,,Full,696.73,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10128
+(40.781770000585084, -73.95062814906976)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007523,05/28/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,"Schachter, Ben",IND,N,317,East 92nd Street,,Full,696.73,WAGES,Campgn Wrkrs $$,Payroll,,N,N,"New York, NY 10128
+(40.781770000585084, -73.95062814906976)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,D,,,R0002127,,06/08/2007 07:00:00 AM +0000,"Schwartz, David M",IND,N,5402,3rd Ave,,,550,FUNDR,Fundraising,Catering,,N,,"Brooklyn, NY 11220
+(40.641184928741495, -74.01676472671073)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,D,,,R0002125,,06/07/2007 07:00:00 AM +0000,"Schwartz, Leonard",IND,N,10,Falmouth St,,,550,FUNDR,Fundraising,Catering,,N,,"Brooklyn, NY 11235
+(40.57841410882412, -73.94026000009887)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,D,,,R0002126,,06/08/2007 07:00:00 AM +0000,"Schwartz, Steven P",IND,N,1,Bay Club Dr,,,550,FUNDR,Fundraising,Catering,,N,,"Queens, NY 11360
+(40.78070133439911, -73.78226733686807)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006318,05/20/2010 07:00:00 AM +0000,05/20/2010 07:00:00 AM +0000,"Scott, Jonathan",IND,N,,,,Full,23,OTHER,Other: explntion,MTA Reimbursement,,N,N,
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002176,05/20/2010 07:00:00 AM +0000,05/20/2010 07:00:00 AM +0000,"Sellers, CPA, Tyrone A",IND,N,118-20,236th street,,Full,44,POSTA,Postage,reim. for stamps,,N,N,"Cambria Heights, NY 11411
+(40.694293339066405, -73.73568329125084)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0001156,,06/19/2008 07:00:00 AM +0000,"Shanahan, Thomas",IND,N,350,West 50th Street,5W,,115,FUNDR,Fundraising,Liquor for Fundraise,,N,,"New York, NY 10019
+(40.76761164715987, -73.99180550022362)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003691,,06/21/2007 07:00:00 AM +0000,"Sherman, Lisa E",IND,N,366,Broadway,5B,,347,FUNDR,Fundraising,Event expenses,,N,,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001496,04/20/2010 07:00:00 AM +0000,06/19/2010 07:00:00 AM +0000,Shorefront Democratic Club,OTHR,Y,213,89th Street,,Full,210,FUNDR,Fundraising,Ad and ticket,,N,N,"Brooklyn, NY 11209
+(40.62338709723679, -74.03065295347096)"
+2013,1,BB,UN,Weiner,Anthony,D,J,1,F,,,R0008201,04/12/2010 07:00:00 AM +0000,04/12/2010 07:00:00 AM +0000,Signature Bank,OTHR,Y,565,5th Avenue,,Full,5577.81,OTHER,Other: explntion,Income Tax Adjstmnt,,N,N,"New York, NY 10017
+(40.75245652744684, -73.97297648087982)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003025,05/04/2010 07:00:00 AM +0000,05/04/2010 07:00:00 AM +0000,Signature Bank,CORP,Y,,,,Full,10,OTHER,Other: explntion,bank fee,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003232,05/28/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,Signature Bank,CORP,Y,,,,Full,20,OTHER,Other: explntion,bank fee,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,L,,,R0003237,05/28/2010 07:00:00 AM +0000,06/02/2010 07:00:00 AM +0000,Signature Bank,CORP,Y,,,,,-20,,,,,N,N,
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000155,,07/06/2007 07:00:00 AM +0000,"Simmons, Jeffrey A",IND,N,76-10,34th Avenue,2P,,20,FUNDR,Fundraising,Broadband Access,,N,,"Queens, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000665,,01/10/2008 08:00:00 AM +0000,"Simmons, Jeffrey A",IND,N,76-10,34th Avenue,2P,,20,FUNDR,Fundraising,Wireless Connection,,N,,"Queens, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0001154,,07/07/2008 07:00:00 AM +0000,"Simmons, Jeffrey A",IND,N,76-10,34th Avenue,2P,,42.96,FUNDR,Fundraising,Food for Fundraiser,,N,,"Queens, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0001155,,07/08/2008 07:00:00 AM +0000,"Simmons, Jeffrey A",IND,N,76-10,34th Avenue,2P,,49.82,FUNDR,Fundraising,Liquor for Fundraise,,N,,"Queens, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000099,,05/25/2007 07:00:00 AM +0000,"Simmons, Jeffrey A",IND,N,76-10,34th Avenue,2P,,560,OFFCE,Office Expenses,Computer Laptop,,N,,"Queens, NY 11372
+(40.75163073936716, -73.88361254528269)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006284,04/09/2010 07:00:00 AM +0000,04/09/2010 07:00:00 AM +0000,"Sims, Cathleen",IND,N,29 - 16,Newtown Avenue,1 - F,Full,28,OTHER,Other: explntion,Reimbursement,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006336,07/10/2010 07:00:00 AM +0000,07/10/2010 07:00:00 AM +0000,"Sims, Cathleen",IND,N,29 - 16,Newtown Avenue,1 - F,Full,41.5,OTHER,Other: explntion,Reimbursement,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006301,05/03/2010 07:00:00 AM +0000,05/03/2010 07:00:00 AM +0000,"Sims, Cathleen",IND,N,29 - 16,Newtown Avenue,1 - F,Full,55.8,OTHER,Other: explntion,Reimbursement,,N,N,"Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)"
+2013,5,1152,UN,Matteo,Steven,,H,1,F,,,R0000243,05/10/2010 07:00:00 AM +0000,05/10/2010 07:00:00 AM +0000,Sovereign Bank,CORP,Y,1,Sovereign Way,,Full,6,OTHER,Other: explntion,Bank Fee,,N,N,"East Providence, RI 02915
+(41.778098055880605, -71.35035931183273)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0007128,,01/28/2008 08:00:00 AM +0000,"Spielvogel, Carl",IND,N,720,Park Avenue,,,1303.9,FUNDR,Fundraising,Event food,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003054,04/15/2010 07:00:00 AM +0000,04/28/2010 07:00:00 AM +0000,Sprint,CORP,Y,,,,Full,593.41,OFFCE,Office Expenses,telephone,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003036,03/15/2010 07:00:00 AM +0000,03/26/2010 07:00:00 AM +0000,Sprint,CORP,Y,,,,Full,591.24,OFFCE,Office Expenses,telephone,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003172,05/15/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,Sprint,CORP,Y,,,,Full,592.95,OFFCE,Office Expenses,telephone,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003202,06/15/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,Sprint,CORP,Y,,,,Full,592.95,OFFCE,Office Expenses,telephone,,N,N,
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001796,02/26/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,St. Claires School,OTHR,Y,,Hone Avenue,,Full,45,OTHER,Other: explntion,Card party,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001824,03/31/2010 07:00:00 AM +0000,03/31/2010 07:00:00 AM +0000,St. Lucy's,OTHR,Y,830,Mace Avenue,,Full,75,OTHER,Other: explntion,journal ad,,N,N,"Bronx, NY 10467
+(40.8770479121315, -73.87153250082423)"
+2013,4,214,UN,Oddo,James,S,N,1,F,,,R0001998,02/11/2010 08:00:00 AM +0000,02/11/2010 08:00:00 AM +0000,Staples,CORP,Y,1885,Hylan Boulevard,,Full,94,OTHER,Other: explntion,supplies,,N,N,"Staten Island, NY 10305
+(40.596184688172855, -74.07507238488262)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007550,06/17/2010 07:00:00 AM +0000,06/21/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,212.68,OFFCE,Office Expenses,office supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007552,06/23/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,9.79,OFFCE,Office Expenses,office supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007461,05/03/2010 07:00:00 AM +0000,05/03/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,191.02,OFFCE,Office Expenses,Office Supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007471,05/03/2010 07:00:00 AM +0000,05/05/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,23.84,OFFCE,Office Expenses,Office Supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007519,05/28/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,147.29,OFFCE,Office Expenses,Office supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007890,06/29/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,402.03,OFFCE,Office Expenses,Office Supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007557,06/24/2010 07:00:00 AM +0000,06/24/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,153.5,OFFCE,Office Expenses,Office Supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007908,06/03/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,1.52,OFFCE,Office Expenses,supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007910,06/11/2010 07:00:00 AM +0000,06/14/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,94.44,OFFCE,Office Expenses,supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007932,05/24/2010 07:00:00 AM +0000,05/25/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,139.99,OFFCE,Office Expenses,Office supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007428,04/13/2010 07:00:00 AM +0000,04/15/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,169.56,OFFCE,Office Expenses,Office Supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003317,05/12/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,Staples,CORP,Y,,,,Full,9.79,OFFCE,Office Expenses,supplies,,N,N,
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000235,06/28/2010 07:00:00 AM +0000,06/28/2010 07:00:00 AM +0000,Staples,CORP,Y,,,,Full,576,OFFCE,Office Expenses,computer,,N,N,
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007487,05/06/2010 07:00:00 AM +0000,05/10/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,21.75,OFFCE,Office Expenses,Office Supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007494,05/12/2010 07:00:00 AM +0000,05/14/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,216.64,OFFCE,Office Expenses,office supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007500,05/19/2010 07:00:00 AM +0000,05/19/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,122.28,OFFCE,Office Expenses,office supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007509,05/25/2010 07:00:00 AM +0000,05/27/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,87.09,OFFCE,Office Expenses,office supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007478,05/05/2010 07:00:00 AM +0000,05/06/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,68.83,OFFCE,Office Expenses,Office Supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007440,04/19/2010 07:00:00 AM +0000,04/20/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,Full,61.6,OFFCE,Office Expenses,office supplies,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006247,06/23/2010 07:00:00 AM +0000,06/23/2010 07:00:00 AM +0000,Staples,CORP,Y,3819,21st Street,,Full,38.91,OFFCE,Office Expenses,Office Supplies,,N,N,"Queens, NY 11101
+(40.74570244980828, -73.93866902925225)"
+2013,6,148,UN,Stringer,Scott,M,M,1,L,,,R0007488,05/06/2010 07:00:00 AM +0000,05/10/2010 07:00:00 AM +0000,Staples,CORP,Y,217,Broadway,,,-21.75,,,,,N,N,"New York, NY 10007
+(40.71363051943297, -74.00913138370635)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007887,07/09/2010 07:00:00 AM +0000,07/09/2010 07:00:00 AM +0000,Staples - Online,CORP,Y,100,Hadden Drive,,Full,39.15,OFFCE,Office Expenses,Office Supplies,,N,N,"Montgomery, NY 12549
+(41.527065070796425, -74.2492299841764)"
+2013,5,1335,UN,Weprin,Mark,S,L,1,F,,,R0000728,05/28/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,State Bank of long Island,CORP,Y,699,Hillside Avenue,,Full,20,OTHER,Other: explntion,Bank Service Charge,,N,N,"New Hyde Park, NY 11040
+(40.74529996182383, -73.6796319322678)"
+2013,5,1335,UN,Weprin,Mark,S,L,1,F,,,R0000730,06/30/2010 07:00:00 AM +0000,06/30/2010 07:00:00 AM +0000,State Bank of long Island,CORP,Y,699,Hillside Avenue,,Full,20,OTHER,Other: explntion,Bank Service Charge,,N,N,"New Hyde Park, NY 11040
+(40.74529996182383, -73.6796319322678)"
+2013,5,1335,UN,Weprin,Mark,S,L,1,L,,,R0000733,05/28/2010 07:00:00 AM +0000,06/24/2010 07:00:00 AM +0000,State Bank of long Island,CORP,Y,699,Hillside Avenue,,,-20,,,,,N,N,"New Hyde Park, NY 11040
+(40.74529996182383, -73.6796319322678)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001855,06/01/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,Stonewall Democratic Club,OTHR,Y,,PO Box 514 Old Chelsea Station,,Full,200,OTHER,Other: explntion,dinner ticket,,N,N,"New York, NY 10113
+(40.741242999564804, -73.99834000029074)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0008169,01/14/2010 08:00:00 AM +0000,01/14/2010 08:00:00 AM +0000,Stringer 2009,PCOMC,Y,40,worth street,,Full,1600,OTHER,Other: explntion,reverse transfer,,N,Y,"New York, NY 10013
+(40.721242188776046, -74.00888900022716)"
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001499,05/12/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,SWB Parks Task Force,OTHR,Y,9728,3rd Ave,,Full,250,FUNDR,Fundraising,Support local Parks,,N,N,"Brooklyn, NY 11209
+(40.62338709723679, -74.03065295347096)"
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001482,02/28/2010 08:00:00 AM +0000,03/22/2010 07:00:00 AM +0000,T Mobile,OTHR,Y,,PO Box 2400,,Full,79.03,OFFCE,Office Expenses,Campaign cell phone,,N,N,"Young America, MN 55553
+(44.78355400021701, -93.91199100008453)"
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001484,03/27/2010 07:00:00 AM +0000,04/26/2010 07:00:00 AM +0000,T Mobile,OTHR,Y,,PO Box 2400,,Full,79.35,OTHER,Other: explntion,Campaign cell phone,,N,N,"Young America, MN 55553
+(44.78355400021701, -93.91199100008453)"
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001486,04/28/2010 07:00:00 AM +0000,05/23/2010 07:00:00 AM +0000,T Mobile,OTHR,Y,,PO Box 2400,,Full,81.47,OTHER,Other: explntion,Campaign cell phone,,N,N,"Young America, MN 55553
+(44.78355400021701, -93.91199100008453)"
+2013,6,717,UN,Gentile,Vincent,J,P,1,F,,,R0001491,05/28/2010 07:00:00 AM +0000,06/19/2010 07:00:00 AM +0000,T Mobile,OTHR,Y,,PO Box 2400,,Full,79.35,OTHER,Other: explntion,Campaign cell phone,,N,N,"Young America, MN 55553
+(44.78355400021701, -93.91199100008453)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000664,,01/03/2008 08:00:00 AM +0000,"Talbot, Scott",IND,N,332,East 66th Street,,,100,FUNDR,Fundraising,Invite Design/Copies,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000666,,10/22/2007 07:00:00 AM +0000,"Talbot, Scott",IND,N,332,East 66th Street,,,75,FUNDR,Fundraising,Invite Design,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000406,,10/22/2007 07:00:00 AM +0000,"Talbot, Scott",IND,N,332,East 66th Street,,,75,FUNDR,Fundraising,Email Invite Design,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000408,,08/28/2007 07:00:00 AM +0000,"Talbot, Scott",IND,N,332,East 66th Street,,,50,FUNDR,Fundraising,Email Invite Design,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0000154,,06/22/2007 07:00:00 AM +0000,"Talbot, Scott",IND,N,332,East 66th Street,,,150,FUNDR,Fundraising,Email Invite Design,,N,,"New York, NY 10021
+(40.76920532766377, -73.959183941086)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006273,05/28/2010 07:00:00 AM +0000,05/28/2010 07:00:00 AM +0000,TD BANK,CORP,Y,3104,Ditmars Blvd,,Full,54,OTHER,Other: explntion,Bank Fee Dep Item ov,,N,N,"Astoria, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006175,05/26/2010 07:00:00 AM +0000,05/26/2010 07:00:00 AM +0000,TD BANK,CORP,Y,3104,Ditmars Blvd,,Full,15,OTHER,Other: explntion,Return Dep Item Fee,,N,N,"Astoria, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005517,03/13/2010 08:00:00 AM +0000,03/13/2010 08:00:00 AM +0000,TD Bank Taxes,OTHR,Y,,,,Full,529.21,OTHER,Other: explntion,Taxes,,N,N,
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001846,06/01/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,Temple Bethel of City Island,CORP,Y,480,City Island Avenue,,Full,375,OTHER,Other: explntion,dinner tickets,,N,N,"Bronx, NY 10464
+(40.875709096797436, -73.81229725041771)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003031,02/12/2010 08:00:00 AM +0000,03/19/2010 07:00:00 AM +0000,The Advance Group,CORP,Y,481,Eighth Avenue,1202,Part,3000,CONSL,Campgn Consuls.,consultant,,N,N,"New York, NY 10001
+(40.75025902143676, -73.99688630375988)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003032,02/12/2010 08:00:00 AM +0000,03/26/2010 07:00:00 AM +0000,The Advance Group,CORP,Y,481,Eighth Avenue,1202,Part,4000,CONSL,Campgn Consuls.,consultant,,N,N,"New York, NY 10001
+(40.75025902143676, -73.99688630375988)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003033,02/12/2010 08:00:00 AM +0000,04/08/2010 07:00:00 AM +0000,The Advance Group,CORP,Y,481,Eighth Avenue,1202,Part,3000,CONSL,Campgn Consuls.,consultant,,N,N,"New York, NY 10001
+(40.75025902143676, -73.99688630375988)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003034,02/12/2010 08:00:00 AM +0000,04/15/2010 07:00:00 AM +0000,The Advance Group,CORP,Y,481,Eighth Avenue,1202,Final,2500,CONSL,Campgn Consuls.,consultant,,N,N,"New York, NY 10001
+(40.75025902143676, -73.99688630375988)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000206,04/14/2010 07:00:00 AM +0000,04/14/2010 07:00:00 AM +0000,The Bravest Football Club,EMPO,Y,,,,Full,150,OTHER,Other: explntion,journal ad,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005520,03/16/2010 07:00:00 AM +0000,03/16/2010 07:00:00 AM +0000,The Ch. Santora Educ. Scholars,OTHR,Y,,,,Full,299.9,OTHER,Other: explntion,Books,,N,N,
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007861,06/01/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,The Coffee Shop,CORP,Y,29,Union Square West,,Full,13,FUNDR,Fundraising,meeting,,N,N,"New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002166,02/01/2010 08:00:00 AM +0000,04/20/2010 07:00:00 AM +0000,The Cratos Group,CORP,Y,10,Stuyvesant Avenue,,Full,1500,CONSL,Campgn Consuls.,CONSULTING FEE,,N,N,"Lyndhurst, NJ 07071
+(40.81017973780473, -74.12560775029738)"
+2013,6,420,UN,Comrie,Leroy,G,M,1,F,,,R0002168,05/01/2010 07:00:00 AM +0000,05/03/2010 07:00:00 AM +0000,The Cratos Group,CORP,Y,10,Stuyvesant Avenue,,Full,970,CONSL,Campgn Consuls.,monthly consulting,,N,N,"Lyndhurst, NJ 07071
+(40.81017973780473, -74.12560775029738)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000222,03/17/2010 07:00:00 AM +0000,05/26/2010 07:00:00 AM +0000,The Mayo Association,OTHR,Y,,,,Full,100,OTHER,Other: explntion,journal ad,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006297,03/31/2010 07:00:00 AM +0000,04/28/2010 07:00:00 AM +0000,The National Herald Inc,CORP,Y,41-17,Crescent Street,,Full,270,PRINT,Print Ads,Print Ads,,N,N,"Queens, NY 11101
+(40.74570244980828, -73.93866902925225)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006266,03/23/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,The National Herald Inc,CORP,Y,41-17,Crescent Street,,Full,270,PRINT,Print Ads,Print ad,,N,N,"Queens, NY 11101
+(40.74570244980828, -73.93866902925225)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006362,02/09/2010 08:00:00 AM +0000,02/19/2010 08:00:00 AM +0000,The NYPD CPSA #9,OTHR,Y,,,,Full,500,OTHER,Other: explntion,Other,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006262,03/24/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,The Service,CORP,Y,42-16,34 Ave,,Full,155,PRINT,Print Ads,Print add,,N,N,"Queens, NY 11101
+(40.74570244980828, -73.93866902925225)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006277,03/31/2010 07:00:00 AM +0000,04/13/2010 07:00:00 AM +0000,The Service,CORP,Y,42-16,34 Ave,,Full,155,PRINT,Print Ads,Print Ad,,N,N,"Queens, NY 11101
+(40.74570244980828, -73.93866902925225)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001800,02/26/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,The Throggs Neck Parade Commit,OTHR,Y,,P.O. Box 849 Throggs Neck Statio,,Full,1000,OTHER,Other: explntion,journal ad,,N,N,"Bronx, NY 10465
+(40.827628067581315, -73.82241314135337)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001802,02/26/2010 08:00:00 AM +0000,02/26/2010 08:00:00 AM +0000,The Throggs Neck Parade Commit,OTHR,Y,,P.O. Box 849 Throggs Neck Statio,,Full,300,OTHER,Other: explntion,journal ad,,N,N,"Bronx, NY 10465
+(40.827628067581315, -73.82241314135337)"
+2013,6,148,UN,Stringer,Scott,M,M,1,N,,,R0007912,,06/23/2010 07:00:00 AM +0000,The University Club,CORP,Y,1,West 54th Street,,,1728.98,FUNDR,Fundraising,Fundraising event,,N,N,"New York, NY 10019
+(40.76761164715987, -73.99180550022362)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000273,06/24/2010 07:00:00 AM +0000,06/29/2010 07:00:00 AM +0000,The Woodhaven house,CORP,Y,63-98,Woodhaven Blvd,,Full,140,OTHER,Other: explntion,"hole sponsor, golf",,N,N,"Rego Park, NY 11374
+(40.72646491702238, -73.86148084756303)"
+2013,5,421,UN,Gotlieb,Brian,L,I,1,F,,,R0000941,02/21/2010 08:00:00 AM +0000,02/21/2010 08:00:00 AM +0000,Thomas Jefferson Dem Club,OTHR,Y,77,Conklin Avenue,,Full,15,OTHER,Other: explntion,Dues,,N,N,"Brooklyn, NY 11236
+(40.64002149379695, -73.90112193992553)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001821,03/31/2010 07:00:00 AM +0000,03/31/2010 07:00:00 AM +0000,Throgs Neck Little League,OTHR,Y,2465,Tratman Avenue,5F,Full,100,OTHER,Other: explntion,journal ad,,N,N,"Bronx, NY 10461
+(40.846960590359004, -73.840632836736)"
+2013,6,148,UN,Stringer,Scott,M,M,1,D,,,R0007979,,05/19/2010 07:00:00 AM +0000,"Tishman, Daniel",IND,N,,,,,398.34,FUNDR,Fundraising,fundraising,,N,,"Bedford, NY 10506
+(41.18955494420538, -73.63537549038654)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003040,04/01/2010 07:00:00 AM +0000,04/12/2010 07:00:00 AM +0000,Tosca Marquee,CORP,Y,4034,East Tremont Avenue,,Full,500,FUNDR,Fundraising,catering,,N,N,"Bronx, NY 10465
+(40.827628067581315, -73.82241314135337)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003049,04/28/2010 07:00:00 AM +0000,04/28/2010 07:00:00 AM +0000,Tosca Marquee,CORP,Y,4034,East Tremont Avenue,,Full,7489,FUNDR,Fundraising,catering,,N,N,"Bronx, NY 10465
+(40.827628067581315, -73.82241314135337)"
+2013,6,326,UN,de Blasio,Bill,,N,1,F,,,R0005271,05/17/2010 07:00:00 AM +0000,05/17/2010 07:00:00 AM +0000,Trade Media Partners LLC,LLC,Y,,,,Full,3344.22,PROFL,Prof. Srvcs.,printing and postage,,N,N,
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003394,,06/06/2007 07:00:00 AM +0000,"Trinkle, William F",IND,N,252,7th Avenue,18C,,1000,FUNDR,Fundraising,House party expenses,,N,,"New York, NY 10001
+(40.75025902143676, -73.99688630375988)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003071,02/08/2010 08:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,TV Studio Inc.,CORP,Y,1,East 28th Street,6th Fl,Full,540,OTHER,Other: explntion,rental,,N,N,"New York, NY 10010
+(40.73914078212147, -73.98289845639863)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003073,02/16/2010 08:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,TV Studio Inc.,CORP,Y,1,East 28th Street,6th Fl,Full,450,OTHER,Other: explntion,rental,,N,N,"New York, NY 10010
+(40.73914078212147, -73.98289845639863)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003075,02/22/2010 08:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,TV Studio Inc.,CORP,Y,1,East 28th Street,6th Fl,Full,540,OTHER,Other: explntion,rental,,N,N,"New York, NY 10010
+(40.73914078212147, -73.98289845639863)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003077,02/24/2010 08:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,TV Studio Inc.,CORP,Y,1,East 28th Street,6th Fl,Full,540,OTHER,Other: explntion,rental,,N,N,"New York, NY 10010
+(40.73914078212147, -73.98289845639863)"
+2013,5,1093,UN,Dobrin,Todd,A,H,1,F,,,R0001030,03/16/2010 07:00:00 AM +0000,03/16/2010 07:00:00 AM +0000,twopooches,CORP,Y,,,,Full,79.5,PROFL,Prof. Srvcs.,web site,,N,N,
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003393,,05/14/2007 07:00:00 AM +0000,UNITE HERE TIP State & Local E,PCOMP,Y,275,Seventh Avenue,,,350,FUNDR,Fundraising,Event space,,N,,"New York, NY 10001
+(40.75025902143676, -73.99688630375988)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006357,06/04/2010 07:00:00 AM +0000,06/04/2010 07:00:00 AM +0000,United Community Civic Assoc,CORP,Y,22-32,81st Street,,Full,40,OTHER,Other: explntion,Community Event,,N,N,"Jackson Heights, NY 11370
+(40.75935377085989, -73.89184400040028)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007920,03/01/2010 08:00:00 AM +0000,03/09/2010 08:00:00 AM +0000,United States Post Office,OTHR,Y,,Old Chelsea Station,,Full,72,OFFCE,Office Expenses,PO Box,,N,N,"New York, NY 10011
+(40.74471526669623, -74.00460000028977)"
+2013,5,421,UN,Gotlieb,Brian,L,I,1,F,,,R0000953,03/23/2010 07:00:00 AM +0000,03/23/2010 07:00:00 AM +0000,United States Postal Service,CORP,Y,,Murray Hill Station,,Full,11.08,POSTA,Postage,Mail to CFB & BOE,,N,N,"New York, NY 10016
+(40.745242969987146, -73.97823298586354)"
+2013,5,1183,UN,Simmons-Oliver,Cheryl,,H,1,F,,,R0000526,07/02/2010 07:00:00 AM +0000,07/02/2010 07:00:00 AM +0000,US POSTAL SERVC,OTHR,Y,,KINDERKAMACK ROAD,,Full,33,CMAIL,Campgn Mlngs,POSTAGE,,N,N,"EMERSON, NJ 07630
+(40.97592565334628, -74.02870100015099)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003089,04/08/2010 07:00:00 AM +0000,04/29/2010 07:00:00 AM +0000,USPS,OTHR,Y,,,,Full,221,POSTA,Postage,postage,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003307,05/03/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,USPS,OTHR,Y,,,,Full,4.9,POSTA,Postage,postage,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003309,04/22/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,USPS,OTHR,Y,,,,Full,4.75,POSTA,Postage,postage,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003311,04/30/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,USPS,OTHR,Y,,,,Full,1.39,POSTA,Postage,postage,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003300,04/26/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,USPS,OTHR,Y,,,,Full,4.9,POSTA,Postage,postage,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003321,05/14/2010 07:00:00 AM +0000,05/14/2010 07:00:00 AM +0000,USPS,OTHR,Y,,,,Full,2.77,POSTA,Postage,postage,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003315,05/07/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,USPS,OTHR,Y,,,,Full,74.5,POSTA,Postage,postage,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003293,04/16/2010 07:00:00 AM +0000,05/21/2010 07:00:00 AM +0000,USPS,OTHR,Y,,,,Full,44,POSTA,Postage,postage,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006346,05/01/2010 07:00:00 AM +0000,05/01/2010 07:00:00 AM +0000,Vallone & Vallone,CORP,Y,22-45,31st Street,,Full,500,RENTO,Office Rent,May 10,,N,N,"Astoria, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006348,06/01/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,Vallone & Vallone,CORP,Y,22-45,31st Street,,Full,500,RENTO,Office Rent,June 10,,N,N,"Astoria, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006350,07/01/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,Vallone & Vallone,CORP,Y,22-45,31st Street,,Full,500,RENTO,Office Rent,July 10,,N,N,"Astoria, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006271,04/01/2010 07:00:00 AM +0000,04/05/2010 07:00:00 AM +0000,Vallone & Vallone,CORP,Y,22-45,31st Street,,Full,500,RENTO,Office Rent,April Rent,,N,N,"Astoria, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006259,03/01/2010 08:00:00 AM +0000,03/01/2010 08:00:00 AM +0000,Vallone & Vallone,CORP,Y,22-45,31st Street,,Full,500,RENTO,Office Rent,March 2010,,N,N,"Astoria, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005507,02/01/2010 08:00:00 AM +0000,02/01/2010 08:00:00 AM +0000,Vallone & Vallone,CORP,Y,22-45,31st Street,,Full,500,OFFCE,Office Expenses,Office Rent,,N,N,"Astoria, NY 11105
+(40.780092072491186, -73.90960650023976)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007876,04/25/2010 07:00:00 AM +0000,04/29/2010 07:00:00 AM +0000,Verizon,OTHR,Y,,PO Box 15124,,Full,272.5,OFFCE,Office Expenses,communications,,N,N,"Albany, NY 12212
+(42.7283309999757, -73.85057300014381)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007897,04/25/2010 07:00:00 AM +0000,05/25/2010 07:00:00 AM +0000,Verizon,OTHR,Y,,PO Box 15124,,Full,274.3,OFFCE,Office Expenses,communications,,N,N,"Albany, NY 12212
+(42.7283309999757, -73.85057300014381)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007901,01/25/2010 08:00:00 AM +0000,02/07/2010 08:00:00 AM +0000,Verizon,OTHR,Y,,PO Box 15124,,Full,419.87,OFFCE,Office Expenses,communications,,N,N,"Albany, NY 12212
+(42.7283309999757, -73.85057300014381)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007981,07/01/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,Verizon,OTHR,Y,,PO Box 15124,,Full,653.84,OFFCE,Office Expenses,Communications,,N,N,"Albany, NY 12212
+(42.7283309999757, -73.85057300014381)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003085,02/28/2010 08:00:00 AM +0000,04/29/2010 07:00:00 AM +0000,Verizon,CORP,Y,,,,Full,263.43,OFFCE,Office Expenses,telephone,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003091,03/28/2010 07:00:00 AM +0000,04/27/2010 07:00:00 AM +0000,Verizon,CORP,Y,,,,Full,197.4,OFFCE,Office Expenses,telephone,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003093,04/28/2010 07:00:00 AM +0000,05/26/2010 07:00:00 AM +0000,Verizon,CORP,Y,,,,Full,200.59,OFFCE,Office Expenses,telephone,,N,N,
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003235,05/28/2010 07:00:00 AM +0000,06/25/2010 07:00:00 AM +0000,Verizon,CORP,Y,,,,Full,159.39,OFFCE,Office Expenses,telephone,,N,N,
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007397,02/25/2010 08:00:00 AM +0000,03/18/2010 07:00:00 AM +0000,Verizon,OTHR,Y,,PO Box 15124,,Full,45.92,OFFCE,Office Expenses,Communications,,N,N,"Albany, NY 12212
+(42.7283309999757, -73.85057300014381)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001782,02/08/2010 08:00:00 AM +0000,02/17/2010 08:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,237.8,OFFCE,Office Expenses,Cell phone,,N,N,"Tuscon, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,LW,UN,Recchia,Domenic,M,K,1,F,,,R0001363,03/08/2010 08:00:00 AM +0000,03/08/2010 08:00:00 AM +0000,Verizon Wireless,CORP,Y,180,Washington Valley Rd,,Full,62.86,OFFCE,Office Expenses,Wireless Phone,,N,N,"Bedminster, NJ 07921
+(40.65373881969083, -74.67565724428636)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001858,05/08/2010 07:00:00 AM +0000,06/03/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,109.51,OFFCE,Office Expenses,cell phone,,N,N,"Tuscon, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001860,06/08/2010 07:00:00 AM +0000,07/08/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,109.51,OFFCE,Office Expenses,cell phone,,N,N,"Tuscon, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006307,01/25/2010 08:00:00 AM +0000,05/11/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,233.08,OFFCE,Office Expenses,Office Phone,,N,N,"Tuscon, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006309,02/25/2010 08:00:00 AM +0000,05/11/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,237.14,OFFCE,Office Expenses,Office Phone,,N,N,"Tuscon, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006311,03/25/2010 07:00:00 AM +0000,05/11/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,254.04,OFFCE,Office Expenses,Office Phone,,N,N,"Tuscon, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006313,04/25/2010 07:00:00 AM +0000,05/11/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,260.2,OFFCE,Office Expenses,Office Phone,,N,N,"Tuscon, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006338,06/25/2010 07:00:00 AM +0000,07/10/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,247.57,OFFCE,Office Expenses,Office Phone,,N,N,"Tuscon, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006330,05/25/2010 07:00:00 AM +0000,06/20/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,251.36,OFFCE,Office Expenses,Office Rent,,N,N,"Tuscon, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,148,UN,Stringer,Scott,M,M,1,F,,,R0007849,04/29/2010 07:00:00 AM +0000,05/03/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,2268,Broadway,,Full,685.88,OFFCE,Office Expenses,Communications,,N,N,"New York, NY 10024
+(40.78362556816552, -73.96653900057436)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007922,03/12/2010 08:00:00 AM +0000,03/29/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,583.01,OFFCE,Office Expenses,Blackberries,,N,N,"Tucson, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007943,06/12/2010 07:00:00 AM +0000,07/07/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,336.72,OFFCE,Office Expenses,Blackberries,,N,N,"Tucson, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007937,04/12/2010 07:00:00 AM +0000,05/07/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,181.1,OFFCE,Office Expenses,Blackberries,,N,N,"Tucson, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007939,05/12/2010 07:00:00 AM +0000,06/18/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,182.47,OFFCE,Office Expenses,Blackberries,,N,N,"Tucson, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,4,214,UN,Oddo,James,S,N,1,F,,,R0002005,05/16/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,P.O. Box 489,,Full,291,OTHER,Other: explntion,cell phone,,N,N,"Newark, NJ 07101
+(40.73095700006553, -74.17379900042351)"
+2013,4,214,UN,Oddo,James,S,N,1,F,,,R0002010,06/16/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,P.O. Box 489,,Full,49,OTHER,Other: explntion,cell phone,,N,N,"Newark, NJ 07101
+(40.73095700006553, -74.17379900042351)"
+2013,4,214,UN,Oddo,James,S,N,1,F,,,R0002022,03/16/2010 07:00:00 AM +0000,03/29/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,P.O. Box 489,,Full,305,OTHER,Other: explntion,cell phone bill,,N,N,"Newark, NJ 07101
+(40.73095700006553, -74.17379900042351)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001828,04/08/2010 07:00:00 AM +0000,04/17/2010 07:00:00 AM +0000,Verizon Wireless,CORP,Y,,PO Box 17120,,Full,232.46,OTHER,Other: explntion,cell phone,,N,N,"Tuscon, AZ 85731
+(32.20777300012389, -110.8237430001393)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005510,01/26/2010 08:00:00 AM +0000,02/18/2010 08:00:00 AM +0000,Verizon Wireless 2,OTHR,Y,,,,Full,122.22,OFFCE,Office Expenses,Cell Phone,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0005522,02/26/2010 08:00:00 AM +0000,03/19/2010 07:00:00 AM +0000,Verizon Wireless 2,OTHR,Y,,,,Full,126.93,OFFCE,Office Expenses,Cell Phone,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006359,03/26/2010 07:00:00 AM +0000,04/13/2010 07:00:00 AM +0000,Verizon Wireless 2,OTHR,Y,,,,Full,122.22,OFFCE,Office Expenses,Cell Phone,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006305,05/01/2010 07:00:00 AM +0000,05/11/2010 07:00:00 AM +0000,Verizon Wireless 2,OTHR,Y,,,,Full,207.79,OFFCE,Office Expenses,Cell Phone,,N,N,
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006327,06/01/2010 07:00:00 AM +0000,06/21/2010 07:00:00 AM +0000,Verizon Wireless 2,OTHR,Y,,,,Full,123.38,OFFCE,Office Expenses,Cell Phone,,N,N,
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003820,,06/05/2007 07:00:00 AM +0000,"Vernon, Lillian",IND,N,2,Beekman Place,,,110,FUNDR,Fundraising,House party expenses,,N,,"New York, NY 10022
+(40.758630224005685, -73.96809182217982)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003038,04/01/2010 07:00:00 AM +0000,04/01/2010 07:00:00 AM +0000,Victor Daly Rivera P.C.,CORP,Y,840,Grand Concourse,,Full,900,RENTO,Office Rent,rent,,N,N,"Bronx, NY 10451
+(40.82069640711353, -73.92384136798472)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003056,05/01/2010 07:00:00 AM +0000,05/01/2010 07:00:00 AM +0000,Victor Daly Rivera P.C.,CORP,Y,840,Grand Concourse,,Full,900,RENTO,Office Rent,rent,,N,N,"Bronx, NY 10451
+(40.82069640711353, -73.92384136798472)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003170,06/01/2010 07:00:00 AM +0000,06/01/2010 07:00:00 AM +0000,Victor Daly Rivera P.C.,CORP,Y,840,Grand Concourse,,Full,900,RENTO,Office Rent,rent,,N,N,"Bronx, NY 10451
+(40.82069640711353, -73.92384136798472)"
+2013,6,1160,UN,"Diaz, Jr.",Ruben,,L,1,F,,,R0003206,07/01/2010 07:00:00 AM +0000,07/01/2010 07:00:00 AM +0000,Victor Daly Rivera P.C.,CORP,Y,840,Grand Concourse,,Full,900,RENTO,Office Rent,rent,,N,N,"Bronx, NY 10451
+(40.82069640711353, -73.92384136798472)"
+2013,6,821,UN,Vacca,James,,J,1,F,,,R0001837,03/11/2010 08:00:00 AM +0000,04/26/2010 07:00:00 AM +0000,Villa Barone Manor,CORP,Y,737,Throgs Neck Expressway,,Full,5988,OTHER,Other: explntion,fundraiser,,N,N,"Bronx, NY 10465
+(40.827628067581315, -73.82241314135337)"
+2013,6,240,UN,"Vallone, Jr.",Peter,F,L,1,F,,,R0006228,03/25/2010 07:00:00 AM +0000,03/25/2010 07:00:00 AM +0000,Vista Print Com,OTHR,Y,,,,Full,37.14,OFFCE,Office Expenses,Stamps,,N,N,
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007945,04/01/2010 07:00:00 AM +0000,07/07/2010 07:00:00 AM +0000,VShift,CORP,Y,895,Broadway,5th,Full,2463.48,OFFCE,Office Expenses,Website management,,N,N,"New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007925,01/01/2010 08:00:00 AM +0000,03/29/2010 07:00:00 AM +0000,VShift,CORP,Y,895,Broadway,5th,Full,600,OFFCE,Office Expenses,Web site management,,N,N,"New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007927,02/01/2010 08:00:00 AM +0000,03/29/2010 07:00:00 AM +0000,VShift,CORP,Y,895,Broadway,5th,Full,600,OFFCE,Office Expenses,Website management,,N,N,"New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+2013,6,204,UN,Quinn,Christine,C,M,1,F,,,R0007929,03/01/2010 08:00:00 AM +0000,03/29/2010 07:00:00 AM +0000,VShift,CORP,Y,895,Broadway,5th,Full,600,OFFCE,Office Expenses,Website management,,N,N,"New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+2013,6,148,UN,Stringer,Scott,M,M,1,D,,,R0007967,,05/19/2010 07:00:00 AM +0000,"Wallace, Edward C",IND,N,905,West End Avenue,,,76.2,FUNDR,Fundraising,Fundraising,,N,,"New York, NY 10025
+(40.79685012763133, -73.96372581059762)"
+2013,6,148,UN,Stringer,Scott,M,M,1,D,,,R0007969,,05/17/2010 07:00:00 AM +0000,"Wallace, Edward C",IND,N,905,West End Avenue,,,200,FUNDR,Fundraising,fundraising,,N,,"New York, NY 10025
+(40.79685012763133, -73.96372581059762)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0005489,,01/09/2008 08:00:00 AM +0000,"Wallace, W. Kirk",IND,N,622,Greenwich Street,2C,,1148.46,FUNDR,Fundraising,Event refreshments,,N,,"New York, NY 10014
+(40.73358645135369, -74.01019960472792)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003352,,06/19/2007 07:00:00 AM +0000,"Washburn, Annie",IND,N,440,West 24th Street,,,79,FUNDR,Fundraising,Food for Pride Event,,N,,"New York, NY 10011
+(40.74471526669623, -74.00460000028977)"
+2013,6,1092,UN,Quiroz,Alfonso,,H,1,D,,,R0001557,,01/06/2009 08:00:00 AM +0000,"Weissman, Seth J",IND,N,121,East 23rd Street,6D,,102.47,FUNDR,Fundraising,wine for fundraiser,,N,,"New York, NY 10010
+(40.73914078212147, -73.98289845639863)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0006951,,06/19/2007 07:00:00 AM +0000,"White, Lea",IND,N,180-04,64th Avenue,,,247.71,FUNDR,Fundraising,Madden event,,N,,"Fresh Meadows, NY 11365
+(40.73987184371066, -73.79462153515567)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003715,,05/10/2007 07:00:00 AM +0000,"Whitman, Bernard",IND,N,219,West 14th Street,,,245,FUNDR,Fundraising,House party,,N,,"New York, NY 10011
+(40.74471526669623, -74.00460000028977)"
+2013,6,LW,UN,Recchia,Domenic,M,K,1,F,,,R0001359,02/05/2010 08:00:00 AM +0000,02/17/2010 08:00:00 AM +0000,"Wilen, Marianna",IND,N,1736,Madison Place,,Full,10000,WAGES,Campgn Wrkrs $$,Worker,,N,N,"Brooklyn, NY 11229
+(40.60123350732056, -73.94436854117521)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003385,,03/01/2007 08:00:00 AM +0000,"Williams, Sarah",IND,N,474,14th Street,,,619,FUNDR,Fundraising,House party expenses,,N,,"Brooklyn, NY 11215
+(40.665557251366124, -73.97968153557434)"
+2013,5,1335,UN,Weprin,Mark,S,L,1,F,,,R0000723,,07/10/2010 07:00:00 AM +0000,"Wimpfheimer, Ruth L",IND,N,26446,73rd Avenue,,Advance,352,ADVAN,Advance Repaymnt,Advance Repayment,,N,N,"Glen Oaks, NY 11004
+(40.74323783435864, -73.71201500019208)"
+2013,6,204,UN,Quinn,Christine,C,M,1,D,,,R0003387,,03/14/2007 07:00:00 AM +0000,"Wong, B D",IND,N,200,Park Avenue South,,,988,FUNDR,Fundraising,House party expenses,,N,,"New York, NY 10003
+(40.73194394755518, -73.98887214913032)"
+2013,6,530,UN,Crowley,Elizabeth,S,N,1,F,,,R0000211,04/16/2010 07:00:00 AM +0000,04/16/2010 07:00:00 AM +0000,Woodheights Democratic Club,PCOMZ,Y,,,,Full,150,CNTRB,Polit Contribs.,2 tickets,,N,N,
